@@ -1,0 +1,289 @@
+period,question_id,intent,engine,brand,is_primary,runs,named,named_rate,named_ci_low,named_ci_high,cited,cited_rate,cited_ci_low,cited_ci_high,named_and_cited,named_not_cited,cited_not_named,cited_not_named_other_brand_named,absent,mean_position,thin_cell
+2026-09,ACC01,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,3,1.0,0.4385,1.0,1,0,2,1,0,3.0,0
+2026-09,ACC01,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC01,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC01,vendor selection,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.5,0
+2026-09,ACC01,vendor selection,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-09,ACC01,vendor selection,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC01,vendor selection,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-09,ACC01,vendor selection,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,2.0,0
+2026-09,ACC01,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.5,0
+2026-09,ACC01,vendor selection,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC01,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-09,ACC01,vendor selection,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-09,ACC02,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC02,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.5,0
+2026-09,ACC02,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.5,0
+2026-09,ACC02,vendor selection,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-09,ACC02,vendor selection,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-09,ACC02,vendor selection,copilot,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC02,vendor selection,copilot,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.33,0
+2026-09,ACC02,vendor selection,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.33,0
+2026-09,ACC02,vendor selection,perplexity,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,2,0.6667,0.2077,0.9385,1,0,1,1,1,2.0,0
+2026-09,ACC02,vendor selection,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC02,vendor selection,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,1.67,0
+2026-09,ACC02,vendor selection,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-09,ACC03,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,2,0.6667,0.2077,0.9385,1,0,1,1,1,2.0,0
+2026-09,ACC03,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC03,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC03,vendor selection,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-09,ACC03,vendor selection,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,2,0.6667,0.2077,0.9385,1,0,1,1,1,1.0,0
+2026-09,ACC03,vendor selection,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-09,ACC03,vendor selection,copilot,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.0,0
+2026-09,ACC03,vendor selection,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,3.0,0
+2026-09,ACC03,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-09,ACC03,vendor selection,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-09,ACC03,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-09,ACC03,vendor selection,perplexity,Northside Numbers,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC04,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-09,ACC04,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.0,0
+2026-09,ACC04,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-09,ACC04,vendor selection,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.5,0
+2026-09,ACC04,vendor selection,copilot,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,0,2,1,0,0,2.0,0
+2026-09,ACC04,vendor selection,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC04,vendor selection,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-09,ACC04,vendor selection,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,4.0,0
+2026-09,ACC04,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC04,vendor selection,perplexity,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC04,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.5,0
+2026-09,ACC04,vendor selection,perplexity,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.33,0
+2026-09,ACC05,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,2.5,0
+2026-09,ACC05,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC05,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC05,vendor selection,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-09,ACC05,vendor selection,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,2,0.6667,0.2077,0.9385,1,0,1,1,1,2.0,0
+2026-09,ACC05,vendor selection,copilot,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.0,0
+2026-09,ACC05,vendor selection,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC05,vendor selection,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-09,ACC05,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,1,1,1,1,0,2.0,0
+2026-09,ACC05,vendor selection,perplexity,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.0,0
+2026-09,ACC05,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.5,0
+2026-09,ACC05,vendor selection,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-09,ACC06,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,4.0,0
+2026-09,ACC06,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC06,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.67,0
+2026-09,ACC06,vendor selection,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.5,0
+2026-09,ACC06,vendor selection,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC06,vendor selection,copilot,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC06,vendor selection,copilot,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC06,vendor selection,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-09,ACC06,vendor selection,perplexity,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-09,ACC06,vendor selection,perplexity,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,1.0,0
+2026-09,ACC06,vendor selection,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.0,0
+2026-09,ACC06,vendor selection,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,3.5,0
+2026-09,ACC07,comparison,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-09,ACC07,comparison,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.0,0
+2026-09,ACC07,comparison,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-09,ACC07,comparison,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-09,ACC07,comparison,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC07,comparison,copilot,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC07,comparison,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC07,comparison,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC07,comparison,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-09,ACC07,comparison,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.0,0
+2026-09,ACC07,comparison,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.67,0
+2026-09,ACC07,comparison,perplexity,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.67,0
+2026-09,ACC08,comparison,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,2,0.6667,0.2077,0.9385,1,0,1,1,1,2.0,0
+2026-09,ACC08,comparison,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC08,comparison,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.5,0
+2026-09,ACC08,comparison,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-09,ACC08,comparison,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC08,comparison,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-09,ACC08,comparison,copilot,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,1.67,0
+2026-09,ACC08,comparison,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.67,0
+2026-09,ACC08,comparison,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC08,comparison,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC08,comparison,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.33,0
+2026-09,ACC08,comparison,perplexity,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.33,0
+2026-09,ACC09,specific need,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC09,specific need,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.0,0
+2026-09,ACC09,specific need,chatgpt,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.0,0
+2026-09,ACC09,specific need,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-09,ACC09,specific need,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-09,ACC09,specific need,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC09,specific need,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC09,specific need,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.67,0
+2026-09,ACC09,specific need,perplexity,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC09,specific need,perplexity,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC09,specific need,perplexity,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC09,specific need,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.5,0
+2026-09,ACC10,specific need,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC10,specific need,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-09,ACC10,specific need,chatgpt,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.67,0
+2026-09,ACC10,specific need,chatgpt,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.67,0
+2026-09,ACC10,specific need,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-09,ACC10,specific need,copilot,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.0,0
+2026-09,ACC10,specific need,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-09,ACC10,specific need,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.5,0
+2026-09,ACC10,specific need,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC10,specific need,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-09,ACC10,specific need,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.67,0
+2026-09,ACC10,specific need,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.5,0
+2026-09,ACC11,educational,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,3,1.0,0.4385,1.0,1,0,2,1,0,1.0,0
+2026-09,ACC11,educational,chatgpt,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC11,educational,chatgpt,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC11,educational,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-09,ACC11,educational,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-09,ACC11,educational,copilot,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC11,educational,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC11,educational,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-09,ACC11,educational,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,2,0.6667,0.2077,0.9385,0,0,2,0,1,,0
+2026-09,ACC11,educational,perplexity,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC11,educational,perplexity,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC11,educational,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC12,educational,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC12,educational,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC12,educational,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-09,ACC12,educational,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,3.0,0
+2026-09,ACC12,educational,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,2,0.6667,0.2077,0.9385,0,0,2,2,1,,0
+2026-09,ACC12,educational,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC12,educational,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC12,educational,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-09,ACC12,educational,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,0,2,,0
+2026-09,ACC12,educational,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-09,ACC12,educational,perplexity,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-09,ACC12,educational,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC01,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.5,0
+2026-10,ACC01,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-10,ACC01,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.5,0
+2026-10,ACC01,vendor selection,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,4.0,0
+2026-10,ACC01,vendor selection,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC01,vendor selection,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-10,ACC01,vendor selection,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC01,vendor selection,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-10,ACC01,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-10,ACC01,vendor selection,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-10,ACC01,vendor selection,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.33,0
+2026-10,ACC01,vendor selection,perplexity,Northside Numbers,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC02,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,2,0.6667,0.2077,0.9385,0,0,2,2,1,,0
+2026-10,ACC02,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.0,0
+2026-10,ACC02,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC02,vendor selection,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-10,ACC02,vendor selection,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC02,vendor selection,copilot,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.0,0
+2026-10,ACC02,vendor selection,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC02,vendor selection,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.0,0
+2026-10,ACC02,vendor selection,perplexity,Liffey Ledger Accountants,1,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.67,0
+2026-10,ACC02,vendor selection,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC02,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC02,vendor selection,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,3.0,0
+2026-10,ACC03,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,3.0,0
+2026-10,ACC03,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.0,0
+2026-10,ACC03,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC03,vendor selection,chatgpt,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.67,0
+2026-10,ACC03,vendor selection,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC03,vendor selection,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-10,ACC03,vendor selection,copilot,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.5,0
+2026-10,ACC03,vendor selection,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC03,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-10,ACC03,vendor selection,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-10,ACC03,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-10,ACC03,vendor selection,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-10,ACC04,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,3,1.0,0.4385,1.0,1,0,2,2,0,1.0,0
+2026-10,ACC04,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC04,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-10,ACC04,vendor selection,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,2.0,0
+2026-10,ACC04,vendor selection,copilot,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,0,2,1,1,0,2.0,0
+2026-10,ACC04,vendor selection,copilot,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC04,vendor selection,copilot,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-10,ACC04,vendor selection,copilot,Northside Numbers,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC04,vendor selection,perplexity,Liffey Ledger Accountants,1,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.33,0
+2026-10,ACC04,vendor selection,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.0,0
+2026-10,ACC04,vendor selection,perplexity,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-10,ACC04,vendor selection,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.5,0
+2026-10,ACC05,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,4.0,0
+2026-10,ACC05,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC05,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.5,0
+2026-10,ACC05,vendor selection,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-10,ACC05,vendor selection,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC05,vendor selection,copilot,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC05,vendor selection,copilot,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.0,0
+2026-10,ACC05,vendor selection,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.0,0
+2026-10,ACC05,vendor selection,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-10,ACC05,vendor selection,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC05,vendor selection,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC05,vendor selection,perplexity,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.67,0
+2026-10,ACC06,vendor selection,chatgpt,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC06,vendor selection,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.33,0
+2026-10,ACC06,vendor selection,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,3.0,0
+2026-10,ACC06,vendor selection,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,3.0,0
+2026-10,ACC06,vendor selection,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,3.0,0
+2026-10,ACC06,vendor selection,copilot,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-10,ACC06,vendor selection,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC06,vendor selection,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-10,ACC06,vendor selection,perplexity,Liffey Ledger Accountants,1,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.33,0
+2026-10,ACC06,vendor selection,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-10,ACC06,vendor selection,perplexity,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC06,vendor selection,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC07,comparison,chatgpt,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC07,comparison,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-10,ACC07,comparison,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC07,comparison,chatgpt,Northside Numbers,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,2.0,0
+2026-10,ACC07,comparison,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-10,ACC07,comparison,copilot,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC07,comparison,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC07,comparison,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC07,comparison,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC07,comparison,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC07,comparison,perplexity,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC07,comparison,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.5,0
+2026-10,ACC08,comparison,chatgpt,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.5,0
+2026-10,ACC08,comparison,chatgpt,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,1.5,0
+2026-10,ACC08,comparison,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-10,ACC08,comparison,chatgpt,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.33,0
+2026-10,ACC08,comparison,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC08,comparison,copilot,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC08,comparison,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC08,comparison,copilot,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,2.0,0
+2026-10,ACC08,comparison,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC08,comparison,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC08,comparison,perplexity,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,1.33,0
+2026-10,ACC08,comparison,perplexity,Northside Numbers,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,2.33,0
+2026-10,ACC09,specific need,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC09,specific need,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.0,0
+2026-10,ACC09,specific need,chatgpt,Grangegorman Tax Partners,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,2.0,0
+2026-10,ACC09,specific need,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,0,0.0,0.0,0.5615,0,2,0,0,1,3.0,0
+2026-10,ACC09,specific need,copilot,Liffey Ledger Accountants,1,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,2.0,0
+2026-10,ACC09,specific need,copilot,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,1,0.3333,0.0615,0.7923,1,2,0,0,0,1.0,0
+2026-10,ACC09,specific need,copilot,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.0,0
+2026-10,ACC09,specific need,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,3.0,0
+2026-10,ACC09,specific need,perplexity,Liffey Ledger Accountants,1,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.5,0
+2026-10,ACC09,specific need,perplexity,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.33,0
+2026-10,ACC09,specific need,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,3.0,0
+2026-10,ACC09,specific need,perplexity,Northside Numbers,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,3.33,0
+2026-10,ACC10,specific need,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC10,specific need,chatgpt,Harbour & Quay Accounting,0,3,3,1.0,0.4385,1.0,2,0.6667,0.2077,0.9385,2,1,0,0,0,1.0,0
+2026-10,ACC10,specific need,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,2.0,0
+2026-10,ACC10,specific need,chatgpt,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,3.0,0
+2026-10,ACC10,specific need,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-10,ACC10,specific need,copilot,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC10,specific need,copilot,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,1.5,0
+2026-10,ACC10,specific need,copilot,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,2.0,0
+2026-10,ACC10,specific need,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC10,specific need,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC10,specific need,perplexity,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC10,specific need,perplexity,Northside Numbers,0,3,2,0.6667,0.2077,0.9385,1,0.3333,0.0615,0.7923,1,1,0,0,1,2.0,0
+2026-10,ACC11,educational,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC11,educational,chatgpt,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC11,educational,chatgpt,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC11,educational,chatgpt,Northside Numbers,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC11,educational,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,3,1.0,0.4385,1.0,0,0,3,3,0,,0
+2026-10,ACC11,educational,copilot,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC11,educational,copilot,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC11,educational,copilot,Northside Numbers,0,3,3,1.0,0.4385,1.0,3,1.0,0.4385,1.0,3,0,0,0,0,1.0,0
+2026-10,ACC11,educational,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,2,0.6667,0.2077,0.9385,0,0,2,2,1,,0
+2026-10,ACC11,educational,perplexity,Harbour & Quay Accounting,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC11,educational,perplexity,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-10,ACC11,educational,perplexity,Northside Numbers,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC12,educational,chatgpt,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,1,0.3333,0.0615,0.7923,0,0,1,1,2,,0
+2026-10,ACC12,educational,chatgpt,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC12,educational,chatgpt,Grangegorman Tax Partners,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-10,ACC12,educational,chatgpt,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0
+2026-10,ACC12,educational,copilot,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,2,0.6667,0.2077,0.9385,0,0,2,1,1,,0
+2026-10,ACC12,educational,copilot,Harbour & Quay Accounting,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC12,educational,copilot,Grangegorman Tax Partners,0,3,1,0.3333,0.0615,0.7923,1,0.3333,0.0615,0.7923,1,0,0,0,2,1.0,0
+2026-10,ACC12,educational,copilot,Northside Numbers,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC12,educational,perplexity,Liffey Ledger Accountants,1,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC12,educational,perplexity,Harbour & Quay Accounting,0,3,2,0.6667,0.2077,0.9385,2,0.6667,0.2077,0.9385,2,0,0,0,1,1.0,0
+2026-10,ACC12,educational,perplexity,Grangegorman Tax Partners,0,3,0,0.0,0.0,0.5615,0,0.0,0.0,0.5615,0,0,0,0,3,,0
+2026-10,ACC12,educational,perplexity,Northside Numbers,0,3,1,0.3333,0.0615,0.7923,0,0.0,0.0,0.5615,0,1,0,0,2,1.0,0

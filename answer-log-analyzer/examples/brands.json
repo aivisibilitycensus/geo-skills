@@ -1,0 +1,13 @@
+{
+  "_note": "Synthetic example. All businesses and domains are fictional (.example is a reserved test domain).",
+  "brand": {
+    "name": "Liffey Ledger Accountants",
+    "aliases": ["Liffey Ledger"],
+    "domains": ["liffeyledger.example"]
+  },
+  "competitors": [
+    {"name": "Harbour & Quay Accounting", "aliases": ["Harbour & Quay", "Harbour and Quay"], "domains": ["harbourquay.example"]},
+    {"name": "Grangegorman Tax Partners", "aliases": ["Grangegorman Tax"], "domains": ["grangegormantax.example"]},
+    {"name": "Northside Numbers", "aliases": [], "domains": ["northsidenumbers.example"]}
+  ]
+}
