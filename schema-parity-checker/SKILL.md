@@ -77,6 +77,10 @@ Recommendations and their evidence (Evidence grades: see ../tactics/EVIDENCE.md)
 
 Do not tell the user a mismatch causes a penalty or a ranking or citation loss. The documentation says what Google asks for, not what happens to a given page.
 
+## Testing
+
+The script has no automated test suite yet. It was checked by hand against local test pages with planted mismatches; the run is in `examples/local-test-run.md`.
+
 ## What this skill does not do
 
 - It does not validate schema against schema.org or Google's required properties. Use Google's Rich Results Test or the Schema Markup Validator for that.

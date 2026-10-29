@@ -77,7 +77,7 @@ Output three things:
 
 2. **The same set as CSV**, columns `id,service,intent,question`, so it can be pasted into a tracking tool or spreadsheet.
 
-3. **How to run it:** ask every question on every engine being tracked, at least twice per check date, logged out where possible, on fixed dates. Record for each answer: which businesses are named and in what order, and which pages are cited. Keep mentions and citations as separate measures: a business can be named without its site being cited, and its site can be cited while a competitor is named.
+3. **How to run it:** ask every question on every engine being tracked, at least three times per check date, logged out where possible, on fixed dates. Record for each answer: which businesses are named and in what order, and which pages are cited. Keep mentions and citations as separate measures: a business can be named without its site being cited, and its site can be cited while a competitor is named.
 
 ## What this skill does not do
 

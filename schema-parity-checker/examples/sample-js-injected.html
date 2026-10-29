@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- SYNTHETIC TEST PAGE. Fernhollow Bakery is a fictional business. -->
+<title>Fernhollow Bakery</title>
+</head>
+<body>
+<div id="app"></div>
+<script>
+  var s = document.createElement('script');
+  s.type = 'application/ld+json';
+  s.text = JSON.stringify({"@context":"https://schema.org","@type":"Bakery","name":"Fernhollow Bakery","telephone":"+1-555-0199"});
+  document.head.appendChild(s);
+  document.getElementById('app').innerHTML = '<h1>Fernhollow Bakery</h1><p>Call +1-555-0199</p>';
+</script>
+</body>
+</html>

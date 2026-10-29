@@ -9,9 +9,9 @@ Each rate is a count of answers divided by the number of answers in the group. E
 For k answers out of n, with p = k/n and z = 1.96:
 
 ```
-centre = (p + z^2 / 2n) / (1 + z^2 / n)
+center = (p + z^2 / 2n) / (1 + z^2 / n)
 half   = z * sqrt(p(1 - p)/n + z^2 / 4n^2) / (1 + z^2 / n)
-interval = centre +/- half, clipped to [0, 1]
+interval = center +/- half, clipped to [0, 1]
 ```
 
 It is used instead of p +/- 1.96 * sqrt(p(1 - p)/n) because that formula gives a zero-width interval at 0% or 100% and can go below 0 or above 1 at small n. Reference: Wilson, E. B. (1927), "Probable inference, the law of succession, and statistical inference", Journal of the American Statistical Association 22(158).

@@ -103,7 +103,9 @@ Runs Steps 4 to 6 together and prints the findings in three tiers, P1 first with
 | Chain of 2 to 4 hops; temporary redirect (302, 303, 307); lands somewhere other than the map says; target title unrelated to the old page; target canonical points elsewhere; more than one canonical tag; main-content words down more than 30%; JSON-LD types lost or JSON-LD that does not parse; h1 missing; `nofollow` added; baseline URL missing from the map; user-triggered fetcher newly blocked | **Fix soon**. Temporary redirect, wrong target, unrelated title, canonical elsewhere, word drop and a missing map row become **launch blockers for P1 (cited) URLs** |
 | Title or h1 changed; meta refresh; training crawler newly blocked; crawler newly allowed | **Check** |
 
-The 30% word drop, the title similarity cut-off (0.30, after removing title segments both pages share, such as the brand), and the P1 escalation are tool defaults chosen for this skill, not platform rules **[U]**.
+The 30% word drop, the title similarity cut-off (0.30, after removing title segments both pages share, such as the brand), and the P1 escalation are tool defaults chosen for this skill, not platform rules **[U]**. "Title or h1 changed" means similarity under 0.60, also a tool default **[U]**.
+
+The script has no automated test suite yet. It was checked by hand against a local test site with planted problems; the run is in `examples/`.
 
 ## Step 8: Report and recommend
 
