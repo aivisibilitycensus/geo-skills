@@ -13,11 +13,12 @@ Most GEO tools give you a score. These skills give you counts you can trace back
 | [schema-parity-checker](schema-parity-checker/) | Checks that a page's structured data says only what the visible page says: FAQ text, prices, ratings, contact details, dates | A URL or saved HTML |
 | [geo-migration-guard](geo-migration-guard/) | Protects AI search visibility through a site migration: baseline, redirect map check, post-launch parity, robots.txt changes for AI crawlers | URL lists and a redirect map |
 | [ai-crawler-log-check](ai-crawler-log-check/) | Analyzes server logs for AI and search crawlers and verifies them against published IP ranges and reverse DNS, so spoofed bots are not counted | Access logs |
+| [content-shape-checker](content-shape-checker/) | Checks whether a draft is built like human writing or generated text (over-explanation, named specifics, scaffold variance, profundity inflation) and quotes every sentence to fix. Also available as a [free web tool](https://aivisibilitycensus.com/content-shape-checker/) | A draft with headings |
 | [geo-experiment-kit](geo-experiment-kit/) | Templates and a readout script for running one-change-at-a-time SEO and GEO experiments with control pages and recorded predictions | Nothing |
 
 Every recommendation carries an evidence grade from [tactics/EVIDENCE.md](tactics/EVIDENCE.md): tested by the Census, published study, platform documentation, vendor claim, or untested.
 
-The scripts are Python 3 and use the standard library only (schema-parity-checker can optionally render pages with Playwright). Each skill has a worked example built from synthetic data, with the real script output.
+The scripts are Python 3 and use the standard library only (schema-parity-checker can optionally render pages with Playwright). Each skill with a script has a worked example built from synthetic data, with the real script output.
 
 ## Install
 
@@ -33,7 +34,8 @@ The scripts are Python 3 and use the standard library only (schema-parity-checke
 2. Run them on each engine, at least three times per check date, and log the answers.
 3. Analyze the log with **answer-log-analyzer**.
 4. Fix what the data points to, one change at a time, using **geo-experiment-kit**.
-5. Use **schema-parity-checker**, **ai-crawler-log-check** and **geo-migration-guard** to check the technical side.
+5. Check drafts with **content-shape-checker** before they ship.
+6. Use **schema-parity-checker**, **ai-crawler-log-check** and **geo-migration-guard** to check the technical side.
 
 ## License
 
