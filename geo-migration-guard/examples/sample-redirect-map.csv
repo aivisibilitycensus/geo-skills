@@ -1,0 +1,8 @@
+old_url,new_url
+http://127.0.0.1:8766/guides/bike-sizing,http://127.0.0.1:8766/learn/bike-sizing
+http://127.0.0.1:8766/guides/tubeless-setup,http://127.0.0.1:8766/learn/tubeless-setup
+http://127.0.0.1:8766/services/bike-fitting,http://127.0.0.1:8766/services/fitting
+http://127.0.0.1:8766/shop/gravel-bikes,http://127.0.0.1:8766/bikes/gravel
+http://127.0.0.1:8766/blog/winter-riding-tips,http://127.0.0.1:8766/journal/winter-riding
+http://127.0.0.1:8766/about,http://127.0.0.1:8766/about-us
+http://127.0.0.1:8766/old-promo,http://127.0.0.1:8766/offers

@@ -1,0 +1,20 @@
+tier,priority,url,check,issue,evidence
+LAUNCH BLOCKER,P1,http://127.0.0.1:8766/guides/tubeless-setup,parity,Main-content words in the no-JavaScript view fell 100% (almost no text without JavaScript: content may be rendered client-side),300 -> 0 words
+LAUNCH BLOCKER,P1,http://127.0.0.1:8766/services/bike-fitting,parity,Main-content words in the no-JavaScript view fell 57% (escalated: URL is cited by AI),126 -> 54 words
+LAUNCH BLOCKER,P1,http://127.0.0.1:8766/guides/tubeless-setup,redirect,"Temporary redirect (302), use 301 or 308 for a permanent move (escalated: URL is cited by AI)",http://127.0.0.1:8766/guides/tubeless-setup -> 302 http://127.0.0.1:8766/learn/tubeless -> 301 http://127.0.0.1:8766/learn/tubeless-setup
+LAUNCH BLOCKER,P1,http://127.0.0.1:8766/services/bike-fitting,redirect,Lands on a different URL than the redirect map says (escalated: URL is cited by AI),map: http://127.0.0.1:8766/services/fitting | actual: http://127.0.0.1:8766/
+LAUNCH BLOCKER,P1,http://127.0.0.1:8766/services/bike-fitting,redirect,Redirects to the homepage,http://127.0.0.1:8766/services/bike-fitting -> 301 http://127.0.0.1:8766/
+LAUNCH BLOCKER,P1,http://127.0.0.1:8766/services/bike-fitting,redirect,Target title looks unrelated to the old page (similarity 0.29) (escalated: URL is cited by AI),old: 'Professional Bike Fitting | Larkspur Ridge Cycles' | new: 'Larkspur Ridge Cycles | Bike Shop'
+LAUNCH BLOCKER,P1,robots.txt [Claude-SearchBot],robots,Claude-SearchBot newly blocked (Claude search result quality),2 path(s): /learn/bike-sizing (disallow: /learn/ (group: Claude-SearchBot)); /learn/tubeless-setup (disallow: /learn/ (group: Claude-SearchBot))
+LAUNCH BLOCKER,P1,robots.txt [PerplexityBot],robots,PerplexityBot newly blocked (Perplexity search results),8 path(s): / (disallow: / (group: PerplexityBot)); /learn/bike-sizing (disallow: / (group: PerplexityBot)); /learn/tubeless-setup (disallow: / (group: PerplexityBot)); /services/fitting (disallow: / (group: PerplexityBot)) and 4 more
+LAUNCH BLOCKER,P2,http://127.0.0.1:8766/shop/gravel-bikes,target,Target page is noindex,"http://127.0.0.1:8766/bikes/gravel | meta: robots: noindex, follow | X-Robots-Tag: -"
+LAUNCH BLOCKER,P3,http://127.0.0.1:8766/old-promo,redirect,Ends in HTTP 404,http://127.0.0.1:8766/old-promo
+FIX SOON,P1,http://127.0.0.1:8766/guides/tubeless-setup,parity,h1 missing in the no-JavaScript view,old h1: 'How to set up tubeless tires'
+FIX SOON,P1,http://127.0.0.1:8766/services/bike-fitting,parity,JSON-LD types missing on the new page: Service,old: Service | new: BikeStore
+FIX SOON,P1,http://127.0.0.1:8766/guides/tubeless-setup,redirect,Redirect chain of 2 hops (redirect straight to the final URL),http://127.0.0.1:8766/guides/tubeless-setup -> 302 http://127.0.0.1:8766/learn/tubeless -> 301 http://127.0.0.1:8766/learn/tubeless-setup
+FIX SOON,P2,http://127.0.0.1:8766/blog/winter-riding-tips,parity,JSON-LD types missing on the new page: Article,old: Article | new: none
+FIX SOON,P2,http://127.0.0.1:8766/blog/winter-riding-tips,parity,Main-content words in the no-JavaScript view fell 48%,153 -> 80 words
+FIX SOON,P2,http://127.0.0.1:8766/blog/winter-riding-tips,target,Target canonical points to a different URL,http://127.0.0.1:8766/journal/winter-riding canonical -> http://127.0.0.1:8766/journal/
+CHECK,P1,http://127.0.0.1:8766/services/bike-fitting,parity,Title changed,old: 'Professional Bike Fitting | Larkspur Ridge Cycles' | new: 'Larkspur Ridge Cycles | Bike Shop'
+CHECK,P1,http://127.0.0.1:8766/services/bike-fitting,parity,h1 changed,old: 'Bike fitting' | new: 'Larkspur Ridge Cycles'
+CHECK,P1,robots.txt [GPTBot],robots,Training crawler newly blocked: confirm this is a deliberate decision,8 path(s): / (disallow: / (group: GPTBot)); /learn/bike-sizing (disallow: / (group: GPTBot)); /learn/tubeless-setup (disallow: / (group: GPTBot)); /services/fitting (disallow: / (group: GPTBot)) and 4 more

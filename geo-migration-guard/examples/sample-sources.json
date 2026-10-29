@@ -1,0 +1,8 @@
+{
+  "_note": "SYNTHETIC sample. Column names in the sample CSVs are invented. Run 'migration_check.py columns FILE' on your real exports and copy the real column names here.",
+  "sources": [
+    {"file": "sample-ai-citations.csv", "url_column": "Page", "metric_column": "AI citations (synthetic)", "kind": "ai_citations", "label": "AI citations export"},
+    {"file": "sample-organic-pages.csv", "url_column": "Landing page", "metric_column": "Clicks (synthetic)", "kind": "organic", "label": "organic clicks export"},
+    {"file": "sample-manual-urls.csv", "url_column": "url", "kind": "other", "label": "manual list"}
+  ]
+}
