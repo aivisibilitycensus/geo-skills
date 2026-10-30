@@ -96,4 +96,13 @@ Nothing else is added: no style instructions, no "sound human", no examples.
 
 ## Corrections log
 
-None yet.
+**29 October 2026 (published on the experiments page).** The live checker moved to version 1.5.0 after a separate test on other documents. VS-001 still tests version 1.1.0 as registered, run from an archived copy of its code. Version 1.5.0 is also run on the same articles and reported separately.
+
+**30 October 2026, before any data was collected.** The 1.5.0 analysis is specified now, so it is fixed before collection rather than chosen after it:
+
+- **Version 1.5.0 file:** `hsc.js`, SHA-256 `c712c76e4b1e1a8511b9eacb7e5535b2559714a1815b84d447f93316a7e1ceb8` (105,420 bytes). The archived 1.1.0 file's hash is recorded with the results.
+- **1.5.0 outcomes:** the share of articles flagged by two or more FAILs; the share of articles of 300 words or more that read "High", and the share that read "Medium" or "High", with 95% Wilson intervals; the AUROC of the reading's underlying score.
+- **The claim under test:** the developers' published figures for 1.5.0 are two or more checks failing on 31% of AI texts and 2% of human ones, and 18 of 26 AI texts and 2 of 48 human texts reading "High".
+- **Added exclusion:** any article that was part of 1.5.0's training or test set is excluded and replaced by the next candidate, for both versions. The list is requested from the developers before sampling starts.
+- **Added breakdown:** the developers report training 1.5.0's reading on posts from two Claude models, so results for other model families are reported separately from Claude.
+- **Model list:** Claude, plus models on free API tiers (Google Gemini, Mistral, and open models served by Groq), replacing "GPT and Gemini through their APIs". Each model is reported separately.
