@@ -86,7 +86,8 @@ export function parseCsv(text) {
 }
 
 export async function fetchText(url, opts = {}) {
-  const res = await fetch(url, { headers: { 'user-agent': 'AI Visibility Census VS-001 study (hello@aivisibilitycensus.com)' }, ...opts });
+  // 180 s cap per request: the Wayback CDX index can stall on large hosts, and a hung request would stall the whole run.
+  const res = await fetch(url, { signal: AbortSignal.timeout(Number(process.env.VS001_TIMEOUT_MS || 180000)), headers: { 'user-agent': 'AI Visibility Census VS-001 study (hello@aivisibilitycensus.com)' }, ...opts });
   if (!res.ok) throw new Error('HTTP ' + res.status + ' for ' + url);
   return await res.text();
 }
