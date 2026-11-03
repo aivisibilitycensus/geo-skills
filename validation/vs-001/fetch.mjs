@@ -55,7 +55,7 @@ function nextId() {
 
 async function workBlog(entry, groupName, isReserve) {
   const file = path.join(candDir, entry.replace(/[\/]/g, '_') + '.json');
-  if (!fs.existsSync(file)) { console.error('no candidates file for', entry); return 0; }
+  if (!fs.existsSync(file)) { throw new Error('no candidates file for ' + entry + ': run sample.mjs first (an index outage is not a reason to replace a blog)'); }
   const cand = JSON.parse(fs.readFileSync(file, 'utf8'));
   let accepted = manifest.filter(r => r.blog === entry && r.outcome === 'accepted').length;
   let looked = manifest.filter(r => r.blog === entry).length;
@@ -68,7 +68,11 @@ async function workBlog(entry, groupName, isReserve) {
       if (!ts) { row.reason = 'no 200 capture on or before cutoff'; manifest.push(row); save(); continue; }
       row.snapshot = ts;
       row.archive_url = 'https://web.archive.org/web/' + ts + 'id_/' + c.url;
-      const html = await fetchText(row.archive_url);
+      let html = null;
+      for (let attempt = 1; attempt <= 3 && html === null; attempt++) {
+        try { html = await fetchText(row.archive_url); }
+        catch (e) { if (attempt === 3) throw e; await sleep(10000 * attempt); }
+      }
       const art = htmlToArticle(html, c.url);
       if (!art) { row.reason = 'readability found no article body'; manifest.push(row); save(); continue; }
       row.title = art.title; row.words = art.words; row.subheadings = art.subheadings;

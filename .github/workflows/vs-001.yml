@@ -35,13 +35,14 @@ jobs:
       - name: Run checkers
         if: inputs.job == 'check' || inputs.job == 'all'
         run: |
-          for c in checkers/hsc-*.js; do
-            label=$(basename "$c" .js | sed 's/^hsc-//')
+          for c in checkers/hsc-*.cjs; do
+            label=$(basename "$c" .cjs | sed 's/^hsc-//')
             corpora="--corpus data/human"
             for d in data/ai/*/; do [ -d "$d" ] && corpora="$corpora --corpus ${d%/}"; done
             node check.mjs --checker "$c" --label "$label" $corpora --out "data/results/$label.csv"
           done
       - name: Commit data
+        if: always()
         run: |
           cd "$GITHUB_WORKSPACE"
           git config user.name "AI Visibility Census"
