@@ -118,4 +118,4 @@ See `examples/example-report.md` for a full run on synthetic data (`examples/sam
 
 ## Credit
 
-Method from the AI Visibility Census, aivisibilitycensus.com, licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.
+Method from the [AI Visibility Census](https://aivisibilitycensus.com/), licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.

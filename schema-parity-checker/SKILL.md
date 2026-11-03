@@ -97,4 +97,4 @@ Every platform claim above was checked on 29 October 2026 against the pages link
 
 ## Credit
 
-Method from the AI Visibility Census, aivisibilitycensus.com, licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.
+Method from the [AI Visibility Census](https://aivisibilitycensus.com/), licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.

@@ -131,4 +131,4 @@ Do not promise that following the list keeps citations. It removes known technic
 
 ## Credit
 
-Method from the AI Visibility Census, aivisibilitycensus.com, licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.
+Method from the [AI Visibility Census](https://aivisibilitycensus.com/), licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.

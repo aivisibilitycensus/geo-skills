@@ -104,4 +104,4 @@ See `examples/fictional-bike-repair-price-list.md` for a full worked example. Sh
 
 ## Credit
 
-Method from the AI Visibility Census, aivisibilitycensus.com, licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.
+Method from the [AI Visibility Census](https://aivisibilitycensus.com/), licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.

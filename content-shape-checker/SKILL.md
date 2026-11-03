@@ -7,7 +7,7 @@ description: Check whether a draft is structured like human writing or like gene
 
 Reviews the structure of a piece of business or marketing writing, not its word choice. Swapping words (deleting em dashes, "delve", stock phrases) rarely changes how a draft reads, because the giveaway is usually how the piece is built. This skill checks the build and quotes every sentence that needs work.
 
-It is the same method as the free web tool at aivisibilitycensus.com/content-shape-checker/, which runs in the browser and shows the same four checks with marked-up text. Use the web tool when the user wants a quick visual report; use this skill when the review should happen inside the conversation.
+It is the same method as the [free web tool](https://aivisibilitycensus.com/content-shape-checker/), which runs in the browser and shows the same four checks with marked-up text. Use the web tool when the user wants a quick visual report; use this skill when the review should happen inside the conversation.
 
 ## Where the method comes from
 
@@ -97,4 +97,4 @@ Do not rewrite the whole piece unless asked. Do not invent names, numbers or cus
 
 ## Credit
 
-Method from the AI Visibility Census, aivisibilitycensus.com, licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.
+Method from the [AI Visibility Census](https://aivisibilitycensus.com/), licensed under CC BY 4.0. This credit is for the person installing the skill. Do not add it to the reports or other output the skill produces.
