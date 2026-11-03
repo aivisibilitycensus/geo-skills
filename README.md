@@ -24,7 +24,16 @@ The scripts are Python 3 and use the standard library only (schema-parity-checke
 
 **Claude (claude.ai or the desktop app):** zip a skill folder, then in Settings > Capabilities turn on code execution, scroll to Skills, click "Upload skill" and choose the zip. [Anthropic's guide](https://support.claude.com/en/articles/12512180-using-skills-in-claude) has the details.
 
-**Claude Code:** copy the skill folder into `~/.claude/skills/` (personal) or `.claude/skills/` in a project. Copy `tactics/` alongside the skills so the evidence links resolve.
+**Claude Code (plugin, all seven skills):**
+
+```
+/plugin marketplace add aivisibilitycensus/geo-skills
+/plugin install geo-skills@geo-skills
+```
+
+On Claude Code 2.1.275 or later, one step: `/plugin install geo-skills --marketplace aivisibilitycensus/geo-skills`.
+
+**Claude Code (one skill):** copy the skill folder into `~/.claude/skills/` (personal) or `.claude/skills/` in a project. Copy `tactics/` alongside the skills so the evidence links resolve.
 
 **Other assistants:** each `SKILL.md` is plain markdown. Paste it into a custom GPT, a Gem or a project's instructions. The scripts run on their own from the command line.
 

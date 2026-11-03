@@ -1,0 +1,33 @@
+{
+  "name": "geo-skills",
+  "description": "Open Claude skills for measuring visibility in AI search, from the AI Visibility Census.",
+  "owner": {
+    "name": "AI Visibility Census",
+    "url": "https://aivisibilitycensus.com/"
+  },
+  "plugins": [
+    {
+      "name": "geo-skills",
+      "source": "./",
+      "description": "All seven geo-skills: question sets, answer-log analysis, schema parity, crawler log checks, migration guard, content shape checks and GEO experiments.",
+      "homepage": "https://aivisibilitycensus.com/",
+      "repository": "https://github.com/aivisibilitycensus/geo-skills",
+      "license": "CC-BY-4.0",
+      "keywords": [
+        "geo",
+        "ai-search",
+        "seo",
+        "skills"
+      ],
+      "skills": [
+        "./ai-crawler-log-check",
+        "./answer-log-analyzer",
+        "./content-shape-checker",
+        "./geo-experiment-kit",
+        "./geo-migration-guard",
+        "./question-set-builder",
+        "./schema-parity-checker"
+      ]
+    }
+  ]
+}
