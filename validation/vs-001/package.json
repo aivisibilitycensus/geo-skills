@@ -1,0 +1,13 @@
+{
+  "name": "vs-001",
+  "private": true,
+  "version": "0.1.0",
+  "description": "VS-001: validation study of the Content Shape Checker (sampling, extraction, checker runs).",
+  "type": "module",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^26.0.0",
+    "turndown": "^7.2.0"
+  }
+}

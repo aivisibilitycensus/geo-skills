@@ -1,0 +1,14 @@
+{
+  "seed": 20261029,
+  "from": "20190101",
+  "to": "20221031",
+  "perBlog": 4,
+  "groups": [
+    {"name": "Software and productivity", "blogs": ["zapier.com/blog", "buffer.com/resources", "atlassian.com/blog", "slack.com/blog", "intercom.com/blog"], "reserve": ["toggl.com/blog", "canva.com/learn"]},
+    {"name": "Marketing and SEO", "blogs": ["moz.com/blog", "backlinko.com", "orbitmedia.com/blog", "copyblogger.com", "contentmarketinginstitute.com"], "reserve": ["wordstream.com/blog", "sproutsocial.com/insights"]},
+    {"name": "Accounting and finance", "blogs": ["xero.com/blog", "freshbooks.com/blog", "bench.co/blog", "quickbooks.intuit.com/r", "gusto.com/blog"], "reserve": ["waveapps.com/blog", "shopify.com/blog"]},
+    {"name": "Legal", "blogs": ["clio.com/blog", "rocketlawyer.com/article", "legalzoom.com/articles", "mycase.com/blog", "lawdepot.com/blog"], "reserve": ["nolo.com/legal-encyclopedia", "smokeball.com/blog"]},
+    {"name": "Recruitment and HR", "blogs": ["resources.workable.com", "greenhouse.io/blog", "lever.co/blog", "recruitee.com/articles", "smartrecruiters.com/blog"], "reserve": ["breezy.hr/blog", "jazzhr.com/blog"]},
+    {"name": "Sales and customer service", "blogs": ["blog.hubspot.com/sales", "pipedrive.com/en/blog", "gong.io/blog", "salesforce.com/blog", "zendesk.com/blog"], "reserve": ["close.com/blog", "freshworks.com/blog"]}
+  ]
+}

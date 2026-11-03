@@ -1,0 +1,51 @@
+name: VS-001 validation study
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "sample (CDX lists), fetch (human articles), check (run checkers), all"
+        required: true
+        default: all
+permissions:
+  contents: write
+concurrency:
+  group: vs-001
+  cancel-in-progress: false
+jobs:
+  study:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    defaults:
+      run:
+        working-directory: validation/vs-001
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: "22"}
+      - run: npm ci
+      - name: Sample (Wayback CDX, seeded shuffle)
+        if: inputs.job == 'sample' || inputs.job == 'all'
+        run: node sample.mjs
+      - name: Fetch human articles (earliest capture, Readability)
+        if: inputs.job == 'fetch' || inputs.job == 'all'
+        run: node fetch.mjs
+      - name: Build AI prompts
+        if: inputs.job == 'fetch' || inputs.job == 'all'
+        run: node prompts.mjs
+      - name: Run checkers
+        if: inputs.job == 'check' || inputs.job == 'all'
+        run: |
+          for c in checkers/hsc-*.js; do
+            label=$(basename "$c" .js | sed 's/^hsc-//')
+            corpora="--corpus data/human"
+            for d in data/ai/*/; do [ -d "$d" ] && corpora="$corpora --corpus ${d%/}"; done
+            node check.mjs --checker "$c" --label "$label" $corpora --out "data/results/$label.csv"
+          done
+      - name: Commit data
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git config user.name "AI Visibility Census"
+          git config user.email "census-bot@users.noreply.github.com"
+          git add validation/vs-001/data
+          git diff --cached --quiet || git commit -m "VS-001: ${{ inputs.job }} run $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
