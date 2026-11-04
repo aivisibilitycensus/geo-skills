@@ -1,0 +1,3951 @@
+{
+ "blog": "waveapps.com/blog",
+ "group": "Accounting and finance",
+ "reserve": true,
+ "cdxRows": 1204,
+ "articleLike": 985,
+ "queriedAt": "2026-11-04T02:52:25.305Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/six-ways-to-fund-your-new-business",
+   "earliest": "20191208064743"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/22-free-and-low-cost-tools-to-help-run-your-small-business",
+   "earliest": "20201113072850"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/free-email-marketing",
+   "earliest": "20191208194053"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-waves-risk-team-helps-your-business",
+   "earliest": "20190923112933"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-new-wave-for-small-businesses",
+   "earliest": "20220813213028"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-online-tools",
+   "earliest": "20191208064953"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/outlaw-country-tattoo-an-inclusive-shop-for-artists-and-customers-alike",
+   "earliest": "20191113083419"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/how-steve-dotto-uses-wave-to-increase-productivity",
+   "earliest": "20191208194508"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-big-pivots-moving-services-online",
+   "earliest": "20220810085507"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/join-the-fireside-chat-how-to-scale-your-business-better-2",
+   "earliest": "20220808134832"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/waves-high-growth-philosophy",
+   "earliest": "20191021124401"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/stop-chasing-after-overdue-invoices",
+   "earliest": "20191208194815"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-soul-of-an-entrepreneur-q-a-with-david-sax",
+   "earliest": "20220816065615"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/four-entrepreneurs-share-how-they-took-the-leap",
+   "earliest": "20190923120003"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-now-works-with-zapier-heres-how",
+   "earliest": "20191208194631"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/finding-customers-with-google-adwords",
+   "earliest": "20191208193540"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/how-to-actually-get-paid",
+   "earliest": "20191208195050"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-101-a-guide-for-amazon-merchants/",
+   "earliest": "20190917143244"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-marketing-experts-to-help-you-boost-your-social-media-in-2019",
+   "earliest": "20191208194020"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/march-goals-finding-clients-for-your-freelance-business",
+   "earliest": "20220808123942"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-the-canadian-government-is-supporting-small-business-owners-and-employees",
+   "earliest": "20220813212712"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/march-goals-part-3-finding-clients-with-adwords-landing-pages",
+   "earliest": "20191208195412"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/march-goals-part-3-finding-clients-with-adwords-landing-pages",
+   "earliest": "20220808111401"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-for-wahms-mompreneurs",
+   "earliest": "20190923115316"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/content-marketing",
+   "earliest": "20220808112602"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/waves-big-migration",
+   "earliest": "20220808140054"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/important-alert-payments-scam-targeting-web-designers-and-other-small-business-owners",
+   "earliest": "20191113173904"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/s-corporations-what-they-are-and-5-benefits-of-becoming-one",
+   "earliest": "20191113083446"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/canadian-holiday-pay-made-easy/",
+   "earliest": "20190917150339"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cash-flow-formula/",
+   "earliest": "20190922181042"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/new-zealand-credit-card-processing",
+   "earliest": "20191113083130"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/building-an-awesome-brand-part-3",
+   "earliest": "20220808112838"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-name-your-business",
+   "earliest": "20191208193751"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-stay-healthy-while-running-a-business",
+   "earliest": "20191208194243"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-camila-louzada",
+   "earliest": "20220816080747"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/referral-marketing-for-small-businesses",
+   "earliest": "20191208193909"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-social-media-goals-to-keep-your-small-business-on-track",
+   "earliest": "20220808112550"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-tips-for-building-buzz-small-business",
+   "earliest": "20191208064206"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/seven-communication-skills-you-need-to-pay-the-bills",
+   "earliest": "20191208195445"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/seven-ways-to-maintain-your-mental-health-while-running-a-business/",
+   "earliest": "20190917145910"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-dos-and-donts-of-client-gifting",
+   "earliest": "20191021125311"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/7-tips-for-creating-invoices-that-get-paid-fast-2",
+   "earliest": "20220808142850"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/learning-from-five-common-bookkeeping-mistakes",
+   "earliest": "20191214105627"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/dei-at-wave-2022",
+   "earliest": "20220822223814"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/viral-social-media-for-small-businesses/",
+   "earliest": "20191022193148"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/cash-flow-projection",
+   "earliest": "20191208193630"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/productivity-continued-eight-techniques-to-help-you-stay-focused",
+   "earliest": "20190923113414"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/7-ways-to-automate-your-invoices-to-get-paid-faster",
+   "earliest": "20191113082315"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-steps-to-help-you-prepare-your-freelance-taxes-for-the-first-time/",
+   "earliest": "20190917143216"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-web-design-strategy",
+   "earliest": "20220818075945"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/mike-reisacher-wave-inspiration-meets-integration",
+   "earliest": "20191208195726"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/call-a-stranger-part-three-empathy-conversation",
+   "earliest": "20220808124416"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-tools-to-turn-your-smartphone-into-your-office",
+   "earliest": "20191113082551"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-maggie-maccormick-built-her-playful-fair-trade-fashion-brand",
+   "earliest": "20190923113904"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/21-productivity-tools-to-help-maximize-your-time-and-simplify-your-life",
+   "earliest": "20210704092319"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-customer-retention",
+   "earliest": "20191208194901"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/internet-security-concern-openssl-vulnerability",
+   "earliest": "20220808134151"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-support-small-businesses-in-your-community",
+   "earliest": "20220813204940"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/influencer-marketing-for-small-businesses",
+   "earliest": "20221002012042"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-partners-with-microsoft-to-deliver-new-payment-innovation",
+   "earliest": "20220810082927"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/freelancing-the-dream-vs-the-reality",
+   "earliest": "20190923113709"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/new-year-who-dis-eight-entrepreneurs-share-their-biggest-2018-takeaways",
+   "earliest": "20190923113029"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-maximize-your-holiday-sales-by-starting-right-now",
+   "earliest": "20211203205613"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/small-business-guide-getting-paid-faster-2022",
+   "earliest": "20211112184400"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/17-productivity-tools-to-help-maximize-your-time-and-simplify-your-life",
+   "earliest": "20190923115812"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-reasons-not-to-use-your-personal-phone-number-for-business-and-what-you-should-do-instead/",
+   "earliest": "20191022193359"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-complete-guide-to-health-for-entrepreneurs",
+   "earliest": "20191208195625"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-by-wave-is-free-for-30-days-for-all-american-businesses",
+   "earliest": "20220813212340"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-ultimate-year-end-payroll-checklist",
+   "earliest": "20220924164725"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-you-need-to-get-a-small-business-loan/",
+   "earliest": "20190922184340"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/six-ways-to-fund-your-new-business/",
+   "earliest": "20190917143027"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-marketing-online",
+   "earliest": "20191208195034"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/send-reminders",
+   "earliest": "20220818065405"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/march-goals-part-2-finding-clients-for-your-freelance-business-with-adwords",
+   "earliest": "20191208064241"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/stress-and-project-management-how-to-navigate-when-under-a-time-crunch",
+   "earliest": "20191214103332"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-andy-chiang-and-gabe-tomescu",
+   "earliest": "20190923113535"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-ways-to-grow-your-business-organically",
+   "earliest": "20191113082630"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/so-you-hired-an-employee-whats-next",
+   "earliest": "20190923113124"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/phishing-scams-dont-get-hooked",
+   "earliest": "20220810083852"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/new-year-who-dis-eight-entrepreneurs-share-their-biggest-2018-takeaways",
+   "earliest": "20191214095556"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accept-credit-cards-ios",
+   "earliest": "20220808104033"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/building-an-awesome-brand-part-3",
+   "earliest": "20191208195603"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-accounting-helps-your-small-business-generate-profit",
+   "earliest": "20220808135230"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/charging-viral-photos-accounting",
+   "earliest": "20191208064005"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-marketing/",
+   "earliest": "20190922181004"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-online-services-save-small-business-money",
+   "earliest": "20191208195218"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/new-rules-for-writing-off-equipment-and-vehicles",
+   "earliest": "20191208194059"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/profit-first-formula",
+   "earliest": "20220711150138"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/payroll-tax-remittance",
+   "earliest": "20191113082914"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/overcoming-your-fear-of-failure-when-starting-a-business",
+   "earliest": "20220810090215"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-advisors-2019",
+   "earliest": "20191113083340"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tools-web-site-free",
+   "earliest": "20220808112832"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/guest-post-zapier-and-wave",
+   "earliest": "20191208064731"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-cash-flow-a-guide-to-keeping-money-moving-in-your-business/",
+   "earliest": "20190917143104"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/when-to-raise-your-price-point-and-how-to-calculate-your-rate-increase/",
+   "earliest": "20190917151737"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-transform-your-business-by-systemizing-and-automating",
+   "earliest": "20220810075716"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-do-you-set-and-manage-goals-for-your-business/",
+   "earliest": "20190922183957"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/boss-pitch-how-to-successfully-pitch-your-business-ideas",
+   "earliest": "20191208194328"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-it-means-covid-19-deferral-of-employee-fica-tax",
+   "earliest": "20220808100603"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-phone-plan-tips",
+   "earliest": "20220808125804"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/your-taxes-are-done-now-how-do-you-file-them/",
+   "earliest": "20190917143143"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/doing-well-by-doing-good-four-stories-of-social-entrepreneurs/",
+   "earliest": "20190917143220"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/paying-tax-on-pass-through-income",
+   "earliest": "20220813215037"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-the-executive-summary-is-the-most-important-section-of-your-biz-plan-and-how-to-write-one",
+   "earliest": "20190923113048"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/public-speaking-how-to-overcome-them",
+   "earliest": "20220808135337"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/eight-ways-to-save-your-small-business-money",
+   "earliest": "20221001234509"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/10-times-filing-your-taxes-was-like-stranger-things",
+   "earliest": "20191208195134"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/depreciation-camera-photography-equipment",
+   "earliest": "20220808140815"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/five-tips-for-conquering-cash-flow-struggles-when-youre-self-employed",
+   "earliest": "20191208063843"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/seven-ways-to-eat-healthy-no-matter-how-busy-you-are",
+   "earliest": "20191214104643"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/8-mistakes-to-avoid-when-applying-for-a-business-loan",
+   "earliest": "20191113082618"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tech-resources-for-small-business",
+   "earliest": "20190923113548"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-build-a-sales-funnel",
+   "earliest": "20191208195614"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-financial-freedom",
+   "earliest": "20191208194221"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-brand",
+   "earliest": "20191208193608"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/balance-sheet-example",
+   "earliest": "20191208063719"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/know-your-numbers-webinar-recording",
+   "earliest": "20220816080934"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-chloe-ellick-greg-caskie/",
+   "earliest": "20190917151645"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/economic-relief-for-wave-customers",
+   "earliest": "20220808132756"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-apps",
+   "earliest": "20220818073654"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/market-research-for-small-businesses",
+   "earliest": "20191208193814"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/why-customer-feedback-is-a-big-deal-for-small-businesses-and-freelancers",
+   "earliest": "20210111072836"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/are-you-planning-your-business-financial-goals-the-right-way",
+   "earliest": "20191208063754"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/change-connect-wave-strategy-meets-simplicity",
+   "earliest": "20191208065359"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-ways-to-finance-your-small-business",
+   "earliest": "20191208194838"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/8-mistakes-to-avoid-when-applying-for-a-business-loan",
+   "earliest": "20190923113410"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-mobile-site-tips",
+   "earliest": "20190923113155"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/invoices-less-wave-more-you",
+   "earliest": "20220816062025"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/finding-the-right-small-business-idea",
+   "earliest": "20190923113453"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/showcasing-women-in-tech-at-wave/",
+   "earliest": "20190917144102"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-meet-angie-dobbs",
+   "earliest": "20220810082152"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/is-it-time-to-break-up-with-your-customer",
+   "earliest": "20191208194009"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-mark-bluvshtein",
+   "earliest": "20191208063819"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/personal-tax-deductions-medical-expenses",
+   "earliest": "20220810081438"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-was-the-first-investment-you-made-after-starting-your-business-to-leverage-your-success",
+   "earliest": "20220808111652"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/visual-brand-identity-design",
+   "earliest": "20220707220013"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/empower-yourself-with-our-fearless-accounting-guide",
+   "earliest": "20190923113200"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-state-of-womens-entrepreneurship-in-2019",
+   "earliest": "20191113082539"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/finding-the-right-small-business-idea",
+   "earliest": "20191208194810"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-small-business",
+   "earliest": "20220816071530"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-small-businesses-can-save-money-by-going-paperless/",
+   "earliest": "20190917145309"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/photographer-online-small-business",
+   "earliest": "20191208194311"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/waves-vp-of-business-developments-top-6-books-this-year",
+   "earliest": "20220711150421"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/make-a-profit-every-year-with-the-profit-first-formula",
+   "earliest": "20191214110154"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/real-talk-the-truth-about-starting-your-own-business",
+   "earliest": "20191208194143"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-keep-from-burning-out",
+   "earliest": "20220816080607"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/youre-scared-of-the-wrong-things-when-it-comes-to-taxes",
+   "earliest": "20191208194827"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-deductions-charitable-donations",
+   "earliest": "20220810082349"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-is-your-biggest-piece-of-business-building-advice",
+   "earliest": "20191208195213"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/how-maggie-maccormick-built-her-playful-fair-trade-fashion-brand",
+   "earliest": "20191113082243"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/deloitte-names-wave-one-of-north-americas-fastest-growing-tech-companies",
+   "earliest": "20191208063706"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/get-ready-for-a-whole-new-wave",
+   "earliest": "20191021124455"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-michael-nicolaou",
+   "earliest": "20191208194737"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/recruiting-tips-five-ways-to-reduce-your-cost-per-hire",
+   "earliest": "20190923113039"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/things-to-consider-when-selecting-payroll-software",
+   "earliest": "20191021125211"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/decoding-common-tax-terms",
+   "earliest": "20220813211528"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-ways-to-make-your-office-more-sustainable",
+   "earliest": "20191208195040"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-accounting",
+   "earliest": "20220813212522"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-best-marketing-tactic-for-a-small-business-budget",
+   "earliest": "20191208194211"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-tax-remittance",
+   "earliest": "20220813221425"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/how-to-define-your-payment-terms-on-your-invoices-and-why-you-should",
+   "earliest": "20191113082833"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/5-tips-bookkeeper-stay-on-top-of-bills-invoices",
+   "earliest": "20191208193657"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/instagram-small-business-audit-four-moons-spa",
+   "earliest": "20191208194048"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-new-marketing-and-what-it-means-for-your-business/",
+   "earliest": "20190922181010"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-are-backlinks-and-how-to-build-backlinks",
+   "earliest": "20220816080821"
+  },
+  {
+   "url": "https://www.waveapps.com/blog-category/covid-19-resources",
+   "earliest": "20220808092347"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-turn-your-invoices-into-cash",
+   "earliest": "20220813205304"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-your-biggest-piece-of-business-building-advice",
+   "earliest": "20220813205536"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/ebbing-and-flowing-five-ways-to-manage-small-business-finances/",
+   "earliest": "20190922181019"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/important-alert-payments-scam-targeting-web-designers-and-other-small-business-owners/",
+   "earliest": "20191022184855"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accept-all-major-credit-cards-easily-with-payments-by-wave",
+   "earliest": "20220813213858"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/why-its-important-for-small-businesses-to-keep-accurate-books",
+   "earliest": "20191113082640"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/great-entrepreneurs-from-history-part-1",
+   "earliest": "20220818082246"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/effective-leadership-tips",
+   "earliest": "20220810072052"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-faqs-about-workers-compensation",
+   "earliest": "20191021133001"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/2019-trends-business-owners-should-pay-attention-to",
+   "earliest": "20191208194457"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/six-ways-to-keep-a-healthy-work-life-balance",
+   "earliest": "20191208194300"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/receipt-tracking-feature",
+   "earliest": "20220818074620"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/security-this-week-threat-and-response",
+   "earliest": "20220813221816"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-wins-prism-award",
+   "earliest": "20191208193808"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/crowdsourcing-small-business",
+   "earliest": "20220808125434"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-biz-accounting-customer-bouncing-woolies",
+   "earliest": "20220808135354"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/decoding-common-tax-terms",
+   "earliest": "20191208195024"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-practical-tips-for-paying-off-your-business-debt",
+   "earliest": "20201105115800"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/7-tips-for-creating-invoices-that-get-paid-fast-2",
+   "earliest": "20191208064847"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/change-connect-wave-strategy-meets-simplicity",
+   "earliest": "20190923114511"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/meet-our-january-invoice-to-win-contest-winner",
+   "earliest": "20220818084431"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/cash-flow-formula",
+   "earliest": "20191208065253"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-meet-angie-dobbs",
+   "earliest": "20191208064628"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/the-day-the-government-took-all-my-money",
+   "earliest": "20191113083047"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/how-to-recession-proof-your-small-business",
+   "earliest": "20200917074837"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-report",
+   "earliest": "20220818085041"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-complete-guide-to-freelancing",
+   "earliest": "20191208194843"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-meet-amanda-kwok",
+   "earliest": "20220810082913"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-half-bankeds-desirae-odjick-juggles-a-full-time-job-and-a-successful-side-hustle",
+   "earliest": "20190923112958"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-ultimate-small-business-summer-reading-and-listening-guide",
+   "earliest": "20220810083001"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/customer-profile-aisec-canada",
+   "earliest": "20220813212746"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/las-fincas-a-story-of-passion-and-incomparable-coffee-from-crop-to-cup",
+   "earliest": "20220818084656"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/not-accepting-credit-cards-is-costing-your-business/",
+   "earliest": "20190922181027"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/sponsored-content-top-6-signs-youre-a-fundable-borrower",
+   "earliest": "20220813205809"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-wave-plus-can-help-your-business/",
+   "earliest": "20190917145140"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/red-flags-how-to-spot-fraud-and-protect-your-small-business-against-chargebacks",
+   "earliest": "20220711150204"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/forget-work-life-balance-and-focus-on-creating-harmony-instead",
+   "earliest": "20220813213349"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-executive-tips",
+   "earliest": "20220816060619"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/are-you-a-mompreneur-2",
+   "earliest": "20191113082657"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-3-tips-and-resources-for-managing-your-money",
+   "earliest": "20220813212152"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/personal-tax-deductions-retirement-plans",
+   "earliest": "20220808124751"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/branding-your-small-business",
+   "earliest": "20191208063724"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/holiday-payroll-guide-year-end-survival-series-pt-2",
+   "earliest": "20220810081155"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/holiday-payroll",
+   "earliest": "20220816064256"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/exciting-update",
+   "earliest": "20220816072207"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/five-crucial-questions-to-ask-before-hiring-your-first-employee",
+   "earliest": "20191208064224"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/one-page-business-plan",
+   "earliest": "20191208065248"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/business-plan-cover-page/",
+   "earliest": "20190917143002"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-pro-of-the-year-2014",
+   "earliest": "20220816060900"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/six-tools-entrepreneurs-shouldnt-live-without",
+   "earliest": "20190923113753"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-organized/",
+   "earliest": "20190916043646"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/whats-new-with-payments-by-wave",
+   "earliest": "20220810082306"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/tax-quiz-on-deduction-expenses",
+   "earliest": "20191208065242"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/march-goals-finding-clients-for-your-freelance-business",
+   "earliest": "20191208194126"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/how-safe-is-online-accounting-software",
+   "earliest": "20191208194648"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-bank-reconciliation",
+   "earliest": "20191021124906"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/content-marketing",
+   "earliest": "20191113083435"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/disruptor-small-business",
+   "earliest": "20220808141913"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-bookkeeper-stay-on-top-of-bills-invoices",
+   "earliest": "20220810083858"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-at-sohto2016-torontos-start-up-open-house",
+   "earliest": "20220816065100"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/receipt-scanning-app",
+   "earliest": "20191208193619"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-michael-dibernardo",
+   "earliest": "20191113083229"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/what-small-business-owners-need-to-know-the-cares-act",
+   "earliest": "20201012232532"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/dont-eat-that-six-times-being-a-mompreneur-went-horribly-wrong",
+   "earliest": "20220808131933"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/how-the-tallest-poppy-brought-comfort-food-to-the-wild-west",
+   "earliest": "20191113082420"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/tips-for-wahms-mompreneurs",
+   "earliest": "20191208193427"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-by-wave-say-goodbye-to-manual-payroll-in-2016",
+   "earliest": "20220818085316"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/building-a-good-website-on-a-budget",
+   "earliest": "20220816063832"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/21-productivity-tools-to-help-maximize-your-time-and-simplify-your-life",
+   "earliest": "20220711150227"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/data-analysis-for-small-businesses-its-easier-than-you-think",
+   "earliest": "20191113083141"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-social-shopping",
+   "earliest": "20191208064720"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-interactive-website",
+   "earliest": "20191208195350"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-blog-like-a-pro",
+   "earliest": "20220808112536"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/five-tips-to-get-your-books-under-control-fast",
+   "earliest": "20191208065010"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/spooky-business-five-entrepreneurs-who-were-haunted-by-a-dream",
+   "earliest": "20191208065347"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-7-small-business-trends-for-2020",
+   "earliest": "20220808123728"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/laura-hana-photographer",
+   "earliest": "20220813210657"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/how-to-calculate-retained-earnings",
+   "earliest": "20220313205112"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/how-classic-rock-and-community-are-growing-public-general-stores-brand",
+   "earliest": "20191208064433"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-business-mistakes-we-made",
+   "earliest": "20220818070907"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/personal-tax-deductions-childcare-and-other-family-costs",
+   "earliest": "20220813203354"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-for-social-media",
+   "earliest": "20220808143024"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-the-tallest-poppy-brought-comfort-food-to-the-wild-west",
+   "earliest": "20190923114140"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-customer-retention",
+   "earliest": "20220816063352"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/maximizing-your-dollar-a-guide-to-picking-the-right-conferences-for-your-business",
+   "earliest": "20190923114101"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/crm-sales-small-business",
+   "earliest": "20220808113127"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/hiring-tips-for-small-businesses",
+   "earliest": "20191208194531"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/believe-it-or-not-nine-entrepreneurship-myths-debunked",
+   "earliest": "20191208194945"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/guest-post-zapier-and-wave",
+   "earliest": "20190923113544"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/how-big-is-a-small-business-heres-why-it-matters",
+   "earliest": "20200102054931"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/call-a-stranger-part-one-the-phone-isnt-dead",
+   "earliest": "20190923114516"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-name-your-business",
+   "earliest": "20221001232509"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-balance-running-multiple-businesses-at-once",
+   "earliest": "20191208194753"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/an-update-on-our-black-lives-matter-commitments",
+   "earliest": "20220813205143"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-is-a-certified-great-place-to-work",
+   "earliest": "20191113082132"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-ways-entrepreneurs-can-make-relevant-connections/",
+   "earliest": "20190917150203"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/aiden-durham-answers-whats-the-right-way-to-pay-yourself",
+   "earliest": "20191113083241"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/is-it-time-to-break-up-with-your-customer/",
+   "earliest": "20190917144049"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-relocation-tips/",
+   "earliest": "20191022200758"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/employee-training",
+   "earliest": "20191113082300"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/steel-oak-designs-wave-artistry-meets-adaptability",
+   "earliest": "20190923114136"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/four-reports-that-show-you-the-health-of-your-business",
+   "earliest": "20191208064024"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-is-a-certified-great-place-to-work",
+   "earliest": "20191021131513"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-validate-your-big-idea",
+   "earliest": "20191208193713"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-small-business-accounting",
+   "earliest": "20220810084014"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/security-this-week-routers",
+   "earliest": "20220813222415"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-a-1099-k-form",
+   "earliest": "20220727144837"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/is-it-worth-the-money-to-hire-a-writer",
+   "earliest": "20220818082000"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-small-business-guide-to-marketing-on-instagram",
+   "earliest": "20191208064520"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-choose-a-bank-for-your-small-business",
+   "earliest": "20190923113418"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/resolutions-for-a-successful-small-business",
+   "earliest": "20220816080012"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/crush-the-competition-with-great-customer-service",
+   "earliest": "20191208194424"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/home-office-productivity-wahm",
+   "earliest": "20220813210812"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-andrew-ratcliff",
+   "earliest": "20220808112634"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cooking-up-new-ideas-how-5-food-businesses-have-adapted",
+   "earliest": "20220808142504"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/growing-the-wave-partner-ecosystem",
+   "earliest": "20191208193556"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-complete-guide-to-freelancing/",
+   "earliest": "20190917143116"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/stop-neglecting-your-cash-flow",
+   "earliest": "20220818065204"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-bother-with-a-bookkeeper",
+   "earliest": "20220810080950"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/business-spring-cleaning",
+   "earliest": "20220810072223"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-helenja-wolfaardt",
+   "earliest": "20220810091027"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-lucas-kim",
+   "earliest": "20191113083357"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/things-to-consider-when-selecting-payroll-software",
+   "earliest": "20191113082342"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/canadian-holiday-pay-made-easy",
+   "earliest": "20191208194402"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/new-rules-for-writing-off-equipment-and-vehicles",
+   "earliest": "20220808142922"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/8-questions-you-should-ask-before-you-get-a-small-business-loan/",
+   "earliest": "20190917151144"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cloudflare-bug",
+   "earliest": "20220813211453"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/choosing-the-best-bank-for-your-kids-future",
+   "earliest": "20191113082839"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/passive-income-strategies-for-entrepreneurs",
+   "earliest": "20220818083502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-cut-operating-expenses/",
+   "earliest": "20190922181034"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/a-guide-to-returning-to-a-newly-imagined-workplace",
+   "earliest": "20220808104449"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-10-small-business-deductions-and-tax-expenses/",
+   "earliest": "20190917150710"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-set-your-contractor-up-for-success-with-a-killer-brief-and-how-to-write-one",
+   "earliest": "20191113082249"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/secure-data-in-wave",
+   "earliest": "20220808134639"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/branding-your-small-business",
+   "earliest": "20191021125905"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/https-www-waveapps-com-blog-tips-creatives-wave",
+   "earliest": "20191208065106"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/eight-techniques-to-help-you-stay-focused",
+   "earliest": "20220810080201"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/three-ways-great-employee-benefits-boost-your-business",
+   "earliest": "20191208065237"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-wins-prism-award",
+   "earliest": "20220808124112"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/year-end-w2-filings-never-easier/",
+   "earliest": "20190917144529"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/practical-tips-on-how-to-stay-productive-while-wfh",
+   "earliest": "20220818072457"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/making-waves-sweet-hart-kitchen",
+   "earliest": "20220810072436"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/flash-sale-activate-payroll-by-january-31st-and-february-and-march-are-free",
+   "earliest": "20220816065906"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-owners-did-you-know",
+   "earliest": "20191208063712"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-stay-healthy-while-running-a-business",
+   "earliest": "20220810085242"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-financial-freedom",
+   "earliest": "20220818071236"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/behind-the-scenes-of-our-2018-rebrand",
+   "earliest": "20191208195235"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-seed-round",
+   "earliest": "20191208064948"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/makingwaves-khan-and-associates",
+   "earliest": "20220808123441"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-relocation-tips",
+   "earliest": "20191208065517"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/how-to-take-care-of-your-mental-health-as-an-entrepreneur",
+   "earliest": "20200416063644"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-government-help",
+   "earliest": "20191208195417"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-right-and-wrong-way-to-use-bots",
+   "earliest": "20191208194513"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-are-bank-payments/",
+   "earliest": "20190922181804"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/celebrating-innovation-win",
+   "earliest": "20220816062631"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/cutting-small-business-expenses",
+   "earliest": "20191208195007"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/top-7-small-business-trends-for-2020",
+   "earliest": "20200319175924"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/eight-fun-content-marketing-ideas-every-small-business-can-try",
+   "earliest": "20220818085359"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-we-show-our-employees-appreciation",
+   "earliest": "20220810080126"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/frequently-asked-questions-about-the-hr-block-acquisition",
+   "earliest": "20191208065716"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/introducing-receipts-by-wave",
+   "earliest": "20220810083337"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/marketing-budget-for-small-businesses/",
+   "earliest": "20190922181938"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/what-is-accounting",
+   "earliest": "20191208194554"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/top-9-reasons-wavers-love-wave",
+   "earliest": "20191208194519"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/building-an-awesome-brand-part-2",
+   "earliest": "20191208195502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-reasons-creativity-sells",
+   "earliest": "20191208194653"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/a-guide-to-business-incubators-where-to-find-them-and-how-to-use-them",
+   "earliest": "20191208065305"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/get-paid-for-my-work",
+   "earliest": "20220818073620"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-tips-small-business-logo",
+   "earliest": "20191208195643"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/photographer-of-the-week-daniel-lateulade-photography",
+   "earliest": "20220816065506"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/11-small-business-banking-terms-you-need-to-know",
+   "earliest": "20220818072124"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-gets-into-small-business-payroll",
+   "earliest": "20220810072006"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/leverage-technology-for-small-business",
+   "earliest": "20220818084620"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/your-ultimate-guide-to-fearless-filing",
+   "earliest": "20191208064820"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-at-your-fingertips-new-navigation",
+   "earliest": "20220816065323"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/17-productivity-tools-to-help-maximize-your-time-and-simplify-your-life",
+   "earliest": "20191208195720"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-organized",
+   "earliest": "20191208194951"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-newbies-guide-to-market-research/",
+   "earliest": "20190922184940"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-small-business-online-relationship-tips",
+   "earliest": "20191208064047"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/is-this-baby-the-next-richard-branson",
+   "earliest": "20220810075451"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-write-a-business-plan",
+   "earliest": "20191208195512"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-employers-need-to-know-about-paying-out-of-state-employees",
+   "earliest": "20220818053314"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/dont-eat-that-six-times-being-a-mompreneur-went-horribly-wrong",
+   "earliest": "20191214105521"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/get-crucial-wave-data-and-more-on-rbcs-mybusiness-dashboard",
+   "earliest": "20220810074129"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/importance-of-separating-business-and-personal-accounts",
+   "earliest": "20220813203449"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-experienced-business-owners-always-have-an-open-credit-line",
+   "earliest": "20220818084355"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cold-calling-tips-small-business",
+   "earliest": "20220816073030"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-benefits-business-integration",
+   "earliest": "20191208195653"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/accounting-101-a-guide-for-amazon-merchants",
+   "earliest": "20191113083036"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/seven-things-stephen-hawkings-life-can-teach-you",
+   "earliest": "20191208194536"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-kevin-dang",
+   "earliest": "20191113083202"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/target-market-small-business",
+   "earliest": "20220808112722"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-ways-to-get-organized-this-january",
+   "earliest": "20201031104254"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-ways-to-be-smart-with-your-money-while-starting-a-business",
+   "earliest": "20220808133011"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-tools-to-turn-your-smartphone-into-your-office/",
+   "earliest": "20191022195240"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-best-practices",
+   "earliest": "20190923112826"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/building-an-onboarding-process-for-your-new-employee-or-contractor",
+   "earliest": "20191021124407"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-songs-for-your-accounting-playlist",
+   "earliest": "20191208195123"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/statement-of-cash-flows",
+   "earliest": "20191208063900"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-seo-tips-for-small-business",
+   "earliest": "20220808142933"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-online-tools",
+   "earliest": "20220818070303"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/building-an-onboarding-process-for-your-new-employee-or-contractor",
+   "earliest": "20191208193953"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/frequently-asked-questions-about-the-hr-block-acquisition",
+   "earliest": "20190923113513"
+  },
+  {
+   "url": "https://www.waveapps.com/blog-category/owner-stories",
+   "earliest": "20220816073104"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/running-a-photography-business",
+   "earliest": "20191113082844"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/target-market-small-business",
+   "earliest": "20191208195546"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/s-corporations-what-they-are-and-5-benefits-of-becoming-one",
+   "earliest": "20190923114002"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/6-steps-take-right-now-make-payroll-easier",
+   "earliest": "20220816072826"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/how-the-canadian-government-is-supporting-small-business-owners-and-employees",
+   "earliest": "20201103040338"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/business-plan-cover-page",
+   "earliest": "20201118010114"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-kevin-dang",
+   "earliest": "20191021124933"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-ways-to-grow-your-business-organically",
+   "earliest": "20220813215707"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-is-a-virtual-assistant-va",
+   "earliest": "20191208195440"
+  },
+  {
+   "url": "https://www.waveapps.com/blog-category/how-to-guides",
+   "earliest": "20220711150136"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/game-of-thrones-and-payroll",
+   "earliest": "20191113083224"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/phishing-scams-dont-get-hooked",
+   "earliest": "20191208194605"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/building-a-good-website-on-a-budget",
+   "earliest": "20191208064836"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/a-guide-to-returning-to-a-newly-imagined-workplace",
+   "earliest": "20201124205048"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-practical-tips-for-paying-off-your-business-debt",
+   "earliest": "20220818051011"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-milestone-moments-from-our-first-5-years",
+   "earliest": "20220818074721"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-advisors-2019",
+   "earliest": "20191021132248"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-20-year-old-riley-millican-excels-as-an-entrepreneur",
+   "earliest": "20220808141947"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/subsidiary-accounting",
+   "earliest": "20220909184024"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/payroll-by-wave-say-goodbye-to-manual-payroll-in-2016",
+   "earliest": "20191208194205"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-mistakes-writers-make-on-social-media",
+   "earliest": "20191208065654"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/crush-the-competition-with-great-customer-service/",
+   "earliest": "20190922182355"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/how-to-support-small-businesses-in-your-community",
+   "earliest": "20200928230748"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/systemization-outsourcing-and-delegation-an-interview-with-nancy-gaines",
+   "earliest": "20191208064756"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/logojoy-wave",
+   "earliest": "20191208064532"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-benefits-of-offering-online-card-and-bank-payments-ach",
+   "earliest": "20220808110347"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/pricing-photography-business",
+   "earliest": "20220813210221"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/credit-card-processing-fees-for-small-businesses",
+   "earliest": "20220808132150"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/vestiigo-small-business-hr-accounting",
+   "earliest": "20220818082134"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-your-small-business-can-compete-with-bigger-firms",
+   "earliest": "20220808112647"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-day-the-government-took-all-my-money",
+   "earliest": "20221002003348"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/when-is-it-time-to-take-your-side-hustle-full-time",
+   "earliest": "20191208065039"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/year-end-t4-filings-never-simpler/",
+   "earliest": "20190917143009"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/content-and-seo-how-to-optimize-your-blog",
+   "earliest": "20191208194832"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/upgrading-your-skills-how-business-owners-can-keep-their-expertise-sharp/",
+   "earliest": "20190917145337"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-start-business-passion",
+   "earliest": "20220810082552"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/its-here-mobile-check-deposit-for-wave-money",
+   "earliest": "20220808103544"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/do-more-for-your-business-with-new-wave-features",
+   "earliest": "20191021130824"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-touch-ups-for-photographers/",
+   "earliest": "20191021125321"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-branding-strategy",
+   "earliest": "20220813215534"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/effective-leadership-tips",
+   "earliest": "20191208065005"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/win-big-in-january-and-meet-our-2014-contest-winners",
+   "earliest": "20220813221851"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/introducing-wave-payroll",
+   "earliest": "20220813221242"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-from-one-wave-pro-to-another",
+   "earliest": "20220818073548"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-makes-the-2019-list-of-best-workplaces-for-women",
+   "earliest": "20190923112816"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/5-ways-accounting-helps-your-small-business-generate-profit",
+   "earliest": "20191208065100"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments-by-wave-walkthrough",
+   "earliest": "20220816073830"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/invoice-template-vs-online-invoice-software-what-do-i-choose",
+   "earliest": "20191113082545"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/automatic-billing",
+   "earliest": "20191208195631"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-seed-round",
+   "earliest": "20220810072533"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/celebrating-innovation-win",
+   "earliest": "20191208194940"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/read-great-tips-from-kirk-in-huffington-post-canada",
+   "earliest": "20220808130051"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-figure-out-if-a-business-loan-is-right-for-you",
+   "earliest": "20191113083235"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-art-of-running-a-business-without-ruining-relationships",
+   "earliest": "20191113180051"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-to-get-organized-this-january",
+   "earliest": "20220808133156"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-tools-to-help-you-nail-small-business-content-marketing",
+   "earliest": "20220808111828"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-maximize-december-sales",
+   "earliest": "20191208195118"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-to-finance-your-small-business",
+   "earliest": "20191021133158"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/three-ways-great-employee-benefits-boost-your-business",
+   "earliest": "20190923114057"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-money-the-future-of-small-business-banking",
+   "earliest": "20210731132105"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-marketing-tips",
+   "earliest": "20191208064127"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-mobile-site-tips",
+   "earliest": "20201112000744"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-sarah-bugeja",
+   "earliest": "20191113083523"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/recruiting-tips-five-ways-to-reduce-your-cost-per-hire",
+   "earliest": "20191208195636"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-good-writing-can-help-grow-your-brand",
+   "earliest": "20190923113327"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/ppc-vs-seo-for-small-business",
+   "earliest": "20191208195620"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/congrats-to-our-100-dollar-invoice-contest-winners",
+   "earliest": "20220808124628"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-buys-vuru",
+   "earliest": "20220808131201"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-is-a-competitive-analysis",
+   "earliest": "20191208195609"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/6000-dollar-freelance-tax-lesson",
+   "earliest": "20191208194917"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-you-need-to-get-a-small-business-loan",
+   "earliest": "20191208195541"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-to-be-acquired-by-hr-block-for-537-million",
+   "earliest": "20191208193508"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-simple-method-to-make-any-business-more-profitable-permanently-2",
+   "earliest": "20220810084450"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/instagram-small-business-audit-four-moons-spa",
+   "earliest": "20220808142950"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-get-inspired-when-you-want-to-start-a-business",
+   "earliest": "20191208195224"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/student-start-a-business",
+   "earliest": "20220813211124"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-meet-odile-vanderzaag",
+   "earliest": "20191208064937"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/eight-fun-content-marketing-ideas-every-small-business-can-try",
+   "earliest": "20191208064926"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/six-ways-to-keep-a-healthy-work-life-balance",
+   "earliest": "20221002003714"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-examples-of-women-killing-it-as-moms-entrepreneurs",
+   "earliest": "20220810074743"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cash-flow-projection/",
+   "earliest": "20190922190041"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-track-business-expenses-and-why-its-important/",
+   "earliest": "20190917145417"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/doing-well-by-doing-good-four-stories-of-social-entrepreneurs",
+   "earliest": "20191208195423"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-deductions-home-office/",
+   "earliest": "20191022195535"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/glossary-marketing-terms",
+   "earliest": "20220813203930"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/customer-profile-earth-and-equine",
+   "earliest": "20220808141523"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/banking-on-small-business",
+   "earliest": "20210302015337"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-define-your-payment-terms-on-your-invoices-and-why-you-should",
+   "earliest": "20190923113622"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/showcasing-women-in-tech-at-wave",
+   "earliest": "20191208195029"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/crm-sales-small-business",
+   "earliest": "20191208195715"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/how-to-avoid-small-business-payment-scams",
+   "earliest": "20191208194821"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/crowdsourcing-small-business",
+   "earliest": "20191208195257"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/content-marketing-reporting-key-metrics-to-examine",
+   "earliest": "20191208195241"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/viral-social-media-for-small-businesses",
+   "earliest": "20191208194430"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-software-for-small-businesses",
+   "earliest": "20220808122513"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-a-virtual-assistant-va/",
+   "earliest": "20190917143139"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-customers-want",
+   "earliest": "20220808112748"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/march-goals-part-4-finding-clients-with-adwords-optimization",
+   "earliest": "20220808125552"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/3-common-payroll-mistakes-us-employers-make",
+   "earliest": "20220818075824"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/employee-training",
+   "earliest": "20220808135438"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/mega-invoicing-update",
+   "earliest": "20220818084503"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-recession-proof-your-small-business",
+   "earliest": "20220924170011"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/small-business-big-pivots-moving-services-online",
+   "earliest": "20200528031113"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/boss-pitch-how-to-successfully-pitch-your-business-ideas/",
+   "earliest": "20190922182932"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/four-proven-ways-to-increase-your-repeat-customer-base",
+   "earliest": "20220816075711"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/9-tips-by-entrepreneurs-on-starting-a-new-business",
+   "earliest": "20220808112914"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-take-a-vacation-when-you-have-a-small-business",
+   "earliest": "20220810075414"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-acquires-every",
+   "earliest": "20191113082724"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/make-a-profit-every-year-with-the-profit-first-formula/",
+   "earliest": "20190922184003"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-steps-every-initiative",
+   "earliest": "20191208194441"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-balance-running-multiple-businesses-at-once",
+   "earliest": "20220808131605"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/6-steps-to-take-after-the-tax-deadline",
+   "earliest": "20220818083653"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-mistakes-writers-make-on-social-media",
+   "earliest": "20220808112939"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-marketing-experts-to-help-you-boost-your-social-media-in-2019",
+   "earliest": "20221002001915"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-accept-credit-cards",
+   "earliest": "20220816075305"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/choose-best-apps-for-business",
+   "earliest": "20220818083231"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-small-businesses-can-save-money-by-going-paperless",
+   "earliest": "20191208193729"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-inspiring-quotes-from-female-business-leaders",
+   "earliest": "20191208195429"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/eight-techniques-to-help-you-stay-focused",
+   "earliest": "20200416063639"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/one-page-business-plan/",
+   "earliest": "20190917144620"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-for-building-buzz-small-business",
+   "earliest": "20190923113518"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/passive-income-strategies-for-entrepreneurs",
+   "earliest": "20191113082729"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/deloitte-names-wave-one-of-north-americas-fastest-growing-tech-companies",
+   "earliest": "20190923112845"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/running-a-photography-business",
+   "earliest": "20220818073211"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-reasons-not-to-use-your-personal-phone-number-for-business-and-what-you-should-do-instead",
+   "earliest": "20191113082750"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-advantages-of-working-somewhere-other-than-your-couch-and-ideas-to-get-you-started",
+   "earliest": "20220808134328"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/ebbing-and-flowing-five-ways-to-manage-small-business-finances",
+   "earliest": "20191208194216"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/common-tax-mistakes",
+   "earliest": "20191208194249"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/fitness4youth-wave-passion-meets-productivity",
+   "earliest": "20190923115248"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/copyright-infringement-photographer",
+   "earliest": "20220813204233"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cash-flow-for-small-businesses/",
+   "earliest": "20190917143017"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-andrew-ratcliff",
+   "earliest": "20191208195518"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/managing-independent-contractors-at-tax-time-101",
+   "earliest": "20220808094302"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-big-is-a-small-business-heres-why-it-matters",
+   "earliest": "20220810082753"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-actually-get-paid/",
+   "earliest": "20190922181046"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/upgrading-your-skills-how-business-owners-can-keep-their-expertise-sharp",
+   "earliest": "20191208194026"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/real-talk-the-truth-about-starting-your-own-business",
+   "earliest": "20220818075229"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-songs-all-freelancers-can-relate-to",
+   "earliest": "20220808131714"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/2-best-facebook-tips-for-small-business",
+   "earliest": "20220808134241"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-complete-guide-to-small-business-payroll",
+   "earliest": "20190923115608"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-communication-tips",
+   "earliest": "20191208194138"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/get-paid-faster-when-you-accept-credit-cards-with-wave",
+   "earliest": "20220818083111"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/how-staying-on-top-of-categorizing-transactions-helps-your-business",
+   "earliest": "20210430162546"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-start-a-business-a-complete-playbook",
+   "earliest": "20191208193842"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-owners-did-you-know",
+   "earliest": "20191021132510"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-pay-yourself-as-a-sole-proprietor",
+   "earliest": "20220808140737"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/choosing-the-best-bank-for-your-kids-future",
+   "earliest": "20190923113646"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-nine-best-books-and-podcasts-for-customer-service-inspiration",
+   "earliest": "20191208194502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/us-income-tax-starter-pack",
+   "earliest": "20221001113810"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/google-apps-small-business",
+   "earliest": "20191208194559"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-small-business-owners-need-to-know-the-cares-act",
+   "earliest": "20221002000522"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-marketing-mix-starter-kit-for-new-businesses",
+   "earliest": "20191208193937"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-time-saving-tips",
+   "earliest": "20191208195230"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-makes-the-2019-list-of-best-workplaces-for-inclusion",
+   "earliest": "20191208194350"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-transform-your-business-by-systemizing-and-automating",
+   "earliest": "20191208063825"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/invoice-template-vs-online-invoice-software-what-do-i-choose",
+   "earliest": "20190923113340"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/international-womens-day",
+   "earliest": "20220818074549"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/statement-of-cash-flows",
+   "earliest": "20190923113023"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/mike-reisacher-wave-inspiration-meets-integration",
+   "earliest": "20190923113527"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-season-timeline-for-small-business",
+   "earliest": "20220818075015"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-tips-web-design-strategy",
+   "earliest": "20191208194238"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-acquires-every",
+   "earliest": "20190923113017"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/should-you-hire-a-bookkeeper-or-do-it-yourself",
+   "earliest": "20220808113034"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-to-make-your-office-more-sustainable",
+   "earliest": "20220818083922"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/6-time-management-tips-for-solopreneurs",
+   "earliest": "20220808132829"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/reasons-why-you-should-file-your-taxes-asap",
+   "earliest": "20220818065307"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/managing-independent-contractors-at-tax-time-101",
+   "earliest": "20210119183709"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/the-complete-guide-to-getting-paid",
+   "earliest": "20191113082353"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-for-building-online-communities",
+   "earliest": "20220810084414"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-keep-morale-high-when-facing-adversity",
+   "earliest": "20220810071258"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/dos-and-donts-of-client-servicing",
+   "earliest": "20191208194435"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-guide-getting-paid-faster-2022",
+   "earliest": "20220808093858"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/payroll-best-practices",
+   "earliest": "20191208064514"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-ultimate-small-business-summer-reading-and-listening-guide",
+   "earliest": "20191208194637"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-valuable-learning-and-development-trends-you-need-to-know",
+   "earliest": "20220816065542"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/you-are-getting-sleepy-very-sleepy-or-not",
+   "earliest": "20190923112849"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/forget-work-life-balance-and-focus-on-creating-harmony-instead",
+   "earliest": "20191208194004"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-biz-big-moves",
+   "earliest": "20220816061344"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/i-forgot-to-pay-my-payroll-tax-now-what",
+   "earliest": "20220818074820"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-andy-chiang-and-gabe-tomescu",
+   "earliest": "20191208194339"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-simple-ways-to-protect-your-digital-marketing-assets",
+   "earliest": "20191208065151"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/why-the-executive-summary-is-the-most-important-section-of-your-biz-plan-and-how-to-write-one",
+   "earliest": "20191113082446"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-time-saving-tips",
+   "earliest": "20220816070119"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-lending-the-pros-and-cons-of-loans",
+   "earliest": "20191208193445"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/ppc-vs-seo-for-small-business",
+   "earliest": "20220808112856"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-communication-tips/",
+   "earliest": "20191022191719"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-government-help",
+   "earliest": "20191021125216"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/should-i-use-a-personal-loan-for-my-business/",
+   "earliest": "20190917151750"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/happy-pops-wave-sweetness-meets-sophistication",
+   "earliest": "20191208064018"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/marketing-budget-for-small-businesses",
+   "earliest": "20191214103537"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/market-research-for-small-businesses/",
+   "earliest": "20190922192534"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-take-care-of-your-mental-health-as-an-entrepreneur",
+   "earliest": "20220816071459"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/us-election-survey",
+   "earliest": "20220818070506"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/import-customer-lists-via-csv/",
+   "earliest": "20190917150952"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-9-reasons-wavers-love-wave",
+   "earliest": "20220813212043"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/geek-girls-in-vegas-wave-technology-meets-transparency",
+   "earliest": "20190923113355"
+  },
+  {
+   "url": "https://www.waveapps.com/blog-category/accounting-and-taxes",
+   "earliest": "20220711150118"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/ensure-my-own-needs-arent-being-forgotten",
+   "earliest": "20220810084913"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/learning-from-five-common-bookkeeping-mistakes",
+   "earliest": "20220818081109"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-do-you-set-and-manage-goals-for-your-business",
+   "earliest": "20201028000146"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/leverage-technology-for-small-business",
+   "earliest": "20191208064915"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-calculate-retained-earnings",
+   "earliest": "20220711150136"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/premium-services-2014-year-end",
+   "earliest": "20220813204017"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/breaking-down-bill-h-r-133",
+   "earliest": "20210818012157"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/finding-small-business-loans",
+   "earliest": "20191208064616"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/automatic-billing",
+   "earliest": "20220808112926"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/meet-our-november-contest-winner-vernon-of-sound-crater-recording",
+   "earliest": "20220818074235"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/march-goals-part-4-finding-clients-with-adwords-optimization",
+   "earliest": "20191208064327"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-and-your-banks-fine-print",
+   "earliest": "20220808132615"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/not-accepting-credit-cards-is-costing-your-business",
+   "earliest": "20191208193735"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-complete-guide-to-small-business-tax-season",
+   "earliest": "20190923113632"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-small-business-logo",
+   "earliest": "20220711150412"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-ways-to-ignite-your-creativity-without-spending-money",
+   "earliest": "20191208193652"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-quiz-on-deduction-expenses",
+   "earliest": "20220816072648"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-online-services-save-small-business-money",
+   "earliest": "20220808131311"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/choose-best-apps-for-business",
+   "earliest": "20191208193602"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/sponsored-post-a-secret-time-and-sanity-saver-pssst-its-a-virtual-phone-system",
+   "earliest": "20220818083026"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/2014-reminders-payroll-by-wave",
+   "earliest": "20220810090508"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/importance-of-executive-summary-in-business-plan",
+   "earliest": "20220711150412"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/tips-starting-business-wahm",
+   "earliest": "20191208194154"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/what-are-bank-payments",
+   "earliest": "20191113083208"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wordpress-tips-small-business",
+   "earliest": "20220818075648"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/what-is-cash-flow-a-guide-to-keeping-money-moving-in-your-business",
+   "earliest": "20191208194121"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-design-series-your-new-home-page",
+   "earliest": "20220813220917"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/next-36-entrepreneurs",
+   "earliest": "20220816073300"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/another-milestone-and-what-10-million-means-to-you",
+   "earliest": "20220810090955"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/what-employers-need-to-know-about-paying-out-of-state-employees",
+   "earliest": "20201006021639"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/five-ways-to-be-smart-with-your-money-while-starting-a-business",
+   "earliest": "20191208194132"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/4-tips-for-2020-planning-from-wave-entrepreneurs",
+   "earliest": "20220810071401"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-for-a-winning-presentation",
+   "earliest": "20220813215514"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/2019-trends-business-owners-should-pay-attention-to",
+   "earliest": "20220818072315"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/the-benefits-of-offering-online-card-and-bank-payments-ach",
+   "earliest": "20201017171846"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-start-business-passion",
+   "earliest": "20191208193641"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-siobhan-hitchmough",
+   "earliest": "20191021125411"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/usability-tips-small-business",
+   "earliest": "20220808143019"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/saving-credit-cards-with-payments-by-wave",
+   "earliest": "20220810074858"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/the-hidden-cost-of-checks",
+   "earliest": "20191208065637"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/social-media-marketing-for-small-businesses",
+   "earliest": "20191208195107"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-sakshi-daral",
+   "earliest": "20191208195313"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/more-ways-easier-to-send-invoices",
+   "earliest": "20220818074919"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/new-and-coming-soon-wave-products",
+   "earliest": "20191208195139"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/are-you-a-mompreneur-2/",
+   "earliest": "20190916042826"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-dos-and-donts-of-client-gifting",
+   "earliest": "20191208065353"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/photographer-online-small-business",
+   "earliest": "20220813221703"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-tips-to-get-your-books-under-control-fast/",
+   "earliest": "20190917143159"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/9-common-cash-flow-problems/",
+   "earliest": "20190917143728"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-marketing-tips",
+   "earliest": "20190923113552"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/building-an-awesome-brand-part-2",
+   "earliest": "20190923113104"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/sponsored-post-small-business-big-leagues-project-management-tool-mvp",
+   "earliest": "20220818075521"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cloud-accounting-survey-2015",
+   "earliest": "20220816064140"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-manage-business-finances",
+   "earliest": "20220818074127"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/the-ultimate-year-end-payroll-checklist",
+   "earliest": "20191113082946"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-a-scam-artist-taught-me-about-storytelling",
+   "earliest": "20220818065626"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/how-wave-plus-can-help-your-business",
+   "earliest": "20191208064841"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-examples-of-women-killing-it-as-moms-entrepreneurs",
+   "earliest": "20191214095551"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-ways-your-small-business-can-compete-with-bigger-firms",
+   "earliest": "20191208195530"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-break-even-analysis",
+   "earliest": "20220818084243"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/diversity-and-inclusion-by-the-numbers-2021",
+   "earliest": "20210317182942"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/resources-for-employers-affected-by-covid-19",
+   "earliest": "20220818081856"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/social-media-advertising-how-small-businesses-can-build-a-social-media-ads-strategy",
+   "earliest": "20191214111023"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/waves-vp-of-business-developments-top-6-books-this-year",
+   "earliest": "20201126200320"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/recruiting-small-business",
+   "earliest": "20220813205610"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/geek-girls-in-vegas-wave-technology-meets-transparency",
+   "earliest": "20191208064345"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-the-paycheck-protection-program-flexibility-act-means-for-small-business-owners",
+   "earliest": "20221002001201"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/six-brilliant-quotes-to-inspire-awesome-communication-with-your-customers",
+   "earliest": "20220816080713"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-10-payroll-tips",
+   "earliest": "20221002004438"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-starting-business-wahm",
+   "earliest": "20220813220448"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-rob-van-oostrum",
+   "earliest": "20191021125401"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/we-love-when-our-wave-pros-love-us-back-on-trustradius",
+   "earliest": "20220810084551"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/managing-employee-anxiety-on-returning-to-the-workplace",
+   "earliest": "20201005085523"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/cash-reserve-small-business",
+   "earliest": "20191208195156"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-ultimate-small-business-autumn-reading-and-listening-guide",
+   "earliest": "20191208193947"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/free-online-accounting-business",
+   "earliest": "20220813210257"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/work-life-balance-for-mompreneur-wahms",
+   "earliest": "20220808133959"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/las-fincas-a-story-of-passion-and-incomparable-coffee-from-crop-to-cup",
+   "earliest": "20191208064611"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/security-this-week-keeping-track-of-compromised-accounts",
+   "earliest": "20220818064456"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/top-reasons-you-should-blog-as-an-entrepreneur",
+   "earliest": "20191208194849"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-safe-is-online-accounting-software",
+   "earliest": "20220808130631"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-take-a-vacation-when-you-have-a-small-business",
+   "earliest": "20191208193528"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/announcing-our-exciting-partnership-with-mybesthelper",
+   "earliest": "20220816065830"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/so-you-got-a-chargeback-now-what",
+   "earliest": "20191113083335"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-ways-to-improve-your-business-during-slow-seasons",
+   "earliest": "20191208194200"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/youre-scared-of-the-wrong-things-when-it-comes-to-taxes",
+   "earliest": "20220813203246"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/great-entrepreneurs-from-history-part-two",
+   "earliest": "20191208195318"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-ways-to-ignite-your-creativity-without-spending-money",
+   "earliest": "20220816063945"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/dos-and-donts-of-client-servicing",
+   "earliest": "20220711150417"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/eight-ways-to-save-your-small-business-money",
+   "earliest": "20191208194418"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-maximize-december-sales",
+   "earliest": "20220816073059"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/i-got-audited-and-lived-to-tell-the-tale",
+   "earliest": "20220808113056"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-best-marketing-tactic-for-a-small-business-budget",
+   "earliest": "20190923113137"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/cash-flow-surplus",
+   "earliest": "20191208065539"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-staying-on-top-of-categorizing-transactions-helps-your-business",
+   "earliest": "20220816062331"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-powerpoint-alternative",
+   "earliest": "20220808111512"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-for-filing-w-2-and-w-3-forms-in-2014",
+   "earliest": "20220816071817"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/spooky-business-five-entrepreneurs-who-were-haunted-by-a-dream",
+   "earliest": "20190923113940"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-a-scam-artist-taught-me-about-storytelling",
+   "earliest": "20191208194322"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-reasons-you-should-blog-as-an-entrepreneur",
+   "earliest": "20220816072430"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/what-is-break-even-analysis",
+   "earliest": "20210130204627"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/by-the-numbers-a-look-at-diversity-and-inclusion-at-wave",
+   "earliest": "20191208193546"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/april-goals-part-1-building-an-awesome-brand",
+   "earliest": "20220816074800"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/business-reimagined-new-products",
+   "earliest": "20220818071728"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/home-office-productivity-wahm",
+   "earliest": "20191208193502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/connect-more-with-my-customers",
+   "earliest": "20220816072809"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-small-business-online-relationship-tips",
+   "earliest": "20220808125637"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/invoice-payment-terms",
+   "earliest": "20220813222618"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurial-advice-navigating-covid-19",
+   "earliest": "20220810074428"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/introducing-workers-compensation-for-payroll",
+   "earliest": "20190923113815"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/productivity-continued-eight-techniques-to-help-you-stay-focused",
+   "earliest": "20191208193847"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/call-a-stranger-part-three-empathy-conversation",
+   "earliest": "20191208195129"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/zapier1000",
+   "earliest": "20191208064502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-get-inspired-when-you-want-to-start-a-business",
+   "earliest": "20220810090649"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/finding-small-business-loans/",
+   "earliest": "20190922181533"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/invoice-app-new-features/",
+   "earliest": "20191022184827"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/introducing-workers-compensation-for-payroll",
+   "earliest": "20191113083002"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-tips-to-stay-on-top-of-your-business",
+   "earliest": "20191208194709"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/wordpress-tips-small-business",
+   "earliest": "20191208195018"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/recurring-billing-helps-businesses-thrive",
+   "earliest": "20190923113717"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/call-a-stranger-part-four-inspiring-a-conversation",
+   "earliest": "20220808112452"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/audit-tips",
+   "earliest": "20190923113128"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/should-you-hire-a-bookkeeper-or-do-it-yourself",
+   "earliest": "20191214101416"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-its-important-for-small-businesses-to-keep-accurate-books/",
+   "earliest": "20190917143228"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-lending-the-pros-and-cons-of-loans/",
+   "earliest": "20190922181031"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-sarah-bugeja",
+   "earliest": "20220808113109"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-commandments-privacy-online-accounting",
+   "earliest": "20220816070957"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/6000-dollar-freelance-tax-lesson/",
+   "earliest": "20190917143133"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/what-is-bank-reconciliation",
+   "earliest": "20191113082612"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-complete-guide-to-getting-paid/",
+   "earliest": "20190922192236"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-by-wave-say-hello-to-the-new-tax-liabilities-page",
+   "earliest": "20220813222447"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-good-writing-can-help-grow-your-brand",
+   "earliest": "20191208194031"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/by-the-numbers-a-look-at-diversity-and-inclusion-at-wave/",
+   "earliest": "20190917143126"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-phone-plan-tips",
+   "earliest": "20191208064920"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-marketing",
+   "earliest": "20191208194621"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/new-and-coming-soon-wave-products",
+   "earliest": "20191021125106"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-mark-bluvshtein/",
+   "earliest": "20190917143122"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/content-and-seo-how-to-optimize-your-blog",
+   "earliest": "20220813204614"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/top-10-payroll-tips",
+   "earliest": "20191113083152"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-art-of-running-a-business-without-ruining-relationships",
+   "earliest": "20190923114028"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-keep-from-burning-out",
+   "earliest": "20191208194716"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-basics-a-quick-glossary-of-important-accounting-terms-for-non-finance-folk",
+   "earliest": "20190923113805"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/call-a-stranger-part-two-calls-that-get-returned",
+   "earliest": "20221001231253"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-songs-all-freelancers-can-relate-to",
+   "earliest": "20191208193516"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/economic-relief-for-wave-customers",
+   "earliest": "20201105033857"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/a-fair-approach-to-handling-layoffs-during-an-economic-crisis",
+   "earliest": "20201202085702"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/disruptor-small-business",
+   "earliest": "20191208193904"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/5-faqs-about-workers-compensation",
+   "earliest": "20191113082502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/receipts-by-wave-gets-uploads-from-drive-dropbox-and-more",
+   "earliest": "20220808124549"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/banking-on-small-business",
+   "earliest": "20220711150212"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/full-invoicing-cycle",
+   "earliest": "20220818081248"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/importance-of-a-business-plan",
+   "earliest": "20191208194524"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/how-to-track-business-expenses-and-why-its-important",
+   "earliest": "20191113082204"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-selling-tips",
+   "earliest": "20220818080156"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-elusive-small-business-grant-nine-tips-on-what-it-is-and-how-to-find-it/",
+   "earliest": "20190922181015"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/introducing-next-wave",
+   "earliest": "20220808123858"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/a-guide-to-business-incubators-where-to-find-them-and-how-to-use-them",
+   "earliest": "20220813212305"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/seven-ways-to-eat-healthy-no-matter-how-busy-you-are",
+   "earliest": "20220808130443"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/balance-sheet-example/",
+   "earliest": "20190922182503"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/7-ways-to-automate-your-invoices-to-get-paid-faster",
+   "earliest": "20190923113011"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/resources-for-employers-affected-by-covid-19",
+   "earliest": "20200421102923"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/technology-for-your-business-friend-or-foe",
+   "earliest": "20191208194452"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-start-a-business-a-complete-playbook",
+   "earliest": "20190923112948"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/growing-the-wave-partner-ecosystem",
+   "earliest": "20220818081058"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-laura-kavanagh-and-ramya-rajan",
+   "earliest": "20191113083330"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-market-research",
+   "earliest": "20210206174914"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-hidden-cost-of-checks",
+   "earliest": "20220808112729"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-software-without-the-software",
+   "earliest": "20220810082242"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-home-office-organizing",
+   "earliest": "20191208064212"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-ultimate-small-business-autumn-reading-and-listening-guide/",
+   "earliest": "20190917151000"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/vuru-lives-on",
+   "earliest": "20220810073518"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/stop-neglecting-your-cash-flow",
+   "earliest": "20191208065111"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-makes-the-2019-list-of-best-workplaces-for-women",
+   "earliest": "20191208065506"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/importance-of-separating-business-and-personal-accounts",
+   "earliest": "20201216194944"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/be-a-better-employer",
+   "earliest": "20220808132351"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/steel-oak-designs-wave-artistry-meets-adaptability",
+   "earliest": "20191113082414"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/empower-yourself-with-our-fearless-accounting-guide",
+   "earliest": "20191113082801"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/how-to-keep-morale-high-when-facing-adversity",
+   "earliest": "20201106163200"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/cash-flow-for-small-businesses",
+   "earliest": "20191113083246"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/6-tips-managing-seasonal-photography-business",
+   "earliest": "20191208194149"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-guerrilla-marketing",
+   "earliest": "20220813210852"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/the-complete-guide-to-small-business-payroll",
+   "earliest": "20191113082148"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/2021-tax-checklist",
+   "earliest": "20210322142159"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-network-how-putting-yourself-out-there-helps-your-small-business",
+   "earliest": "20191208064702"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-validate-your-big-idea",
+   "earliest": "20220808122848"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/supporting-women-in-startups-and-tech",
+   "earliest": "20220810073023"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-market-research",
+   "earliest": "20190922192202"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/the-simple-method-to-make-any-business-more-profitable-permanently-2",
+   "earliest": "20191208064808"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-guerrilla-marketing",
+   "earliest": "20191208194333"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/instant-payouts",
+   "earliest": "20191113175656"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-marketing-online",
+   "earliest": "20220816074344"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/how-half-bankeds-desirae-odjick-juggles-a-full-time-job-and-a-successful-side-hustle",
+   "earliest": "20191208193535"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/top-5-financial-tips-to-keep-your-business-healthy",
+   "earliest": "20220810073355"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-blog-like-a-pro",
+   "earliest": "20191208195451"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-avoid-small-business-payment-scams/",
+   "earliest": "20190922190643"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/2022-tax-checklist-get-ready-for-tax-season",
+   "earliest": "20220318145712"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/canadian-entrepreneurs-get-legislative-changes-dec-2019",
+   "earliest": "20220816073037"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/gratituesdays-at-wave/",
+   "earliest": "20190917143452"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/time-get-paid",
+   "earliest": "20220818074337"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/managing-employee-anxiety-on-returning-to-the-workplace",
+   "earliest": "20220816070152"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/whats-the-one-thing-you-wish-you-knew-when-you-started-your-business",
+   "earliest": "20220808133806"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-marketing-mix-starter-kit-for-new-businesses",
+   "earliest": "20220810090724"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/22-free-and-low-cost-tools-to-help-run-your-small-business",
+   "earliest": "20220810084120"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/practical-tips-on-how-to-stay-productive-while-wfh",
+   "earliest": "20201222183626"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-branding-strategy",
+   "earliest": "20191208065329"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/modifying-your-marketing-plan-during-covid-19",
+   "earliest": "20220816062424"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/building-an-awesome-brand-part-4-brand-story",
+   "earliest": "20220810072744"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-inspiring-quotes-from-female-business-leaders",
+   "earliest": "20220808112255"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/breaking-down-bill-h-r-133",
+   "earliest": "20220813221350"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/notice-regarding-yahoo-email-addresses",
+   "earliest": "20220818072755"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-figure-out-if-a-business-loan-is-right-for-you",
+   "earliest": "20190923114406"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-self-employment-tax",
+   "earliest": "20220813204359"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-money-the-future-of-small-business-banking",
+   "earliest": "20220810080626"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/audit-tips",
+   "earliest": "20191208195524"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-customer-feedback-is-a-big-deal-for-small-businesses-and-freelancers",
+   "earliest": "20220810080546"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-tips-online-brand",
+   "earliest": "20191208195558"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-steve-dotto-uses-wave-to-increase-productivity",
+   "earliest": "20190923114409"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-rob-van-oostrum",
+   "earliest": "20191113083302"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/alternatives-to-flint-mobile-payment-processing",
+   "earliest": "20220813204525"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/how-to-cut-operating-expenses",
+   "earliest": "20191208195709"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-nine-best-books-and-podcasts-for-customer-service-inspiration",
+   "earliest": "20220810073104"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-insights-getting-paid",
+   "earliest": "20220810082127"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/call-a-stranger-part-two-calls-that-get-returned",
+   "earliest": "20191208064438"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/recurring-billing-helps-businesses-thrive",
+   "earliest": "20191113083257"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-tools-to-help-you-nail-small-business-content-marketing",
+   "earliest": "20191208065529"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/six-tips-for-effective-marketing-photography-for-your-small-business",
+   "earliest": "20220818082328"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-set-your-contractor-up-for-success-with-a-killer-brief-and-how-to-write-one",
+   "earliest": "20190923114042"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-network-how-putting-yourself-out-there-helps-your-small-business",
+   "earliest": "20220813214309"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/introducing-the-payroll-year-end-survival-series",
+   "earliest": "20220808133402"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/happy-holidays-2013",
+   "earliest": "20220813222637"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/receipt-scanning-app/",
+   "earliest": "20191022190259"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-best-ways-to-stay-motivated",
+   "earliest": "20220810090433"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-ways-to-improve-your-business-during-slow-seasons",
+   "earliest": "20220810090753"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/call-a-stranger-part-four-inspiring-a-conversation",
+   "earliest": "20191208065602"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-has-your-relationship-to-money-changed-since-having-a-business-2",
+   "earliest": "20220816061146"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-write-a-business-plan/",
+   "earliest": "20190922191454"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-deductions-vehicle-expenses",
+   "earliest": "20220816070226"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/all-that-and-a-bag-of-chips",
+   "earliest": "20220816071655"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/making-waves-yoga-kawa",
+   "earliest": "20220813212007"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/visual-brand-identity-design",
+   "earliest": "20191208194042"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/4-easy-steps-to-get-organized-before-the-2014-income-tax-deadline",
+   "earliest": "20220816071723"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-state-of-womens-entrepreneurship-in-2019",
+   "earliest": "20190923113335"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/great-entrepreneurs-from-history-part-1",
+   "earliest": "20191208195329"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/common-tax-mistakes",
+   "earliest": "20220810072940"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/red-flags-how-to-spot-fraud-and-protect-your-small-business-against-chargebacks",
+   "earliest": "20220315190436"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-for-naming-your-business",
+   "earliest": "20220808124331"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tax-deductions-depreciation",
+   "earliest": "20220808143002"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-knowing-your-customers-matters",
+   "earliest": "20220816063625"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/marketing-ideas-for-small-budgets/",
+   "earliest": "20190917144358"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/start-organizing-your-next-years-filing-now",
+   "earliest": "20220808112501"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/waves-youngest-entrepreneur-an-interview-with-sweet-party-rental",
+   "earliest": "20220813212850"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/meet-our-october-invoice-to-win-contest-winner",
+   "earliest": "20220810090250"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/can-i-throw-out-my-receipts-small-business-accounting",
+   "earliest": "20220808134217"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/improvements-to-payroll-by-wave",
+   "earliest": "20220818075626"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/start-organizing-your-next-years-filing-now",
+   "earliest": "20191113173926"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/tools-web-site-free",
+   "earliest": "20191208065648"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/instant-payouts/",
+   "earliest": "20190917143236"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/so-you-hired-an-employee-whats-next",
+   "earliest": "20191208065711"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cash-flow-surplus",
+   "earliest": "20190923115349"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/11-small-business-banking-terms-you-need-to-know",
+   "earliest": "20201101030719"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team",
+   "earliest": "20191113082359"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/overcoming-your-fear-of-failure-when-starting-a-business",
+   "earliest": "20191208195201"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/stop-chasing-after-overdue-invoices/",
+   "earliest": "20190922182655"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/payroll-by-wave-is-free-for-30-days-for-all-american-businesses",
+   "earliest": "20191113082940"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-are-backlinks-and-how-to-build-backlinks",
+   "earliest": "20191208194317"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/why-traditional-banks-dont-work-for-small-business",
+   "earliest": "20220813211711"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/have-you-customized-your-invoices-yet",
+   "earliest": "20220808142215"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/maximizing-your-dollar-a-guide-to-picking-the-right-conferences-for-your-business",
+   "earliest": "20191208194015"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/google-apps-small-business",
+   "earliest": "20220808123628"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/five-ways-entrepreneurs-can-make-relevant-connections",
+   "earliest": "20191208193746"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-michael-nicolaou",
+   "earliest": "20190923114233"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/accounting-basics-a-quick-glossary-of-important-accounting-terms-for-non-finance-folk",
+   "earliest": "20191208194615"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-tips-for-conquering-cash-flow-struggles-when-youre-self-employed",
+   "earliest": "20190923114113"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/how-waves-risk-team-helps-your-business",
+   "earliest": "20191208064316"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-to-recieve-up-to-750k-from-feddev",
+   "earliest": "20220808135138"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/believe-it-or-not-nine-entrepreneurship-myths-debunked",
+   "earliest": "20220816075350"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/waterstone-canadas-most-admired-awards",
+   "earliest": "20220808111159"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tackle-year-end-like-boss",
+   "earliest": "20220711150136"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/outlaw-country-tattoo-an-inclusive-shop-for-artists-and-customers-alike",
+   "earliest": "20190923115954"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/photographer-of-the-week-maxine-denver-photo-video",
+   "earliest": "20220808142323"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/what-is-a-competitive-analysis",
+   "earliest": "20220808112844"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-crucial-questions-to-ask-before-hiring-your-first-employee/",
+   "earliest": "20190917144847"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-tips-online-brand",
+   "earliest": "20220808112801"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/finding-customers-with-google-adwords/",
+   "earliest": "20190917143052"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/fitness4youth-wave-passion-meets-productivity",
+   "earliest": "20191113082920"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/seven-communication-skills-you-need-to-pay-the-bills",
+   "earliest": "20220808112530"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/time-management-tips",
+   "earliest": "20191208064859"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/data-analysis-for-small-businesses-its-easier-than-you-think",
+   "earliest": "20220816061438"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/9-tips-by-entrepreneurs-on-starting-a-new-business",
+   "earliest": "20191113083502"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/do-more-for-your-business-with-new-wave-features",
+   "earliest": "20191113082254"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-executive-tips",
+   "earliest": "20191208193635"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payments/9-common-cash-flow-problems",
+   "earliest": "20191113082850"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-now-works-with-zapier-heres-how",
+   "earliest": "20220818081317"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/charging-viral-photos-accounting",
+   "earliest": "20220818084925"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/eight-ways-to-stay-motivated-as-you-build-your-business/",
+   "earliest": "20190917143233"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/start-your-photography-business",
+   "earliest": "20220813211824"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-accountant/",
+   "earliest": "20190917144308"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/referral-marketing-for-small-businesses/",
+   "earliest": "20190917143559"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/are-you-planning-your-business-financial-goals-the-right-way/",
+   "earliest": "20190922183255"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-maximize-your-holiday-sales-by-starting-right-now",
+   "earliest": "20220711150412"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-new-marketing-and-what-it-means-for-your-business",
+   "earliest": "20191214095540"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/s-corp-benefits",
+   "earliest": "20220808112813"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/happy-pops-wave-sweetness-meets-sophistication/",
+   "earliest": "20190917143223"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-credit-mistakes-startups-often-make",
+   "earliest": "20191021125316"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/waterstone-canadas-most-admired-awards",
+   "earliest": "20191208195406"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/mobile-website-for-small-business",
+   "earliest": "20191208194743"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/your-ultimate-guide-to-fearless-filing",
+   "earliest": "20220818070711"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/5-credit-mistakes-startups-often-make",
+   "earliest": "20191208193831"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/payroll-design-series-part-two-of-our-makeover/",
+   "earliest": "20190917150549"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/manage-your-books-and-improve-your-cash-flow-with-wave-money",
+   "earliest": "20220818052104"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-lucas-kim/",
+   "earliest": "20190917145035"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/why-knowing-your-customers-matters",
+   "earliest": "20191208064121"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/security-this-week-malware",
+   "earliest": "20220818075915"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-choose-a-bank-for-your-small-business",
+   "earliest": "20191113082602"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/mobile-website-for-small-business",
+   "earliest": "20220808124029"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-to-be-acquired-by-hr-block-for-537-million",
+   "earliest": "20190923112832"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/ppc-for-small-businesses",
+   "earliest": "20220818065105"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/great-entrepreneurs-from-history-part-two",
+   "earliest": "20191021132305"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/registering-your-business",
+   "earliest": "20221002000907"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/social-media-advertising-how-small-businesses-can-build-a-social-media-ads-strategy",
+   "earliest": "20220813210105"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/business-insurance-what-it-is-and-why-you-might-need-it",
+   "earliest": "20191208065335"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/registering-your-business",
+   "earliest": "20191208194305"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/year-long-new-years-resolutions",
+   "earliest": "20191208063832"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-spotlight-vivek-balasubramanian",
+   "earliest": "20220810081230"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/improved-invoicing-mobile-customer-view",
+   "earliest": "20220816064943"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/everything-you-need-to-know-about-paying-contractors",
+   "earliest": "20220711150341"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/business-insurance-what-it-is-and-why-you-might-need-it",
+   "earliest": "20220810074506"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/four-reports-that-show-you-the-health-of-your-business/",
+   "earliest": "20190917143057"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/entrepreneurial-advice-navigating-covid-19",
+   "earliest": "20201015014001"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/you-are-getting-sleepy-very-sleepy-or-not",
+   "earliest": "20191208193457"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/7-reasons-why-you-should-file-your-taxes-asap",
+   "earliest": "20200416063642"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-brand",
+   "earliest": "20220818085159"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-complete-guide-to-health-for-entrepreneurs",
+   "earliest": "20190923113301"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-wins-two-awards",
+   "earliest": "20191113082238"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/automated-payroll-taxes-for-a-new-decade",
+   "earliest": "20220810070614"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/get-ready-for-a-whole-new-wave",
+   "earliest": "20191208194542"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/building-an-awesome-brand-part-4-brand-story",
+   "earliest": "20191208193914"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-classic-rock-and-community-are-growing-public-general-stores-brand/",
+   "earliest": "20190917142957"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/importance-of-a-business-plan/",
+   "earliest": "20190917143150"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/6-steps-take-right-now-make-payroll-easier",
+   "earliest": "20191208064543"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/congrats-august-invoice-win-contest-winners",
+   "earliest": "20220816065757"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/paying-tax-on-pass-through-income",
+   "earliest": "20191208194105"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/the-complete-guide-to-small-business-tax-season",
+   "earliest": "20191113082436"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/top-10-small-business-deductions-and-tax-expenses",
+   "earliest": "20191208063959"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/seven-things-stephen-hawkings-life-can-teach-you",
+   "earliest": "20220816074445"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/payroll-design-series-part-two-of-our-makeover",
+   "earliest": "20201125030630"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/meet-our-september-invoice-to-win-contest-winner",
+   "earliest": "20220810082030"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-build-a-sales-funnel",
+   "earliest": "20220808112850"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/what-customers-want",
+   "earliest": "20191208195552"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/benefits-and-deductions-weve-made-it-even-better",
+   "earliest": "20220816061724"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-benefits-business-integration",
+   "earliest": "20220808113027"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/customer-profile-greensmith-consulting",
+   "earliest": "20220808125159"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/thank-you-from-kirk",
+   "earliest": "20220810073435"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/ppc-for-small-businesses",
+   "earliest": "20191208194232"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/student-start-a-business",
+   "earliest": "20191208193820"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/tackle-year-end-like-boss",
+   "earliest": "20191208195150"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/reasons-why-you-should-file-your-taxes-asap",
+   "earliest": "20210317154530"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/year-long-new-years-resolutions",
+   "earliest": "20190923113406"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-to-pay-yourself-as-a-sole-proprietor",
+   "earliest": "20201002065907"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-12-million-series-b-funding",
+   "earliest": "20220808142908"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories",
+   "earliest": "20191113082534"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/content-marketing-reporting-key-metrics-to-examine",
+   "earliest": "20220808123641"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-newbies-guide-to-market-research",
+   "earliest": "20191208064548"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes",
+   "earliest": "20191113083408"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/new-york-times-reviews-wave-accounting",
+   "earliest": "20220810090324"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/systemization-outsourcing-and-delegation-an-interview-with-nancy-gaines",
+   "earliest": "20220818072835"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-move-your-service-based-business-online",
+   "earliest": "20220810085349"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/claiming-home-office-deductions",
+   "earliest": "20191208194804"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/stress-and-project-management-how-to-navigate-when-under-a-time-crunch",
+   "earliest": "20190923113926"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/5-reasons-creativity-sells",
+   "earliest": "20191021124744"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/is-it-worth-the-money-to-hire-a-writer",
+   "earliest": "20191208193920"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/logojoy-wave",
+   "earliest": "20220808131825"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/four-proven-ways-to-increase-your-repeat-customer-base",
+   "earliest": "20191208194956"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/aiden-durham-answers-whats-the-right-way-to-pay-yourself",
+   "earliest": "20220810073925"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/free-email-marketing/",
+   "earliest": "20190917143207"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/recruiting-small-business",
+   "earliest": "20191208193439"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/the-solo-entrepreneurs-notebook-keeping-the-passion-high-in-good-times-and-bad",
+   "earliest": "20220808132721"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/tips-for-photographers",
+   "earliest": "20220810091039"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/news/wave-spotlight-siobhan-hitchmough",
+   "earliest": "20191208195246"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/kate-whitmore-photographer-accounting",
+   "earliest": "20220818073938"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-social-shopping",
+   "earliest": "20190923113949"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/zapier1000/",
+   "earliest": "20191014103238"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/tax-season-timeline-for-small-business",
+   "earliest": "20191208194642"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/3-common-payroll-mistakes-u-s-employers-should-avoid",
+   "earliest": "20191208195536"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/10-inspiring-quotes-from-entrepreneurs",
+   "earliest": "20220816075552"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/when-is-it-time-to-take-your-side-hustle-full-time/",
+   "earliest": "20190923113917"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/how-has-your-relationship-to-money-changed-since-having-a-business-2",
+   "earliest": "20191208065311"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/10-inspiring-quotes-from-entrepreneurs",
+   "earliest": "20191113082956"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/social-media-marketing-for-small-businesses/",
+   "earliest": "20190917143111"
+  },
+  {
+   "url": "https://www.waveapps.com/blog-category/grow-your-team",
+   "earliest": "20220711150349"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/seven-ways-to-maintain-your-mental-health-while-running-a-business",
+   "earliest": "20210403231122"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cash-reserve-small-business/",
+   "earliest": "20190922183954"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/diversity-and-inclusion-by-the-numbers-2021",
+   "earliest": "20220808102822"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/owner-stories/four-entrepreneurs-share-how-they-took-the-leap",
+   "earliest": "20191208195056"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/imposter-syndrome-how-to-recognize-and-overcome-it/",
+   "earliest": "20191022184748"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-apps",
+   "earliest": "20191208193858"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-guides",
+   "earliest": "20191113083413"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/covid-19-resources/how-to-move-your-service-based-business-online",
+   "earliest": "20201102144818"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/2022-tax-checklist-get-ready-for-tax-season",
+   "earliest": "20220711150136"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-makes-the-2019-list-of-best-workplaces-for-inclusion",
+   "earliest": "20220808125354"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/tax-deductions-vehicle-expenses",
+   "earliest": "20191208195334"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/small-business-home-office-organizing",
+   "earliest": "20220810074011"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/imposter-syndrome-how-to-recognize-and-overcome-it",
+   "earliest": "20191208064144"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/cutting-small-business-expenses",
+   "earliest": "20220818083422"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/the-advantages-of-working-somewhere-other-than-your-couch-and-ideas-to-get-you-started",
+   "earliest": "20191208193757"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/vuru-closing",
+   "earliest": "20220818071844"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/wave-turns-one",
+   "earliest": "20220810082057"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/2017-2018-review",
+   "earliest": "20190923113423"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/claiming-home-office-deductions",
+   "earliest": "20190923115328"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/five-simple-ways-to-protect-your-digital-marketing-assets",
+   "earliest": "20220818084316"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/grow-your-team/growing-your-business-when-to-hire-a-contractor",
+   "earliest": "20191208065545"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/so-you-got-a-chargeback-now-what/",
+   "earliest": "20190922191638"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/entrepreneurship/small-business-selling-tips",
+   "earliest": "20191208195340"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/how-to-start-a-mompreneur-business",
+   "earliest": "20220818081804"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/march-goals-part-2-finding-clients-for-your-freelance-business-with-adwords",
+   "earliest": "20220813205020"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/t4-tips-for-canadian-employers",
+   "earliest": "20220818071806"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/sending-your-invoices-through-wave",
+   "earliest": "20220810074622"
+  },
+  {
+   "url": "https://www.waveapps.com/blog/accounting-and-taxes/your-taxes-are-done-now-how-do-you-file-them",
+   "earliest": "20191208195102"
+  }
+ ]
+}
