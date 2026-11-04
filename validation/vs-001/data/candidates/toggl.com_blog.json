@@ -1,0 +1,5087 @@
+{
+ "blog": "toggl.com/blog",
+ "group": "Software and productivity",
+ "reserve": true,
+ "cdxRows": 2077,
+ "articleLike": 1269,
+ "queriedAt": "2026-11-04T01:43:29.255Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://toggl.com/blog/how-to-make-clients-happier",
+   "earliest": "20200919194854"
+  },
+  {
+   "url": "https://toggl.com/blog/five-ways-speed-companys-recruiting",
+   "earliest": "20200422062936"
+  },
+  {
+   "url": "https://toggl.com/blog/best-project-management-tools-for-marketing-agencies",
+   "earliest": "20200812091443"
+  },
+  {
+   "url": "https://toggl.com/blog/how-trying-new-hobbies-made-me-more-productive-at-work",
+   "earliest": "20200930063430"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-web-developers",
+   "earliest": "20200619012050"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-organization",
+   "earliest": "20200810045340"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-neighbors",
+   "earliest": "20200516080748"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-stay-organized-when-you-run-a-creative-agency",
+   "earliest": "20200919192751"
+  },
+  {
+   "url": "https://toggl.com/blog/lessons-learned-for-project-managers",
+   "earliest": "20200811034726"
+  },
+  {
+   "url": "https://toggl.com/blog/home-office-design",
+   "earliest": "20200421112349"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-how-to-make-it-better",
+   "earliest": "20200930070103"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-downtime-april-12",
+   "earliest": "20210429082826"
+  },
+  {
+   "url": "https://toggl.com/blog/event-management-software-for-event-planners",
+   "earliest": "20200930064048"
+  },
+  {
+   "url": "https://toggl.com/blog/leader-member-exchange-theory",
+   "earliest": "20200812084432"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-list-of-diversity-recruiting-tools",
+   "earliest": "20200618215452"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-stay-productive-in-an-open-concept-office",
+   "earliest": "20200522203642"
+  },
+  {
+   "url": "https://toggl.com/blog/3-common-questions-toggl-answer",
+   "earliest": "20200930070909"
+  },
+  {
+   "url": "https://toggl.com/blog/why-less-time-spent-working-could-actually-increase-your-productivity",
+   "earliest": "20200418035958"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-prioritize-tasks",
+   "earliest": "20210405011619"
+  },
+  {
+   "url": "https://toggl.com/blog/team-management",
+   "earliest": "20221002193833"
+  },
+  {
+   "url": "https://toggl.com/blog/time-blocking-with-toggl-track",
+   "earliest": "20201126163043"
+  },
+  {
+   "url": "https://toggl.com/blog/project-milestones-examples",
+   "earliest": "20200804203816"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-list-of-pre-employment-testing-tools-vol-1",
+   "earliest": "20200426193146"
+  },
+  {
+   "url": "https://toggl.com/blog/balance-school-and-business",
+   "earliest": "20200919191116"
+  },
+  {
+   "url": "https://toggl.com/blog/trello-alternatives",
+   "earliest": "20200618143938"
+  },
+  {
+   "url": "https://toggl.com/blog/tech-employee-stereotypes-comic",
+   "earliest": "20200919185945"
+  },
+  {
+   "url": "https://toggl.com/blog/foreign-transaction-fees",
+   "earliest": "20200804204549"
+  },
+  {
+   "url": "https://toggl.com/blog/track-time-phone",
+   "earliest": "20201029205353"
+  },
+  {
+   "url": "https://toggl.com/blog/strategic-project-management",
+   "earliest": "20210512135754"
+  },
+  {
+   "url": "https://toggl.com/blog/10-key-skills-every-construction-project-manager-should-master",
+   "earliest": "20200919195213"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-work-statistics",
+   "earliest": "20220819051523"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-fire-someone-remotely",
+   "earliest": "20200927115047"
+  },
+  {
+   "url": "https://toggl.com/blog/color-update",
+   "earliest": "20200923233039"
+  },
+  {
+   "url": "https://toggl.com/blog/top-resource-management-tools",
+   "earliest": "20200812100447"
+  },
+  {
+   "url": "https://toggl.com/blog/advice-successful-creatives",
+   "earliest": "20200930063703"
+  },
+  {
+   "url": "https://toggl.com/blog/simple-project-plan-template",
+   "earliest": "20200808013227"
+  },
+  {
+   "url": "https://toggl.com/blog/business-model-canvas",
+   "earliest": "20200930065331"
+  },
+  {
+   "url": "https://toggl.com/blog/flexible-planning-in-teamweek",
+   "earliest": "20200919192904"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-build-a-technical-skills-test-for-prospective-employees",
+   "earliest": "20201228105922"
+  },
+  {
+   "url": "https://toggl.com/blog/intrinsic-motivation",
+   "earliest": "20200811043521"
+  },
+  {
+   "url": "https://toggl.com/blog/llc-tax-rates",
+   "earliest": "20200804200728"
+  },
+  {
+   "url": "https://toggl.com/blog/hire-for-skills-not-resumes",
+   "earliest": "20200426202341"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-q2-2022",
+   "earliest": "20220704113836"
+  },
+  {
+   "url": "https://toggl.com/blog/update-on-hire-pricing-plans",
+   "earliest": "20211204002034"
+  },
+  {
+   "url": "https://toggl.com/blog/10-tools-improve-your-time-management-skills",
+   "earliest": "20200810045236"
+  },
+  {
+   "url": "https://toggl.com/blog/product-market-fit-need-know-embarrassed-ask",
+   "earliest": "20200810000335"
+  },
+  {
+   "url": "https://toggl.com/blog/failures-managing-remote-team",
+   "earliest": "20200812101528"
+  },
+  {
+   "url": "https://toggl.com/blog/tight-deadlines",
+   "earliest": "20201029205214"
+  },
+  {
+   "url": "https://toggl.com/blog/company-values",
+   "earliest": "20211122101409"
+  },
+  {
+   "url": "https://toggl.com/blog/workspaces-new-toggl",
+   "earliest": "20200928121056"
+  },
+  {
+   "url": "https://toggl.com/blog/want-to-learn-a-new-skill-try-brain-hacking",
+   "earliest": "20200228161438"
+  },
+  {
+   "url": "https://toggl.com/blog/product-news/toggl-hire-news",
+   "earliest": "20221002182347"
+  },
+  {
+   "url": "https://toggl.com/blog/17-project-manager-interview-questions",
+   "earliest": "20200919195208"
+  },
+  {
+   "url": "https://toggl.com/blog/arent-feeling-creative",
+   "earliest": "20200426202754"
+  },
+  {
+   "url": "https://toggl.com/blog/how-is-resource-planning-done-in-software-project-management",
+   "earliest": "20200812092146"
+  },
+  {
+   "url": "https://toggl.com/blog/maximise-profits-insights",
+   "earliest": "20200808012748"
+  },
+  {
+   "url": "https://toggl.com/blog/optimize-skills-assessment-test",
+   "earliest": "20220316140221"
+  },
+  {
+   "url": "https://toggl.com/blog/professionalism-in-the-office-simple-tips-to-get-ahead",
+   "earliest": "20200919185354"
+  },
+  {
+   "url": "https://toggl.com/blog/user-videos",
+   "earliest": "20211204224527"
+  },
+  {
+   "url": "https://toggl.com/blog/quick-toggl-workspace-setup",
+   "earliest": "20200930070226"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-now-works-inside-basecamp-trello",
+   "earliest": "20200808000917"
+  },
+  {
+   "url": "https://toggl.com/blog/5-creative-out-of-office-messages-and-how-to-set-them-up",
+   "earliest": "20200930064012"
+  },
+  {
+   "url": "https://toggl.com/blog/employee-attrition",
+   "earliest": "20200923225658"
+  },
+  {
+   "url": "https://toggl.com/blog/30-product-owner-interview-questions-to-accurately-assess-candidates",
+   "earliest": "20220929193927"
+  },
+  {
+   "url": "https://toggl.com/blog/attention-span",
+   "earliest": "20201029205428"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-kpis",
+   "earliest": "20200804200357"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-run-a-meeting",
+   "earliest": "20200606015943"
+  },
+  {
+   "url": "https://toggl.com/blog/developing-an-effective-hybrid-workforce",
+   "earliest": "20211029172342"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-employee-benefits-ideas",
+   "earliest": "20221024182742"
+  },
+  {
+   "url": "https://toggl.com/blog/50-productive-things-to-do-at-work-when-youre-bored-silly",
+   "earliest": "20200808012423"
+  },
+  {
+   "url": "https://toggl.com/blog/best-time-management-books",
+   "earliest": "20200808003545"
+  },
+  {
+   "url": "https://toggl.com/blog/new-paid-feature-assign-a-task-to-multiple-people",
+   "earliest": "20200804202607"
+  },
+  {
+   "url": "https://toggl.com/blog/relationship-marketing",
+   "earliest": "20200810000005"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-best-practices",
+   "earliest": "20200812100815"
+  },
+  {
+   "url": "https://toggl.com/blog/how-remote-teams-can-keep-communicating",
+   "earliest": "20200919195109"
+  },
+  {
+   "url": "https://toggl.com/blog/memorization-techniques-professionals",
+   "earliest": "20200812095128"
+  },
+  {
+   "url": "https://toggl.com/blog/the-new-and-revised-task-popup",
+   "earliest": "20200930070710"
+  },
+  {
+   "url": "https://toggl.com/blog/best-project-tracking-software-for-project-managers",
+   "earliest": "20200804203215"
+  },
+  {
+   "url": "https://toggl.com/blog/fast-track-to-edit-the-right-click-menu",
+   "earliest": "20200808005601"
+  },
+  {
+   "url": "https://toggl.com/blog/increase-your-expert-power",
+   "earliest": "20200703142922"
+  },
+  {
+   "url": "https://toggl.com/blog/career-ladder-projects-benefit",
+   "earliest": "20200618184045"
+  },
+  {
+   "url": "https://toggl.com/blog/i-made-week",
+   "earliest": "20200810000557"
+  },
+  {
+   "url": "https://toggl.com/blog/9-powerful-organizational-tools-every-small-business-owner-should-use",
+   "earliest": "20200919191402"
+  },
+  {
+   "url": "https://toggl.com/blog/project-tracking-software",
+   "earliest": "20210202113815"
+  },
+  {
+   "url": "https://toggl.com/blog/ai-recruitment-automation",
+   "earliest": "20220727113215"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-prioritize-work",
+   "earliest": "20210814044333"
+  },
+  {
+   "url": "https://toggl.com/blog/simple-project-management-software",
+   "earliest": "20210322084814"
+  },
+  {
+   "url": "https://toggl.com/blog/best-payment-gateways",
+   "earliest": "20200930070045"
+  },
+  {
+   "url": "https://toggl.com/blog/earned-value-management",
+   "earliest": "20200930070530"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-a-freelancer",
+   "earliest": "20200619012055"
+  },
+  {
+   "url": "https://toggl.com/blog/stressed-at-work",
+   "earliest": "20210324193354"
+  },
+  {
+   "url": "https://toggl.com/blog/recruiting-on-facebook",
+   "earliest": "20200804201509"
+  },
+  {
+   "url": "https://toggl.com/blog/ideal-manager-best-attributes-strive",
+   "earliest": "20200930070932"
+  },
+  {
+   "url": "https://toggl.com/blog/time-tracking-creativity",
+   "earliest": "20210319112002"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-gantt-chart",
+   "earliest": "20200804204427"
+  },
+  {
+   "url": "https://toggl.com/blog/hr-software-for-people-management",
+   "earliest": "20210122170044"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-2-months-free-09-2020",
+   "earliest": "20200923221053"
+  },
+  {
+   "url": "https://toggl.com/blog/5-best-apps-for-growing-business-and-productivity",
+   "earliest": "20200804202326"
+  },
+  {
+   "url": "https://toggl.com/blog/time-blocking-software-apps",
+   "earliest": "20220729121613"
+  },
+  {
+   "url": "https://toggl.com/blog/colleagues-meet-work",
+   "earliest": "20200426192720"
+  },
+  {
+   "url": "https://toggl.com/blog/scheduling-conflicts",
+   "earliest": "20220908144628"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-people-with-different-work-styles",
+   "earliest": "20200811030212"
+  },
+  {
+   "url": "https://toggl.com/blog/screening-candidates",
+   "earliest": "20200618184047"
+  },
+  {
+   "url": "https://toggl.com/blog/the-5-communication-styles-every-manager-needs-to-know",
+   "earliest": "20200811041459"
+  },
+  {
+   "url": "https://toggl.com/blog/scheduled-maintenance-saturday-june-11th-2022",
+   "earliest": "20220531091931"
+  },
+  {
+   "url": "https://toggl.com/blog/favorites-feature",
+   "earliest": "20210705200724"
+  },
+  {
+   "url": "https://toggl.com/blog/basecamp-alternatives",
+   "earliest": "20200923233209"
+  },
+  {
+   "url": "https://toggl.com/blog/troll-your-developer",
+   "earliest": "20200930063856"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-turn-your-quarterly-plans-into-action",
+   "earliest": "20200420213852"
+  },
+  {
+   "url": "https://toggl.com/blog/the-pms-guide-to-managing-multiple-projects-with-ease",
+   "earliest": "20200930070857"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-get-back-on-track-when-you-get-distracted-at-work",
+   "earliest": "20200811040335"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-pick-the-right-programming-management-tool",
+   "earliest": "20200808012040"
+  },
+  {
+   "url": "https://toggl.com/blog/good-customer-service",
+   "earliest": "20200804203243"
+  },
+  {
+   "url": "https://toggl.com/blog/5-signs-you-need-help-with-employee-engagement",
+   "earliest": "20200930070009"
+  },
+  {
+   "url": "https://toggl.com/blog/32-time-management-tips-to-work-less-and-play-more",
+   "earliest": "20210128094646"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-timeline-maker-for-every-type-of-project",
+   "earliest": "20200812101725"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-a-team-project-without-losing-your-mind",
+   "earliest": "20200808013330"
+  },
+  {
+   "url": "https://toggl.com/blog/scope-creep",
+   "earliest": "20200421005414"
+  },
+  {
+   "url": "https://toggl.com/blog/work-management",
+   "earliest": "20211012001032"
+  },
+  {
+   "url": "https://toggl.com/blog/best-free-online-tools-timeboxing",
+   "earliest": "20200810050346"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-designers-lessons",
+   "earliest": "20200812094715"
+  },
+  {
+   "url": "https://toggl.com/blog/6-tips-from-a-project-scheduling-pro",
+   "earliest": "20200421013306"
+  },
+  {
+   "url": "https://toggl.com/blog/team-management-software",
+   "earliest": "20200804202733"
+  },
+  {
+   "url": "https://toggl.com/blog/candidate-sourcing",
+   "earliest": "20210410122833"
+  },
+  {
+   "url": "https://toggl.com/blog/project-resource-management",
+   "earliest": "20211028101851"
+  },
+  {
+   "url": "https://toggl.com/blog/please-dont-wake-up-at-4-am-addressing-the-worst-productivity-tips",
+   "earliest": "20200420195811"
+  },
+  {
+   "url": "https://toggl.com/blog/conduct-effective-virtual-interview-find-right-candidates",
+   "earliest": "20200418035601"
+  },
+  {
+   "url": "https://toggl.com/blog/project-cost-estimating",
+   "earliest": "20220801200818"
+  },
+  {
+   "url": "https://toggl.com/blog/technical-recruiter",
+   "earliest": "20200927115831"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-industry-trends-2021",
+   "earliest": "20210210124457"
+  },
+  {
+   "url": "https://toggl.com/blog/10-examples-of-career-goals",
+   "earliest": "20200919192451"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-get-started-with-lean-project-management",
+   "earliest": "20200804204901"
+  },
+  {
+   "url": "https://toggl.com/blog/how-setup-manage-team-calendar",
+   "earliest": "20200804200756"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-talent-acquisition",
+   "earliest": "20210512145412"
+  },
+  {
+   "url": "https://toggl.com/blog/knowledge-management-is-crucial-to-success",
+   "earliest": "20200810053133"
+  },
+  {
+   "url": "https://toggl.com/blog/effective-one-one-meetings",
+   "earliest": "20200511130216"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q3-2020",
+   "earliest": "20201029201954"
+  },
+  {
+   "url": "https://toggl.com/blog/prioritizing-project-management-calendar",
+   "earliest": "20200927105901"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-get-team-to-track-time",
+   "earliest": "20220505122128"
+  },
+  {
+   "url": "https://toggl.com/blog/reinvent-yourself-career",
+   "earliest": "20200804205022"
+  },
+  {
+   "url": "https://toggl.com/blog/digital-recruiting",
+   "earliest": "20210616022609"
+  },
+  {
+   "url": "https://toggl.com/blog/employee-selection-process",
+   "earliest": "20200618124818"
+  },
+  {
+   "url": "https://toggl.com/blog/new-toggl-tips-tracking-with-teams",
+   "earliest": "20200930053315"
+  },
+  {
+   "url": "https://toggl.com/blog/project-time-management-how-to-manage-your-project-schedule",
+   "earliest": "20200812102034"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-recruitment-strategy-template",
+   "earliest": "20210410111951"
+  },
+  {
+   "url": "https://toggl.com/blog/what-every-manager-needs-to-know-about-project-charters",
+   "earliest": "20200919190912"
+  },
+  {
+   "url": "https://toggl.com/blog/job-comic",
+   "earliest": "20200426200120"
+  },
+  {
+   "url": "https://toggl.com/blog/website-project-plan",
+   "earliest": "20210518053126"
+  },
+  {
+   "url": "https://toggl.com/blog/trello-vs-monday",
+   "earliest": "20201029203920"
+  },
+  {
+   "url": "https://toggl.com/blog/financial-model-startups",
+   "earliest": "20200812095927"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-the-toggl-hire-skills-based-hiring-pipeline",
+   "earliest": "20220901192427"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-make-a-project-timeline",
+   "earliest": "20200811032631"
+  },
+  {
+   "url": "https://toggl.com/blog/increased-my-productivity-238-toggling-activities",
+   "earliest": "20200426203355"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-employee-onboarding",
+   "earliest": "20210928143704"
+  },
+  {
+   "url": "https://toggl.com/blog/business-of-running-distributed-business-viktor-jarnheimer-proxify",
+   "earliest": "20220720151344"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-sales-reps",
+   "earliest": "20210512135013"
+  },
+  {
+   "url": "https://toggl.com/blog/sourcing-from-slack",
+   "earliest": "20200804202924"
+  },
+  {
+   "url": "https://toggl.com/blog/job-simulations",
+   "earliest": "20220401124230"
+  },
+  {
+   "url": "https://toggl.com/blog/salesforce-sync",
+   "earliest": "20210805102332"
+  },
+  {
+   "url": "https://toggl.com/blog/komposable-architecture",
+   "earliest": "20211014021113"
+  },
+  {
+   "url": "https://toggl.com/blog/workflow-management-software",
+   "earliest": "20210314070002"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-campaign-planning",
+   "earliest": "20200804204906"
+  },
+  {
+   "url": "https://toggl.com/blog/10-tech-tools-that-will-help-you-turn-chaos-into-order",
+   "earliest": "20200919193527"
+  },
+  {
+   "url": "https://toggl.com/blog/timesheets-guide",
+   "earliest": "20220919172318"
+  },
+  {
+   "url": "https://toggl.com/blog/15-teamwork-software-alternatives-for-project-management",
+   "earliest": "20200919195540"
+  },
+  {
+   "url": "https://toggl.com/blog/busy-doing-nothing",
+   "earliest": "20200804201112"
+  },
+  {
+   "url": "https://toggl.com/blog/7-socially-responsible-companies",
+   "earliest": "20200919183641"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-staff-show-off-their-workstations",
+   "earliest": "20200804204153"
+  },
+  {
+   "url": "https://toggl.com/blog/the-top-10-planning-tools-for-managers",
+   "earliest": "20201029204656"
+  },
+  {
+   "url": "https://toggl.com/blog/day-toggl-frontend-developer",
+   "earliest": "20200930065133"
+  },
+  {
+   "url": "https://toggl.com/blog/your-team-should-start-using-a-shareable-calendar",
+   "earliest": "20200930065951"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-have-the-best-printing-experience-with-teamweek",
+   "earliest": "20200919194639"
+  },
+  {
+   "url": "https://toggl.com/blog/why-stakeholders-will-make-or-break-your-next-project",
+   "earliest": "20200810045903"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-start-a-book-club-with-coworkers",
+   "earliest": "20200919184635"
+  },
+  {
+   "url": "https://toggl.com/blog/improving-employee-productivity",
+   "earliest": "20200811043629"
+  },
+  {
+   "url": "https://toggl.com/blog/14-top-recruitment-skills-that-all-great-recruiters-have",
+   "earliest": "20200930065428"
+  },
+  {
+   "url": "https://toggl.com/blog/spains-new-time-and-attendance-tracking-law",
+   "earliest": "20200919194738"
+  },
+  {
+   "url": "https://toggl.com/blog/relaxation-technique",
+   "earliest": "20201029195348"
+  },
+  {
+   "url": "https://toggl.com/blog/the-more-things-change-stories-tips-and-experiments-on-change",
+   "earliest": "20200427130837"
+  },
+  {
+   "url": "https://toggl.com/blog/budget-calculator",
+   "earliest": "20200930070437"
+  },
+  {
+   "url": "https://toggl.com/blog/improve-your-project-proposals",
+   "earliest": "20200930054348"
+  },
+  {
+   "url": "https://toggl.com/blog/manage-time-effectively",
+   "earliest": "20200808004549"
+  },
+  {
+   "url": "https://toggl.com/blog/setting-milestones-affects-project-planning-process",
+   "earliest": "20200927111713"
+  },
+  {
+   "url": "https://toggl.com/blog/best-workflow-management-software",
+   "earliest": "20200930070658"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-phases",
+   "earliest": "20200810053036"
+  },
+  {
+   "url": "https://toggl.com/blog/skillls-for-ecommerce-manager",
+   "earliest": "20201126102333"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-dropping-support-for-internet-explorer-11",
+   "earliest": "20200610192649"
+  },
+  {
+   "url": "https://toggl.com/blog/working-during-summer",
+   "earliest": "20200927113545"
+  },
+  {
+   "url": "https://toggl.com/blog/6-highly-successful-social-media-campaigns-from-the-recent-past",
+   "earliest": "20200810060127"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-work-hip",
+   "earliest": "20200812101940"
+  },
+  {
+   "url": "https://toggl.com/blog/5-powerful-benefits-of-doing-a-weekly-review-at-work",
+   "earliest": "20200420195808"
+  },
+  {
+   "url": "https://toggl.com/blog/write-manifesto-business",
+   "earliest": "20200930070337"
+  },
+  {
+   "url": "https://toggl.com/blog/much-money-can-time-tracking-save",
+   "earliest": "20200812085336"
+  },
+  {
+   "url": "https://toggl.com/blog/what-most-people-get-wrong-about-creativity-comic",
+   "earliest": "20200418035533"
+  },
+  {
+   "url": "https://toggl.com/blog/10-project-management-tips",
+   "earliest": "20200919194755"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-master-resource-scheduling",
+   "earliest": "20200812101743"
+  },
+  {
+   "url": "https://toggl.com/blog/vervoe-vs-coderbyte-vs-toggl-hire",
+   "earliest": "20220713194638"
+  },
+  {
+   "url": "https://toggl.com/blog/ignoring-work-performance-will-cost-you-time-money",
+   "earliest": "20200811034838"
+  },
+  {
+   "url": "https://toggl.com/blog/the-top-10-collaboration-software-for-2019",
+   "earliest": "20200919193013"
+  },
+  {
+   "url": "https://toggl.com/blog/work-smarter-not-harder",
+   "earliest": "20200812100942"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-better-work-schedule-for-your-team",
+   "earliest": "20200812102016"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-resources-that-will-help-you-grow-your-business",
+   "earliest": "20200930063547"
+  },
+  {
+   "url": "https://toggl.com/blog/7-hacks-to-improve-your-project-management-process",
+   "earliest": "20200804200328"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-tool-makes-recruiting-easier",
+   "earliest": "20210326001543"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-public-api",
+   "earliest": "20200621085839"
+  },
+  {
+   "url": "https://toggl.com/blog/educate-yourself-advance-your-career",
+   "earliest": "20200930070944"
+  },
+  {
+   "url": "https://toggl.com/blog/estonian-parental-leave",
+   "earliest": "20200808001255"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-make-a-timeline-for-project",
+   "earliest": "20200812101708"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q3-2022",
+   "earliest": "20221018112141"
+  },
+  {
+   "url": "https://toggl.com/blog/expectations-vs-reality-freelancer",
+   "earliest": "20200812101041"
+  },
+  {
+   "url": "https://toggl.com/blog/new-agency-tax-laws",
+   "earliest": "20200808003806"
+  },
+  {
+   "url": "https://toggl.com/blog/quotes-about-leadership",
+   "earliest": "20200812100546"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-continuous-improvement",
+   "earliest": "20200919194609"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-culture-and-values",
+   "earliest": "20200927114531"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-button-new-features",
+   "earliest": "20200808013030"
+  },
+  {
+   "url": "https://toggl.com/blog/6-spirit-animals-of-bad-managers-and-a-unicorn-infographic",
+   "earliest": "20200804195956"
+  },
+  {
+   "url": "https://toggl.com/blog/pre-employment-tests",
+   "earliest": "20210225161101"
+  },
+  {
+   "url": "https://toggl.com/blog/time-tracking-lessons-from-toggl-users",
+   "earliest": "20200426193530"
+  },
+  {
+   "url": "https://toggl.com/blog/upgrades-toggl-premium-plan",
+   "earliest": "20200930070314"
+  },
+  {
+   "url": "https://toggl.com/blog/37-team-management-quotes-get-inspired",
+   "earliest": "20200919192417"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-dungeons-and-dragons",
+   "earliest": "20200923233806"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q1-2021",
+   "earliest": "20210512135227"
+  },
+  {
+   "url": "https://toggl.com/blog/calendar-view-feature",
+   "earliest": "20200923233124"
+  },
+  {
+   "url": "https://toggl.com/blog/beating-procrastination-not-get-overwhelmed",
+   "earliest": "20200725101516"
+  },
+  {
+   "url": "https://toggl.com/blog/google-docs-checklis",
+   "earliest": "20220610111423"
+  },
+  {
+   "url": "https://toggl.com/blog/what-are-pre-employment-tests-and-what-do-you-need-to-know",
+   "earliest": "20210225171852"
+  },
+  {
+   "url": "https://toggl.com/blog/mcclellands-theory-of-needs",
+   "earliest": "20200808011131"
+  },
+  {
+   "url": "https://toggl.com/blog/7-tips-for-outsourcing-web-development-projects-successfully",
+   "earliest": "20200810054656"
+  },
+  {
+   "url": "https://toggl.com/blog/guide-select-project-management-software",
+   "earliest": "20200919194941"
+  },
+  {
+   "url": "https://toggl.com/blog/build-team-culture-when-your-employees-work-from-home",
+   "earliest": "20200220012328"
+  },
+  {
+   "url": "https://toggl.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent",
+   "earliest": "20200618114207"
+  },
+  {
+   "url": "https://toggl.com/blog/what-exactly-is-a-project-manager",
+   "earliest": "20200930060654"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-tips-for-office-managers",
+   "earliest": "20200810000059"
+  },
+  {
+   "url": "https://toggl.com/blog/slack-for-remote-teams-the-5-slack-integrations-to-spice-up-your-team-communication",
+   "earliest": "20200807233709"
+  },
+  {
+   "url": "https://toggl.com/blog/web-development-clients-communication-challenges",
+   "earliest": "20200812093622"
+  },
+  {
+   "url": "https://toggl.com/blog/change-management-explained",
+   "earliest": "20200930065458"
+  },
+  {
+   "url": "https://toggl.com/blog/avoid-burnout-shift-workday-forward",
+   "earliest": "20200923221558"
+  },
+  {
+   "url": "https://toggl.com/blog/survey-results-long-can-people-focus-one-task",
+   "earliest": "20200622221847"
+  },
+  {
+   "url": "https://toggl.com/blog/get-paid-to-travel",
+   "earliest": "20200930070641"
+  },
+  {
+   "url": "https://toggl.com/blog/new-addition-toggl-pipes-freshbooks",
+   "earliest": "20200930070833"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-with-kids",
+   "earliest": "20200923233710"
+  },
+  {
+   "url": "https://toggl.com/blog/freelancing-problems-dinosaurs",
+   "earliest": "20200804194442"
+  },
+  {
+   "url": "https://toggl.com/blog/project-objectives",
+   "earliest": "20200804202440"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-editable-calendar-for-teams",
+   "earliest": "20200930070051"
+  },
+  {
+   "url": "https://toggl.com/blog/working-remotely",
+   "earliest": "20200422031534"
+  },
+  {
+   "url": "https://toggl.com/blog/manager-responsibilities",
+   "earliest": "20200919194627"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-features-you-might-not-be-using",
+   "earliest": "20200923230544"
+  },
+  {
+   "url": "https://toggl.com/blog/work-breakdown-structure",
+   "earliest": "20220926184941"
+  },
+  {
+   "url": "https://toggl.com/blog/new-feature-tags",
+   "earliest": "20200930065003"
+  },
+  {
+   "url": "https://toggl.com/blog/rekindling-passion",
+   "earliest": "20200919195435"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-read-faster",
+   "earliest": "20200812102151"
+  },
+  {
+   "url": "https://toggl.com/blog/best-online-work-planning-tools-for-entrepreneurs",
+   "earliest": "20200919195052"
+  },
+  {
+   "url": "https://toggl.com/blog/tyranny-of-the-urgent",
+   "earliest": "20200420201132"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-avoid-procrastination",
+   "earliest": "20210803231654"
+  },
+  {
+   "url": "https://toggl.com/blog/gantt-chart-software",
+   "earliest": "20200812102301"
+  },
+  {
+   "url": "https://toggl.com/blog/purposeful-open-source",
+   "earliest": "20211202235522"
+  },
+  {
+   "url": "https://toggl.com/blog/project-deliverables",
+   "earliest": "20200601033403"
+  },
+  {
+   "url": "https://toggl.com/blog/paper-notebook-benefits",
+   "earliest": "20200423023624"
+  },
+  {
+   "url": "https://toggl.com/blog/customer-empathy-map",
+   "earliest": "20200812101534"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-a-better-manager",
+   "earliest": "20200930062417"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-staff-show-off-their-workstations",
+   "earliest": "20221012100749"
+  },
+  {
+   "url": "https://toggl.com/blog/online-coding-test",
+   "earliest": "20220614232328"
+  },
+  {
+   "url": "https://toggl.com/blog/misconceptions-tech",
+   "earliest": "20200808012525"
+  },
+  {
+   "url": "https://toggl.com/blog/12-apps-12-months",
+   "earliest": "20200812102202"
+  },
+  {
+   "url": "https://toggl.com/blog/save-princess-8-programming-languages",
+   "earliest": "20200422102436"
+  },
+  {
+   "url": "https://toggl.com/blog/soft-skills-assessment-test",
+   "earliest": "20220325181109"
+  },
+  {
+   "url": "https://toggl.com/blog/career-tips-undead-halloween",
+   "earliest": "20200629221940"
+  },
+  {
+   "url": "https://toggl.com/blog/ladder-of-inference",
+   "earliest": "20200421001012"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-pick-up-better-habits-change-your-life",
+   "earliest": "20201029204857"
+  },
+  {
+   "url": "https://toggl.com/blog/calculate-employee-turnover",
+   "earliest": "20220223174824"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-make-a-balanced-work-schedule-for-your-team",
+   "earliest": "20220907083322"
+  },
+  {
+   "url": "https://toggl.com/blog/a-non-managing-approach-to-time-management",
+   "earliest": "20200812094857"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-project-baseline-and-why-is-it-important",
+   "earliest": "20200919181341"
+  },
+  {
+   "url": "https://toggl.com/blog/product-management-software-tools",
+   "earliest": "20210105013538"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-software",
+   "earliest": "20201029205347"
+  },
+  {
+   "url": "https://toggl.com/blog/workplace-relationships-esther-perel",
+   "earliest": "20200923233931"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-talent-pipeline",
+   "earliest": "20220110183134"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-online-schedule-maker-software-for-teams",
+   "earliest": "20200919191158"
+  },
+  {
+   "url": "https://toggl.com/blog/avoid-feeling-like-loser-work",
+   "earliest": "20200919195429"
+  },
+  {
+   "url": "https://toggl.com/blog/employee-selection-process-six-steps-to-improve-your-recruiting-strategy",
+   "earliest": "20210410120638"
+  },
+  {
+   "url": "https://toggl.com/blog/management-by-objectives",
+   "earliest": "20200927103635"
+  },
+  {
+   "url": "https://toggl.com/blog/5-things-to-know-about-leading-a-creative-team",
+   "earliest": "20200919194953"
+  },
+  {
+   "url": "https://toggl.com/blog/slow-down",
+   "earliest": "20201029202719"
+  },
+  {
+   "url": "https://toggl.com/blog/productivity-memes",
+   "earliest": "20200426194544"
+  },
+  {
+   "url": "https://toggl.com/blog/the-new-and-improved-toggl-desktop-mac-app-is-here",
+   "earliest": "20200808013141"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-do-blind-hiring",
+   "earliest": "20220413133440"
+  },
+  {
+   "url": "https://toggl.com/blog/get-work-done",
+   "earliest": "20210816203634"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-free-work-software-for-busy-managers",
+   "earliest": "20200919192640"
+  },
+  {
+   "url": "https://toggl.com/blog/new-habits",
+   "earliest": "20210531195256"
+  },
+  {
+   "url": "https://toggl.com/blog/5-signs-you-need-a-freelance-management-system",
+   "earliest": "20200804201628"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-first-vs-remote-friendly",
+   "earliest": "20200618120403"
+  },
+  {
+   "url": "https://toggl.com/blog/recruiting-developers-is-hard",
+   "earliest": "20210410113131"
+  },
+  {
+   "url": "https://toggl.com/blog/ultimate-planning-to-do-lists",
+   "earliest": "20200919195307"
+  },
+  {
+   "url": "https://toggl.com/blog/best-free-tools-apps-scheduling-company-holidays-business-trips-events",
+   "earliest": "20200804202844"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-pros-cons-comic",
+   "earliest": "20200928115011"
+  },
+  {
+   "url": "https://toggl.com/blog/recover-from-burnout",
+   "earliest": "20200329221413"
+  },
+  {
+   "url": "https://toggl.com/blog/first-real-job-application-best",
+   "earliest": "20200930070506"
+  },
+  {
+   "url": "https://toggl.com/blog/planning-resource-use-achieve-business-objectives-kpis",
+   "earliest": "20200919195115"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-physical-ui",
+   "earliest": "20200810000740"
+  },
+  {
+   "url": "https://toggl.com/blog/two-factor-theory-how-to-create-happier-employees-in-2-simple-steps",
+   "earliest": "20200919195411"
+  },
+  {
+   "url": "https://toggl.com/blog/unique-candidate-screening-questions",
+   "earliest": "20220516082757"
+  },
+  {
+   "url": "https://toggl.com/blog/resource-management-how-to-make-the-most-of-your-team",
+   "earliest": "20200919195028"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-project-plan-without-using-excel",
+   "earliest": "20200919183133"
+  },
+  {
+   "url": "https://toggl.com/blog/sales-kpi",
+   "earliest": "20200919194546"
+  },
+  {
+   "url": "https://toggl.com/blog/change-management",
+   "earliest": "20200804204046"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-zapier-1000-integrations",
+   "earliest": "20200426200852"
+  },
+  {
+   "url": "https://toggl.com/blog/test-first-process-hiring-startup",
+   "earliest": "20200930065720"
+  },
+  {
+   "url": "https://toggl.com/blog/zoom-etiquette",
+   "earliest": "20201029205307"
+  },
+  {
+   "url": "https://toggl.com/blog/types-of-planners",
+   "earliest": "20220606162637"
+  },
+  {
+   "url": "https://toggl.com/blog/building-brand-loyalty",
+   "earliest": "20200919195405"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-calculate-project-hours",
+   "earliest": "20200812095200"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-pitch-deck-examples",
+   "earliest": "20200927104121"
+  },
+  {
+   "url": "https://toggl.com/blog/negotiate-raise-clients",
+   "earliest": "20200810000135"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-apps",
+   "earliest": "20200923212827"
+  },
+  {
+   "url": "https://toggl.com/blog/html-canvas-createjs",
+   "earliest": "20200927114201"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-set-up-for-big-team",
+   "earliest": "20200930060325"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-ensure-team-success-as-a-project-manager",
+   "earliest": "20200804205332"
+  },
+  {
+   "url": "https://toggl.com/blog/6-affordable-alternatives-to-mondays-project-management-software",
+   "earliest": "20200927112215"
+  },
+  {
+   "url": "https://toggl.com/blog/hr-events-2021",
+   "earliest": "20201119102039"
+  },
+  {
+   "url": "https://toggl.com/blog/in-app-updates",
+   "earliest": "20210114142648"
+  },
+  {
+   "url": "https://toggl.com/blog/brilliant-smart-goal-examples-for-managers",
+   "earliest": "20200812085456"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-tricks",
+   "earliest": "20200928105846"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-with-kids-what-works-and-what-doesnt",
+   "earliest": "20200919194558"
+  },
+  {
+   "url": "https://toggl.com/blog/movies-different-cellphones",
+   "earliest": "20200928122708"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-zapier-integration-new-features",
+   "earliest": "20200919195121"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-master-rockefeller-habits-to-scale-your-business",
+   "earliest": "20200930070722"
+  },
+  {
+   "url": "https://toggl.com/blog/6-productivity-tools-for-freelancers",
+   "earliest": "20200919194959"
+  },
+  {
+   "url": "https://toggl.com/blog/top-10-tools-for-a-team-leader",
+   "earliest": "20200812085107"
+  },
+  {
+   "url": "https://toggl.com/blog/teamwork-vs-individual-work-which-is-better",
+   "earliest": "20200810054714"
+  },
+  {
+   "url": "https://toggl.com/blog/hr-podcast",
+   "earliest": "20210225165824"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-project-manager-toolkit",
+   "earliest": "20200930064700"
+  },
+  {
+   "url": "https://toggl.com/blog/servant-leadership",
+   "earliest": "20200919195441"
+  },
+  {
+   "url": "https://toggl.com/blog/interviewer-bias-in-hiring",
+   "earliest": "20210615092134"
+  },
+  {
+   "url": "https://toggl.com/blog/top-project-management-methodologies",
+   "earliest": "20200811031431"
+  },
+  {
+   "url": "https://toggl.com/blog/decision-matrix",
+   "earliest": "20200329092219"
+  },
+  {
+   "url": "https://toggl.com/blog/seven-levels-developer-hell",
+   "earliest": "20200524032235"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-track-billable-hours",
+   "earliest": "20220610171731"
+  },
+  {
+   "url": "https://toggl.com/blog/top-tech-podcasts",
+   "earliest": "20200804204814"
+  },
+  {
+   "url": "https://toggl.com/blog/challenges-of-hiring-at-scale",
+   "earliest": "20220201122326"
+  },
+  {
+   "url": "https://toggl.com/blog/5-lessons-learned-working-remotely",
+   "earliest": "20200919195016"
+  },
+  {
+   "url": "https://toggl.com/blog/fascinating-work-scheduling-tactics-help-your-business-grow",
+   "earliest": "20200810042745"
+  },
+  {
+   "url": "https://toggl.com/blog/fictional-characters-tracked-time",
+   "earliest": "20200812091344"
+  },
+  {
+   "url": "https://toggl.com/blog/conflict-management-tips-that-every-manager-needs-to-know",
+   "earliest": "20200811042831"
+  },
+  {
+   "url": "https://toggl.com/blog/4-day-work-week",
+   "earliest": "20200923233618"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-without-reading-single-cv",
+   "earliest": "20200618113349"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-desktop-issue-october-2019",
+   "earliest": "20200808013444"
+  },
+  {
+   "url": "https://toggl.com/blog/overwork-time",
+   "earliest": "20201101005221"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-product-launch-plan-and-why-your-startup-desperately-need-it",
+   "earliest": "20200804204325"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-team-travel-costs",
+   "earliest": "20200812093451"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-games",
+   "earliest": "20200923233005"
+  },
+  {
+   "url": "https://toggl.com/blog/faking-timesheets",
+   "earliest": "20200812094416"
+  },
+  {
+   "url": "https://toggl.com/blog/5-great-writing-tools-students",
+   "earliest": "20200930061107"
+  },
+  {
+   "url": "https://toggl.com/blog/turning-toggl-plan-users-into-planning-masters",
+   "earliest": "20200810043005"
+  },
+  {
+   "url": "https://toggl.com/blog/15-team-management-tips",
+   "earliest": "20200812095301"
+  },
+  {
+   "url": "https://toggl.com/blog/what-to-expect-from-pre-employment-assessment-tests",
+   "earliest": "20210410110614"
+  },
+  {
+   "url": "https://toggl.com/blog/10-ways-to-add-tasks-in-toggl-plan",
+   "earliest": "20201112010053"
+  },
+  {
+   "url": "https://toggl.com/blog/intermittent-explosive-disorder",
+   "earliest": "20200919175333"
+  },
+  {
+   "url": "https://toggl.com/blog/reorganizing-workflow-business-growth",
+   "earliest": "20200812094602"
+  },
+  {
+   "url": "https://toggl.com/blog/shared-calendar-apps",
+   "earliest": "20210202051754"
+  },
+  {
+   "url": "https://toggl.com/blog/10-startups-the-world-is-missing-comic",
+   "earliest": "20200517162017"
+  },
+  {
+   "url": "https://toggl.com/blog/google-docs-checklists",
+   "earliest": "20220628203948"
+  },
+  {
+   "url": "https://toggl.com/blog/write-a-design-proposal-that-wins-clients",
+   "earliest": "20200811042717"
+  },
+  {
+   "url": "https://toggl.com/blog/project-time-estimation",
+   "earliest": "20220809015645"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-a-team-leader",
+   "earliest": "20200812095012"
+  },
+  {
+   "url": "https://toggl.com/blog/10-low-cost-project-management-tools",
+   "earliest": "20200919175754"
+  },
+  {
+   "url": "https://toggl.com/blog/smiles-inc-agency",
+   "earliest": "20200919181528"
+  },
+  {
+   "url": "https://toggl.com/blog/why-did-we-make-a-new-android-app-from-scratch",
+   "earliest": "20200930070244"
+  },
+  {
+   "url": "https://toggl.com/blog/10-daily-checklist-apps-to-help-you-get-more-done-at-work",
+   "earliest": "20200804204912"
+  },
+  {
+   "url": "https://toggl.com/blog/jira-sync",
+   "earliest": "20210304075217"
+  },
+  {
+   "url": "https://toggl.com/blog/innovative-recruitment",
+   "earliest": "20220217153430"
+  },
+  {
+   "url": "https://toggl.com/blog/teamwork-vs-individual-work",
+   "earliest": "20200812094307"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-q3-2022",
+   "earliest": "20221018145804"
+  },
+  {
+   "url": "https://toggl.com/blog/1-engineer-hired-6-top-programmers-minimum-effort",
+   "earliest": "20200618190109"
+  },
+  {
+   "url": "https://toggl.com/blog/meet-deadlines",
+   "earliest": "20201124072752"
+  },
+  {
+   "url": "https://toggl.com/blog/web-design-project-management-software",
+   "earliest": "20201225013631"
+  },
+  {
+   "url": "https://toggl.com/blog/best-tools-for-project-managers",
+   "earliest": "20200812100144"
+  },
+  {
+   "url": "https://toggl.com/blog/use-gantt-charts-for-project-management",
+   "earliest": "20200810050917"
+  },
+  {
+   "url": "https://toggl.com/blog/best-crm-business",
+   "earliest": "20200812101321"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-tips",
+   "earliest": "20211005080953"
+  },
+  {
+   "url": "https://toggl.com/blog/product-management-software-9-tools-consider",
+   "earliest": "20200930070202"
+  },
+  {
+   "url": "https://toggl.com/blog/stop-feeling-overwhelmed-work",
+   "earliest": "20200930052250"
+  },
+  {
+   "url": "https://toggl.com/blog/employee-recognition-program",
+   "earliest": "20210227111816"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-people-who-may-be-older-or-wiser-than-you",
+   "earliest": "20200811032044"
+  },
+  {
+   "url": "https://toggl.com/blog/notes-on-yesterdays-server-problems",
+   "earliest": "20200919192938"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-free-gantt-chart-template",
+   "earliest": "20200810044025"
+  },
+  {
+   "url": "https://toggl.com/blog/5-best-practices-successful-project-implementation",
+   "earliest": "20200927095251"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-a-hands-on-manager-without-micromanaging",
+   "earliest": "20200811034653"
+  },
+  {
+   "url": "https://toggl.com/blog/womens-productivity",
+   "earliest": "20200923222159"
+  },
+  {
+   "url": "https://toggl.com/blog/alien-technology-sucked-comic",
+   "earliest": "20200930053438"
+  },
+  {
+   "url": "https://toggl.com/blog/plan-marketing-campaign-roadmap-milestones",
+   "earliest": "20200930070332"
+  },
+  {
+   "url": "https://toggl.com/blog/build-a-great-team-remotely",
+   "earliest": "20200923233823"
+  },
+  {
+   "url": "https://toggl.com/blog/licensing-a-product-service",
+   "earliest": "20200804203952"
+  },
+  {
+   "url": "https://toggl.com/blog/strategic-management-process",
+   "earliest": "20200421023140"
+  },
+  {
+   "url": "https://toggl.com/blog/proactive-reactive-product-management",
+   "earliest": "20200804204820"
+  },
+  {
+   "url": "https://toggl.com/blog/transparency-workplace",
+   "earliest": "20210917185004"
+  },
+  {
+   "url": "https://toggl.com/blog/human-resource-management-books",
+   "earliest": "20201107003157"
+  },
+  {
+   "url": "https://toggl.com/blog/plan-track-integration",
+   "earliest": "20201110155657"
+  },
+  {
+   "url": "https://toggl.com/blog/four-day-workweek-experiment",
+   "earliest": "20200618151621"
+  },
+  {
+   "url": "https://toggl.com/blog/distributed-teams-are-the-future",
+   "earliest": "20200418035527"
+  },
+  {
+   "url": "https://toggl.com/blog/programming-like",
+   "earliest": "20200930070542"
+  },
+  {
+   "url": "https://toggl.com/blog/recorded-video-interview-tips-for-success",
+   "earliest": "20210928142549"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-guide-to-writing-a-design-brief",
+   "earliest": "20200930065651"
+  },
+  {
+   "url": "https://toggl.com/blog/hr-memes",
+   "earliest": "20220629161208"
+  },
+  {
+   "url": "https://toggl.com/blog/why-remote-teams-still-need-an-office",
+   "earliest": "20200923233624"
+  },
+  {
+   "url": "https://toggl.com/blog/gantt-chart-excel",
+   "earliest": "20200923233420"
+  },
+  {
+   "url": "https://toggl.com/blog/everyday-office-mishaps-and-how-to-avoid-them-comic",
+   "earliest": "20200630164034"
+  },
+  {
+   "url": "https://toggl.com/blog/salary-vs-hourly-guide",
+   "earliest": "20200808013110"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-project-manager",
+   "earliest": "20220729055224"
+  },
+  {
+   "url": "https://toggl.com/blog/software-testing-basics",
+   "earliest": "20200919185630"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-mistakes-the-three-most-common-mistakes-and-how-to-avoid-hiring-the-wrong-person",
+   "earliest": "20210221101818"
+  },
+  {
+   "url": "https://toggl.com/blog/new-navigation-new-look",
+   "earliest": "20200919180412"
+  },
+  {
+   "url": "https://toggl.com/blog/save-20-on-toggl-annual-plans",
+   "earliest": "20200930051101"
+  },
+  {
+   "url": "https://toggl.com/blog/embracing-boredom-creativity",
+   "earliest": "20200923222725"
+  },
+  {
+   "url": "https://toggl.com/blog/tribal-leadership",
+   "earliest": "20200930055638"
+  },
+  {
+   "url": "https://toggl.com/blog/project-scheduling-software",
+   "earliest": "20200811025957"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-timeline-view-on-mac-desktop-app",
+   "earliest": "20200928115903"
+  },
+  {
+   "url": "https://toggl.com/blog/the-11-best-project-management-certifications-2019",
+   "earliest": "20200812094913"
+  },
+  {
+   "url": "https://toggl.com/blog/planner-ideas",
+   "earliest": "20220613120131"
+  },
+  {
+   "url": "https://toggl.com/blog/better-recruitment-process-to-prevent-bad-hire",
+   "earliest": "20220105114030"
+  },
+  {
+   "url": "https://toggl.com/blog/cooperatives-in-business",
+   "earliest": "20200928112029"
+  },
+  {
+   "url": "https://toggl.com/blog/business-tips-around-world",
+   "earliest": "20200919190328"
+  },
+  {
+   "url": "https://toggl.com/blog/5-tools-that-will-make-your-project-manager-duties-easier",
+   "earliest": "20200919183255"
+  },
+  {
+   "url": "https://toggl.com/blog/recovering-from-burnout",
+   "earliest": "20200515071025"
+  },
+  {
+   "url": "https://toggl.com/blog/small-business-task-management-best-practices",
+   "earliest": "20200812100432"
+  },
+  {
+   "url": "https://toggl.com/blog/graduate-recruitment-strategies",
+   "earliest": "20210616011132"
+  },
+  {
+   "url": "https://toggl.com/blog/five-creative-hiring-tests-you-need-to-know-about",
+   "earliest": "20210512132613"
+  },
+  {
+   "url": "https://toggl.com/blog/web-developer-portfolio",
+   "earliest": "20200919192117"
+  },
+  {
+   "url": "https://toggl.com/blog/developer-manager",
+   "earliest": "20200422215756"
+  },
+  {
+   "url": "https://toggl.com/blog/better-business-meetings",
+   "earliest": "20200919195022"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-your-teams-vacation-requests",
+   "earliest": "20200305203250"
+  },
+  {
+   "url": "https://toggl.com/blog/programming-languages-games",
+   "earliest": "20200907133707"
+  },
+  {
+   "url": "https://toggl.com/blog/hire-passive-candidates",
+   "earliest": "20200812100259"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-hiring-mistakes",
+   "earliest": "20220904140040"
+  },
+  {
+   "url": "https://toggl.com/blog/it-doesnt-matter-if-you-keep-new-years-resolutions",
+   "earliest": "20200427024900"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-project-task-list",
+   "earliest": "20200811043644"
+  },
+  {
+   "url": "https://toggl.com/blog/no-internet-in-the-mornings",
+   "earliest": "20200919194720"
+  },
+  {
+   "url": "https://toggl.com/blog/10-quick-ways-to-improve-teamwork-in-the-workplace",
+   "earliest": "20200804204205"
+  },
+  {
+   "url": "https://toggl.com/blog/7-stages-fast-approaching-deadline",
+   "earliest": "20200812094342"
+  },
+  {
+   "url": "https://toggl.com/blog/updates-to-our-subscription-plans",
+   "earliest": "20201118130035"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-time-management-apps-for-your-work-style",
+   "earliest": "20200919193119"
+  },
+  {
+   "url": "https://toggl.com/blog/how-long-should-a-post-be",
+   "earliest": "20200927115007"
+  },
+  {
+   "url": "https://toggl.com/blog/statement-on-covid-19",
+   "earliest": "20200421231749"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-improve-your-workforce-management",
+   "earliest": "20200808003210"
+  },
+  {
+   "url": "https://toggl.com/blog/google-sheets-schedule-planner",
+   "earliest": "20220617125121"
+  },
+  {
+   "url": "https://toggl.com/blog/new-task-card",
+   "earliest": "20210815145829"
+  },
+  {
+   "url": "https://toggl.com/blog/full-cycle-recruiting",
+   "earliest": "20200422052603"
+  },
+  {
+   "url": "https://toggl.com/blog/5-ways-increase-workplace-flexibility-2018",
+   "earliest": "20200427003031"
+  },
+  {
+   "url": "https://toggl.com/blog/benchmarking-small-businesses",
+   "earliest": "20200919193314"
+  },
+  {
+   "url": "https://toggl.com/blog/business-growth-strategy",
+   "earliest": "20200808011154"
+  },
+  {
+   "url": "https://toggl.com/blog/our-perception-of-work-time-is-wrong",
+   "earliest": "20200930070057"
+  },
+  {
+   "url": "https://toggl.com/blog/work-for-toggl",
+   "earliest": "20200919194633"
+  },
+  {
+   "url": "https://toggl.com/blog/social-media-screening",
+   "earliest": "20200619043606"
+  },
+  {
+   "url": "https://toggl.com/blog/case-study-using-toggl-time-tracking-writer",
+   "earliest": "20200919195505"
+  },
+  {
+   "url": "https://toggl.com/blog/overconfidence-bias-workplace",
+   "earliest": "20200628004750"
+  },
+  {
+   "url": "https://toggl.com/blog/video-chat-apps",
+   "earliest": "20200427033427"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-calendar",
+   "earliest": "20210410115555"
+  },
+  {
+   "url": "https://toggl.com/blog/35-best-useless-websites-internet",
+   "earliest": "20200804202621"
+  },
+  {
+   "url": "https://toggl.com/blog/plan/project-planning",
+   "earliest": "20200228161344"
+  },
+  {
+   "url": "https://toggl.com/blog/customer-reviews",
+   "earliest": "20200804204641"
+  },
+  {
+   "url": "https://toggl.com/blog/mastermind-group",
+   "earliest": "20200601210110"
+  },
+  {
+   "url": "https://toggl.com/blog/10-scheduling-apps-your-employees-will-love",
+   "earliest": "20200927100426"
+  },
+  {
+   "url": "https://toggl.com/blog/psychological-biases-to-overcome",
+   "earliest": "20200418040151"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-basics",
+   "earliest": "20200812094235"
+  },
+  {
+   "url": "https://toggl.com/blog/top-seven-must-ask-remote-job-interview-questions-for-a-recruiter",
+   "earliest": "20201223160006"
+  },
+  {
+   "url": "https://toggl.com/blog/scaling-business-tracking-time",
+   "earliest": "20200919195058"
+  },
+  {
+   "url": "https://toggl.com/blog/task-management-tools-software-developers",
+   "earliest": "20200930065104"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-simplify-the-decision-making-process",
+   "earliest": "20200804204855"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-pick-strategic-planning-tools",
+   "earliest": "20200804203021"
+  },
+  {
+   "url": "https://toggl.com/blog/seo-for-dummies",
+   "earliest": "20200621055827"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-marketing-project-plan",
+   "earliest": "20220715140237"
+  },
+  {
+   "url": "https://toggl.com/blog/productive-office-meetings",
+   "earliest": "20200427024700"
+  },
+  {
+   "url": "https://toggl.com/blog/10-invaluable-work-habits-every-manager-should-have",
+   "earliest": "20200812102249"
+  },
+  {
+   "url": "https://toggl.com/blog/project-tracker-apps",
+   "earliest": "20200930070021"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q1-2022",
+   "earliest": "20220413205917"
+  },
+  {
+   "url": "https://toggl.com/blog/tech-geniuses",
+   "earliest": "20200930070815"
+  },
+  {
+   "url": "https://toggl.com/blog/whats-new-in-toggl-track-q3-2022",
+   "earliest": "20221013162515"
+  },
+  {
+   "url": "https://toggl.com/blog/free-project-management-software",
+   "earliest": "20210116145732"
+  },
+  {
+   "url": "https://toggl.com/blog/improve-teamwork-in-the-workplace",
+   "earliest": "20200812101350"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-timeline-view-on-windows",
+   "earliest": "20210128094612"
+  },
+  {
+   "url": "https://toggl.com/blog/what-overwhelm-is-and-how-to-cope-with-it",
+   "earliest": "20200812101649"
+  },
+  {
+   "url": "https://toggl.com/blog/how-calm-down-at-work",
+   "earliest": "20200928104524"
+  },
+  {
+   "url": "https://toggl.com/blog/understanding-upwork-fees",
+   "earliest": "20200930070133"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-technology",
+   "earliest": "20210410123018"
+  },
+  {
+   "url": "https://toggl.com/blog/10-things-every-new-project-manager-needs-to-know",
+   "earliest": "20200804201343"
+  },
+  {
+   "url": "https://toggl.com/blog/infographics-about-work",
+   "earliest": "20200808013524"
+  },
+  {
+   "url": "https://toggl.com/blog/30-group-brainstorming-techniques-to-find-your-next-great-idea",
+   "earliest": "20200930070716"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-chrome-extension",
+   "earliest": "20200426192900"
+  },
+  {
+   "url": "https://toggl.com/blog/get-your-outlook-calendar-in-a-snapshot",
+   "earliest": "20210202024043"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-guide-to-employer-branding",
+   "earliest": "20200919194947"
+  },
+  {
+   "url": "https://toggl.com/blog/deliverables-for-a-web-designer",
+   "earliest": "20200404182813"
+  },
+  {
+   "url": "https://toggl.com/blog/the-professionals-guide-to-procrastination-making-procrastination-work-for-you",
+   "earliest": "20200930064824"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-project-outline-using-free-software",
+   "earliest": "20200927111148"
+  },
+  {
+   "url": "https://toggl.com/blog/basecamp-import-available",
+   "earliest": "20200919195300"
+  },
+  {
+   "url": "https://toggl.com/blog/the-top-10-project-tracking-tools",
+   "earliest": "20200928114907"
+  },
+  {
+   "url": "https://toggl.com/blog/effective-project-manager",
+   "earliest": "20200812085610"
+  },
+  {
+   "url": "https://toggl.com/blog/stay-focused-at-work",
+   "earliest": "20200927113754"
+  },
+  {
+   "url": "https://toggl.com/blog/coming-soon-new-toggl-ios-app",
+   "earliest": "20200804201453"
+  },
+  {
+   "url": "https://toggl.com/blog/morning-routines-famous-entrepreneurs",
+   "earliest": "20200928111454"
+  },
+  {
+   "url": "https://toggl.com/blog/unconscious-bias",
+   "earliest": "20200808002748"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-growth",
+   "earliest": "20200421001014"
+  },
+  {
+   "url": "https://toggl.com/blog/laura-vanderkam-interview",
+   "earliest": "20210623215756"
+  },
+  {
+   "url": "https://toggl.com/blog/one-million-toggl-users-stats",
+   "earliest": "20200927115814"
+  },
+  {
+   "url": "https://toggl.com/blog/get-home-early",
+   "earliest": "20200804204456"
+  },
+  {
+   "url": "https://toggl.com/blog/timeline-software-work",
+   "earliest": "20200610103819"
+  },
+  {
+   "url": "https://toggl.com/blog/freelance-project-management-software",
+   "earliest": "20201104203051"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-plan-your-week-get-tasks-done-productively",
+   "earliest": "20210512152343"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-zoo-comic",
+   "earliest": "20200812102110"
+  },
+  {
+   "url": "https://toggl.com/blog/8-amazing-project-management-hacks",
+   "earliest": "20200930054231"
+  },
+  {
+   "url": "https://toggl.com/blog/50-project-management-quotes",
+   "earliest": "20200930070256"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-assessment-test",
+   "earliest": "20220309172811"
+  },
+  {
+   "url": "https://toggl.com/blog/eisenhower-matrix",
+   "earliest": "20200605225958"
+  },
+  {
+   "url": "https://toggl.com/blog/5-steps-building-highly-effective-remote-company",
+   "earliest": "20201029205029"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-app-developers",
+   "earliest": "20200919185544"
+  },
+  {
+   "url": "https://toggl.com/blog/make-checklist-word",
+   "earliest": "20220530151337"
+  },
+  {
+   "url": "https://toggl.com/blog/dark-triad-in-the-workplace",
+   "earliest": "20200812095829"
+  },
+  {
+   "url": "https://toggl.com/blog/two-key-strategies-to-land-remote-clients",
+   "earliest": "20200418035556"
+  },
+  {
+   "url": "https://toggl.com/blog/delegate-like-a-pro",
+   "earliest": "20200426200114"
+  },
+  {
+   "url": "https://toggl.com/blog/12-ways-to-motivate-employees",
+   "earliest": "20200810051611"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-measure-personal-productivity",
+   "earliest": "20200426200416"
+  },
+  {
+   "url": "https://toggl.com/blog/pomodoro-timer",
+   "earliest": "20200427025221"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-use-a-simple-gantt-chart-to-plan-project",
+   "earliest": "20200919194254"
+  },
+  {
+   "url": "https://toggl.com/blog/project-portfolio-management",
+   "earliest": "20200804202858"
+  },
+  {
+   "url": "https://toggl.com/blog/resource-allocation",
+   "earliest": "20200812093559"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-project-dashboard",
+   "earliest": "20200919195522"
+  },
+  {
+   "url": "https://toggl.com/blog/digital-detox",
+   "earliest": "20201029185226"
+  },
+  {
+   "url": "https://toggl.com/blog/deliberate-practice",
+   "earliest": "20200812092644"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-write-a-procedure",
+   "earliest": "20200808011448"
+  },
+  {
+   "url": "https://toggl.com/blog/time-to-fill",
+   "earliest": "20200923233926"
+  },
+  {
+   "url": "https://toggl.com/blog/team-communication-tools",
+   "earliest": "20210324014319"
+  },
+  {
+   "url": "https://toggl.com/blog/difficult-web-design-clients",
+   "earliest": "20200930063043"
+  },
+  {
+   "url": "https://toggl.com/blog/product-roadmap",
+   "earliest": "20201029204903"
+  },
+  {
+   "url": "https://toggl.com/blog/rowe-at-toggl",
+   "earliest": "20211214163711"
+  },
+  {
+   "url": "https://toggl.com/blog/productive-hobbies",
+   "earliest": "20200810000846"
+  },
+  {
+   "url": "https://toggl.com/blog/schedule-maker-tips-for-small-businesses",
+   "earliest": "20200808013639"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-prevent-scope-creep",
+   "earliest": "20200810055019"
+  },
+  {
+   "url": "https://toggl.com/blog/manage-a-cross-functional-team",
+   "earliest": "20200928121139"
+  },
+  {
+   "url": "https://toggl.com/blog/fix-broken-hiring-with-toggl-hire",
+   "earliest": "20200426200851"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-fire-someone",
+   "earliest": "20200919192155"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-planner-our-new-product-for-team-schedule-planning",
+   "earliest": "20201029205324"
+  },
+  {
+   "url": "https://toggl.com/blog/little-red-riding-hood-teaches-programming-comic",
+   "earliest": "20200718120738"
+  },
+  {
+   "url": "https://toggl.com/blog/ditch-excel-project-management",
+   "earliest": "20200919191443"
+  },
+  {
+   "url": "https://toggl.com/blog/7-easy-ways-brainstorm-new-blog-post-ideas",
+   "earliest": "20200804192426"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-build-a-tech-stack-you-can-be-proud-of",
+   "earliest": "20200811043152"
+  },
+  {
+   "url": "https://toggl.com/blog/task-tracker-to-improve-productivity",
+   "earliest": "20200804205223"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-establish-rapport-with-a-remote-client",
+   "earliest": "20200919195231"
+  },
+  {
+   "url": "https://toggl.com/blog/5-ways-motivate-team-to-track-time",
+   "earliest": "20200808004130"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-new-summary-reports",
+   "earliest": "20200930062313"
+  },
+  {
+   "url": "https://toggl.com/blog/business-growth",
+   "earliest": "20221002181723"
+  },
+  {
+   "url": "https://toggl.com/blog/graduate-assessment-center",
+   "earliest": "20211024071148"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-use-the-six-thinking-hats-method-for-problem-solving",
+   "earliest": "20200930070015"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-for-design-professionals",
+   "earliest": "20200804201943"
+  },
+  {
+   "url": "https://toggl.com/blog/good-developers-employed-already-never-scan-job-boards",
+   "earliest": "20200812095028"
+  },
+  {
+   "url": "https://toggl.com/blog/stop-multitasking-at-work-do-this-instead",
+   "earliest": "20200919195237"
+  },
+  {
+   "url": "https://toggl.com/blog/8-effective-ways-get-project-management",
+   "earliest": "20200919182859"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-excel",
+   "earliest": "20210410114600"
+  },
+  {
+   "url": "https://toggl.com/blog/new-employee-onboarding-ideas",
+   "earliest": "20210805215857"
+  },
+  {
+   "url": "https://toggl.com/blog/interactive-calendar-for-teams",
+   "earliest": "20200812095113"
+  },
+  {
+   "url": "https://toggl.com/blog/hackerrank-alternatives",
+   "earliest": "20201029204840"
+  },
+  {
+   "url": "https://toggl.com/blog/talent-management-system",
+   "earliest": "20200619055133"
+  },
+  {
+   "url": "https://toggl.com/blog/kanban-board-tools",
+   "earliest": "20210119011029"
+  },
+  {
+   "url": "https://toggl.com/blog/jack-of-all-trades",
+   "earliest": "20201106143204"
+  },
+  {
+   "url": "https://toggl.com/blog/top-20-tech-conferences-to-attend-in-2020",
+   "earliest": "20200228161343"
+  },
+  {
+   "url": "https://toggl.com/blog/start-time-entries-with-zapier",
+   "earliest": "20200930055932"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-a-writer",
+   "earliest": "20201201131022"
+  },
+  {
+   "url": "https://toggl.com/blog/statement-of-work",
+   "earliest": "20200919195202"
+  },
+  {
+   "url": "https://toggl.com/blog/quit-coffee",
+   "earliest": "20210616013829"
+  },
+  {
+   "url": "https://toggl.com/blog/diversity-inclusion-in-recruitment",
+   "earliest": "20211024050707"
+  },
+  {
+   "url": "https://toggl.com/blog/20-best-productivity-apps-for-2020",
+   "earliest": "20200421005013"
+  },
+  {
+   "url": "https://toggl.com/blog/facebook-quiz-accident-job",
+   "earliest": "20200426201009"
+  },
+  {
+   "url": "https://toggl.com/blog/creative-practice-how-being-bad-at-ceramics-made-me-a-better-writer",
+   "earliest": "20200808003732"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-4-months-free-01-2021",
+   "earliest": "20210112130529"
+  },
+  {
+   "url": "https://toggl.com/blog/new-on-toggl-timeline",
+   "earliest": "20200930051902"
+  },
+  {
+   "url": "https://toggl.com/blog/10-ways-to-improve-team-communication",
+   "earliest": "20200804194631"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-productive-a-case-study-on-terry-crews",
+   "earliest": "20200804194535"
+  },
+  {
+   "url": "https://toggl.com/blog/creative-agency-project-management-software",
+   "earliest": "20210310051757"
+  },
+  {
+   "url": "https://toggl.com/blog/nine-ideas-to-make-your-employees-track-time",
+   "earliest": "20200919194726"
+  },
+  {
+   "url": "https://toggl.com/blog/busy-trap-experiment",
+   "earliest": "20200810000026"
+  },
+  {
+   "url": "https://toggl.com/blog/low-cost-b2b-lead-generation",
+   "earliest": "20200919195010"
+  },
+  {
+   "url": "https://toggl.com/blog/team-building-ideas-and-strategies-that-work",
+   "earliest": "20200812094143"
+  },
+  {
+   "url": "https://toggl.com/blog/how-fire-client",
+   "earliest": "20200919193809"
+  },
+  {
+   "url": "https://toggl.com/blog/http-vs-https",
+   "earliest": "20200930070150"
+  },
+  {
+   "url": "https://toggl.com/blog/agile-agency",
+   "earliest": "20221020234122"
+  },
+  {
+   "url": "https://toggl.com/blog/grow-online-community",
+   "earliest": "20200812101637"
+  },
+  {
+   "url": "https://toggl.com/blog/shiny-object-syndrome",
+   "earliest": "20200919190245"
+  },
+  {
+   "url": "https://toggl.com/blog/10-time-saving-excel-alternatives",
+   "earliest": "20200804204618"
+  },
+  {
+   "url": "https://toggl.com/blog/employee-referral-program-ideas",
+   "earliest": "20200808001142"
+  },
+  {
+   "url": "https://toggl.com/blog/reports-api-unveiled",
+   "earliest": "20200919193419"
+  },
+  {
+   "url": "https://toggl.com/blog/life-of-a-programmer",
+   "earliest": "20200808005351"
+  },
+  {
+   "url": "https://toggl.com/blog/dealing-with-lazy-coworkers",
+   "earliest": "20200812101237"
+  },
+  {
+   "url": "https://toggl.com/blog/flexibility-in-the-workplace",
+   "earliest": "20201113124641"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q1-2020",
+   "earliest": "20200422023851"
+  },
+  {
+   "url": "https://toggl.com/blog/avoid-burnout-shift-workday",
+   "earliest": "20201029205134"
+  },
+  {
+   "url": "https://toggl.com/blog/believing-8-myths-project-management-keeps-you-from-growing",
+   "earliest": "20200930070740"
+  },
+  {
+   "url": "https://toggl.com/blog/does-your-company-culture-scale",
+   "earliest": "20200808011239"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-proposal",
+   "earliest": "20220816155740"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-team-building-work-from-home",
+   "earliest": "20200917190554"
+  },
+  {
+   "url": "https://toggl.com/blog/clickup-alternatives",
+   "earliest": "20210225171352"
+  },
+  {
+   "url": "https://toggl.com/blog/build-horse-programming",
+   "earliest": "20200517051431"
+  },
+  {
+   "url": "https://toggl.com/blog/insiders-guide-to-coworking-spaces",
+   "earliest": "20200804195849"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-online-collaboration-tools-for-remote-teams",
+   "earliest": "20200919174138"
+  },
+  {
+   "url": "https://toggl.com/blog/get-habit-time-tracking",
+   "earliest": "20200812092342"
+  },
+  {
+   "url": "https://toggl.com/blog/gantt-charts-used-software-project-management",
+   "earliest": "20200812102220"
+  },
+  {
+   "url": "https://toggl.com/blog/airport-hacks-infographic",
+   "earliest": "20200919195034"
+  },
+  {
+   "url": "https://toggl.com/blog/managing-product-development",
+   "earliest": "20200812101252"
+  },
+  {
+   "url": "https://toggl.com/blog/starter-guide-project-planning",
+   "earliest": "20210917202713"
+  },
+  {
+   "url": "https://toggl.com/blog/best-business-management-software",
+   "earliest": "20200930070121"
+  },
+  {
+   "url": "https://toggl.com/blog/resource-planning-essential-small-business",
+   "earliest": "20200811031112"
+  },
+  {
+   "url": "https://toggl.com/blog/change-management-process",
+   "earliest": "20200418035607"
+  },
+  {
+   "url": "https://toggl.com/blog/kickoff-meeting",
+   "earliest": "20200919183530"
+  },
+  {
+   "url": "https://toggl.com/blog/monday-vs-asana",
+   "earliest": "20201111232200"
+  },
+  {
+   "url": "https://toggl.com/blog/benefits-human-resource-planning",
+   "earliest": "20200930063157"
+  },
+  {
+   "url": "https://toggl.com/blog/best-gifts-employees",
+   "earliest": "20200919195150"
+  },
+  {
+   "url": "https://toggl.com/blog/resource-scheduling-software",
+   "earliest": "20210306114138"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-digital-marketers",
+   "earliest": "20200923233301"
+  },
+  {
+   "url": "https://toggl.com/blog/mental-health-work",
+   "earliest": "20201029203738"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-team-culture",
+   "earliest": "20200804203450"
+  },
+  {
+   "url": "https://toggl.com/blog/google-project-management-doesnt-exist",
+   "earliest": "20200811041430"
+  },
+  {
+   "url": "https://toggl.com/blog/management-skills-every-project-manager-needs",
+   "earliest": "20200811040244"
+  },
+  {
+   "url": "https://toggl.com/blog/are-remote-workers-the-future-of-green-business",
+   "earliest": "20200228161432"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-promote-accountability-in-the-workplace",
+   "earliest": "20200810055334"
+  },
+  {
+   "url": "https://toggl.com/blog/heroes-and-villains-of-software-development",
+   "earliest": "20200228161344"
+  },
+  {
+   "url": "https://toggl.com/blog/freelancing-problems-last-dinosaur",
+   "earliest": "20200919194517"
+  },
+  {
+   "url": "https://toggl.com/blog/home-freelancer",
+   "earliest": "20200930054620"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-helped-change-old-habits-develop-new-ones",
+   "earliest": "20200804204033"
+  },
+  {
+   "url": "https://toggl.com/blog/email-management-tips",
+   "earliest": "20200808011754"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-list-of-team-building-activities-games-and-icebreakers",
+   "earliest": "20200804204936"
+  },
+  {
+   "url": "https://toggl.com/blog/brand-book",
+   "earliest": "20200808002946"
+  },
+  {
+   "url": "https://toggl.com/blog/increase-attention-span",
+   "earliest": "20200420195805"
+  },
+  {
+   "url": "https://toggl.com/blog/new-toggl-desktop-for-mac",
+   "earliest": "20200804202831"
+  },
+  {
+   "url": "https://toggl.com/blog/project-budget",
+   "earliest": "20220920173427"
+  },
+  {
+   "url": "https://toggl.com/blog/10-changes-to-keep-team-on-their-toes",
+   "earliest": "20200228161323"
+  },
+  {
+   "url": "https://toggl.com/blog/giving-feedback-10-tips-for-managers",
+   "earliest": "20200811042537"
+  },
+  {
+   "url": "https://toggl.com/blog/create-project-timeline",
+   "earliest": "20210219085756"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-analyze-an-article",
+   "earliest": "20200928111104"
+  },
+  {
+   "url": "https://toggl.com/blog/pomodoro-for-android-waves",
+   "earliest": "20211201123952"
+  },
+  {
+   "url": "https://toggl.com/blog/make-people-use-timesheets",
+   "earliest": "20200928111646"
+  },
+  {
+   "url": "https://toggl.com/blog/5-scheduling-software-tools-that-will-save-your-sanity",
+   "earliest": "20200804204352"
+  },
+  {
+   "url": "https://toggl.com/blog/trello-vs-meistertask",
+   "earliest": "20210128080726"
+  },
+  {
+   "url": "https://toggl.com/blog/the-importance-of-a-dedicated-office-when-working-from-home",
+   "earliest": "20200804203201"
+  },
+  {
+   "url": "https://toggl.com/blog/daily-checklist-apps-templates",
+   "earliest": "20220506122722"
+  },
+  {
+   "url": "https://toggl.com/blog/landing-page-best-practices",
+   "earliest": "20200919185449"
+  },
+  {
+   "url": "https://toggl.com/blog/4-phases-of-a-project-life-cycle",
+   "earliest": "20200812091151"
+  },
+  {
+   "url": "https://toggl.com/blog/web-design-competition",
+   "earliest": "20200930062058"
+  },
+  {
+   "url": "https://toggl.com/blog/convince-employees-adopt-new-tools",
+   "earliest": "20200930064340"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-job-mobile-marketing",
+   "earliest": "20200919191923"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-job-backend-developer",
+   "earliest": "20200808013158"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-project-management-software-for-2019",
+   "earliest": "20200930055104"
+  },
+  {
+   "url": "https://toggl.com/blog/the-5-best-free-project-management-software-solutions",
+   "earliest": "20200812084615"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-better-programmer",
+   "earliest": "20200422051753"
+  },
+  {
+   "url": "https://toggl.com/blog/revolutionize-workday-split-shift",
+   "earliest": "20201025055745"
+  },
+  {
+   "url": "https://toggl.com/blog/recruiting-funnel",
+   "earliest": "20220818091956"
+  },
+  {
+   "url": "https://toggl.com/blog/15-best-online-project-management-tools-for-distributed-teams",
+   "earliest": "20200812101510"
+  },
+  {
+   "url": "https://toggl.com/blog/management-tips-grim-reaper",
+   "earliest": "20200426202753"
+  },
+  {
+   "url": "https://toggl.com/blog/chronic-procrastination-emotion-regulation",
+   "earliest": "20200919180609"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-make-time-go-faster-at-work",
+   "earliest": "20220726165715"
+  },
+  {
+   "url": "https://toggl.com/blog/cognitive-ability-assessment-tools",
+   "earliest": "20201117114621"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-work-infographic",
+   "earliest": "20200426193659"
+  },
+  {
+   "url": "https://toggl.com/blog/9-project-management-techniques",
+   "earliest": "20200804201242"
+  },
+  {
+   "url": "https://toggl.com/blog/avoid-working-during-vacation",
+   "earliest": "20200930060840"
+  },
+  {
+   "url": "https://toggl.com/blog/track-progress",
+   "earliest": "20200418035554"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-challenges",
+   "earliest": "20221006153506"
+  },
+  {
+   "url": "https://toggl.com/blog/problem-solving-strategies",
+   "earliest": "20200514131137"
+  },
+  {
+   "url": "https://toggl.com/blog/talent-acquisition",
+   "earliest": "20221002203005"
+  },
+  {
+   "url": "https://toggl.com/blog/usability-testing-for-saas",
+   "earliest": "20200804203638"
+  },
+  {
+   "url": "https://toggl.com/blog/excel-alternatives",
+   "earliest": "20200422062931"
+  },
+  {
+   "url": "https://toggl.com/blog/5-ways-toggl-hire-makes-pre-employment-testing-simple",
+   "earliest": "20211117183422"
+  },
+  {
+   "url": "https://toggl.com/blog/get-motivated",
+   "earliest": "20210716084623"
+  },
+  {
+   "url": "https://toggl.com/blog/why-youre-failing-at-delegation-and-how-to-fix-it",
+   "earliest": "20200812094700"
+  },
+  {
+   "url": "https://toggl.com/blog/monday-sucks-10-productivity-tips",
+   "earliest": "20200421005008"
+  },
+  {
+   "url": "https://toggl.com/blog/self-improvement-techniques",
+   "earliest": "20200919194837"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-introduce-yourself-to-a-new-team",
+   "earliest": "20200927114411"
+  },
+  {
+   "url": "https://toggl.com/blog/make-checklist-excel",
+   "earliest": "20220603160232"
+  },
+  {
+   "url": "https://toggl.com/blog/make-team-meetings-great-again",
+   "earliest": "20201029205128"
+  },
+  {
+   "url": "https://toggl.com/blog/7-things-managing-expectations-wish-youd-known-earlier",
+   "earliest": "20200808010030"
+  },
+  {
+   "url": "https://toggl.com/blog/hidden-dangers-refactoring",
+   "earliest": "20200619212106"
+  },
+  {
+   "url": "https://toggl.com/blog/project-communication-plan",
+   "earliest": "20211111090519"
+  },
+  {
+   "url": "https://toggl.com/blog/workforce-optimization-wfo",
+   "earliest": "20200919190454"
+  },
+  {
+   "url": "https://toggl.com/blog/trello-vs-asana-vs-toggl-plan",
+   "earliest": "20200618153402"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-job-description",
+   "earliest": "20200811043426"
+  },
+  {
+   "url": "https://toggl.com/blog/best-jobs-introverts",
+   "earliest": "20200808004052"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-tips",
+   "earliest": "20200812102040"
+  },
+  {
+   "url": "https://toggl.com/blog/3-things-traveling-working-remotely",
+   "earliest": "20200426194448"
+  },
+  {
+   "url": "https://toggl.com/blog/skills-of-a-good-employee",
+   "earliest": "20200808003657"
+  },
+  {
+   "url": "https://toggl.com/blog/teamweek-medical-scheduling-software",
+   "earliest": "20200930070926"
+  },
+  {
+   "url": "https://toggl.com/blog/business-plan-free-templates",
+   "earliest": "20200808010403"
+  },
+  {
+   "url": "https://toggl.com/blog/share-the-hell-out-of-your-projects",
+   "earliest": "20200804201555"
+  },
+  {
+   "url": "https://toggl.com/blog/how-does-music-affect-work-infographic",
+   "earliest": "20200930055428"
+  },
+  {
+   "url": "https://toggl.com/blog/how-could-working-from-home-affect-your-health",
+   "earliest": "20200930070758"
+  },
+  {
+   "url": "https://toggl.com/blog/hire-marketers-skills-based-testing",
+   "earliest": "20200910224306"
+  },
+  {
+   "url": "https://toggl.com/blog/product-news/toggl-plan-news",
+   "earliest": "20221002200412"
+  },
+  {
+   "url": "https://toggl.com/blog/search-videos",
+   "earliest": "20211204234047"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-vs-task-management",
+   "earliest": "20200927095028"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-employees-for-startup",
+   "earliest": "20211215103531"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-handle-a-bad-hire",
+   "earliest": "20201208140027"
+  },
+  {
+   "url": "https://toggl.com/blog/best-management-books",
+   "earliest": "20200927115620"
+  },
+  {
+   "url": "https://toggl.com/blog/team-management-tips-youll-wish-someone-had-told-you-sooner",
+   "earliest": "20200811035902"
+  },
+  {
+   "url": "https://toggl.com/blog/things-know-job-startup",
+   "earliest": "20200919192828"
+  },
+  {
+   "url": "https://toggl.com/blog/google-search-tips",
+   "earliest": "20200919194621"
+  },
+  {
+   "url": "https://toggl.com/blog/best-tech-websites",
+   "earliest": "20200919195127"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-project-plan-templates",
+   "earliest": "20220812151934"
+  },
+  {
+   "url": "https://toggl.com/blog/video-interview-examples",
+   "earliest": "20210814043028"
+  },
+  {
+   "url": "https://toggl.com/blog/deep-work",
+   "earliest": "20200811041839"
+  },
+  {
+   "url": "https://toggl.com/blog/what-does-a-product-manager-do-all-day",
+   "earliest": "20200804201746"
+  },
+  {
+   "url": "https://toggl.com/blog/the-5-project-management-steps",
+   "earliest": "20200811033342"
+  },
+  {
+   "url": "https://toggl.com/blog/new-guide-to-establishing-a-successful-remote-culture-by-toggl",
+   "earliest": "20200930070214"
+  },
+  {
+   "url": "https://toggl.com/blog/10-mistakes-every-project-manager-makes",
+   "earliest": "20200919195545"
+  },
+  {
+   "url": "https://toggl.com/blog/talent-pool",
+   "earliest": "20210618114324"
+  },
+  {
+   "url": "https://toggl.com/blog/going-back-to-work-after-vacation",
+   "earliest": "20200928110258"
+  },
+  {
+   "url": "https://toggl.com/blog/relax-reduce-screen-time",
+   "earliest": "20200927103751"
+  },
+  {
+   "url": "https://toggl.com/blog/value-proposition-canvas-customers-pain-points",
+   "earliest": "20200808010941"
+  },
+  {
+   "url": "https://toggl.com/blog/video-intros-vs-one-way-video-interviews",
+   "earliest": "20220118163954"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-guide-to-time-management-strategies",
+   "earliest": "20200421061225"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-slow-animals",
+   "earliest": "20200812092823"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-involved-in-operations-management",
+   "earliest": "20200919195318"
+  },
+  {
+   "url": "https://toggl.com/blog/resource-planning",
+   "earliest": "20200808012142"
+  },
+  {
+   "url": "https://toggl.com/blog/10-tips-for-managing-a-remote-team",
+   "earliest": "20200421161548"
+  },
+  {
+   "url": "https://toggl.com/blog/7-tips-to-become-better-at-public-speaking-at-work",
+   "earliest": "20200919184012"
+  },
+  {
+   "url": "https://toggl.com/blog/fair-chance-hiring-practices",
+   "earliest": "20211207143916"
+  },
+  {
+   "url": "https://toggl.com/blog/best-time-tracking-app-android",
+   "earliest": "20200812091816"
+  },
+  {
+   "url": "https://toggl.com/blog/break-bad-habits",
+   "earliest": "20200427001319"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-founders-interview",
+   "earliest": "20201127012852"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-books-2",
+   "earliest": "20200808005055"
+  },
+  {
+   "url": "https://toggl.com/blog/productive-client-meetings",
+   "earliest": "20200808013811"
+  },
+  {
+   "url": "https://toggl.com/blog/fear-of-failure-in-business",
+   "earliest": "20200808011734"
+  },
+  {
+   "url": "https://toggl.com/blog/management-styles",
+   "earliest": "20200808004332"
+  },
+  {
+   "url": "https://toggl.com/blog/horoscopes-agency-job",
+   "earliest": "20200930062642"
+  },
+  {
+   "url": "https://toggl.com/blog/major-milestones-for-unicorn-startups",
+   "earliest": "20200930070425"
+  },
+  {
+   "url": "https://toggl.com/blog/whats-it-like-at-toggl",
+   "earliest": "20200808010052"
+  },
+  {
+   "url": "https://toggl.com/blog/best-time-send-emails",
+   "earliest": "20200812085218"
+  },
+  {
+   "url": "https://toggl.com/blog/follow-up-e-mail-templates",
+   "earliest": "20200930063742"
+  },
+  {
+   "url": "https://toggl.com/blog/small-business-coach",
+   "earliest": "20200930051512"
+  },
+  {
+   "url": "https://toggl.com/blog/telework-interview-christopher-ingraham",
+   "earliest": "20201023222635"
+  },
+  {
+   "url": "https://toggl.com/blog/the-80-hour-work-week",
+   "earliest": "20200420214102"
+  },
+  {
+   "url": "https://toggl.com/blog/top-7-productivity-tips-for-working-at-home",
+   "earliest": "20201029204708"
+  },
+  {
+   "url": "https://toggl.com/blog/characteristics-of-customer-service",
+   "earliest": "20210120081138"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-annual-plan",
+   "earliest": "20200930070734"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-project-schedule",
+   "earliest": "20200811035535"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-adobe-plugin",
+   "earliest": "20201101092956"
+  },
+  {
+   "url": "https://toggl.com/blog/project-manager-skills-that-pay-the-bills",
+   "earliest": "20200919195359"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-time-keeping-with-inevitable-daily-multi-tasking",
+   "earliest": "20200808012910"
+  },
+  {
+   "url": "https://toggl.com/blog/new-job-mistakes",
+   "earliest": "20200927115242"
+  },
+  {
+   "url": "https://toggl.com/blog/team-dynamics",
+   "earliest": "20200804200824"
+  },
+  {
+   "url": "https://toggl.com/blog/stay-focused-working-from-home",
+   "earliest": "20200618122804"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-account-executives",
+   "earliest": "20210512144433"
+  },
+  {
+   "url": "https://toggl.com/blog/one-on-one-how-to-manage-up",
+   "earliest": "20200807235105"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-deal-with-stress-at-work",
+   "earliest": "20210318193639"
+  },
+  {
+   "url": "https://toggl.com/blog/13-brainstorming-techniques-for-kickstarting-projects",
+   "earliest": "20200812083435"
+  },
+  {
+   "url": "https://toggl.com/blog/screening-process-for-hiring",
+   "earliest": "20200618115845"
+  },
+  {
+   "url": "https://toggl.com/blog/10-best-organization-software-options-for-teams",
+   "earliest": "20200811032740"
+  },
+  {
+   "url": "https://toggl.com/blog/stay-focused-working-remotely",
+   "earliest": "20200426201325"
+  },
+  {
+   "url": "https://toggl.com/blog/begin-with-the-end-in-mind",
+   "earliest": "20200927101242"
+  },
+  {
+   "url": "https://toggl.com/blog/mistakes-to-avoid-when-scaling-up-your-business",
+   "earliest": "20200811042121"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-guide-to-hiring-remote-employees",
+   "earliest": "20200804194249"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-android-beta-its-here",
+   "earliest": "20200812091859"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-remote-workers",
+   "earliest": "20200804205321"
+  },
+  {
+   "url": "https://toggl.com/blog/working-from-home-agoraphobia",
+   "earliest": "20201023222605"
+  },
+  {
+   "url": "https://toggl.com/blog/bored-at-work",
+   "earliest": "20200804202159"
+  },
+  {
+   "url": "https://toggl.com/blog/scheduled-maintenance-saturday-march-13-2021",
+   "earliest": "20210309064810"
+  },
+  {
+   "url": "https://toggl.com/blog/pert-chart",
+   "earliest": "20200919190953"
+  },
+  {
+   "url": "https://toggl.com/blog/ultimate-guide-to-creating-a-project-timeline",
+   "earliest": "20200804204728"
+  },
+  {
+   "url": "https://toggl.com/blog/whats-the-difference-between-a-program-manager-and-a-project-manager",
+   "earliest": "20200919174905"
+  },
+  {
+   "url": "https://toggl.com/blog/build-trust-in-the-workplace",
+   "earliest": "20200515140250"
+  },
+  {
+   "url": "https://toggl.com/blog/stay-relevant-upskilling",
+   "earliest": "20200922110857"
+  },
+  {
+   "url": "https://toggl.com/blog/workforce-management-software",
+   "earliest": "20200811040747"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-toggl-business",
+   "earliest": "20200808012824"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-tech-stack",
+   "earliest": "20201203104828"
+  },
+  {
+   "url": "https://toggl.com/blog/matrix-organizational-structures",
+   "earliest": "20200930064517"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-best-practices",
+   "earliest": "20201029203050"
+  },
+  {
+   "url": "https://toggl.com/blog/workplace-trends",
+   "earliest": "20200919191845"
+  },
+  {
+   "url": "https://toggl.com/blog/developing-multiplatform-mobile-apps-from-a-single-code-base",
+   "earliest": "20200808012859"
+  },
+  {
+   "url": "https://toggl.com/blog/choose-work-home-adventure",
+   "earliest": "20200426195305"
+  },
+  {
+   "url": "https://toggl.com/blog/4-tips-improve-company-communication",
+   "earliest": "20200923233449"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-do-project-risk-management",
+   "earliest": "20200927115802"
+  },
+  {
+   "url": "https://toggl.com/blog/business-process-improvement",
+   "earliest": "20200812101916"
+  },
+  {
+   "url": "https://toggl.com/blog/executive-decision-making-styles",
+   "earliest": "20200812090746"
+  },
+  {
+   "url": "https://toggl.com/blog/learning-time-management-with-minecraft",
+   "earliest": "20200604043753"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-internship-tips",
+   "earliest": "20200812101504"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-team-management",
+   "earliest": "20201119145928"
+  },
+  {
+   "url": "https://toggl.com/blog/interview-questions-for-remote-workers",
+   "earliest": "20210410112950"
+  },
+  {
+   "url": "https://toggl.com/blog/make-my-day-timesheet-entry-generator",
+   "earliest": "20200804203407"
+  },
+  {
+   "url": "https://toggl.com/blog/top-20-apps-for-digital-nomads",
+   "earliest": "20200804204439"
+  },
+  {
+   "url": "https://toggl.com/blog/organizational-culture-fit",
+   "earliest": "20220602095234"
+  },
+  {
+   "url": "https://toggl.com/blog/company-core-values",
+   "earliest": "20200919195551"
+  },
+  {
+   "url": "https://toggl.com/blog/c-interview-questions",
+   "earliest": "20221020041626"
+  },
+  {
+   "url": "https://toggl.com/blog/key-business-metrics",
+   "earliest": "20200812101934"
+  },
+  {
+   "url": "https://toggl.com/blog/career-trends-2021",
+   "earliest": "20210805213716"
+  },
+  {
+   "url": "https://toggl.com/blog/computer-security-guide",
+   "earliest": "20200812101928"
+  },
+  {
+   "url": "https://toggl.com/blog/productivity-increases-when-work-fewer-hours",
+   "earliest": "20200808010813"
+  },
+  {
+   "url": "https://toggl.com/blog/intrinsic-motivation-extrinsic-motivation-work-style",
+   "earliest": "20200808012404"
+  },
+  {
+   "url": "https://toggl.com/blog/multigenerational-workplace",
+   "earliest": "20200620045704"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-guide-to-small-business-software",
+   "earliest": "20200811042816"
+  },
+  {
+   "url": "https://toggl.com/blog/group-dynamics-workplace",
+   "earliest": "20200919191805"
+  },
+  {
+   "url": "https://toggl.com/blog/critical-thinking",
+   "earliest": "20200804203733"
+  },
+  {
+   "url": "https://toggl.com/blog/project-planning-start-finish",
+   "earliest": "20200928105401"
+  },
+  {
+   "url": "https://toggl.com/blog/video-category",
+   "earliest": "20211204221606"
+  },
+  {
+   "url": "https://toggl.com/blog/10-ways-to-create-group-norms-in-your-office",
+   "earliest": "20201029204822"
+  },
+  {
+   "url": "https://toggl.com/blog/calm-your-nerves-before-presentation",
+   "earliest": "20200930055210"
+  },
+  {
+   "url": "https://toggl.com/blog/agile-recruiting",
+   "earliest": "20201029204221"
+  },
+  {
+   "url": "https://toggl.com/blog/lightbulb-cartoon-developers",
+   "earliest": "20200422225835"
+  },
+  {
+   "url": "https://toggl.com/blog/importance-of-checklists",
+   "earliest": "20220608200732"
+  },
+  {
+   "url": "https://toggl.com/blog/online-timers",
+   "earliest": "20200808013604"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-choose-the-best-free-recruitment-software-for-your-small-business",
+   "earliest": "20210128080612"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-quarter-1-2021",
+   "earliest": "20210410115017"
+  },
+  {
+   "url": "https://toggl.com/blog/project-milestones",
+   "earliest": "20200619055214"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-prioritize-projects",
+   "earliest": "20200804205137"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-improve-hiring-process",
+   "earliest": "20200618190751"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-now-works-inside-asana",
+   "earliest": "20200919195103"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-101",
+   "earliest": "20200810053552"
+  },
+  {
+   "url": "https://toggl.com/blog/best-time-tracking-apps",
+   "earliest": "20221018172605"
+  },
+  {
+   "url": "https://toggl.com/blog/talent-planning",
+   "earliest": "20201029201801"
+  },
+  {
+   "url": "https://toggl.com/blog/team-collaboration-strategies",
+   "earliest": "20200811031927"
+  },
+  {
+   "url": "https://toggl.com/blog/customer-testimonial-examples",
+   "earliest": "20200919175541"
+  },
+  {
+   "url": "https://toggl.com/blog/project-controls",
+   "earliest": "20221002190421"
+  },
+  {
+   "url": "https://toggl.com/blog/101-design-quotes",
+   "earliest": "20200930054733"
+  },
+  {
+   "url": "https://toggl.com/blog/is-technical-screening-the-secret-quality-hiring-weapon",
+   "earliest": "20210225171940"
+  },
+  {
+   "url": "https://toggl.com/blog/project-timeline-mistakes",
+   "earliest": "20200930064625"
+  },
+  {
+   "url": "https://toggl.com/blog/top-5-budgeting-software-solutions-track-expenses-2018",
+   "earliest": "20200812095653"
+  },
+  {
+   "url": "https://toggl.com/blog/conflict-resolution-tips",
+   "earliest": "20200808003435"
+  },
+  {
+   "url": "https://toggl.com/blog/how-people-learn",
+   "earliest": "20200809235946"
+  },
+  {
+   "url": "https://toggl.com/blog/10-performance-management-tips",
+   "earliest": "20200426193620"
+  },
+  {
+   "url": "https://toggl.com/blog/why-remote-work-fails",
+   "earliest": "20200426200243"
+  },
+  {
+   "url": "https://toggl.com/blog/office-plants-workplace-productivity+",
+   "earliest": "20221014161628"
+  },
+  {
+   "url": "https://toggl.com/blog/ms-project-pros-and-cons",
+   "earliest": "20201029205226"
+  },
+  {
+   "url": "https://toggl.com/blog/create-timeline-excel",
+   "earliest": "20210410120449"
+  },
+  {
+   "url": "https://toggl.com/blog/why-cross-functional-collaboration-isnt-working",
+   "earliest": "20200810045750"
+  },
+  {
+   "url": "https://toggl.com/blog/beginners-guide-to-agile-project-management",
+   "earliest": "20200812095058"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q2-2020",
+   "earliest": "20200807233242"
+  },
+  {
+   "url": "https://toggl.com/blog/create-a-gantt-chart",
+   "earliest": "20200808004719"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-successfully-work-from-home",
+   "earliest": "20200928114550"
+  },
+  {
+   "url": "https://toggl.com/blog/automatic-invoicing-with-toggl-margn-sync",
+   "earliest": "20200919190830"
+  },
+  {
+   "url": "https://toggl.com/blog/elevator-pitch-examples",
+   "earliest": "20200919185017"
+  },
+  {
+   "url": "https://toggl.com/blog/stop-distractions-time-management",
+   "earliest": "20200420194725"
+  },
+  {
+   "url": "https://toggl.com/blog/product-news",
+   "earliest": "20221002184337"
+  },
+  {
+   "url": "https://toggl.com/blog/product-news/toggl-track-news",
+   "earliest": "20220923142804"
+  },
+  {
+   "url": "https://toggl.com/blog/project-estimation-techniques",
+   "earliest": "20220819051201"
+  },
+  {
+   "url": "https://toggl.com/blog/lessons-toggl-user-onboarding",
+   "earliest": "20200919194744"
+  },
+  {
+   "url": "https://toggl.com/blog/project-planning-tips-dummies",
+   "earliest": "20200812085942"
+  },
+  {
+   "url": "https://toggl.com/blog/10-manager-tools-that-will-make-your-job-way-easier",
+   "earliest": "20200804205005"
+  },
+  {
+   "url": "https://toggl.com/blog/cross-functional-teams",
+   "earliest": "20200812092751"
+  },
+  {
+   "url": "https://toggl.com/blog/the-more-things-change:-stories,-tips,-and,-experiments-on-change",
+   "earliest": "20200427025223"
+  },
+  {
+   "url": "https://toggl.com/blog/customer-feedback",
+   "earliest": "20200804200639"
+  },
+  {
+   "url": "https://toggl.com/blog/enterprise-project-management-software-solutions",
+   "earliest": "20200930070821"
+  },
+  {
+   "url": "https://toggl.com/blog/top-five-hiring-software-solutions-for-small-businesses-and-startups",
+   "earliest": "20210309064047"
+  },
+  {
+   "url": "https://toggl.com/blog/strategic-planning-software-for-teams",
+   "earliest": "20200804205206"
+  },
+  {
+   "url": "https://toggl.com/blog/agile-project-management-in-marketing",
+   "earliest": "20220719085639"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-rebrand-toggltrack",
+   "earliest": "20200907223123"
+  },
+  {
+   "url": "https://toggl.com/blog/virtual-high-school-classroom",
+   "earliest": "20200923220225"
+  },
+  {
+   "url": "https://toggl.com/blog/five-types-of-pre-employment-assessment-tests",
+   "earliest": "20210219144703"
+  },
+  {
+   "url": "https://toggl.com/blog/successful-project-management-visual-timeline",
+   "earliest": "20200421023844"
+  },
+  {
+   "url": "https://toggl.com/blog/lateral-thinking-save-your-business",
+   "earliest": "20200804203910"
+  },
+  {
+   "url": "https://toggl.com/blog/critical-success-factors-101-grow-your-business-in-4-easy-steps",
+   "earliest": "20200812102028"
+  },
+  {
+   "url": "https://toggl.com/blog/talent-assessments",
+   "earliest": "20220524133037"
+  },
+  {
+   "url": "https://toggl.com/blog/effortless-hiring-workflow-great-programmers",
+   "earliest": "20200808010427"
+  },
+  {
+   "url": "https://toggl.com/blog/ted-talks-better-project-manager",
+   "earliest": "20200927091243"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-lead-a-project-post-mortem",
+   "earliest": "20200810060700"
+  },
+  {
+   "url": "https://toggl.com/blog/alter-realities-write-code",
+   "earliest": "20200927112542"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-moments-in-gifs",
+   "earliest": "20200810044743"
+  },
+  {
+   "url": "https://toggl.com/blog/nail-technical-interview-remote-job",
+   "earliest": "20200418035612"
+  },
+  {
+   "url": "https://toggl.com/blog/working-home-working-office",
+   "earliest": "20200919195040"
+  },
+  {
+   "url": "https://toggl.com/blog/rejection-letter",
+   "earliest": "20200812095606"
+  },
+  {
+   "url": "https://toggl.com/blog/business-management-software",
+   "earliest": "20200930070003"
+  },
+  {
+   "url": "https://toggl.com/blog/innovation-creativity-workplace",
+   "earliest": "20200427011145"
+  },
+  {
+   "url": "https://toggl.com/blog/best-social-media-analytics-tools",
+   "earliest": "20200812093538"
+  },
+  {
+   "url": "https://toggl.com/blog/flexible-work-hours-vs-office-time",
+   "earliest": "20200804204128"
+  },
+  {
+   "url": "https://toggl.com/blog/every-video-call-ever",
+   "earliest": "20200520124633"
+  },
+  {
+   "url": "https://toggl.com/blog/master-gap-analysis-in-4-easy-steps",
+   "earliest": "20200930050856"
+  },
+  {
+   "url": "https://toggl.com/blog/strategic-planning-software-and-tools",
+   "earliest": "20200919185110"
+  },
+  {
+   "url": "https://toggl.com/blog/10-signs-it's-time-for-a-career-shift-in-2020",
+   "earliest": "20200426194450"
+  },
+  {
+   "url": "https://toggl.com/blog/setting-priorities",
+   "earliest": "20200919194226"
+  },
+  {
+   "url": "https://toggl.com/blog/gantt-chart-google-sheets",
+   "earliest": "20201029205110"
+  },
+  {
+   "url": "https://toggl.com/blog/icebreaker-questions-for-meetings",
+   "earliest": "20200618172348"
+  },
+  {
+   "url": "https://toggl.com/blog/5-steps-to-pitching-a-remote-program-at-your-work",
+   "earliest": "20200919185259"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-project-management-software-old",
+   "earliest": "20210128085830"
+  },
+  {
+   "url": "https://toggl.com/blog/android-apps-productivity",
+   "earliest": "20200808004844"
+  },
+  {
+   "url": "https://toggl.com/blog/free-online-tools-resource-capacity-planning",
+   "earliest": "20200804193941"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-ceo-interview",
+   "earliest": "20200808012505"
+  },
+  {
+   "url": "https://toggl.com/blog/4-small-changes-that-made-my-work-days-better",
+   "earliest": "20200427010612"
+  },
+  {
+   "url": "https://toggl.com/blog/problem-solving-skills-at-work",
+   "earliest": "20220420171625"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-api-v9",
+   "earliest": "20220412144529"
+  },
+  {
+   "url": "https://toggl.com/blog/the-weaponized-timesheet-or-how-we-all-need-to-get-real-about-productivity",
+   "earliest": "20200807144334"
+  },
+  {
+   "url": "https://toggl.com/blog/candidate-shortlisting",
+   "earliest": "20220915162250"
+  },
+  {
+   "url": "https://toggl.com/blog/best-digital-marketing-consultant",
+   "earliest": "20200804195135"
+  },
+  {
+   "url": "https://toggl.com/blog/whats-a-pmo-and-how-can-it-help-your-teams-project-management",
+   "earliest": "20200930061702"
+  },
+  {
+   "url": "https://toggl.com/blog/skills-based-hiring",
+   "earliest": "20200808010554"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-stop-forgetting-things",
+   "earliest": "20200804204606"
+  },
+  {
+   "url": "https://toggl.com/blog/tech-careers-future",
+   "earliest": "20200804204722"
+  },
+  {
+   "url": "https://toggl.com/blog/timeline-visualization-for-your-next-big-project",
+   "earliest": "20200927112723"
+  },
+  {
+   "url": "https://toggl.com/blog/social-media-contest-ideas",
+   "earliest": "20200930070803"
+  },
+  {
+   "url": "https://toggl.com/blog/10-customers-tech-support-knows",
+   "earliest": "20200524171524"
+  },
+  {
+   "url": "https://toggl.com/blog/prioritizing-tasks",
+   "earliest": "20200811034037"
+  },
+  {
+   "url": "https://toggl.com/blog/emotional-intelligence-test",
+   "earliest": "20220930134748"
+  },
+  {
+   "url": "https://toggl.com/blog/fire-employee-nicely",
+   "earliest": "20200919190749"
+  },
+  {
+   "url": "https://toggl.com/blog/world-created-programmer",
+   "earliest": "20200420232857"
+  },
+  {
+   "url": "https://toggl.com/blog/track/work-life",
+   "earliest": "20200228161412"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management-tips-from-experts",
+   "earliest": "20200426201634"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q2-2022",
+   "earliest": "20220713092823"
+  },
+  {
+   "url": "https://toggl.com/blog/coming-soon-beta-launch-of-boards-for-projects-in-toggl-plan",
+   "earliest": "20200522203639"
+  },
+  {
+   "url": "https://toggl.com/blog/spend-less-time-and-money-on-hiring",
+   "earliest": "20200804202802"
+  },
+  {
+   "url": "https://toggl.com/blog/fault-tree-failure-analysis",
+   "earliest": "20200930065913"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-all-your-hr-duties-without-the-stress",
+   "earliest": "20200808001732"
+  },
+  {
+   "url": "https://toggl.com/blog/high-volume-hiring",
+   "earliest": "20200623143220"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management",
+   "earliest": "20201106135802"
+  },
+  {
+   "url": "https://toggl.com/blog/4-company-culture-examples",
+   "earliest": "20200418035759"
+  },
+  {
+   "url": "https://toggl.com/blog/hindsight-bias-workplace",
+   "earliest": "20200427024437"
+  },
+  {
+   "url": "https://toggl.com/blog/get-rejected",
+   "earliest": "20200923233011"
+  },
+  {
+   "url": "https://toggl.com/blog/best-slack-calendar-integration-and-how-to-set-it-up",
+   "earliest": "20200609142105"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-for-beginners",
+   "earliest": "20221002193325"
+  },
+  {
+   "url": "https://toggl.com/blog/inbound-recruiting",
+   "earliest": "20210616020117"
+  },
+  {
+   "url": "https://toggl.com/blog/traditional-jobs-remote-work-comic",
+   "earliest": "20200804202911"
+  },
+  {
+   "url": "https://toggl.com/blog/not-build-game",
+   "earliest": "20200812091632"
+  },
+  {
+   "url": "https://toggl.com/blog/step-step-process-resource-planning-simple-gantt-chart-tool",
+   "earliest": "20200812090319"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-desktop-windows-update",
+   "earliest": "20200928110054"
+  },
+  {
+   "url": "https://toggl.com/blog/simple-time-blocking-tips",
+   "earliest": "20200930052625"
+  },
+  {
+   "url": "https://toggl.com/blog/12-time-management-strategies",
+   "earliest": "20200811042150"
+  },
+  {
+   "url": "https://toggl.com/blog/hey-siri-start-toggl-introducing-siri-shortcuts",
+   "earliest": "20200426192857"
+  },
+  {
+   "url": "https://toggl.com/blog/the-triple-constraints-of-project-management",
+   "earliest": "20200930070401"
+  },
+  {
+   "url": "https://toggl.com/blog/timeline-creator-tools",
+   "earliest": "20200919194831"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-work-home-office-home-design",
+   "earliest": "20200426194405"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-productive-student-guide",
+   "earliest": "20200808012928"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-ui-update",
+   "earliest": "20200804201005"
+  },
+  {
+   "url": "https://toggl.com/blog/8-fundamental-skills-for-project-managers-in-2018",
+   "earliest": "20200812102243"
+  },
+  {
+   "url": "https://toggl.com/blog/collaboration-software",
+   "earliest": "20210209003644"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-resist-the-fomo-as-a-digital-nomad",
+   "earliest": "20200811043110"
+  },
+  {
+   "url": "https://toggl.com/blog/calculating-recruitment-costs",
+   "earliest": "20210805211618"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-quarter-4-2020",
+   "earliest": "20210111214424"
+  },
+  {
+   "url": "https://toggl.com/blog/hundred5-is-now-toggl-hire",
+   "earliest": "20200228161459"
+  },
+  {
+   "url": "https://toggl.com/blog/5-toggl-features-clean-reporting",
+   "earliest": "20200808013651"
+  },
+  {
+   "url": "https://toggl.com/blog/new-feature-project-view-2-0",
+   "earliest": "20200812092416"
+  },
+  {
+   "url": "https://toggl.com/blog/agile-planning",
+   "earliest": "20200623225722"
+  },
+  {
+   "url": "https://toggl.com/blog/elements-of-pre-employment-screening-that-you-simply-cannot-afford-to-get-wrong",
+   "earliest": "20210304110505"
+  },
+  {
+   "url": "https://toggl.com/blog/balanced-scorecard",
+   "earliest": "20200930064549"
+  },
+  {
+   "url": "https://toggl.com/blog/four-task-management-styles-work-for-you",
+   "earliest": "20200927112032"
+  },
+  {
+   "url": "https://toggl.com/blog/work-from-home-jobs",
+   "earliest": "20200930071002"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-an-accurate-time-estimation",
+   "earliest": "20200812095552"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-pre-employment-testing",
+   "earliest": "20211109152123"
+  },
+  {
+   "url": "https://toggl.com/blog/make-job-ad-that-attracts-candidates",
+   "earliest": "20200930070653"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-quarter-2-2021",
+   "earliest": "20210805205316"
+  },
+  {
+   "url": "https://toggl.com/blog/organize-your-sidebar-with-favourites",
+   "earliest": "20200228161435"
+  },
+  {
+   "url": "https://toggl.com/blog/the-open-door-policy",
+   "earliest": "20200804204450"
+  },
+  {
+   "url": "https://toggl.com/blog/active-listening-skills",
+   "earliest": "20200812095317"
+  },
+  {
+   "url": "https://toggl.com/blog/professional-development-plan-guide",
+   "earliest": "20200807235629"
+  },
+  {
+   "url": "https://toggl.com/blog/best-planner-apps",
+   "earliest": "20220601154339"
+  },
+  {
+   "url": "https://toggl.com/blog/5-time-management-techniques",
+   "earliest": "20200524084459"
+  },
+  {
+   "url": "https://toggl.com/blog/strategic-planning-process-overview",
+   "earliest": "20200811032944"
+  },
+  {
+   "url": "https://toggl.com/blog/business-case",
+   "earliest": "20200930062723"
+  },
+  {
+   "url": "https://toggl.com/blog/resilience-in-the-workplace",
+   "earliest": "20200919195459"
+  },
+  {
+   "url": "https://toggl.com/blog/gdpr-compliance",
+   "earliest": "20200919195511"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-mistakes",
+   "earliest": "20200812090058"
+  },
+  {
+   "url": "https://toggl.com/blog/4-tips-next-business-presentation",
+   "earliest": "20200919194535"
+  },
+  {
+   "url": "https://toggl.com/blog/create-digital-signature",
+   "earliest": "20200812102208"
+  },
+  {
+   "url": "https://toggl.com/blog/decision-tree-analysis",
+   "earliest": "20200724232135"
+  },
+  {
+   "url": "https://toggl.com/blog/cause-and-effect-diagram",
+   "earliest": "20200930065815"
+  },
+  {
+   "url": "https://toggl.com/blog/dos-donts-business-etiquette",
+   "earliest": "20200810000647"
+  },
+  {
+   "url": "https://toggl.com/blog/communication-skills-assessment",
+   "earliest": "20221003203341"
+  },
+  {
+   "url": "https://toggl.com/blog/5-simple-tricks-to-make-meetings-suck-less",
+   "earliest": "20200919194935"
+  },
+  {
+   "url": "https://toggl.com/blog/microsoft-project-alternatives",
+   "earliest": "20201127012338"
+  },
+  {
+   "url": "https://toggl.com/blog/online-pre-employment-testing",
+   "earliest": "20200919190539"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-freelancers",
+   "earliest": "20201004044555"
+  },
+  {
+   "url": "https://toggl.com/blog/working-remotely-and-efficiently",
+   "earliest": "20201007184413"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-pre-employment-skills-testing",
+   "earliest": "20220120231913"
+  },
+  {
+   "url": "https://toggl.com/blog/attract-web-development-clients",
+   "earliest": "20200812102128"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-virtual-teams",
+   "earliest": "20200418035512"
+  },
+  {
+   "url": "https://toggl.com/blog/monday-com-alternatives",
+   "earliest": "20220317142215"
+  },
+  {
+   "url": "https://toggl.com/blog/6-group-decision-making-techniques-your-team-needs-now",
+   "earliest": "20200919193705"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-use-gantt-charts",
+   "earliest": "20200811034805"
+  },
+  {
+   "url": "https://toggl.com/blog/better-faster-stronger-the-new-toggl-api",
+   "earliest": "20200930064305"
+  },
+  {
+   "url": "https://toggl.com/blog/effective-communication-workplace",
+   "earliest": "20200804202705"
+  },
+  {
+   "url": "https://toggl.com/blog/a-lot-of-updates-in-toggl-check-it-out",
+   "earliest": "20200808002320"
+  },
+  {
+   "url": "https://toggl.com/blog/find-best-customer-support-agents-team",
+   "earliest": "20200812102104"
+  },
+  {
+   "url": "https://toggl.com/blog/what-are-the-4-stages-of-the-product-life-cycle",
+   "earliest": "20200919194650"
+  },
+  {
+   "url": "https://toggl.com/blog/roadmapping-your-startups-success-1-what-product-roadmap-tool-to-choose",
+   "earliest": "20200515011030"
+  },
+  {
+   "url": "https://toggl.com/blog/how-mature-are-your-management-ways-infographic",
+   "earliest": "20200930070039"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-leave-work-at-work-when-you-work-from-home",
+   "earliest": "20200930065957"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-news/working-at-toggl",
+   "earliest": "20200923231430"
+  },
+  {
+   "url": "https://toggl.com/blog/5-great-toggl-timer-integrations",
+   "earliest": "20200812101136"
+  },
+  {
+   "url": "https://toggl.com/blog/best-free-tools-team-travel-scheduling",
+   "earliest": "20200930070407"
+  },
+  {
+   "url": "https://toggl.com/blog/freelance-client-email-generator",
+   "earliest": "20200812095857"
+  },
+  {
+   "url": "https://toggl.com/blog/one-way-interview-dos-and-donts",
+   "earliest": "20210917183841"
+  },
+  {
+   "url": "https://toggl.com/blog/project-timeline-templates",
+   "earliest": "20220913094017"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-save-reports-for-sharing",
+   "earliest": "20200919194529"
+  },
+  {
+   "url": "https://toggl.com/blog/commoditization-of-product-service",
+   "earliest": "20200930050645"
+  },
+  {
+   "url": "https://toggl.com/blog/client-from-hell-video",
+   "earliest": "20200919193154"
+  },
+  {
+   "url": "https://toggl.com/blog/asana-alternatives",
+   "earliest": "20200819184806"
+  },
+  {
+   "url": "https://toggl.com/blog/is-permalancing-the-future-of-work",
+   "earliest": "20200919192308"
+  },
+  {
+   "url": "https://toggl.com/blog/cross-cultural-communication-workplace",
+   "earliest": "20200927115506"
+  },
+  {
+   "url": "https://toggl.com/blog/get-organized-at-work",
+   "earliest": "20200811035314"
+  },
+  {
+   "url": "https://toggl.com/blog/5-popular-project-management-methodologies-and-when-to-use-them",
+   "earliest": "20200930070449"
+  },
+  {
+   "url": "https://toggl.com/blog/recruiting-metrics",
+   "earliest": "20200930063236"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-button-edit-entry",
+   "earliest": "20200930070326"
+  },
+  {
+   "url": "https://toggl.com/blog/personality-types-hiring-process",
+   "earliest": "20220622201720"
+  },
+  {
+   "url": "https://toggl.com/blog/icebreaker-questions",
+   "earliest": "20200418040100"
+  },
+  {
+   "url": "https://toggl.com/blog/if-you-are-your-job-title",
+   "earliest": "20200228161320"
+  },
+  {
+   "url": "https://toggl.com/blog/office-politics",
+   "earliest": "20200919184227"
+  },
+  {
+   "url": "https://toggl.com/blog/flextime-work-options",
+   "earliest": "20200812100215"
+  },
+  {
+   "url": "https://toggl.com/blog/task-management-software",
+   "earliest": "20200807234912"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-chrome-growth-hacking",
+   "earliest": "20200930064232"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-format-a-memo",
+   "earliest": "20200811043138"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-improve-focus-when-you-work-from-home",
+   "earliest": "20200804203802"
+  },
+  {
+   "url": "https://toggl.com/blog/winter-coming-means-work",
+   "earliest": "20200930070752"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-make-a-checklist-to-improve-productivity",
+   "earliest": "20200919194813"
+  },
+  {
+   "url": "https://toggl.com/blog/saying-no-with-grace-templates",
+   "earliest": "20200804204711"
+  },
+  {
+   "url": "https://toggl.com/blog/strategic-recruitment-built-screening-test-conversion-rate-optimizer-position",
+   "earliest": "20200812101624"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-desktop-7-3",
+   "earliest": "20200804204953"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-smart-test",
+   "earliest": "20200807232756"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-tests-every-business-should-know",
+   "earliest": "20210410120230"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q4-2020",
+   "earliest": "20210106132142"
+  },
+  {
+   "url": "https://toggl.com/blog/overcome-imposter-syndrome",
+   "earliest": "20200930060032"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-q1-2022",
+   "earliest": "20220327232425"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-work-and-managing-a-virtual-team",
+   "earliest": "20200804203035"
+  },
+  {
+   "url": "https://toggl.com/blog/home-office-setup-ideas",
+   "earliest": "20200811042356"
+  },
+  {
+   "url": "https://toggl.com/blog/body-language-mistakes",
+   "earliest": "20200707132838"
+  },
+  {
+   "url": "https://toggl.com/blog/10-ridiculously-simple-ways-improve-resource-planning",
+   "earliest": "20200919192000"
+  },
+  {
+   "url": "https://toggl.com/blog/10-quotes-that-lead-you-to-successful-time-organizing",
+   "earliest": "20200808005839"
+  },
+  {
+   "url": "https://toggl.com/blog/mars-software-development",
+   "earliest": "20200625051933"
+  },
+  {
+   "url": "https://toggl.com/blog/people-management-software",
+   "earliest": "20210410122941"
+  },
+  {
+   "url": "https://toggl.com/blog/food-choices-productivity-and-focus",
+   "earliest": "20200927094751"
+  },
+  {
+   "url": "https://toggl.com/blog/5-challenges-of-working-remotely-and-how-to-conquer-them",
+   "earliest": "20200426193336"
+  },
+  {
+   "url": "https://toggl.com/blog/get-things-done-new-toggl-ios-app",
+   "earliest": "20200812091051"
+  },
+  {
+   "url": "https://toggl.com/blog/wework-interior-designer-lessons",
+   "earliest": "20200808011551"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-a-customer-success-manager",
+   "earliest": "20211022081928"
+  },
+  {
+   "url": "https://toggl.com/blog/how-much-do-we-slow-down-during-holidays-a-toggl-analysis",
+   "earliest": "20200919195219"
+  },
+  {
+   "url": "https://toggl.com/blog/creative-office-organization-ideas",
+   "earliest": "20200812101749"
+  },
+  {
+   "url": "https://toggl.com/blog/get-better-networking-introverts",
+   "earliest": "20200812092718"
+  },
+  {
+   "url": "https://toggl.com/blog/team-collaboration-tools",
+   "earliest": "20200804204113"
+  },
+  {
+   "url": "https://toggl.com/blog/business-process-reengineering",
+   "earliest": "20200930062923"
+  },
+  {
+   "url": "https://toggl.com/blog/new-feature-bulk-edit-projects",
+   "earliest": "20200930064412"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-a-distributed-team-efficiently",
+   "earliest": "20200930063352"
+  },
+  {
+   "url": "https://toggl.com/blog/after-action-review",
+   "earliest": "20200930070809"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-work-faster",
+   "earliest": "20220819050018"
+  },
+  {
+   "url": "https://toggl.com/blog/online-assessment-tools-for-recruitment",
+   "earliest": "20210317191046"
+  },
+  {
+   "url": "https://toggl.com/blog/forest-bathing",
+   "earliest": "20201029204558"
+  },
+  {
+   "url": "https://toggl.com/blog/survey-time-management-habits-work-attitudes",
+   "earliest": "20200808005326"
+  },
+  {
+   "url": "https://toggl.com/blog/the-10-best-project-planning-software-options",
+   "earliest": "20200927115648"
+  },
+  {
+   "url": "https://toggl.com/blog/escape-volcano-bali",
+   "earliest": "20200812101812"
+  },
+  {
+   "url": "https://toggl.com/blog/5-tips-to-make-working-easier-when-you-travel",
+   "earliest": "20200812100042"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-recruitment",
+   "earliest": "20210410120202"
+  },
+  {
+   "url": "https://toggl.com/blog/the-benefits-of-swot-analysis-in-project-management",
+   "earliest": "20200804200914"
+  },
+  {
+   "url": "https://toggl.com/blog/hackerrank-vs-leetcode-vs-toggl-hire",
+   "earliest": "20210512145131"
+  },
+  {
+   "url": "https://toggl.com/blog/freelancer-review",
+   "earliest": "20200927112954"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-people-operations",
+   "earliest": "20220407141400"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-strategies",
+   "earliest": "20200422015004"
+  },
+  {
+   "url": "https://toggl.com/blog/10-ways-to-master-interpersonal-skills",
+   "earliest": "20200808012835"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-q1-2022",
+   "earliest": "20220421082652"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-master-faqs",
+   "earliest": "20200930070455"
+  },
+  {
+   "url": "https://toggl.com/blog/look-im-on-tv",
+   "earliest": "20200930065201"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-productive-a-case-study-on-john-cena",
+   "earliest": "20200930060421"
+  },
+  {
+   "url": "https://toggl.com/blog/product-management-in-the-newsroom",
+   "earliest": "20201029205208"
+  },
+  {
+   "url": "https://toggl.com/blog/advantages-using-gantt-chart-project-management",
+   "earliest": "20200811032839"
+  },
+  {
+   "url": "https://toggl.com/blog/creative-sourcing-strategies",
+   "earliest": "20200927112122"
+  },
+  {
+   "url": "https://toggl.com/blog/teamweek-is-rebranding-as-toggl-plan",
+   "earliest": "20200517191901"
+  },
+  {
+   "url": "https://toggl.com/blog/talent-gap-analysis",
+   "earliest": "20210616023657"
+  },
+  {
+   "url": "https://toggl.com/blog/free-design-resources-list",
+   "earliest": "20200808002711"
+  },
+  {
+   "url": "https://toggl.com/blog/flow-state-work",
+   "earliest": "20200515235454"
+  },
+  {
+   "url": "https://toggl.com/blog/what-are-the-best-recruiting-tools-for-hr",
+   "earliest": "20210330151429"
+  },
+  {
+   "url": "https://toggl.com/blog/share-knowledge-build-trust",
+   "earliest": "20200812101055"
+  },
+  {
+   "url": "https://toggl.com/blog/best-freelancer-websites",
+   "earliest": "20210715055459"
+  },
+  {
+   "url": "https://toggl.com/blog/scheduled-maintenance-saturday-november-27-2021",
+   "earliest": "20211115113046"
+  },
+  {
+   "url": "https://toggl.com/blog/10-signs-its-time-for-a-career-shift-in-2020",
+   "earliest": "20200427010726"
+  },
+  {
+   "url": "https://toggl.com/blog/build-a-great-team",
+   "earliest": "20200804195048"
+  },
+  {
+   "url": "https://toggl.com/blog/time-quotes",
+   "earliest": "20200812101206"
+  },
+  {
+   "url": "https://toggl.com/blog/blind-recruitment-tools",
+   "earliest": "20210410112557"
+  },
+  {
+   "url": "https://toggl.com/blog/pareto-analysis",
+   "earliest": "20200919195324"
+  },
+  {
+   "url": "https://toggl.com/blog/two-brains-better-than-one",
+   "earliest": "20200804202243"
+  },
+  {
+   "url": "https://toggl.com/blog/how-i-failed-the-9-80-work-schedule-experiment",
+   "earliest": "20200810050711"
+  },
+  {
+   "url": "https://toggl.com/blog/microsoft-project-alternative",
+   "earliest": "20200810054637"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-project-roadmap",
+   "earliest": "20200618133250"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-assessment-tools",
+   "earliest": "20220928195613"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-decisions",
+   "earliest": "20200810050600"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-the-best-project-overview-for-your-team",
+   "earliest": "20200919194848"
+  },
+  {
+   "url": "https://toggl.com/blog/what-makes-a-good-manager",
+   "earliest": "20200404200431"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-bring-okrs-to-your-small-team",
+   "earliest": "20200923231807"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-manifesto",
+   "earliest": "20200923222520"
+  },
+  {
+   "url": "https://toggl.com/blog/beta-tester-program",
+   "earliest": "20200919174412"
+  },
+  {
+   "url": "https://toggl.com/blog/team-status-updates",
+   "earliest": "20210818170027"
+  },
+  {
+   "url": "https://toggl.com/blog/work-life-tips-supernatural-beings",
+   "earliest": "20200808005538"
+  },
+  {
+   "url": "https://toggl.com/blog/anxiety-comic",
+   "earliest": "20200930070138"
+  },
+  {
+   "url": "https://toggl.com/blog/candidate-selection-tools",
+   "earliest": "20201029205139"
+  },
+  {
+   "url": "https://toggl.com/blog/best-employee-time-tracking-software",
+   "earliest": "20221027130324"
+  },
+  {
+   "url": "https://toggl.com/blog/transformational-leadership",
+   "earliest": "20200812102046"
+  },
+  {
+   "url": "https://toggl.com/blog/why-you-should-be-managing-up",
+   "earliest": "20200927115529"
+  },
+  {
+   "url": "https://toggl.com/blog/managing-remote-teams",
+   "earliest": "20200424050147"
+  },
+  {
+   "url": "https://toggl.com/blog/visual-project-management-tools",
+   "earliest": "20200811031816"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-track-ceo-interview",
+   "earliest": "20201127012806"
+  },
+  {
+   "url": "https://toggl.com/blog/bad-career-advice-books",
+   "earliest": "20200516174104"
+  },
+  {
+   "url": "https://toggl.com/blog/the-desktop-teams-go-loco-week",
+   "earliest": "20200919193905"
+  },
+  {
+   "url": "https://toggl.com/blog/top-5-free-project-management-tools-problems-solve",
+   "earliest": "20200807232223"
+  },
+  {
+   "url": "https://toggl.com/blog/asynchronous-interviews",
+   "earliest": "20220125110634"
+  },
+  {
+   "url": "https://toggl.com/blog/agile-principles",
+   "earliest": "20200812094126"
+  },
+  {
+   "url": "https://toggl.com/blog/home-page",
+   "earliest": "20200228161317"
+  },
+  {
+   "url": "https://toggl.com/blog/8-project-management-mistakes-costing-you-1-million",
+   "earliest": "20200804195447"
+  },
+  {
+   "url": "https://toggl.com/blog/work-from-home",
+   "earliest": "20200930061617"
+  },
+  {
+   "url": "https://toggl.com/blog/4-project-management-apps",
+   "earliest": "20200919195453"
+  },
+  {
+   "url": "https://toggl.com/blog/12-ways-to-ensure-your-business-trip-goes-smoothly",
+   "earliest": "20200919192716"
+  },
+  {
+   "url": "https://toggl.com/blog/going-back-to-work-after-vacation-2",
+   "earliest": "20200928110904"
+  },
+  {
+   "url": "https://toggl.com/blog/campus-recruitment-young-talent-guide",
+   "earliest": "20220505200422"
+  },
+  {
+   "url": "https://toggl.com/blog/adverse-impact",
+   "earliest": "20200923230307"
+  },
+  {
+   "url": "https://toggl.com/blog/toggls-new-campaign-time-is-relative",
+   "earliest": "20200804204648"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-flawless-construction-schedule-for-clients",
+   "earliest": "20200811042859"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-market-product",
+   "earliest": "20200930070956"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-tips-for-new-project-managers",
+   "earliest": "20200812101027"
+  },
+  {
+   "url": "https://toggl.com/blog/workload-management-software",
+   "earliest": "20200811040150"
+  },
+  {
+   "url": "https://toggl.com/blog/is-remote-work-really-as-green-as-it-claims",
+   "earliest": "20200928120539"
+  },
+  {
+   "url": "https://toggl.com/blog/the-best-wrike-alternatives",
+   "earliest": "20200928113139"
+  },
+  {
+   "url": "https://toggl.com/blog/why-timesheets-suck",
+   "earliest": "20200927102327"
+  },
+  {
+   "url": "https://toggl.com/blog/leadership-qualities",
+   "earliest": "20200812083135"
+  },
+  {
+   "url": "https://toggl.com/blog/new-toggl-release-faq",
+   "earliest": "20200919194732"
+  },
+  {
+   "url": "https://toggl.com/blog/creative-block-help",
+   "earliest": "20200919191605"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-a-workflow-management-system",
+   "earliest": "20200804204930"
+  },
+  {
+   "url": "https://toggl.com/blog/pre-recorded-video-interviews",
+   "earliest": "20220907143522"
+  },
+  {
+   "url": "https://toggl.com/blog/avoid-cultural-bias-marketing",
+   "earliest": "20200808012916"
+  },
+  {
+   "url": "https://toggl.com/blog/best-productivity-tracker-apps",
+   "earliest": "20200606181422"
+  },
+  {
+   "url": "https://toggl.com/blog/how-we-integrated-toggl-apps-with-calendar",
+   "earliest": "20200812100600"
+  },
+  {
+   "url": "https://toggl.com/blog/organize-your-sidebar-with-favorites",
+   "earliest": "20200919192604"
+  },
+  {
+   "url": "https://toggl.com/blog/recruit-tech-team",
+   "earliest": "20200927115413"
+  },
+  {
+   "url": "https://toggl.com/blog/referent-power",
+   "earliest": "20200812093928"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-save-time-with-a-work-plan-template",
+   "earliest": "20200930070827"
+  },
+  {
+   "url": "https://toggl.com/blog/best-productivity-books",
+   "earliest": "20200919194645"
+  },
+  {
+   "url": "https://toggl.com/blog/autonomy-mastery-purpose",
+   "earliest": "20200426194214"
+  },
+  {
+   "url": "https://toggl.com/blog/it-project-management-made-easy",
+   "earliest": "20201029205336"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-news",
+   "earliest": "20200228161303"
+  },
+  {
+   "url": "https://toggl.com/blog/what-makes-saas-project-manager-successful",
+   "earliest": "20200919193240"
+  },
+  {
+   "url": "https://toggl.com/blog/just-say-no",
+   "earliest": "20200522183438"
+  },
+  {
+   "url": "https://toggl.com/blog/the-essential-guide-to-project-management-terms",
+   "earliest": "20200811040133"
+  },
+  {
+   "url": "https://toggl.com/blog/project-calendar",
+   "earliest": "20200812100502"
+  },
+  {
+   "url": "https://toggl.com/blog/how-many-hours-in-a-week-should-you-work",
+   "earliest": "20200420201515"
+  },
+  {
+   "url": "https://toggl.com/blog/7-time-management-tips-and-tools-for-remote-workers",
+   "earliest": "20200418035517"
+  },
+  {
+   "url": "https://toggl.com/blog/creative-motivate-time-tracking",
+   "earliest": "20200919182158"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-desktop-mac-osx-arrived",
+   "earliest": "20200808000816"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-employees-deck",
+   "earliest": "20200928055020"
+  },
+  {
+   "url": "https://toggl.com/blog/root-cause-analysis",
+   "earliest": "20200919183754"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-books",
+   "earliest": "20200812091727"
+  },
+  {
+   "url": "https://toggl.com/blog/sourcing-tools",
+   "earliest": "20200810053409"
+  },
+  {
+   "url": "https://toggl.com/blog/video-tag",
+   "earliest": "20211204225831"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-stop-multitasking",
+   "earliest": "20200810000704"
+  },
+  {
+   "url": "https://toggl.com/blog/best-team-calendar-tools-remote-collaboration",
+   "earliest": "20200811041343"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-vs-advertising-vs-pr",
+   "earliest": "20200930065036"
+  },
+  {
+   "url": "https://toggl.com/blog/new-manager-tips",
+   "earliest": "20200812094433"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q4-2021",
+   "earliest": "20220112142346"
+  },
+  {
+   "url": "https://toggl.com/blog/billable-hours-tax-time",
+   "earliest": "20200618143953"
+  },
+  {
+   "url": "https://toggl.com/blog/the-ultimate-guide-to-employer-brand",
+   "earliest": "20210410115622"
+  },
+  {
+   "url": "https://toggl.com/blog/planting-trees-for-job-candidates",
+   "earliest": "20200811032523"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-assess-attention-to-detail-in-job-applicants",
+   "earliest": "20200618124816"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-name-your-projects",
+   "earliest": "20200810001126"
+  },
+  {
+   "url": "https://toggl.com/blog/a-guide-to-candidate-testing-and-verification",
+   "earliest": "20210104125545"
+  },
+  {
+   "url": "https://toggl.com/blog/web-development-client",
+   "earliest": "20200930044905"
+  },
+  {
+   "url": "https://toggl.com/blog/browser-extension-development-mode",
+   "earliest": "20211222105642"
+  },
+  {
+   "url": "https://toggl.com/blog/project-management-for-marketing-agencies",
+   "earliest": "20220724153628"
+  },
+  {
+   "url": "https://toggl.com/blog/5-tips-to-personalize-one-way-video-interviews",
+   "earliest": "20200422022144"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-software-developers",
+   "earliest": "20200618143948"
+  },
+  {
+   "url": "https://toggl.com/blog/how-much-should-you-work-during-vacation",
+   "earliest": "20200930063818"
+  },
+  {
+   "url": "https://toggl.com/blog/three-ts-project-planning-teamweek-trello-toggl",
+   "earliest": "20200930052438"
+  },
+  {
+   "url": "https://toggl.com/blog/new-years-resolutions-famous-robots",
+   "earliest": "20200608161510"
+  },
+  {
+   "url": "https://toggl.com/blog/office-plants-workplace-productivity",
+   "earliest": "20200919195447"
+  },
+  {
+   "url": "https://toggl.com/blog/recruiter-productivity",
+   "earliest": "20220302142320"
+  },
+  {
+   "url": "https://toggl.com/blog/identifying-and-solving-productivity-bottlenecks-when-working-remotely",
+   "earliest": "20200420214238"
+  },
+  {
+   "url": "https://toggl.com/blog/competency-skills-assessments",
+   "earliest": "20220804061519"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-hiring",
+   "earliest": "20221002200106"
+  },
+  {
+   "url": "https://toggl.com/blog/why-you-need-simple-project-management-software",
+   "earliest": "20200930070512"
+  },
+  {
+   "url": "https://toggl.com/blog/10-management-trends-to-watch-for-in-2019",
+   "earliest": "20200919181155"
+  },
+  {
+   "url": "https://toggl.com/blog/best-time-tracker-apps-iphone",
+   "earliest": "20200919195516"
+  },
+  {
+   "url": "https://toggl.com/blog/kanban-vs-scrum",
+   "earliest": "20200618190749"
+  },
+  {
+   "url": "https://toggl.com/blog/best-free-task-management-apps-teams",
+   "earliest": "20200930061928"
+  },
+  {
+   "url": "https://toggl.com/blog/project-planning-101-how-to-stay-in-budget-and-on-deadline",
+   "earliest": "20200804202553"
+  },
+  {
+   "url": "https://toggl.com/blog/5-useful-toggl-features",
+   "earliest": "20200930070518"
+  },
+  {
+   "url": "https://toggl.com/blog/best-morning-routine-at-work",
+   "earliest": "20200804204433"
+  },
+  {
+   "url": "https://toggl.com/blog/freelancer-change-requests-comic",
+   "earliest": "20200930063933"
+  },
+  {
+   "url": "https://toggl.com/blog/design-team-improve-productivity",
+   "earliest": "20200919194656"
+  },
+  {
+   "url": "https://toggl.com/blog/testgorilla-vs-vervoe-vs-toggl-hire",
+   "earliest": "20220628220101"
+  },
+  {
+   "url": "https://toggl.com/blog/forecasting-the-secret-ingredient-your-team-needs",
+   "earliest": "20200930070612"
+  },
+  {
+   "url": "https://toggl.com/blog/lean-project-management",
+   "earliest": "20200923232228"
+  },
+  {
+   "url": "https://toggl.com/blog/team-management-tricks-you-wish-youd-known-earlier",
+   "earliest": "20200930070109"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-teaching",
+   "earliest": "20200923232826"
+  },
+  {
+   "url": "https://toggl.com/blog/our-android-application-now-includes-a-widget",
+   "earliest": "20200804201135"
+  },
+  {
+   "url": "https://toggl.com/blog/recruitment-marketing",
+   "earliest": "20220811220054"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-staff-workspace",
+   "earliest": "20200402090313"
+  },
+  {
+   "url": "https://toggl.com/blog/introducing-our-new-toggl-android-app",
+   "earliest": "20200812102058"
+  },
+  {
+   "url": "https://toggl.com/blog/were-translating-toggl-to-japanese",
+   "earliest": "20200919194127"
+  },
+  {
+   "url": "https://toggl.com/blog/avoiding-remote-work-pitfalls",
+   "earliest": "20200919191034"
+  },
+  {
+   "url": "https://toggl.com/blog/power-dynamics-at-work",
+   "earliest": "20200919173634"
+  },
+  {
+   "url": "https://toggl.com/blog/10-communication-strategies",
+   "earliest": "20200930070443"
+  },
+  {
+   "url": "https://toggl.com/blog/step-by-step-guide-for-organising-epic-company-meetups",
+   "earliest": "20200427040659"
+  },
+  {
+   "url": "https://toggl.com/blog/if-you-dont-feel-anxiety-youre-not-trying-hard-enough",
+   "earliest": "20200812100844"
+  },
+  {
+   "url": "https://toggl.com/blog/startup-marketing-tips-business",
+   "earliest": "20200930055325"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q3-2021",
+   "earliest": "20211024050953"
+  },
+  {
+   "url": "https://toggl.com/blog/candidate-experience",
+   "earliest": "20200618133914"
+  },
+  {
+   "url": "https://toggl.com/blog/kill-dragon-comic",
+   "earliest": "20200804200304"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-be-more-productive",
+   "earliest": "20200927112631"
+  },
+  {
+   "url": "https://toggl.com/blog/digital-break",
+   "earliest": "20200927105245"
+  },
+  {
+   "url": "https://toggl.com/blog/hiring-remotely-togglhire",
+   "earliest": "20200427010154"
+  },
+  {
+   "url": "https://toggl.com/blog/the-fiedler-contingency-model",
+   "earliest": "20200919190704"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-increase-accountability-in-the-workplace",
+   "earliest": "20200618133252"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-pmo-pmo",
+   "earliest": "20200811030749"
+  },
+  {
+   "url": "https://toggl.com/blog/work-from-home-policy-how-to",
+   "earliest": "20200919175957"
+  },
+  {
+   "url": "https://toggl.com/blog/favorite-programming-language",
+   "earliest": "20200930062512"
+  },
+  {
+   "url": "https://toggl.com/blog/sunk-cost-fallacy",
+   "earliest": "20200804204918"
+  },
+  {
+   "url": "https://toggl.com/blog/50-time-management-quotes-to-live-by",
+   "earliest": "20200810052814"
+  },
+  {
+   "url": "https://toggl.com/blog/build-rapport-at-work",
+   "earliest": "20200930054955"
+  },
+  {
+   "url": "https://toggl.com/blog/selecting-recruitment-software-for-growing-companies",
+   "earliest": "20210512151942"
+  },
+  {
+   "url": "https://toggl.com/blog/learning-is-fun-as-a-freelancer-comic",
+   "earliest": "20200812100012"
+  },
+  {
+   "url": "https://toggl.com/blog/100-tech-conferences-and-events-to-attend-in-europe-2020",
+   "earliest": "20200227124726"
+  },
+  {
+   "url": "https://toggl.com/blog/win-apple-watch",
+   "earliest": "20200930060512"
+  },
+  {
+   "url": "https://toggl.com/blog/project-manager-skills",
+   "earliest": "20210128091746"
+  },
+  {
+   "url": "https://toggl.com/blog/workload-management",
+   "earliest": "20220916163242"
+  },
+  {
+   "url": "https://toggl.com/blog/best-project-tracking-software-for-2019",
+   "earliest": "20200808013215"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-hire-an-seo-manager-for-b2b-saas",
+   "earliest": "20210805211313"
+  },
+  {
+   "url": "https://toggl.com/blog/employed-overworked",
+   "earliest": "20200815094209"
+  },
+  {
+   "url": "https://toggl.com/blog/marketing-project-management-software",
+   "earliest": "20200927115430"
+  },
+  {
+   "url": "https://toggl.com/blog/how-long-should-video-answers-be",
+   "earliest": "20210803100611"
+  },
+  {
+   "url": "https://toggl.com/blog/stressed-out-offer-a-sabbatical",
+   "earliest": "20200421123234"
+  },
+  {
+   "url": "https://toggl.com/blog/build-startup-car",
+   "earliest": "20200517054139"
+  },
+  {
+   "url": "https://toggl.com/blog/kpi-metrics",
+   "earliest": "20200811025542"
+  },
+  {
+   "url": "https://toggl.com/blog/api-documentation-change",
+   "earliest": "20201120111325"
+  },
+  {
+   "url": "https://toggl.com/blog/cost-of-hiring-an-employee",
+   "earliest": "20200426014316"
+  },
+  {
+   "url": "https://toggl.com/blog/impact-god-complex-leadership-skills",
+   "earliest": "20200804201914"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-conduct-a-successful-project-debrief-in-3-easy-steps",
+   "earliest": "20200930053723"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-choose-the-best-gantt-chart-creator",
+   "earliest": "20200810050018"
+  },
+  {
+   "url": "https://toggl.com/blog/small-business-project-management-software",
+   "earliest": "20210310080621"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-deal-with-difficult-people-at-work",
+   "earliest": "20210410122628"
+  },
+  {
+   "url": "https://toggl.com/blog/robots-better-job-comic",
+   "earliest": "20200930060748"
+  },
+  {
+   "url": "https://toggl.com/blog/email-marketing-services",
+   "earliest": "20200808000419"
+  },
+  {
+   "url": "https://toggl.com/blog/communicate-faster-with-comments-mentions-in-toggl-plan",
+   "earliest": "20200228161408"
+  },
+  {
+   "url": "https://toggl.com/blog/what-is-a-project-coordinator",
+   "earliest": "20200919190621"
+  },
+  {
+   "url": "https://toggl.com/blog/setting-up-your-remote-team-to-work-with-remote-clients",
+   "earliest": "20200426193622"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-remote-day",
+   "earliest": "20200923233352"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-help-your-employees-find-work-life-balance",
+   "earliest": "20200811030413"
+  },
+  {
+   "url": "https://toggl.com/blog/skills-for-ecommerce-manager",
+   "earliest": "20210128074402"
+  },
+  {
+   "url": "https://toggl.com/blog/5-tools-that-will-make-project-coordination-easier",
+   "earliest": "20200810042452"
+  },
+  {
+   "url": "https://toggl.com/blog/contract-vs-full-time",
+   "earliest": "20200808011050"
+  },
+  {
+   "url": "https://toggl.com/blog/player-embed",
+   "earliest": "20211204220842"
+  },
+  {
+   "url": "https://toggl.com/blog/testing-hard-skills",
+   "earliest": "20211127090715"
+  },
+  {
+   "url": "https://toggl.com/blog/best-books-for-entrepreneurs",
+   "earliest": "20200418035547"
+  },
+  {
+   "url": "https://toggl.com/blog/10-essential-web-tools-your-startup-should-be-using",
+   "earliest": "20200812095912"
+  },
+  {
+   "url": "https://toggl.com/blog/applicant-tracking-system",
+   "earliest": "20200620105255"
+  },
+  {
+   "url": "https://toggl.com/blog/life-plan-apps",
+   "earliest": "20200810001217"
+  },
+  {
+   "url": "https://toggl.com/blog/employees-turnover",
+   "earliest": "20221013101955"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-create-the-perfect-project-management-plan",
+   "earliest": "20200808013501"
+  },
+  {
+   "url": "https://toggl.com/blog/5-advantages-of-systems-thinking",
+   "earliest": "20200804204825"
+  },
+  {
+   "url": "https://toggl.com/blog/project-scope-creep",
+   "earliest": "20220819041458"
+  },
+  {
+   "url": "https://toggl.com/blog/best-team-calendar-applications-for-2018",
+   "earliest": "20200930045942"
+  },
+  {
+   "url": "https://toggl.com/blog/how-to-manage-your-project-team-more-effectively",
+   "earliest": "20200930070144"
+  },
+  {
+   "url": "https://toggl.com/blog/american-time-use-survey-infographic",
+   "earliest": "20200804202114"
+  },
+  {
+   "url": "https://toggl.com/blog/remote-workspaces-comic",
+   "earliest": "20200927115734"
+  },
+  {
+   "url": "https://toggl.com/blog/behavioral-interview-questions",
+   "earliest": "20221025103859"
+  },
+  {
+   "url": "https://toggl.com/blog/design-change-requests",
+   "earliest": "20200927104237"
+  },
+  {
+   "url": "https://toggl.com/blog/teamwork-makes-the-dream-work-10-ways-to-help-your-team",
+   "earliest": "20200810044926"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-hire-q2-2022",
+   "earliest": "20220819050246"
+  },
+  {
+   "url": "https://toggl.com/blog/work-management-software",
+   "earliest": "20200811033242"
+  },
+  {
+   "url": "https://toggl.com/blog/wrike-vs-asana",
+   "earliest": "20210513010055"
+  },
+  {
+   "url": "https://toggl.com/blog/team-leadership",
+   "earliest": "20210722102857"
+  },
+  {
+   "url": "https://toggl.com/blog/perfect-project-schedule",
+   "earliest": "20200919195330"
+  },
+  {
+   "url": "https://toggl.com/blog/fruitful-meetings-anyone",
+   "earliest": "20200930062222"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-ios-beta-online",
+   "earliest": "20200927115609"
+  },
+  {
+   "url": "https://toggl.com/blog/project-planning-tools",
+   "earliest": "20200923215341"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-plan-q2-2021",
+   "earliest": "20210805211531"
+  },
+  {
+   "url": "https://toggl.com/blog/project-profits",
+   "earliest": "20221002191955"
+  },
+  {
+   "url": "https://toggl.com/blog/become-better-writer",
+   "earliest": "20200919180201"
+  },
+  {
+   "url": "https://toggl.com/blog/programming-languages-explained-with-music-comic",
+   "earliest": "20200619043604"
+  },
+  {
+   "url": "https://toggl.com/blog/agile-project-management-tools",
+   "earliest": "20200811033617"
+  },
+  {
+   "url": "https://toggl.com/blog/time-management",
+   "earliest": "20200808013622"
+  },
+  {
+   "url": "https://toggl.com/blog/mac-gantt-chart-software",
+   "earliest": "20201223143827"
+  },
+  {
+   "url": "https://toggl.com/blog/project-planning-steps-for-dummies",
+   "earliest": "20200930061532"
+  },
+  {
+   "url": "https://toggl.com/blog/information-about-toggl-downtime-on-april-1st",
+   "earliest": "20200421161550"
+  },
+  {
+   "url": "https://toggl.com/blog/improve-concentration",
+   "earliest": "20200421045204"
+  },
+  {
+   "url": "https://toggl.com/blog/how-i-learned-to-stop-worrying-and-love-toggl",
+   "earliest": "20200919193347"
+  },
+  {
+   "url": "https://toggl.com/blog/best-freelance-websites",
+   "earliest": "20200804203339"
+  },
+  {
+   "url": "https://toggl.com/blog/toggl-help-team",
+   "earliest": "20200524114643"
+  },
+  {
+   "url": "https://toggl.com/blog/teams-work-better-thanks-apps-todoist-zapier-tweek",
+   "earliest": "20200930070156"
+  },
+  {
+   "url": "https://toggl.com/blog/smoke-break-timer",
+   "earliest": "20200919194703"
+  },
+  {
+   "url": "https://toggl.com/blog/resource-planning-templates",
+   "earliest": "20210410122757"
+  }
+ ]
+}
