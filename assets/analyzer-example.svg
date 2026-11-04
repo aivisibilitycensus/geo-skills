@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="Arial, Helvetica, sans-serif">
+<rect width="760" height="330" fill="#FBFAF5"/>
+<text x="20" y="30" font-size="16" font-weight="700" fill="#172321">Share of answers naming the brand, with 95% ranges</text>
+<text x="20" y="50" font-size="12" fill="#4A5654">Fictional worked example, answer-log-analyzer. Grey = September, dark = October. Overlapping ranges: no change outside noise.</text>
+<line x1="170.0" y1="62" x2="170.0" y2="292" stroke="#D9D6CB"/>
+<text x="170.0" y="310" font-size="11" fill="#4A5654" text-anchor="middle">0%</text>
+<line x1="280.0" y1="62" x2="280.0" y2="292" stroke="#D9D6CB"/>
+<text x="280.0" y="310" font-size="11" fill="#4A5654" text-anchor="middle">20%</text>
+<line x1="390.0" y1="62" x2="390.0" y2="292" stroke="#D9D6CB"/>
+<text x="390.0" y="310" font-size="11" fill="#4A5654" text-anchor="middle">40%</text>
+<line x1="500.0" y1="62" x2="500.0" y2="292" stroke="#D9D6CB"/>
+<text x="500.0" y="310" font-size="11" fill="#4A5654" text-anchor="middle">60%</text>
+<line x1="610.0" y1="62" x2="610.0" y2="292" stroke="#D9D6CB"/>
+<text x="610.0" y="310" font-size="11" fill="#4A5654" text-anchor="middle">80%</text>
+<text x="158" y="92" font-size="13" fill="#172321" text-anchor="end" font-weight="700">All engines</text>
+<line x1="263.5" y1="82" x2="351.2" y2="82" stroke="#9AA3A0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="302.4" cy="82" r="5.5" fill="#9AA3A0"/>
+<text x="359.2" y="86" font-size="11" fill="#9AA3A0">24% (17-33%)</text>
+<line x1="308.3" y1="100" x2="404.6" y2="100" stroke="#172321" stroke-width="3" stroke-linecap="round"/>
+<circle cx="353.3" cy="100" r="5.5" fill="#172321"/>
+<text x="412.6" y="104" font-size="11" fill="#172321">33% (25-43%)</text>
+<text x="158" y="150" font-size="13" fill="#172321" text-anchor="end" font-weight="400">chatgpt</text>
+<line x1="257.2" y1="140" x2="412.0" y2="140" stroke="#9AA3A0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="322.8" cy="140" r="5.5" fill="#9AA3A0"/>
+<text x="420.0" y="144" font-size="11" fill="#9AA3A0">28% (16-44%)</text>
+<line x1="281.2" y1="158" x2="443.2" y2="158" stroke="#172321" stroke-width="3" stroke-linecap="round"/>
+<circle cx="353.3" cy="158" r="5.5" fill="#172321"/>
+<text x="451.2" y="162" font-size="11" fill="#172321">33% (20-50%)</text>
+<text x="158" y="208" font-size="13" fill="#172321" text-anchor="end" font-weight="400">copilot</text>
+<line x1="203.4" y1="198" x2="327.6" y2="198" stroke="#9AA3A0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="246.4" cy="198" r="5.5" fill="#9AA3A0"/>
+<text x="335.6" y="202" font-size="11" fill="#9AA3A0">14% (6-29%)</text>
+<line x1="223.6" y1="216" x2="362.7" y2="216" stroke="#172321" stroke-width="3" stroke-linecap="round"/>
+<circle cx="276.9" cy="216" r="5.5" fill="#172321"/>
+<text x="370.7" y="220" font-size="11" fill="#172321">19% (10-35%)</text>
+<text x="158" y="266" font-size="13" fill="#172321" text-anchor="end" font-weight="400">perplexity</text>
+<line x1="269.0" y1="256" x2="427.7" y2="256" stroke="#9AA3A0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="338.1" cy="256" r="5.5" fill="#9AA3A0"/>
+<text x="435.7" y="260" font-size="11" fill="#9AA3A0">31% (18-47%)</text>
+<line x1="345.9" y1="274" x2="516.5" y2="274" stroke="#172321" stroke-width="3" stroke-linecap="round"/>
+<circle cx="429.7" cy="274" r="5.5" fill="#172321"/>
+<text x="524.5" y="278" font-size="11" fill="#172321">47% (32-63%)</text>
+</svg>

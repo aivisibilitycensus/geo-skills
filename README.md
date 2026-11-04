@@ -8,6 +8,8 @@ Most GEO tools give you a score. These skills give you counts you can trace back
 
 The answer log analyzer on its worked example (a fictional Dublin accounting firm, 108 logged answers a month on three engines):
 
+![Share of answers naming the brand by engine, September and October, with 95% ranges that overlap on every engine](assets/analyzer-example.svg)
+
 | Engine | Named, September | Named, October |
 |---|---|---|
 | chatgpt | 28% (16-44%), n=36 | 33% (20-50%), n=36 |
