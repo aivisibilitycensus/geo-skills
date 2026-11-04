@@ -61,8 +61,16 @@ for (const { blog, group, reserve } of allBlogs) {
   let failed = null;
   if (!(await querySlice(cfg.from, cfg.to))) {
     for (const [from, to] of years) {
-      if (!(await querySlice(from, to))) { failed = from + '-' + to; break; }
-      await sleep(1000);
+      if (await querySlice(from, to)) { await sleep(1000); continue; }
+      // A year that still times out (whole-domain blogs such as copyblogger.com) is tried in quarters.
+      const y = from.slice(0, 4);
+      for (const [a, b] of [['0101', '0331'], ['0401', '0630'], ['0701', '0930'], ['1001', '1231']]) {
+        const qf = String(Math.max(Number(from), Number(y + a))), qt = String(Math.min(Number(to), Number(y + b)));
+        if (qf > qt) continue;
+        if (!(await querySlice(qf, qt))) { failed = qf + '-' + qt; break; }
+        await sleep(1000);
+      }
+      if (failed) break;
     }
   }
   if (failed) {
