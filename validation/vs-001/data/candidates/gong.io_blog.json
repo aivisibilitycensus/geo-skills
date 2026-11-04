@@ -1,0 +1,1411 @@
+{
+ "blog": "gong.io/blog",
+ "group": "Sales and customer service",
+ "reserve": false,
+ "cdxRows": 714,
+ "articleLike": 350,
+ "queriedAt": "2026-11-04T03:35:16.778Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.gong.io/blog/sales-cycle/",
+   "earliest": "20190825204331"
+  },
+  {
+   "url": "https://www.gong.io/blog/7-tips-for-writing-the-perfect-follow-up-sales-email-according-to-science/",
+   "earliest": "20210825204224"
+  },
+  {
+   "url": "https://www.gong.io/blog/5-ways-to-unlock-your-sales-teams-productivity-using-revenue-intelligence/",
+   "earliest": "20210826231339"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-forecast-example/",
+   "earliest": "20221005214933"
+  },
+  {
+   "url": "https://www.gong.io/blog/wolf-of-wall-street-sales-script/",
+   "earliest": "20210922112204"
+  },
+  {
+   "url": "https://www.gong.io/blog/heres-what-separates-crazy-successful-salespeople-from-everyone-else/",
+   "earliest": "20200811095807"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-pipeline-tracking/",
+   "earliest": "20210723054542"
+  },
+  {
+   "url": "https://www.gong.io/blog/strategies-for-managing-remote-sales-teams/",
+   "earliest": "20200922083600"
+  },
+  {
+   "url": "https://www.gong.io/blog/data-reveals-the-best-time-to-talk-price-and-budget/",
+   "earliest": "20200811094740"
+  },
+  {
+   "url": "https://www.gong.io/blog/increase-meeting-conversion-rates/",
+   "earliest": "20190825194824"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-discovery-questions/",
+   "earliest": "20210930041010"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-objections/",
+   "earliest": "20211125164715"
+  },
+  {
+   "url": "https://www.gong.io/blog/team-selling/",
+   "earliest": "20190718161955"
+  },
+  {
+   "url": "https://www.gong.io/blog/revenue-success/",
+   "earliest": "20190716121429"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-surprising-cold-email-cta-will-help-you-book-a-lot-more-meetings/",
+   "earliest": "20200718025134"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-email-examples/",
+   "earliest": "20220425120901"
+  },
+  {
+   "url": "https://www.gong.io/blog/vp-sales-average-tenure/",
+   "earliest": "20190711193901"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-secret-behind-top-notch-sales-teams/",
+   "earliest": "20190825201533"
+  },
+  {
+   "url": "https://www.gong.io/blog/growing-the-revenue-intelligence-category-gongs-series-e-funding/",
+   "earliest": "20210603145501"
+  },
+  {
+   "url": "https://www.gong.io/blog/roi-of-call-coaching-in-sales/",
+   "earliest": "20190825202052"
+  },
+  {
+   "url": "https://www.gong.io/blog/demo-to-close-conversion-rates-how-sales-leaders-can-move-the-needle/",
+   "earliest": "20190825201141"
+  },
+  {
+   "url": "https://www.gong.io/blog/focus-sales-conversation/",
+   "earliest": "20190825203732"
+  },
+  {
+   "url": "https://www.gong.io/blog/worst-words-to-use-on-sales-calls/",
+   "earliest": "20190716120612"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-call-tips/",
+   "earliest": "20190825200813"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-cross-the-disruption-chasm-using-revenue-intelligence/",
+   "earliest": "20200306122010"
+  },
+  {
+   "url": "https://www.gong.io/blog/laura-palmer-how-to-win-deals-with-social-proof/",
+   "earliest": "20201205063612"
+  },
+  {
+   "url": "https://www.gong.io/blog/5-reasons-you-should-not-buy-gong/",
+   "earliest": "20200922075952"
+  },
+  {
+   "url": "https://www.gong.io/blog/have-better-sales-conversations/",
+   "earliest": "20190825210758"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-in-one-word/",
+   "earliest": "20210414172432"
+  },
+  {
+   "url": "https://www.gong.io/blog/dont-waste-time-prioritizing-do-this-instead/",
+   "earliest": "20221005211117"
+  },
+  {
+   "url": "https://www.gong.io/blog/5-ways-technology-will-change-sales-2018/",
+   "earliest": "20190825205907"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-rare-sales-call-can-double-win-rates-heres-how-to-ace-it/",
+   "earliest": "20210121123621"
+  },
+  {
+   "url": "https://www.gong.io/blog/demo-script-examples/",
+   "earliest": "20210909145323"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-coaching/",
+   "earliest": "20190716121302"
+  },
+  {
+   "url": "https://www.gong.io/blog/jane-kim-empowerment-is-vital-for-effective-leadership/",
+   "earliest": "20201022091959"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-call-objections/",
+   "earliest": "20211205110849"
+  },
+  {
+   "url": "https://www.gong.io/blog/patty-mccord-culture-isnt-built-its-empowered/",
+   "earliest": "20200811103545"
+  },
+  {
+   "url": "https://www.gong.io/blog/best-data-backed-sales-tips-of-2019/",
+   "earliest": "20200922063300"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-calling-tips/",
+   "earliest": "20190825210538"
+  },
+  {
+   "url": "https://www.gong.io/blog/important-practices-in-scaling-a-winning-team/",
+   "earliest": "20211013113221"
+  },
+  {
+   "url": "https://www.gong.io/blog/geoffrey-moore-why-crossing-the-chasm-is-critical-for-growth/",
+   "earliest": "20200811095453"
+  },
+  {
+   "url": "https://www.gong.io/blog/heres-how-selling-to-decision-makers-affects-your-win-rates-ignore-at-your-own-risk/",
+   "earliest": "20201215131321"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-clari-integration-pr/",
+   "earliest": "20190716131043"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-enterprise-sales/",
+   "earliest": "20221024185510"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-playbook/",
+   "earliest": "20210616130525"
+  },
+  {
+   "url": "https://www.gong.io/blog/dannie-herzberg-advice-for-evolving-with-our-new/",
+   "earliest": "20201205061328"
+  },
+  {
+   "url": "https://www.gong.io/blog/floating-on-cloud-100/",
+   "earliest": "20210922113908"
+  },
+  {
+   "url": "https://www.gong.io/blog/scott-leese-how-to-humanize-yourself-as-a-sales-leader/",
+   "earliest": "20200922085714"
+  },
+  {
+   "url": "https://www.gong.io/blog/icp-sales/",
+   "earliest": "20220721113612"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-close-more-6-figure-deals-according-to-data/",
+   "earliest": "20210922122836"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-sales-best-practice-is-actually-terrible-for-your-discovery-calls-and-its-not-what-you-think/",
+   "earliest": "20210621153241"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-email-follow-up/",
+   "earliest": "20210922112607"
+  },
+  {
+   "url": "https://www.gong.io/blog/filler-words-in-sales/",
+   "earliest": "20190825200148"
+  },
+  {
+   "url": "https://www.gong.io/blog/best-discovery-call-tips/",
+   "earliest": "20190716123524"
+  },
+  {
+   "url": "https://www.gong.io/blog/win-competitive-deals/",
+   "earliest": "20190825195324"
+  },
+  {
+   "url": "https://www.gong.io/blog/these-are-the-top-three-ways-to-get-visibility-into-sales-conversations/",
+   "earliest": "20190825202012"
+  },
+  {
+   "url": "https://www.gong.io/blog/you-may-leverage-data-but-heres-how-to-know-youre-a-truly-data-driven-organization/",
+   "earliest": "20220303100650"
+  },
+  {
+   "url": "https://www.gong.io/blog/matt-rosenberg-why-multi-level-selling-is-critical-for-todays-landscape/",
+   "earliest": "20201205061815"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-email-statistics/",
+   "earliest": "20220120043436"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-training-plan/",
+   "earliest": "20210329113523"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-process/",
+   "earliest": "20190825205132"
+  },
+  {
+   "url": "https://www.gong.io/blog/social-proof/",
+   "earliest": "20190716125049"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-revenue-intelligence/",
+   "earliest": "20220415181649"
+  },
+  {
+   "url": "https://www.gong.io/blog/value-selling-requires-a-stellar-demo/",
+   "earliest": "20210520170625"
+  },
+  {
+   "url": "https://www.gong.io/blog/social-selling/",
+   "earliest": "20221005211347"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-call-opening-lines/",
+   "earliest": "20190716120038"
+  },
+  {
+   "url": "https://www.gong.io/blog/worst-time-to-schedule-sales-calls/",
+   "earliest": "20190817165921"
+  },
+  {
+   "url": "https://www.gong.io/blog/women-are-way-better-than-men-at-this-high-value-sales-skill/",
+   "earliest": "20210321143128"
+  },
+  {
+   "url": "https://www.gong.io/blog/from-pandoras-box-to-near-certainty-how-gong-increases-pipeline-accuracy-and-accelerates-revenue-growth/",
+   "earliest": "20210922112847"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-is-how-a-bad-quarter-starts-in-sales-as-illustrated-by-data/",
+   "earliest": "20190716130945"
+  },
+  {
+   "url": "https://www.gong.io/blog/your-crm-close-date-isnt-giving-you-the-full-picture-heres-what-youre-missing/",
+   "earliest": "20210723192905"
+  },
+  {
+   "url": "https://www.gong.io/blog/gongs-big-achievements-that-arent-about-sales/",
+   "earliest": "20210421065847"
+  },
+  {
+   "url": "https://www.gong.io/blog/steve-jobs-iphone-keynote/",
+   "earliest": "20211103012022"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-kpis/",
+   "earliest": "20221005213107"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-sell-against-the-competition/",
+   "earliest": "20190825202552"
+  },
+  {
+   "url": "https://www.gong.io/blog/3-truths-that-will-change-how-you-sell/",
+   "earliest": "20200811103915"
+  },
+  {
+   "url": "https://www.gong.io/blog/why-sales-effectiveness-programs-fail/",
+   "earliest": "20190817175037"
+  },
+  {
+   "url": "https://www.gong.io/blog/harish-mohan-leading-through-the-growth-curve/",
+   "earliest": "20200919174650"
+  },
+  {
+   "url": "https://www.gong.io/blog/avoid-this-tempting-cold-email-mistake-at-all-costs/",
+   "earliest": "20201202163535"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-manager-software/",
+   "earliest": "20220201203525"
+  },
+  {
+   "url": "https://www.gong.io/blog/cant-wait-to-meet-you-atlanta/",
+   "earliest": "20200922071529"
+  },
+  {
+   "url": "https://www.gong.io/blog/female-sales-leaders-advice-to-women-in-sales/",
+   "earliest": "20210121171000"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-call-stats/",
+   "earliest": "20210818113136"
+  },
+  {
+   "url": "https://www.gong.io/blog/angelique-slagle-you-are-ready-even-if-you-dont-think-so/",
+   "earliest": "20200919180605"
+  },
+  {
+   "url": "https://www.gong.io/blog/leading-indicator-of-sales-call-success/",
+   "earliest": "20190825202426"
+  },
+  {
+   "url": "https://www.gong.io/blog/action-items-pr/",
+   "earliest": "20190825200027"
+  },
+  {
+   "url": "https://www.gong.io/blog/solution-selling/",
+   "earliest": "20220720132212"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-raises-65m-led-by-sequoia-capital/",
+   "earliest": "20191207211435"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-forecast/",
+   "earliest": "20220826121918"
+  },
+  {
+   "url": "https://www.gong.io/blog/go-to-market-strategy/",
+   "earliest": "20220915130509"
+  },
+  {
+   "url": "https://www.gong.io/blog/customer-success-kpis/",
+   "earliest": "20220819025517"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-call-planning/",
+   "earliest": "20220725112008"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-makes-the-latka-most-promising-saas-in-california/",
+   "earliest": "20200811102534"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-power-of-being-intentionally-polarizing-in-business/",
+   "earliest": "20210901190654"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-funnel-examples/",
+   "earliest": "20220819015106"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-rev-ops/",
+   "earliest": "20210723190203"
+  },
+  {
+   "url": "https://www.gong.io/blog/best-sales-blogs/",
+   "earliest": "20190716123654"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-7-most-horrifying-sales-call-mistakes-of-2019/",
+   "earliest": "20200811102910"
+  },
+  {
+   "url": "https://www.gong.io/blog/taking-the-guesswork-out-of-sales-call-effectiveness/",
+   "earliest": "20190825205159"
+  },
+  {
+   "url": "https://www.gong.io/blog/great-salespeople-never-pitch-for-more-than-9-minutes-heres-why/",
+   "earliest": "20190825200135"
+  },
+  {
+   "url": "https://www.gong.io/blog/here-are-7-unfair-ways-to-crush-your-competition-in-sales/",
+   "earliest": "20200811104215"
+  },
+  {
+   "url": "https://www.gong.io/blog/shep-maher-relentless-servant-leadership/",
+   "earliest": "20200811104652"
+  },
+  {
+   "url": "https://www.gong.io/blog/inside-sales/",
+   "earliest": "20220712115107"
+  },
+  {
+   "url": "https://www.gong.io/blog/friction-in-sales-conversations-is-good-thing/",
+   "earliest": "20200922085751"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-is-what-separates-your-star-reps-from-the-rest-of-the-team/",
+   "earliest": "20190716120049"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-reps-talk-pricing/",
+   "earliest": "20190825205407"
+  },
+  {
+   "url": "https://www.gong.io/blog/law-of-reciprocity/",
+   "earliest": "20211209132422"
+  },
+  {
+   "url": "https://www.gong.io/blog/deal-success-your-revenue-teams-backbone/",
+   "earliest": "20200922082440"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-techniques-tips/",
+   "earliest": "20190407033521"
+  },
+  {
+   "url": "https://www.gong.io/blog/handling-sales-objections/",
+   "earliest": "20190423140715"
+  },
+  {
+   "url": "https://www.gong.io/blog/dave-mattson-brutal-honesty-and-transparency-is-a-must-for-sales-leaders-2/",
+   "earliest": "20201022093909"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-signal-all-winning-deals-have-in-common/",
+   "earliest": "20191117095049"
+  },
+  {
+   "url": "https://www.gong.io/blog/create-a-winning-company-culture-with-these-elements/",
+   "earliest": "20211125025642"
+  },
+  {
+   "url": "https://www.gong.io/blog/ai-for-customer-support/",
+   "earliest": "20190825210127"
+  },
+  {
+   "url": "https://www.gong.io/blog/get-started-with-sales-coaching/",
+   "earliest": "20190817164944"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-efficiency/",
+   "earliest": "20221004122231"
+  },
+  {
+   "url": "https://www.gong.io/blog/call-recording-questions/",
+   "earliest": "20210922104410"
+  },
+  {
+   "url": "https://www.gong.io/blog/spin-selling/",
+   "earliest": "20220419114727"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-battle-card-example-2/",
+   "earliest": "20211019143908"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-handle-any-sales-objection/",
+   "earliest": "20191117103221"
+  },
+  {
+   "url": "https://www.gong.io/blog/roi-of-ramping-new-sales-hires-faster/",
+   "earliest": "20190716123206"
+  },
+  {
+   "url": "https://www.gong.io/blog/lehka-doshi-building-alignment-to-drive-growth-2/",
+   "earliest": "20200811101923"
+  },
+  {
+   "url": "https://www.gong.io/blog/impact-of-gdpr-on-sales/",
+   "earliest": "20190825211316"
+  },
+  {
+   "url": "https://www.gong.io/blog/cant-miss-sales-coaching-opportunities/",
+   "earliest": "20210922121604"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-script-examples/",
+   "earliest": "20220113125325"
+  },
+  {
+   "url": "https://www.gong.io/blog/deal-closing-discovery-call/",
+   "earliest": "20190507103726"
+  },
+  {
+   "url": "https://www.gong.io/blog/saas-onboarding/",
+   "earliest": "20220702154910"
+  },
+  {
+   "url": "https://www.gong.io/blog/challenger-sales-model/",
+   "earliest": "20220127181258"
+  },
+  {
+   "url": "https://www.gong.io/blog/machine-learning-sales-forecasting/",
+   "earliest": "20220529085803"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-leaderboard/",
+   "earliest": "20190825202235"
+  },
+  {
+   "url": "https://www.gong.io/blog/sandler-selling-method/",
+   "earliest": "20220713224228"
+  },
+  {
+   "url": "https://www.gong.io/blog/michelle-benfer-5-tips-for-remote-sales-management/",
+   "earliest": "20201022101823"
+  },
+  {
+   "url": "https://www.gong.io/blog/gap-selling/",
+   "earliest": "20220819020121"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-stats/",
+   "earliest": "20210709113628"
+  },
+  {
+   "url": "https://www.gong.io/blog/elements-of-effective-sales-conversations/",
+   "earliest": "20190825205728"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-questions/",
+   "earliest": "20190825210637"
+  },
+  {
+   "url": "https://www.gong.io/blog/5-reasons-to-introduce-customer-success-teams-to-gong/",
+   "earliest": "20210313170127"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-one-word-to-avoid-in-your-next-sales-pitch/",
+   "earliest": "20191207213607"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-email-examples/",
+   "earliest": "20220906120543"
+  },
+  {
+   "url": "https://www.gong.io/blog/ed-calnan-adapt-and-win/",
+   "earliest": "20200811104442"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-sales-ops/",
+   "earliest": "20211205102807"
+  },
+  {
+   "url": "https://www.gong.io/blog/coaching-wins-championships-heres-how-to-become-a-legendary-sales-coach-with-data/",
+   "earliest": "20210209222038"
+  },
+  {
+   "url": "https://www.gong.io/blog/avoid-these-5-mistakes-when-talking-roi-with-execs/",
+   "earliest": "20210513210407"
+  },
+  {
+   "url": "https://www.gong.io/blog/talk-to-listen-ratio-in-sales/",
+   "earliest": "20190716130956"
+  },
+  {
+   "url": "https://www.gong.io/blog/andrew-sykes-these-are-proven-habits-for-successful-salespeople/",
+   "earliest": "20201205063733"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-choose-conversation-intelligence/",
+   "earliest": "20190825200230"
+  },
+  {
+   "url": "https://www.gong.io/blog/dominating-the-competition/",
+   "earliest": "20190825201751"
+  },
+  {
+   "url": "https://www.gong.io/blog/here-are-the-7-best-objection-handling-techniques-youll-read-this-year/",
+   "earliest": "20200811101603"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-productivity/",
+   "earliest": "20221020133241"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-cant-ai-do-yet/",
+   "earliest": "20210922114714"
+  },
+  {
+   "url": "https://www.gong.io/blog/effectiveness-of-your-sales-conversations/",
+   "earliest": "20190825203247"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-is-how-gender-affects-close-rates-in-sales/",
+   "earliest": "20190825195101"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-skills/",
+   "earliest": "20190716121850"
+  },
+  {
+   "url": "https://www.gong.io/blog/top-reasons-deals-get-stuck-and-sales-techniques-to-treat-it/",
+   "earliest": "20191117094437"
+  },
+  {
+   "url": "https://www.gong.io/blog/persuasive-language-techniques/",
+   "earliest": "20190825205231"
+  },
+  {
+   "url": "https://www.gong.io/blog/data-driven-call-coaching-habits-of-effective-sales-leaders/",
+   "earliest": "20190825204424"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-enablement/",
+   "earliest": "20190716130657"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-proposal-example/",
+   "earliest": "20210922115255"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-enablement-managers-gain-credibility-and-trust/",
+   "earliest": "20190825211016"
+  },
+  {
+   "url": "https://www.gong.io/blog/snap-selling/",
+   "earliest": "20220714115520"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-a-discovery-call/",
+   "earliest": "20190716122309"
+  },
+  {
+   "url": "https://www.gong.io/blog/winning-sales-conversations/",
+   "earliest": "20190102181413"
+  },
+  {
+   "url": "https://www.gong.io/blog/talk-to-listen-conversion-ratio/",
+   "earliest": "20190102181611"
+  },
+  {
+   "url": "https://www.gong.io/blog/nailing-your-sales-discovery-calls/",
+   "earliest": "20190716124154"
+  },
+  {
+   "url": "https://www.gong.io/blog/random-acts-of-coaching/",
+   "earliest": "20190825194703"
+  },
+  {
+   "url": "https://www.gong.io/blog/army-of-champions-is-must-now-theres-data-to-prove-it/",
+   "earliest": "20191117094500"
+  },
+  {
+   "url": "https://www.gong.io/blog/mark-roberge-how-to-approach-product-market-fit/",
+   "earliest": "20200811103348"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-success/",
+   "earliest": "20190825201416"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-training/",
+   "earliest": "20190716120030"
+  },
+  {
+   "url": "https://www.gong.io/blog/tim-riesterer-decision-making-psychology-and-your-sales-messaging/",
+   "earliest": "20200922082831"
+  },
+  {
+   "url": "https://www.gong.io/blog/calculating-net-promoter-score/",
+   "earliest": "20220819020234"
+  },
+  {
+   "url": "https://www.gong.io/blog/7-words-that-sell/",
+   "earliest": "20190716125702"
+  },
+  {
+   "url": "https://www.gong.io/blog/reducing-onboarding-time-new-sales-hires/",
+   "earliest": "20190716121201"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-presentation/",
+   "earliest": "20190716121923"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-methodologies/",
+   "earliest": "20190825200820"
+  },
+  {
+   "url": "https://www.gong.io/blog/does-that-make-sense-sales-closing-question/",
+   "earliest": "20190817174439"
+  },
+  {
+   "url": "https://www.gong.io/blog/signs-youre-going-to-close-the-deal/",
+   "earliest": "20190825210313"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-skills-2/",
+   "earliest": "20211127051626"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-tactics/",
+   "earliest": "20190716122837"
+  },
+  {
+   "url": "https://www.gong.io/blog/these-are-the-best-sales-email-tips-youll-read-in-2021/",
+   "earliest": "20210419190121"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-email-stats/",
+   "earliest": "20211027152916"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-coaching-tips/",
+   "earliest": "20190825210154"
+  },
+  {
+   "url": "https://www.gong.io/blog/sandler-pain-funnel/",
+   "earliest": "20220819030507"
+  },
+  {
+   "url": "https://www.gong.io/blog/why-your-current-pipeline-view-is-an-illusion/",
+   "earliest": "20210617130221"
+  },
+  {
+   "url": "https://www.gong.io/blog/talking-about-your-company-in-sales/",
+   "earliest": "20190817173532"
+  },
+  {
+   "url": "https://www.gong.io/blog/why-and-how-to-continually-break-and-adapt-your-companys-gtm-model-as-you-grow/",
+   "earliest": "20211229200454"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-sales-is-like-curing-an-addiction/",
+   "earliest": "20190825200533"
+  },
+  {
+   "url": "https://www.gong.io/blog/jake-dunlap-advice-to-improve-your-buyers-journey/",
+   "earliest": "20201022093149"
+  },
+  {
+   "url": "https://www.gong.io/blog/podcast-host/sheena-badini/",
+   "earliest": "20191207222508"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-long-your-first-sales-call-should-be/",
+   "earliest": "20190825201412"
+  },
+  {
+   "url": "https://www.gong.io/blog/11-negotiation-techniques-and-must-learn-skills-for-sales-pros/",
+   "earliest": "20210104080026"
+  },
+  {
+   "url": "https://www.gong.io/blog/conversation-iintelligence-software-helps-reps-sell-better/",
+   "earliest": "20190825205436"
+  },
+  {
+   "url": "https://www.gong.io/blog/when-you-give-customers-a-reason-to-master-your-product-everyone-wins-heres-why/",
+   "earliest": "20220627121510"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-pitch-examples/",
+   "earliest": "20211019115940"
+  },
+  {
+   "url": "https://www.gong.io/blog/stephen-antuna-how-to-maximize-healthy-competition-within-your-team/",
+   "earliest": "20201205063822"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-onboarding/",
+   "earliest": "20190825200144"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-video-really-impacts-remote-sales-in-2020-according-to-data/",
+   "earliest": "20200922073229"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-create-a-virtual-sko-your-team-will-love/",
+   "earliest": "20201216072454"
+  },
+  {
+   "url": "https://www.gong.io/blog/kyle-coleman-how-to-bring-sales-floor-energy-to-remote-selling/",
+   "earliest": "20201205063911"
+  },
+  {
+   "url": "https://www.gong.io/blog/podcast-host/sheena-badani/",
+   "earliest": "20200811104819"
+  },
+  {
+   "url": "https://www.gong.io/blog/here-are-the-7-best-data-backed-sales-tips-of-2020/",
+   "earliest": "20210104213616"
+  },
+  {
+   "url": "https://www.gong.io/blog/free-sales-templates/",
+   "earliest": "20220120053008"
+  },
+  {
+   "url": "https://www.gong.io/blog/10-reasons-we-are-seeing-more-unicorn-companies-than-ever-before/",
+   "earliest": "20220529084553"
+  },
+  {
+   "url": "https://www.gong.io/blog/10-deal-making-negotiation-tips-from-chris-voss/",
+   "earliest": "20210618120534"
+  },
+  {
+   "url": "https://www.gong.io/blog/things-i-learned-about-call-coaching/",
+   "earliest": "20190825202055"
+  },
+  {
+   "url": "https://www.gong.io/blog/remote-sales/",
+   "earliest": "20220928121014"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-mistakes/",
+   "earliest": "20190716125528"
+  },
+  {
+   "url": "https://www.gong.io/blog/leadership-panel-how-to-maintain-momentum-during-uncertainty/",
+   "earliest": "20201205063942"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-get-out-of-a-slump/",
+   "earliest": "20190716120217"
+  },
+  {
+   "url": "https://www.gong.io/blog/why-every-c-level-growth-leader-needs-to-know-about-revenue-intelligence/",
+   "earliest": "20200922074550"
+  },
+  {
+   "url": "https://www.gong.io/blog/consultative-selling/",
+   "earliest": "20220817025257"
+  },
+  {
+   "url": "https://www.gong.io/blog/3-powerful-tactics-to-build-rapport-that-work-wonders-in-2020/",
+   "earliest": "20201202154530"
+  },
+  {
+   "url": "https://www.gong.io/blog/mj-mccarthy-how-to-keep-customers-for-life/",
+   "earliest": "20201205052124"
+  },
+  {
+   "url": "https://www.gong.io/blog/objection-handling-techniques/",
+   "earliest": "20190817165024"
+  },
+  {
+   "url": "https://www.gong.io/blog/zoom-apps-for-sales/",
+   "earliest": "20210922111715"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-is-the-single-reason-sales-leaders-miss-their-number-today/",
+   "earliest": "20190716120042"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-presentations/",
+   "earliest": "20190825204634"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-reps-bad-habit/",
+   "earliest": "20190825205429"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-labs-live-learn-the-secret-sauce-of-sales-interviews-with-the-gong-sales-team/",
+   "earliest": "20190825201415"
+  },
+  {
+   "url": "https://www.gong.io/blog/we-just-got-tickets-to-the-big-game/",
+   "earliest": "20220529092142"
+  },
+  {
+   "url": "https://www.gong.io/blog/bant-sales/",
+   "earliest": "20221005224336"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-open-every-sales-call/",
+   "earliest": "20190825194655"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-is-the-worst-way-to-build-rapport-according-to-new-data/",
+   "earliest": "20190825203832"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-cold-call/",
+   "earliest": "20220127143533"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-prospecting-techniques/",
+   "earliest": "20210407040228"
+  },
+  {
+   "url": "https://www.gong.io/blog/returning-to-the-office-not-so-fast-the-case-for-remote-sales/",
+   "earliest": "20220516022832"
+  },
+  {
+   "url": "https://www.gong.io/blog/more-dei-momentum-at-gong/",
+   "earliest": "20201205063643"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-enablement-tools/",
+   "earliest": "20221005205518"
+  },
+  {
+   "url": "https://www.gong.io/blog/competitor-mentions-science-uncovers-how-they-influence-b2b-sales/",
+   "earliest": "20190429102648"
+  },
+  {
+   "url": "https://www.gong.io/blog/here-are-the-11-best-discovery-call-tips-youll-read-this-year/",
+   "earliest": "20200811103017"
+  },
+  {
+   "url": "https://www.gong.io/blog/call-recordings-beat-call-shadowing-for-sales-coaching/",
+   "earliest": "20190817165732"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-interview-questions/",
+   "earliest": "20190825205131"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-know-if-sales-demo-is-going-well/",
+   "earliest": "20190716120102"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-roi/",
+   "earliest": "20190716120745"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-strategy-example/",
+   "earliest": "20220216124421"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-have-a-successful-career-in-tech-3-decisions-that-will-pay-off-long-term/",
+   "earliest": "20210915071217"
+  },
+  {
+   "url": "https://www.gong.io/blog/heres-how-the-economic-downturn-really-impacts-your-deals/",
+   "earliest": "20220831114210"
+  },
+  {
+   "url": "https://www.gong.io/blog/make-new-sales-messaging-stick/",
+   "earliest": "20191117110604"
+  },
+  {
+   "url": "https://www.gong.io/blog/igniting-a-reality-revolution/",
+   "earliest": "20211007102648"
+  },
+  {
+   "url": "https://www.gong.io/blog/quota-attainment-3/",
+   "earliest": "20190825194616"
+  },
+  {
+   "url": "https://www.gong.io/blog/quota-attainment-1/",
+   "earliest": "20190825195215"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-labs-live-our-best-tips-for-deal-making-discovery-calls/",
+   "earliest": "20190825201452"
+  },
+  {
+   "url": "https://www.gong.io/blog/goodbye-opinions-hello-reality/",
+   "earliest": "20191117094637"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-you-sell-is-as-important-as-what-you-sell-heres-why/",
+   "earliest": "20190825194820"
+  },
+  {
+   "url": "https://www.gong.io/blog/negotiation-skills-techniques/",
+   "earliest": "20210114183232"
+  },
+  {
+   "url": "https://www.gong.io/blog/3-secrets-sales-leaders-swear-by/",
+   "earliest": "20200922084514"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-deadly-simple-negotiation-mistake-is-costing-you-deals-heres-how-to-avoid-it/",
+   "earliest": "20210304130001"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-books/",
+   "earliest": "20190825194718"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-strategy-b2b/",
+   "earliest": "20210116212650"
+  },
+  {
+   "url": "https://www.gong.io/blog/gongs-topic-detection-technology-is-issued-a-patent/",
+   "earliest": "20200811104907"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-for-onboarding/",
+   "earliest": "20210723192740"
+  },
+  {
+   "url": "https://www.gong.io/blog/women-in-sales/",
+   "earliest": "20190825195216"
+  },
+  {
+   "url": "https://www.gong.io/blog/heres-how-to-pull-yourself-out-of-a-career-ending-sales-slump/",
+   "earliest": "20200811100515"
+  },
+  {
+   "url": "https://www.gong.io/blog/dave-mattson-brutal-honesty-and-transparency-is-a-must-for-sales-leaders/",
+   "earliest": "20200922085342"
+  },
+  {
+   "url": "https://www.gong.io/blog/ai-sales/",
+   "earliest": "20190825200137"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-coaching-programs/",
+   "earliest": "20190825204912"
+  },
+  {
+   "url": "https://www.gong.io/blog/competitive-advantage/",
+   "earliest": "20190716125008"
+  },
+  {
+   "url": "https://www.gong.io/blog/marjorie-janiewicz-how-hackers-are-driving-predictable-revenue/",
+   "earliest": "20200922082344"
+  },
+  {
+   "url": "https://www.gong.io/blog/calculating-churn-rate/",
+   "earliest": "20220627171715"
+  },
+  {
+   "url": "https://www.gong.io/blog/carl-eschenbach-the-secret-to-sustaining-rapid-growth/",
+   "earliest": "20201022100227"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-sales-engineering/",
+   "earliest": "20220506090653"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-respond-when-buyers-say-i-need-to-think-about-it-according-to-data/",
+   "earliest": "20200516084036"
+  },
+  {
+   "url": "https://www.gong.io/blog/loss-aversion/",
+   "earliest": "20211214121047"
+  },
+  {
+   "url": "https://www.gong.io/blog/if-youre-selling-without-video-youre-doing-it-wrong-this-data-explains-why/",
+   "earliest": "20190822051702"
+  },
+  {
+   "url": "https://www.gong.io/blog/lou-wolf-the-1-signal-a-deal-wont-close/",
+   "earliest": "20201022094422"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-conversation-intelligence/",
+   "earliest": "20220817132642"
+  },
+  {
+   "url": "https://www.gong.io/blog/8-ways-to-absolutely-dominate-your-competition-in-sales/",
+   "earliest": "20190716120543"
+  },
+  {
+   "url": "https://www.gong.io/blog/cold-calling-examples/",
+   "earliest": "20210805150828"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-onboarding-plan/",
+   "earliest": "20211205120940"
+  },
+  {
+   "url": "https://www.gong.io/blog/call-coaching-practices/",
+   "earliest": "20190817174836"
+  },
+  {
+   "url": "https://www.gong.io/blog/introducing-gongs-new-visual-identity/",
+   "earliest": "20211006224731"
+  },
+  {
+   "url": "https://www.gong.io/blog/using-the-spiral-method/",
+   "earliest": "20211026150852"
+  },
+  {
+   "url": "https://www.gong.io/blog/jonathan-frick-what-prevents-b-players-from-becoming/",
+   "earliest": "20200922084351"
+  },
+  {
+   "url": "https://www.gong.io/blog/scott-miller-lead-fail-evolve/",
+   "earliest": "20201205060726"
+  },
+  {
+   "url": "https://www.gong.io/blog/belongatgong-annual-gong-dei-update/",
+   "earliest": "20220707035945"
+  },
+  {
+   "url": "https://www.gong.io/blog/quarterly-business-review-agenda/",
+   "earliest": "20220728123520"
+  },
+  {
+   "url": "https://www.gong.io/blog/touchbistro-case-study-gong/",
+   "earliest": "20190716130432"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-call-recording-laws/",
+   "earliest": "20190825205311"
+  },
+  {
+   "url": "https://www.gong.io/blog/signs-your-prospect-is-going-to-sign-infographic/",
+   "earliest": "20200315085016"
+  },
+  {
+   "url": "https://www.gong.io/blog/avoid-these-selling-dead-zones-and-youll-win-big-this-holiday-season/",
+   "earliest": "20211118155847"
+  },
+  {
+   "url": "https://www.gong.io/blog/hack-rapport-building-in-sales/",
+   "earliest": "20190716123418"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-turn-a-field-sales-rep-into-an-inside-sales-rep/",
+   "earliest": "20200518003825"
+  },
+  {
+   "url": "https://www.gong.io/blog/4-strategies-for-building-best-in-class-enterprise-products/",
+   "earliest": "20220529081348"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-goes-open-book-on-its-diversity-targets/",
+   "earliest": "20210621165748"
+  },
+  {
+   "url": "https://www.gong.io/blog/mobile-app/",
+   "earliest": "20190825200357"
+  },
+  {
+   "url": "https://www.gong.io/blog/heres-why-your-sure-thing-deal-didnt-close-and-what-to-do-next-time/",
+   "earliest": "20190825194838"
+  },
+  {
+   "url": "https://www.gong.io/blog/this-simple-word-will-turn-your-deal-into-a-nightmare/",
+   "earliest": "20190825204548"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-ai/",
+   "earliest": "20190608064844"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-automation/",
+   "earliest": "20220428143630"
+  },
+  {
+   "url": "https://www.gong.io/blog/want-to-be-a-top-performer-these-words-and-phrases-are-proven-to-win-deals/",
+   "earliest": "20200922082105"
+  },
+  {
+   "url": "https://www.gong.io/blog/here-are-the-9-best-cold-calling-tips-youll-read-this-year/",
+   "earliest": "20200811103932"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-ai-is-fueling-hyper-effective-sales-teams/",
+   "earliest": "20190825205223"
+  },
+  {
+   "url": "https://www.gong.io/blog/out-of-office-example/",
+   "earliest": "20210714150321"
+  },
+  {
+   "url": "https://www.gong.io/blog/lou-shipley-how-to-build-a-culture-of-enablement/",
+   "earliest": "20200922085524"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-call-process/",
+   "earliest": "20190817180815"
+  },
+  {
+   "url": "https://www.gong.io/blog/short-sales-cycle/",
+   "earliest": "20190825202027"
+  },
+  {
+   "url": "https://www.gong.io/blog/arianna-huffington-how-to-thrive-during-adversity/",
+   "earliest": "20201205054200"
+  },
+  {
+   "url": "https://www.gong.io/blog/its-time-for-a-new-social-code-between-employers-and-employees/",
+   "earliest": "20220329194859"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-top-tier-revenue-leaders-guarantee-people-success/",
+   "earliest": "20191117110747"
+  },
+  {
+   "url": "https://www.gong.io/blog/visibility-with-remote-sales/",
+   "earliest": "20190825200003"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-conversation-science-manifesto/",
+   "earliest": "20190817173622"
+  },
+  {
+   "url": "https://www.gong.io/blog/meddic-sales-process/",
+   "earliest": "20220707044502"
+  },
+  {
+   "url": "https://www.gong.io/blog/selling-to-c-suite/",
+   "earliest": "20190622025027"
+  },
+  {
+   "url": "https://www.gong.io/blog/shorten-sales-cycle/",
+   "earliest": "20221005214443"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-for-deal-execution/",
+   "earliest": "20210516065009"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-outreach-integration-pr/",
+   "earliest": "20190716123050"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-report/",
+   "earliest": "20220823124403"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-gong-uses-gong/",
+   "earliest": "20210114052116"
+  },
+  {
+   "url": "https://www.gong.io/blog/cta/want-to-be-a-raving-fan/",
+   "earliest": "20200811104549"
+  },
+  {
+   "url": "https://www.gong.io/blog/josh-allen-your-ability-to-handle-failure-determines-your-success/",
+   "earliest": "20200922080626"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-career-advices-with-lars-nilsson/",
+   "earliest": "20200922082139"
+  },
+  {
+   "url": "https://www.gong.io/blog/2-entrepreneurship-principles-that-make-the-difference-between-10-better-and-10x-better/",
+   "earliest": "20220707051252"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-closing-questions/",
+   "earliest": "20210930133125"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-predict-if-your-b2b-sales-job-will-survive-ai/",
+   "earliest": "20190825201532"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-enablement-strategy/",
+   "earliest": "20210621152946"
+  },
+  {
+   "url": "https://www.gong.io/blog/top-sales-skills/",
+   "earliest": "20220117140511"
+  },
+  {
+   "url": "https://www.gong.io/blog/is-cold-calling-dead/",
+   "earliest": "20190825203252"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-team-performance-coaching/",
+   "earliest": "20211223123746"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-demos/",
+   "earliest": "20190702223654"
+  },
+  {
+   "url": "https://www.gong.io/blog/rahim-fazal-from-rap-artist-to-silicon-valley-ceo/",
+   "earliest": "20201022102049"
+  },
+  {
+   "url": "https://www.gong.io/blog/pipeline-review/",
+   "earliest": "20190915053302"
+  },
+  {
+   "url": "https://www.gong.io/blog/whisper-pr/",
+   "earliest": "20190716120026"
+  },
+  {
+   "url": "https://www.gong.io/blog/turn-sales-conversations-to-exact-science/",
+   "earliest": "20190825194700"
+  },
+  {
+   "url": "https://www.gong.io/blog/what-is-sales-enablement/",
+   "earliest": "20211020114824"
+  },
+  {
+   "url": "https://www.gong.io/blog/churn-reduction/",
+   "earliest": "20220223034943"
+  },
+  {
+   "url": "https://www.gong.io/blog/dan-shapero-why-a-growth-mindset-is-critical-for-your-success/",
+   "earliest": "20200922083856"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-write-a-sales-email/",
+   "earliest": "20220118193950"
+  },
+  {
+   "url": "https://www.gong.io/blog/discovery-call/",
+   "earliest": "20190825194747"
+  },
+  {
+   "url": "https://www.gong.io/blog/podcast-host/devin-reed/",
+   "earliest": "20191207211440"
+  },
+  {
+   "url": "https://www.gong.io/blog/closing-techniques/",
+   "earliest": "20190716125150"
+  },
+  {
+   "url": "https://www.gong.io/blog/lehka-doshi-building-alignment-to-drive-growth/",
+   "earliest": "20200922073422"
+  },
+  {
+   "url": "https://www.gong.io/blog/these-are-the-5-best-data-backed-sales-tips-of-2021/",
+   "earliest": "20211228132448"
+  },
+  {
+   "url": "https://www.gong.io/blog/vp-of-sales/",
+   "earliest": "20190825205532"
+  },
+  {
+   "url": "https://www.gong.io/blog/product-demo/",
+   "earliest": "20190825202024"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-cursing-impacts-sales/",
+   "earliest": "20200922070807"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-secret-formula-for-productive-remote-one-on-ones/",
+   "earliest": "20200517013243"
+  },
+  {
+   "url": "https://www.gong.io/blog/increase-sales-win-rates-with-risk-reversal-language/",
+   "earliest": "20190428131227"
+  },
+  {
+   "url": "https://www.gong.io/blog/churn-analysis/",
+   "earliest": "20220817115726"
+  },
+  {
+   "url": "https://www.gong.io/blog/alex-alleyne-how-to-achieve-marginal-gains/",
+   "earliest": "20201022101514"
+  },
+  {
+   "url": "https://www.gong.io/blog/gong-wins-g2s-winter-2021-awards/",
+   "earliest": "20210116221025"
+  },
+  {
+   "url": "https://www.gong.io/blog/the-3-stories-every-company-should-know-and-share-often/",
+   "earliest": "20220112123716"
+  },
+  {
+   "url": "https://www.gong.io/blog/catherine-stewart-my-simple-but-very-effective-tactic-for-emotional-connection/",
+   "earliest": "20201205063523"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-analytics/",
+   "earliest": "20210923183949"
+  },
+  {
+   "url": "https://www.gong.io/blog/driving-next-steps-isnt-enough-this-is-what-really-moves-deals-forward/",
+   "earliest": "20210723182811"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-call-steps/",
+   "earliest": "20190825201058"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-call-recording/",
+   "earliest": "20210513014329"
+  },
+  {
+   "url": "https://www.gong.io/blog/ai-gives-sales-leaders-superpowers/",
+   "earliest": "20190825195555"
+  },
+  {
+   "url": "https://www.gong.io/blog/how-to-secure-budget-covid-19/",
+   "earliest": "20200709042927"
+  },
+  {
+   "url": "https://www.gong.io/blog/sales-battle-card-example/",
+   "earliest": "20210922122240"
+  },
+  {
+   "url": "https://www.gong.io/blog/quota-attainment-2/",
+   "earliest": "20190825194744"
+  }
+ ]
+}
