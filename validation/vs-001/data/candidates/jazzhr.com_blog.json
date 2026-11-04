@@ -1,0 +1,2539 @@
+{
+ "blog": "jazzhr.com/blog",
+ "group": "Recruitment and HR",
+ "reserve": true,
+ "cdxRows": 979,
+ "articleLike": 632,
+ "queriedAt": "2026-11-04T03:34:16.816Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.jazzhr.com/blog/hrmd-how-to-diagnose-your-hr-problems-and-what-to-prescribe/",
+   "earliest": "20210128170234"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/custom-integrations/",
+   "earliest": "20221007040319"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/product-update-referrals/",
+   "earliest": "20200920065024"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/sustainable-hiring/",
+   "earliest": "20220926115547"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/leverage-insights-exit-interviews/",
+   "earliest": "20221007033426"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/exploring-the-time-rack-jazzhr-integration/",
+   "earliest": "20220926122029"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-and-globalization-partners-team-up-to-streamline-international-recruiting/",
+   "earliest": "20201217181821"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/summer-slowdown/",
+   "earliest": "20210822075311"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hiring-tricks-and-treats/",
+   "earliest": "20211029130251"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/feature-release-knockout-questions/",
+   "earliest": "20200920074258"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-importance-of-hiring-quickly-part-2/",
+   "earliest": "20211101155725"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-boost-your-remote-teams-wellbeing-and-productivity-the-home-office-essentials/",
+   "earliest": "20210421235733"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-ways-moving-to-an-ats-makes-good-business-sense/",
+   "earliest": "20220725170527"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-creative-interview-tips-to-uncover-a-candidates-pros-and-cons/",
+   "earliest": "20211130185324"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/remote-hiring-across-borders-the-talent-is-always-greener-on-the-other-side/",
+   "earliest": "20200920082403"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/top-10-takeaways-from-the-2019-talent-acquisition-technology-buyers-guide/",
+   "earliest": "20200920072136"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/event-recap-prismhr-live-2018/",
+   "earliest": "20220926132535"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-3-steps-for-conducting-a-phone-interview/",
+   "earliest": "20220926115723"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-jazzhr-can-help-smbs-adapt/",
+   "earliest": "20200810213121"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/increase-productivity-improved-interview-scheduling/",
+   "earliest": "20221007025906"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-jazzhr-partnership-masspay/",
+   "earliest": "20220926125449"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/ensure-women-minorities-represented-leadership/",
+   "earliest": "20200920074020"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-jazzhr-created-a-successful-committee-for-diversity-and-belonging/",
+   "earliest": "20200810223941"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/webinar-recap-top-takeaways-for-supporting-workers-and-families-to-prevent-burnout/",
+   "earliest": "20201107151556"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-are-the-best-channels-for-sourcing-candidates/",
+   "earliest": "20220926120107"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/ask-hr-interviewing-best-practices-with-jodi-baker/",
+   "earliest": "20200920083635"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/11-ways-for-smbs-to-create-a-great-candidate-experience/",
+   "earliest": "20220606190929"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/season-bonuses-smb-guide-giving-holiday-bonuses/",
+   "earliest": "20201128203303"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/g2-2020-fall-reports-jazzhr-named-a-leader-for-customer-satisfaction-momentum-and-ease-of-use/",
+   "earliest": "20201026133838"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creating-job-descriptions-that-excite-not-bore/",
+   "earliest": "20220522201807"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-candidate-self-scheduling-with-jazzhr/",
+   "earliest": "20210801010117"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/identifying-and-shaping-existing-workplace-culture/",
+   "earliest": "20200920074641"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-product-update-candidate-scorecard-is-here/",
+   "earliest": "20221011144549"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-expands-integration-ecosystem-with-wotc-com-partnership/",
+   "earliest": "20210926085729"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/12-ways-to-prepare-your-workplace-for-a-disaster/",
+   "earliest": "20220807214137"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-recruiters-can-generate-roi-low-hr-budgets/",
+   "earliest": "20221007020431"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/ways-to-engage-candidates-during-the-summer-slowdown/",
+   "earliest": "20220807213337"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/disabled-workers/",
+   "earliest": "20210621161132"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-benefits-of-taking-a-marketers-approach-to-your-recruiting-strategy/",
+   "earliest": "20210507054425"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-hiring-software-is-changing-recruiting-in-2022/",
+   "earliest": "20220522200057"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/candidate-experience-vs-candidate-engagement-whats-the-difference/",
+   "earliest": "20210125020046"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/assistive-technology/",
+   "earliest": "20210621172749"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-5-ways-to-implement-health-safety-management-in-the-workplace/",
+   "earliest": "20201026125210"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/social-recruiting/",
+   "earliest": "20210421230455"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-jazzhrs-latest-recruiting-data-means-for-your-hiring-strategy/",
+   "earliest": "20200920071935"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/neurodiversity-in-the-workplace/",
+   "earliest": "20210423170255"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/8-reasons-to-prioritize-the-candidate-experience/",
+   "earliest": "20210926104755"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-product-update-let-data-lead-way-newest-reports/",
+   "earliest": "20201026123807"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-a-best-applicant-tracking-software-of-2020/",
+   "earliest": "20201116165822"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/fair-chance-hiring-5-ways-checkr-is-furthering-our-mission/",
+   "earliest": "20200920083446"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-leads-g2-summer-2021-reports-as-top-recruitment-solution/",
+   "earliest": "20210622144338"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-quantify-diversity-in-the-workplace/",
+   "earliest": "20210503143301"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/better-job-descriptions-better-hires/",
+   "earliest": "20221007035442"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-questions-to-spice-up-interviewing-sales-people/",
+   "earliest": "20211130173114"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/knowledge-management-and-hiring-compliance/",
+   "earliest": "20210519170542"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-recruiting-skills-you-need-to-engage-passive-candidates/",
+   "earliest": "20220807215114"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-complete-list-of-video-interview-questions-to-ask-remote-workers/",
+   "earliest": "20210421223610"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/google-hire-users-hire-smarter-with-jazzhr/",
+   "earliest": "20220926125733"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/interviewing-techniques-for-managers-how-to-find-a-good-culture-fit-remotely/",
+   "earliest": "20211018072021"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/accounting-interview-questions-uncover-best-candidates/",
+   "earliest": "20211130172507"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-video-interviewing-tips-for-hiring-pros-in-2021/",
+   "earliest": "20210105145031"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-for-hiring-in-a-tight-labor-market/",
+   "earliest": "20221007034056"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/equal-pay-day-2021-what-it-is-and-how-you-can-help-to-close-the-gap/",
+   "earliest": "20210421223023"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/tips-creating-passive-candidate-pool/",
+   "earliest": "20220705055948"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-post-pandemic-employer-branding-must-haves/",
+   "earliest": "20210805140435"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/automate-recruiting-to-find-the-best-candidates-for-your-openings/",
+   "earliest": "20220926132226"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/why-you-need-to-measure-candidate-engagement-and-satisfaction-together/",
+   "earliest": "20200920075243"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/compensation-max-roi/",
+   "earliest": "20220926130945"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/icymi-the-top-10-stats-employers-should-know-about-hiring-in-the-current-labor-market/",
+   "earliest": "20221013163431"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/leveraging-company-activism-and-philanthropy-to-target-younger-candidates/",
+   "earliest": "20200920081149"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-one-of-pittsburghs-top-workplaces/",
+   "earliest": "20201026133408"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-report-the-future-of-talent-acquisition-in-uncertain-times-2020/",
+   "earliest": "20200727120256"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/why-investing-in-compliance-training-pays-dividends/",
+   "earliest": "20210621153026"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruitment-strategies-for-a-diverse-candidate-pool/",
+   "earliest": "20220807214732"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-partners-with-clover-to-modernize-small-business-recruiting/",
+   "earliest": "20220926130452"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-soft-costs-of-a-poor-candidate-experience/",
+   "earliest": "20210224231637"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-ensure-transparency-with-candidates-in-2020/",
+   "earliest": "20210621211706"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/fall-in-love-with-technology-and-services-from-jazzhrs-partner-network/",
+   "earliest": "20210212151546"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-winner-in-2020-golden-bridge-awards-for-product-innovation/",
+   "earliest": "20201109175953"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/employee-handbooks-the-most-critical-legal-document-in-hr/",
+   "earliest": "20220901002752"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-recognized-in-g2-spring-2021-reports/",
+   "earliest": "20210323213258"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/attentive-onboarding-and-beyond-how-to-identify-opportunities-for-training-and-development/",
+   "earliest": "20200920082239"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/haunting-employee-exits-survey/",
+   "earliest": "20221007015821"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/interviewing-techniques/",
+   "earliest": "20210926100606"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-ways-your-business-and-your-candidates-can-benefit-from-recruitment-software/",
+   "earliest": "20220705104719"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/tour-of-the-common-resume-biases/",
+   "earliest": "20200920080745"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-recognized-for-growth-and-customer-service-excellence-in-2021-stevie-awards/",
+   "earliest": "20210430155049"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-types-of-post-pandemic-job-seekers-hiring-tips/",
+   "earliest": "20210824081001"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/why-you-need-workplace-health-and-safety-training-right-now/",
+   "earliest": "20200920083126"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/best-practices-for-crafting-a-job-description-that-attracts-diverse-candidates/",
+   "earliest": "20220314151217"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-leverage-automation-to-bring-the-humanity-back-to-recruitment/",
+   "earliest": "20220705103621"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/mothers-day-perspectives-from-a-working-mom/",
+   "earliest": "20220508120127"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/fuel-your-recruiting-efforts-with-new-jazzhr-careerbuilder-offering/",
+   "earliest": "20210926104730"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-recruiting-college-graduates/",
+   "earliest": "20220926120626"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-wins-2020-adp-marketplace-best-marketing-and-pr-award/",
+   "earliest": "20201128203114"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/we-will-do-the-job-for-you-ai-services-for-hr/",
+   "earliest": "20221007040701"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/tips-for-creating-a-positive-candidate-experience/",
+   "earliest": "20200920080233"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-five-benefits-to-attract-millennials-to-your-company/",
+   "earliest": "20220926122852"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/why-its-important-to-centralize-hr-spend/",
+   "earliest": "20220119095202"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/think-like-marketer-recruiting-top-talent/",
+   "earliest": "20211018081518"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-signs-need-new-applicant-tracking-system/",
+   "earliest": "20220605051525"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-reports-analyze-2021-hr-recruitment-process/",
+   "earliest": "20211210153117"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/infographic-holiday-hiring/",
+   "earliest": "20221007020704"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/as-healthcare-staffing-needs-surge-candidate-flow-decreases-recruiting-amid-covid-19/",
+   "earliest": "20201026131403"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/for-better-interview-skills-think-like-a-journalist/",
+   "earliest": "20200920081053"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-start-and-close-an-interview/",
+   "earliest": "20200920080714"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-ways-to-recognize-and-support-women-in-the-workforce/",
+   "earliest": "20220308140341"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hiring-with-confidence-5-ways-to-screen-and-assess-candidates-effectively/",
+   "earliest": "20200920074716"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-educating-employees-benefits-perks/",
+   "earliest": "20220926130709"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/video-interview-best-practices-part-2/",
+   "earliest": "20211018081200"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-zenefits-expanded-integration/",
+   "earliest": "20220926133608"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-use-linkedin-to-hire-top-talent-for-your-company/",
+   "earliest": "20220807225922"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hiring-on-a-budget-small-business-hr-without-the-sacrifice/",
+   "earliest": "20210202202509"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/things-you-should-never-ask-in-a-job-interview/",
+   "earliest": "20220522195431"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/closing-the-skills-gap-for-recent-college-grads/",
+   "earliest": "20220807222004"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-tips-to-effortlessly-streamline-the-candidate-sourcing-process/",
+   "earliest": "20211130172914"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/high-volume-hiring-trends-to-shape-your-recruiting-strategy/",
+   "earliest": "20220706030019"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creating-inclusive-candidate-searches/",
+   "earliest": "20200920083713"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-types-of-pre-employment-tests-that-will-help-you-hire-the-best-candidate/",
+   "earliest": "20210426210001"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-welcomes-erika-wennerstrom-as-chief-financial-officer/",
+   "earliest": "20220926123733"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruitment-best-practices-to-follow-in-2022/",
+   "earliest": "20220119114420"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/employee-onboarding/",
+   "earliest": "20210322001919"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/freelancer-vs-contractor-vs-permanent-employee-what-you-should-know-for-2021/",
+   "earliest": "20210112214718"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/make-it-safe-6-tips-for-providing-remote-training/",
+   "earliest": "20221007032631"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/transforming-your-inclusivity-culture-8-ways-to-promote-diversity-in-the-workplace/",
+   "earliest": "20200810213235"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-complete-guide-to-fueling-your-passive-sourcing-engine/",
+   "earliest": "20220404131413"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/optimize-job-postings-attract-top-talent/",
+   "earliest": "20200920082644"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/an-empathetic-applicant-experience-starts-with-automation/",
+   "earliest": "20200810222932"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-partners-with-bolt-to-simplify-construction-management/",
+   "earliest": "20220807214809"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/writing-a-job-description-in-2021-3-important-tips/",
+   "earliest": "20201202174509"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/measure-hr-costs/",
+   "earliest": "20201026132608"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/13-effective-techniques-to-advance-your-diversity-hiring-initiatives/",
+   "earliest": "20220521075713"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-for-dealing-with-an-employee-complaint/",
+   "earliest": "20220522204230"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/casting-a-wide-net-part-1-how-to-source-candidates/",
+   "earliest": "20220926121114"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-partners-with-cornerstone-to-help-growing-businesses-meet-all-talent-management-needs/",
+   "earliest": "20200920082824"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-ways-to-build-a-data-driven-hiring-culture-for-2021/",
+   "earliest": "20201128010136"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-a-candidate-experience-survey-can-boost-talent-acquisition/",
+   "earliest": "20220926122113"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/techniques-for-training-on-diversity-in-the-workplace/",
+   "earliest": "20200920083606"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/knockout-questions-a-jazzhr-time-saving-feature/",
+   "earliest": "20200920080843"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-job-hunting-tips-for-recent-college-grads/",
+   "earliest": "20220926114720"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-the-u-s-censuss-hiring-spree-can-teach-smbs-about-recruiting-in-a-crowded-job-market/",
+   "earliest": "20220119103418"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-create-a-successful-employee-training-and-professional-development-program/",
+   "earliest": "20200920070541"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-handle-candidate-negotiations-like-a-pro/",
+   "earliest": "20220926133211"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-one-of-2020s-best-tech-startups-in-pittsburgh/",
+   "earliest": "20220926113831"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-red-flags-lookout-conducting-background-checks/",
+   "earliest": "20220119102943"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/14-benefits-of-remote-working-and-hiring-and-how-to-do-each-successfully/",
+   "earliest": "20200920065215"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-overlooked-parallels-between-hr-and-marketing/",
+   "earliest": "20200810213402"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-signs-of-an-ineffective-candidate-engagement-strategy/",
+   "earliest": "20210621211759"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/ask-hr-providing-a-positive-remote-onboarding-experience-with-jada-fowler/",
+   "earliest": "20200727120302"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/summer-interns-pt1/",
+   "earliest": "20220522203646"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/top-lessons-hr-specialists-can-learn-from-2020/",
+   "earliest": "20201229150150"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-reasons-to-add-pre-employment-assessments-to-your-hiring-process/",
+   "earliest": "20210125010423"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-leads-the-g2-pack-as-a-fastest-growing-ats/",
+   "earliest": "20201215170632"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-does-human-resources-do-how-2021-changed-hrs-role-in-the-organization/",
+   "earliest": "20211018074806"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/marijuana-and-employment/",
+   "earliest": "20210420145520"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/8-ways-prevent-employee-turnover/",
+   "earliest": "20200920064626"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/automate-candidate-screening-with-jazzhr-choice-screening-integration/",
+   "earliest": "20220926122814"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/15-millennial-recruiting-statistics-need-know-hiring/",
+   "earliest": "20200923141011"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recently-laid-off-here-are-the-first-5-things-you-should-do/",
+   "earliest": "20200920075610"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-remain-compliant-when-hiring-contract-employees-and-contingent-workers/",
+   "earliest": "20210618151427"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/job-seeker-expectations-vs-reality/",
+   "earliest": "20210926093312"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-methods-for-talent-acquisition-through-jazzhr/",
+   "earliest": "20200920083217"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-an-enhanced-partnership-with-namely/",
+   "earliest": "20220807221403"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/survey-says-employee-deal-breakers-avoid/",
+   "earliest": "20211130174416"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/use-recruiting-to-boost-leadership-skills/",
+   "earliest": "20220926123255"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/land-job-holidays/",
+   "earliest": "20210224234029"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/quiz-are-you-ready-to-automate/",
+   "earliest": "20220504140220"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/these-states-and-industries-are-showing-early-signs-of-recovery-jazzhr-job-creation-data/",
+   "earliest": "20200920071525"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/overhaul-your-seasonal-hiring-strategy-in-5-simple-steps/",
+   "earliest": "20220622190444"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/importance-candidate-touchpoints/",
+   "earliest": "20221007022702"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-tips-for-creating-a-more-inclusive-hiring-process-for-women-professionals-of-color/",
+   "earliest": "20210926093516"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-importance-of-hiring-quickly-qa-with-nxtthing-rpos-terry-terhark-part-1/",
+   "earliest": "20211026174425"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/sustainable-dei-program/",
+   "earliest": "20210602130720"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/2021-hiring-trends-how-smbs-are-recruiting-and-recovering/",
+   "earliest": "20210205183152"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-ways-to-ensure-you-dont-turn-off-candidates-in-the-current-labor-market/",
+   "earliest": "20220720123216"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhrs-10000-customer-milestone-qa-with-peninsula-community-health-services/",
+   "earliest": "20220114161723"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-best-practices-incentivizing-referrals-company/",
+   "earliest": "20210421233548"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/anatomy-of-a-franchise-disclosure-document/",
+   "earliest": "20220926114810"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-taking-responsibility-for-ais-gender-bias/",
+   "earliest": "20200920072614"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-importance-of-supporting-employee-well-being-tips-from-jazzhr-partners/",
+   "earliest": "20201026122920"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/essential-customer-success-interview-questions/",
+   "earliest": "20211130184944"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/trust-your-gut-with-new-jazzhr-criteria-integration/",
+   "earliest": "20220926130308"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-stop-excluding-hidden-workers-in-your-2022-recruitment-process/",
+   "earliest": "20220113134328"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/why-automation-is-the-logical-next-step-for-social-recruitment/",
+   "earliest": "20210421232710"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-recruiting-software-can-improve-your-candidate-roi/",
+   "earliest": "20220119114824"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-gdpr-what-you-need-to-know/",
+   "earliest": "20220926133819"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-tips-for-effective-performance-management-during-the-first-year/",
+   "earliest": "20220807231029"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-compliance-issues-every-hr-official-must-know/",
+   "earliest": "20210926092556"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/12-recruitment-marketing-mistakes-you-should-avoid/",
+   "earliest": "20211018080409"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/see-your-new-candidate-command-center/",
+   "earliest": "20200920073610"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/do-you-measure-quality-of-hire-most-hiring-teams-dont-but-heres-why-you-should/",
+   "earliest": "20200920081906"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-ways-to-avoid-the-winter-job-blues/",
+   "earliest": "20221006170434"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-unexpected-places-to-find-more-qualified-candidates/",
+   "earliest": "20220119105636"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hr-technology-is-helping-companies-to-post-jobs-at-an-increasing-rate/",
+   "earliest": "20221007015919"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hiring-process-most-profitable-franchises/",
+   "earliest": "20210223144701"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/building-a-diverse-workforce-through-an-inclusive-recruitment-process/",
+   "earliest": "20220119111640"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jobvite-jazzhr-and-nxtthing-rpo-unite-under-employ-brand/",
+   "earliest": "20220522193152"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruiting-spend/",
+   "earliest": "20201026124511"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-capterras-top-20-applicant-tracking-system-report/",
+   "earliest": "20200810215600"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-holistically-assess-your-2021-recruitment-process/",
+   "earliest": "20211222231402"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-g2s-best-software-list-for-2022/",
+   "earliest": "20220208205948"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-takeaways-from-the-hr-tech-conference-pitchfest/",
+   "earliest": "20211130171638"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-hr-tech-thats-non-negotiable-in-2021-how-to-convince-leadership-to-invest/",
+   "earliest": "20210123151543"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-easy-ways-to-boost-your-employer-brand/",
+   "earliest": "20200920074222"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/job-interview-best-practices-20-things-to-make-sure-you-get-right/",
+   "earliest": "20200920063244"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-research-2020-ats-buyers-guide/",
+   "earliest": "20211130175442"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-a-2019-top-rated-applicant-tracking-software-by-trustradius/",
+   "earliest": "20220926123616"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-hr-experts-are-combating-the-great-resignation-and-keeping-employees-engaged/",
+   "earliest": "20211015211010"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-fastest-growing-saas-company-in-2019-by-latka-100/",
+   "earliest": "20200920074605"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-you-stack-up-3-hiring-benchmarks/",
+   "earliest": "20211007163938"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/do-this-not-that-the-candidate/",
+   "earliest": "20220119101344"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-reasons-you-need-a-talent-acquisition-strategy/",
+   "earliest": "20200920082551"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-engaging-december-graduates/",
+   "earliest": "20220926115227"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/expand-your-hr-offerings-and-boost-revenue-introducing-jazzhr-white-label/",
+   "earliest": "20211018083612"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creative-ways-to-recruit-and-source-new-talent/",
+   "earliest": "20221007024535"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-narrative-of-hiring-diversity-equity-and-inclusion-starring-metrics/",
+   "earliest": "20220219051516"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-top-performer-winter-2020-report/",
+   "earliest": "20211130190455"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-high-volume-hiring-campaign-examples-that-increased-applications/",
+   "earliest": "20220706030018"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-to-hr-25-tips-from-industry-experts/",
+   "earliest": "20220926130233"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-hr-trends-to-expect-in-2019/",
+   "earliest": "20220926121908"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/navigating-candidate-journey/",
+   "earliest": "20220522201129"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-hire-faster-without-sacrificing-candidate-quality/",
+   "earliest": "20211018070705"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-assess-soft-skills/",
+   "earliest": "20211018073338"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hr-managers-stop-wasting-time-job-boards/",
+   "earliest": "20220926130724"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/lessons-learned-from-building-jazzhr-white-label/",
+   "earliest": "20220926130226"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-reasons-careers-page-matters-improve/",
+   "earliest": "20200920081716"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-hr-memes-that-perfectly-sum-up-2020/",
+   "earliest": "20201226160210"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-teams-up-with-competitive-wedge-to-uncover-your-best-candidates/",
+   "earliest": "20220926114324"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-examples-of-workplace-diversity/",
+   "earliest": "20200920081810"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/13-surprising-trends-in-2022-recruiting/",
+   "earliest": "20221007034822"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/7-out-of-the-box-employee-benefits-that-improve-retention/",
+   "earliest": "20210115151619"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruitment-marketing-machines-intro/",
+   "earliest": "20221007021326"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/measuring-roi-candidate-experience/",
+   "earliest": "20210224230202"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-master-next-years-candidate-driven-market/",
+   "earliest": "20221007021518"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/more-great-news-jazzhr-named-to-forbes-advisor-best-recruiting-software-of-2022/",
+   "earliest": "20220807222146"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-ways-to-excel-in-hr-leadership/",
+   "earliest": "20221006181519"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-is-hr-data-literacy/",
+   "earliest": "20220926133845"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/setting-2018-recruiting-goals/",
+   "earliest": "20220119100848"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-prevent-candidates-from-ghosting-you/",
+   "earliest": "20220926133038"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/are-your-employee-benefits-inclusive/",
+   "earliest": "20200920081529"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/diversity-workplace-actually-mean/",
+   "earliest": "20200920083242"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creating-an-employee-handbook-from-scratch/",
+   "earliest": "20200920081340"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-hr-focused-new-years-resolutions-for-2021/",
+   "earliest": "20210103005059"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/smb-job-creation-continues-to-accelerate/",
+   "earliest": "20201026131425"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/diverse-workforce-requires-diverse-management/",
+   "earliest": "20200920080514"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/post-hire-evaluations-making-the-right-hire-from-a-surging-talent-pool/",
+   "earliest": "20201026131444"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-ways-to-leverage-employees-as-brand-advocates/",
+   "earliest": "20220522202027"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-write-welcome-email-new-employees-business/",
+   "earliest": "20201128194722"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-trends-changing-the-way-hiring-professionals-work/",
+   "earliest": "20221007020839"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-smbs-stay-competitive-in-a-tight-labor-market/",
+   "earliest": "20221012203244"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-benefits-of-collaborative-onboarding/",
+   "earliest": "20200920064826"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-jazzhr-texting/",
+   "earliest": "20200920075855"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/streamline-the-onboarding-process-with-new-jazzhr-goco-integration/",
+   "earliest": "20200920075133"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/celebrate-with-us-jazzhr-is-turning-ten/",
+   "earliest": "20220926131642"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-activities-for-more-effective-talent-acquisition/",
+   "earliest": "20220926115042"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/unmatched-talent-acquisition-at-scale-what-the-new-employ-corporate-identity-means-to-the-market/",
+   "earliest": "20220224213740"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/raising-minimum-wage-bar/",
+   "earliest": "20201128192006"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/four-data-insights-to-get-your-company-focused-on-the-candidate-experience/",
+   "earliest": "20220516125639"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-how-hiring-teams-can-fight-the-stigma-of-mental-illness/",
+   "earliest": "20210125002457"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-tips-for-keeping-the-candidate-search-moving-during-the-holidays/",
+   "earliest": "20220926114626"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-reasons-candidate-management-matters/",
+   "earliest": "20220807214611"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/want-to-measure-your-dei-hiring-efforts-follow-these-real-life-examples/",
+   "earliest": "20210801012915"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/shrm-2021-conference-preview-the-3-best-tracks-for-smbs/",
+   "earliest": "20210415161543"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/latest-bls-data-jazzhr-resources-for-job-seekers/",
+   "earliest": "20200920083011"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/20-outrageous-excuses-for-missing-work-from-the-employers-who-heard-them/",
+   "earliest": "20210926091912"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/its-time-for-an-employer-brand-audit-in-2020/",
+   "earliest": "20220927014922"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/a-message-to-our-jazzhr-community/",
+   "earliest": "20201231150537"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/streamline-for-success-with-an-integrated-ats-and-hrms-approach/",
+   "earliest": "20220926120900"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/payroll-data-what-it-is-and-how-to-use-it/",
+   "earliest": "20210801000910"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/great-candidate-experience-results-better-hires/",
+   "earliest": "20220926135705"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-things-expect-salary-budgets-2019/",
+   "earliest": "20201128194900"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hire-smarter-and-more-fairly-with-jazzhr-and-checkr/",
+   "earliest": "20220926132003"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/workout-of-the-week-tone-the-core-of-your-hiring-process/",
+   "earliest": "20220926123046"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-diversity-recruiting-tips/",
+   "earliest": "20200920083308"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/why-everyone-in-your-business-should-care-about-people-operations/",
+   "earliest": "20210429040924"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/celebrate-diversity-month-dei-initiative/",
+   "earliest": "20210428153359"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/best-practices-for-hiring-seasonal-employees-2021/",
+   "earliest": "20220119115657"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-compliance-violations-federal-contractors-should-avoid-when-hiring/",
+   "earliest": "20220926133636"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-embrace-vr-and-ai-in-your-2020-recruiting-strategy/",
+   "earliest": "20221007025104"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/ai-in-hr/",
+   "earliest": "20220926132611"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-g2-leader-for-4th-consecutive-quarter/",
+   "earliest": "20200920073936"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/not-hiring-team/",
+   "earliest": "20211018081238"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-weigh-soft-skills-during-interviews/",
+   "earliest": "20220705073713"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-to-help-smbs-source-top-talent/",
+   "earliest": "20210926090007"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/7-tips-following-career-fair/",
+   "earliest": "20220926120239"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/phone-interviews-ways-to-connect-with-a-candidate/",
+   "earliest": "20210421223152"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-unexpected-benefits-of-a-tight-labor-market-for-your-recruiting-process/",
+   "earliest": "20211013153641"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-post-a-job-on-facebook/",
+   "earliest": "20211130185247"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/getting-started-with-dei-inclusion-in-a-remote-world-part-2-of-2/",
+   "earliest": "20220807212916"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/save-time-and-effort-with-enhanced-esignature-automation/",
+   "earliest": "20221007033617"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-sapling-partnership/",
+   "earliest": "20220522211452"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-hire-employees-who-will-stay/",
+   "earliest": "20211104154328"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/2022-job-seeker-nation-key-insights-into-what-workers-actually-want/",
+   "earliest": "20220420131335"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-jazzhr-candidate-bulk-texting/",
+   "earliest": "20210325191412"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-wins-two-stevie-awards-for-excellence-in-customer-success-and-product-innovation/",
+   "earliest": "20200920081501"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/wellthie-guest-blog/",
+   "earliest": "20200920074829"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-power-and-importance-of-small-businesses-7-stats-to-know/",
+   "earliest": "20210916115309"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/workout-of-the-week-slim-down-your-stack-of-applicants/",
+   "earliest": "20220926113649"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-diversity-training-can-protect-your-business-from-risk/",
+   "earliest": "20200810222435"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/five-reasons-to-love-the-new-jazzhr-com/",
+   "earliest": "20220926135824"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-ceo-selected-for-main-stage-at-namely-conference/",
+   "earliest": "20211018074643"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/diversity-vs-inclusion-in-the-workplace-whats-the-difference/",
+   "earliest": "20220807214251"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/rise-remote-worker/",
+   "earliest": "20220705104040"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-jazzhrs-covid-19-hr-resource-center/",
+   "earliest": "20220522192630"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/millennial-hiring-tips/",
+   "earliest": "20221007030717"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/13-surprising-trends-in-2022-recruiting-2/",
+   "earliest": "20220517170122"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-things-your-employee-reviews-are-missing/",
+   "earliest": "20220926133938"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-work-culture-has-changed-over-the-years/",
+   "earliest": "20221007015205"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhrs-2020-performance-review-template/",
+   "earliest": "20210422001354"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/safer-work-environment/",
+   "earliest": "20220926114225"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-jazzhrs-success-team-is-staying-well-and-making-sure-our-customers-do-the-same/",
+   "earliest": "20201026121449"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/engaging-peo-clients-with-turnkey-recruiting-solutions-jazzhr-to-present-at-prismhr-live-2019/",
+   "earliest": "20210912073330"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/most-common-interview-questions/",
+   "earliest": "20211130191457"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-ways-a-great-candidate-experience-delivers-recruiting-results/",
+   "earliest": "20220521045605"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/structure-interview-time/",
+   "earliest": "20220119115147"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-smbs-need-to-know-about-recruitment-compliance/",
+   "earliest": "20210926091736"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-an-ats-can-transform-your-hiring-process/",
+   "earliest": "20221007034305"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-is-the-best-process-for-choosing-an-ats-for-your-business/",
+   "earliest": "20220920150422"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-research-report-improving-quality-of-hire-throughout-your-recruiting-tech-stack/",
+   "earliest": "20220926135352"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-how-to-gain-a-competitive-edge-in-a-candidates-market/",
+   "earliest": "20220926124843"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/webinar-recap-embracing-technology-in-an-ever-evolving-hr-ecosystem-qa/",
+   "earliest": "20210214073905"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/find-candidates-faster/",
+   "earliest": "20211018072151"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-must-have-workforce-analytics-reports-for-your-hr-dashboard/",
+   "earliest": "20201125150417"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/candidates-want-interview-process/",
+   "earliest": "20220119103813"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/onboarding-and-training-the-secret-to-employee-retention/",
+   "earliest": "20200727120322"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-leader-in-g2s-fall-2019-reports/",
+   "earliest": "20220901002806"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/demystifying-payroll-reduction-terms/",
+   "earliest": "20201026123242"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-an-automated-ats-reduces-friction-in-the-hiring-process/",
+   "earliest": "20200920081621"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-easy-ways-foster-belonging-company/",
+   "earliest": "20200920074907"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/build-employee-wellness-program-ground/",
+   "earliest": "20200920071316"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-jobs-in-tech-that-dont-require-tech-skills/",
+   "earliest": "20220926135153"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-is-joining-forces-with-jobvite-and-nxtthing-rpo/",
+   "earliest": "20210426143237"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-recruitment-automation-supports-candidate-engagement/",
+   "earliest": "20210224231543"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-2020-inc-5000-as-one-of-americas-fastest-growing-companies/",
+   "earliest": "20200920074335"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-hr-needs-to-know-about-employee-experience/",
+   "earliest": "20200920083700"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-format-your-resume-for-an-ats-like-jazzhr/",
+   "earliest": "20200920083422"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/extending-your-impact-the-importance-of-di-in-partnerships/",
+   "earliest": "20200727120301"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-resume-library-partner-to-unlock-millions-of-resumes-for-customers/",
+   "earliest": "20220926122308"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-great-recruiting-equalizer-hiring-software/",
+   "earliest": "20220119111946"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/talent-acquisition-strategies-4-examples-of-companies-that-have-built-inclusion-for-disabled-workers-into-their-company-culture/",
+   "earliest": "20210701142009"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hospitality-staff/",
+   "earliest": "20210705134214"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/get-ready-gen-z-candidates-are-coming-in-2020/",
+   "earliest": "20221007030724"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/protect-your-brand-and-speed-hiring-with-jazzhr-and-crimcheck/",
+   "earliest": "20220926121747"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-quality-career-pages-attract-quality-candidates/",
+   "earliest": "20200920080942"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-tips-for-hiring-recent-college-grads/",
+   "earliest": "20220926130613"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hr-compliance-essentials/",
+   "earliest": "20210621163643"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-leadership-impacts-employee-performance/",
+   "earliest": "20220926130240"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/four-ways-to-evaluate-ai-and-automation-recruiting-software/",
+   "earliest": "20220522200602"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/personalize-your-recruiting-data-with-jazzhrs-custom-fields/",
+   "earliest": "20210926103932"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/build-your-comp-strategy/",
+   "earliest": "20201128201041"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-signs-may-want-hire-contingent-workers/",
+   "earliest": "20200920083538"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/mental-health-awareness/",
+   "earliest": "20220807213255"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/medical-marijuana-in-the-workplace/",
+   "earliest": "20211018070142"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/our-most-popular-hr-blogs-of-2020-and-why-they-did-so-well/",
+   "earliest": "20201224150310"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-create-a-crisis-communication-plan-for-hr/",
+   "earliest": "20201128151734"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/top-women-leaders-in-saas/",
+   "earliest": "20221007033915"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-is-hiring-software-why-you-need-it/",
+   "earliest": "20211130183346"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/save-time-and-stay-organized-with-jazzhrs-enhanced-offers-and-esignatures/",
+   "earliest": "20200920073650"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/8-goals-talent-acquisition-teams-should-set-for-the-new-year/",
+   "earliest": "20220114201442"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/celebrating-black-pioneers-in-technology/",
+   "earliest": "20210223234916"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/protecting-employee-information-how-to-improve-cybersecurity-in-2021/",
+   "earliest": "20201218150058"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/picking-up-the-pace-3-recruiter-interview-tips/",
+   "earliest": "20211018065535"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/seasonal-hiring-managers-tips-for-passive-sourcing/",
+   "earliest": "20210926091822"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/pre-application-stage-critical-great-candidate-experience/",
+   "earliest": "20220926114905"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hr-practices-that-make-a-difference-in-todays-talent-landscape",
+   "earliest": "20220921144853"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/role-men-can-play-fostering-diverse-workplace/",
+   "earliest": "20200920080059"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/7-ways-to-train-employees-for-guaranteed-productivity/",
+   "earliest": "20201026130541"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-the-coronavirus-has-changed-employee-benefits/",
+   "earliest": "20200920074529"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/boost-your-passive-sourcing-efforts-with-jazzhrs-new-chrome-extension/",
+   "earliest": "20221007023335"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/five-things-you-can-do-to-improve-your-seasonal-hiring-efforts/",
+   "earliest": "20220701180055"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-ways-how-automation-and-artificial-intelligence-will-transform-hr-process/",
+   "earliest": "20220807222519"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/disruptive-interview-tactics/",
+   "earliest": "20221007025617"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-2021-sourcing-strategy-guide/",
+   "earliest": "20201211150320"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-to-streamline-your-conversation/",
+   "earliest": "20200920071734"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-impact-of-career-exploration-on-your-job-search/",
+   "earliest": "20200920083719"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/do-this-not-that-the-manager/",
+   "earliest": "20220926131858"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/discover-the-hidden-gems-in-your-candidate-database/",
+   "earliest": "20220119095029"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/diversity-and-inclusion-in-the-workplace-pays-off-3-tips-for-driving-increased-value/",
+   "earliest": "20200810214150"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/employee-assessments-how-we-leverage-employment-screening-to-create-a-high-performing-team-at-jazzhr/",
+   "earliest": "20201026130410"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/make-your-hiring-process-work-for-you-with-jazzhrs-enhanced-user-notifications/",
+   "earliest": "20210126212317"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-mistakes-in-the-candidate-hiring-experience/",
+   "earliest": "20220119104826"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/excellence-in-partnerships-jazzhr-earns-platinum-status-in-adp-marketplace/",
+   "earliest": "20200920083059"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/rolling-new-benefits-packages/",
+   "earliest": "20201128185649"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-major-business-process-automation-benefits-you-should-know-about/",
+   "earliest": "20210926084024"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-mistakes-new-hr-departments-should-avoid/",
+   "earliest": "20220926131413"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creative-recruitment-strategies/",
+   "earliest": "20210427005129"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/financial-wellness-programs-the-why-and-how-tos/",
+   "earliest": "20220926122425"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/webinar-hiring-toolbox/",
+   "earliest": "20220926132110"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-improve-the-candidate-experience-7-strategies/",
+   "earliest": "20201026133510"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-steps-recruiters-to-reduce-candidate-cost/",
+   "earliest": "20220926114955"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/navigating-performance-reviews/",
+   "earliest": "20200920083036"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-wins-adp-2019-rising-star-award/",
+   "earliest": "20221007035138"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/candidate-engagement-tips/",
+   "earliest": "20210125015609"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/build-performance-improvement-plan/",
+   "earliest": "20200920083726"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-hiring-software-helps-comply-eeoc/",
+   "earliest": "20200920072332"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-the-jazzhr-marketplace/",
+   "earliest": "20220926125515"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/identifying-and-developing-candidate-personas/",
+   "earliest": "20210926100825"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/generate-actionable-recruiting-insights-with-enhanced-jazzhr-custom-reports/",
+   "earliest": "20200920071831"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/time-to-celebrate-jazzhr-earns-a-2022-top-rated-award-from-trustradius/",
+   "earliest": "20220513203921"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/automating-the-candidate-experience-how-to-increase-engagement/",
+   "earliest": "20210224231611"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/your-end-of-year-people-ops-checklist/",
+   "earliest": "20211130192327"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/create-a-more-seamless-secure-user-experience-with-single-sign-on-sso/",
+   "earliest": "20220926135512"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-use-recruiting-automation-to-enhance-your-hiring-efforts/",
+   "earliest": "20220425120211"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/screening-in-versus-screening-out-whats-the-difference/",
+   "earliest": "20221018154304"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-post-3-common-labor-law-compliance-mistakes-and-how-to-avoid-them/",
+   "earliest": "20210926100235"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-can-an-rpo-help-your-2022-recruiting/",
+   "earliest": "20220522192758"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/lack-diversity-hurts-profits/",
+   "earliest": "20200920083654"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-make-the-business-case-for-hiring-software/",
+   "earliest": "20210901143841"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/tell-me-youre-a-recruiter-without-telling-me-youre-a-recruiter-5-times-tiktokers-perfectly-captured-pandemic-hiring/",
+   "earliest": "20211105153526"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/10-ways-companies-are-differentiating-to-attract-talent/",
+   "earliest": "20210921141711"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-wins-overall-recruiting-solution-of-the-year-in-2020-remotetech-breakthrough-award/",
+   "earliest": "20201128201759"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/implementing-dei-initiatives-and-measuring-success/",
+   "earliest": "20220807223930"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/13-recruiting-strategies-to-lure-gen-z-workers/",
+   "earliest": "20220826140627"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-hr-trends-for-2020/",
+   "earliest": "20221007030233"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-in-capterras-top-20-applicant-tracking-systems/",
+   "earliest": "20210224230840"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/seniorpreneur-advice-how-seniors-can-start-a-thriving-home-based-business/",
+   "earliest": "20220926123419"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/takeaways-from-jazzhrs-diversity-inclusion-lunch-and-learn/",
+   "earliest": "20200920081407"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/shrm-21-recap/",
+   "earliest": "20210928212717"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-2019-pittsburgh-fast-50-list/",
+   "earliest": "20220926131718"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-importance-of-supporting-your-hiring-team-throughout-your-2022-recruitment-and-selection/",
+   "earliest": "20220522193542"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/summer-interns-pt2/",
+   "earliest": "20220522195710"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-find-a-good-culture-fit-even-if-youre-hiring-remotely/",
+   "earliest": "20210421231658"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hiring-soft-skills-not-just-technical-abilities/",
+   "earliest": "20201026124959"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/webinar-recap-what-covid-19-means-for-your-hiring-process-qa/",
+   "earliest": "20210926104413"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/osha-compliance-for-the-return-to-the-office/",
+   "earliest": "20210627003618"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/national-mental-health-month/",
+   "earliest": "20210519132726"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-overcome-training-challenges-in-high-growth-industries/",
+   "earliest": "20200920081435"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-reasons-candidates-arent-interested-in-your-jobs/",
+   "earliest": "20200920081311"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/strategic-sourcing-best-practices-for-diversity-and-inclusion/",
+   "earliest": "20210426212129"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-hr-trends-to-look-out-for-in-2020/",
+   "earliest": "20221007034937"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/using-instagram-recruiting-tool/",
+   "earliest": "20220119115330"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-tools-for-effective-employer-brand-content-on-social-media/",
+   "earliest": "20220926121539"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-2020-changed-the-future-of-hr-insight-from-jazzhr-partners/",
+   "earliest": "20201228144747"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-reasons-to-use-recruiting-technology/",
+   "earliest": "20221007014927"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/are-jobs-still-hard-to-fill-in-2022/",
+   "earliest": "20221013133154"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-does-jazzhr-recruit-top-talent-qa-with-margo-fillipi/",
+   "earliest": "20200920074453"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/your-quick-guide-to-the-top-7-recruiting-trends-for-2020/",
+   "earliest": "20220926124906"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/kids-pets-and-wardrobe-malfunctions-the-15-most-unexpected-things-that-have-happened-on-video-interviews/",
+   "earliest": "20200920080340"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-3-recruiting-metrics-that-matter-in-2020/",
+   "earliest": "20221007032355"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/integrated-video-strategy-improves-candidate-engagement-metrics/",
+   "earliest": "20211018071850"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-improve-candidate-engagement/",
+   "earliest": "20210224223859"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/top-hr-technology-trends-making-their-way-into-2022/",
+   "earliest": "20211130192436"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-make-quality-hires-if-you-dont-have-a-hiring-manager/",
+   "earliest": "20201026124808"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/essential-communicate-recruiting-wins-executive-team/",
+   "earliest": "20201026131530"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-ranks-13th-on-pittsburgh-business-times-fast-50-list/",
+   "earliest": "20210830160723"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/lessons-from-the-funnel-what-hr-departments-need-to-know/",
+   "earliest": "20210926092507"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-report-uncovers-how-employers-can-adapt-to-remain-competitive-in-todays-labor-market/",
+   "earliest": "20220329163612"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/leadingit-modernizes-their-recruiting-with-jazzhr/",
+   "earliest": "20221007032031"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/prevent-company-losing-money-attrition/",
+   "earliest": "20221007024342"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/want-to-hire-faster-focus-on-people-operations/",
+   "earliest": "20210918151534"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-best-practices-for-texting-candidates/",
+   "earliest": "20200810213646"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-disruptive-tactics-overhaul-candidate-experience/",
+   "earliest": "20220926135551"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/actively-source-passive-candidates-on-social-media/",
+   "earliest": "20220325130552"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/diversity-training-in-the-workplace-what-it-is-and-why-its-important/",
+   "earliest": "20200920073400"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/2021-hr-year-in-review/",
+   "earliest": "20211110165529"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/where-the-best-candidates-are-gathering-in-2021/",
+   "earliest": "20210417130138"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/create-pleasant-interview-environment/",
+   "earliest": "20220119102819"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/true-cost-great-hire/",
+   "earliest": "20201026132033"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/easy-ways-promote-inclusion-remote-workers/",
+   "earliest": "20200810221505"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-6-best-recruiting-metrics-to-track-in-2022/",
+   "earliest": "20211122224149"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-insights-will-change-the-way-you-hire-in-a-tight-labor-market/",
+   "earliest": "20220909160534"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/text-messaging-future-recruiting/",
+   "earliest": "20201026125033"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-g2s-best-software-lists-for-2021/",
+   "earliest": "20210208161506"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/employee-development-101-the-what-why-and-how-of-employee-onboarding-and-training/",
+   "earliest": "20200810224749"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-developer-hiring-mistakes-i-made-as-a-tech-recruiter-before-2020/",
+   "earliest": "20210421233630"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/embracing-uncomfortable-conversations-to-promote-diversity-and-inclusion-in-the-workplace/",
+   "earliest": "20200810214647"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-ways-assess-soft-skills-interview/",
+   "earliest": "20201026132751"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/quality-hiring-best-practices-a-step-by-step-guide/",
+   "earliest": "20201026132730"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-compensation-affects-employee-performance/",
+   "earliest": "20221007023617"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-top-recruiting-trends-from-2020/",
+   "earliest": "20201229172123"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/accelerate-the-candidate-to-employee-lifecycle-with-jazzhr-and-frankcrum/",
+   "earliest": "20210721154919"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/congratulations-jazzhr-2020-presidents-club-achievers/",
+   "earliest": "20210225190140"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-to-keep-your-interviews-legal/",
+   "earliest": "20200920080411"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-hire-orientation-ideas-7-tried-and-true-onboarding-strategies/",
+   "earliest": "20200810224052"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-hr-cloud/",
+   "earliest": "20221007025550"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-build-an-effective-employee-welcome-package/",
+   "earliest": "20200920073025"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruitment-chatbots-are-they-worth-the-investment-yet/",
+   "earliest": "20220807220243"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-achieve-agile-recruiting-using-a-data-driven-approach/",
+   "earliest": "20220705084418"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/attracting-talent-the-next-big-thing-is-focusing-on-employee-growth/",
+   "earliest": "20210801021936"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/where-to-find-employees-in-2022-your-go-to-sourcing-guide/",
+   "earliest": "20220522202613"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-the-great-resignation-means-for-your-recruiting-process/",
+   "earliest": "20210807140737"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/navigating-the-wage-gap/",
+   "earliest": "20200920080032"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-narrow-candidate-pool-filling-role/",
+   "earliest": "20221007022621"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-one-of-2021s-software-companies-to-watch/",
+   "earliest": "20210422002330"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/time-to-celebrate-employ-is-acquiring-lever",
+   "earliest": "20220802145555"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/2015928why-your-best-employees-are-your-best-recruiting-tool/",
+   "earliest": "20210421231914"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/8-effective-interview-tips-uncover-talent/",
+   "earliest": "20211130192755"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/diversity-hiring-webinar/",
+   "earliest": "20200920063525"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/corporate-equality-index-2021/",
+   "earliest": "20210529131729"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/using-automation-to-help-hiring-diversity/",
+   "earliest": "20200810215238"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/14-interviewing-tips-for-hiring-managers/",
+   "earliest": "20200920082119"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/understanding-the-value-of-the-hiring-process/",
+   "earliest": "20221007025521"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/embracing-discomfort-why-i-think-blm-should-be-our-focus-during-pride-month/",
+   "earliest": "20221007035638"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-ways-job-seekers-with-disabilities-can-use-technology-for-advancement-in-2021/",
+   "earliest": "20210109150551"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-best-tools-and-tips-for-managing-employee-morale/",
+   "earliest": "20220119100253"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruitment-definition/",
+   "earliest": "20210427090357"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/attracting-the-millenial/",
+   "earliest": "20221007023125"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-5-tips-for-small-businesses-to-manage-remote-teams-efficiently/",
+   "earliest": "20220807213620"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruitment-marketing-building-automated-workflows/",
+   "earliest": "20220807222549"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-report-the-state-of-employer-branding-and-recruitment-advertising/",
+   "earliest": "20200920070421"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/proving-the-roi-of-workforce-analytics-how-to-quantify-and-present-hr-data/",
+   "earliest": "20210422002924"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/workplace-representation/",
+   "earliest": "20200920082001"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-candidate-experience/",
+   "earliest": "20211018064452"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/a-first-look-at-jazzhrs-end-of-year-recruiting-data-and-what-it-means-for-your-2021-hiring/",
+   "earliest": "20210108185550"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-considerations-when-you-start-an-hr-department/",
+   "earliest": "20220926131826"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/notes-tech-recruiting-roundtable-2/",
+   "earliest": "20200920075426"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-feature-announcement-offers-esignatures/",
+   "earliest": "20220119115521"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-easy-benefits-training-hiring-managers-jazzhr/",
+   "earliest": "20200920072523"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/tis-season-renew-benefits/",
+   "earliest": "20201128195548"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/automate-real-time-communications-with-the-enhanced-jazzhr-candidate-texting/",
+   "earliest": "20200727120306"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/personalize-your-recruiting-routine-with-the-new-jazzhr-jobs-list/",
+   "earliest": "20220807225437"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-things-nonprofits-can-teach-us-about-recruiting-management/",
+   "earliest": "20220926133730"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recent-trends-in-inclusion-and-diversity-training/",
+   "earliest": "20210926093224"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-ai-is-likely-to-transform-talent-acquisition/",
+   "earliest": "20220522205740"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-ranks-29th-on-pittsburgh-business-times-fast-50-list/",
+   "earliest": "20201026133732"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-reasons-why-you-need-to-focus-on-passive-recruiting-in-2022/",
+   "earliest": "20220926121828"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/digital-transformation-and-hr-automation-a-perfect-match/",
+   "earliest": "20200920070941"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-5-common-mistakes-new-hires-makes/",
+   "earliest": "20210926085127"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-recruit-quality-interns/",
+   "earliest": "20220926134950"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/three-ways-data-driven-recruiting-leads-to-talent-acquisition-success/",
+   "earliest": "20220527132301"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-tips-using-sms-engage-job-seekers/",
+   "earliest": "20220926124541"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-leader-g2-summer-2022/",
+   "earliest": "20220715025244"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-steps-consider-planning-2019/",
+   "earliest": "20220807230956"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-tech-50-finalist-for-driving-innovation-in-the-pittsburgh-region/",
+   "earliest": "20201026132959"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-steps-to-include-in-your-new-employee-onboarding-process/",
+   "earliest": "20200920083733"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/putting-money-mouth-compensation-benefits/",
+   "earliest": "20220926131752"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/video-interview-best-practices-part-3/",
+   "earliest": "20210426231217"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-best-saas-for-recruitment-and-one-of-pittsburghs-fastest-growing-companies/",
+   "earliest": "20200920064217"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-post-interview-assessment-what-to-do-after-youve-met-with-a-candidate/",
+   "earliest": "20200920070102"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/onboarding-in-2021-best-practices-for-a-stellar-new-hire-experience/",
+   "earliest": "20201216150207"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/new-data-jazzhr-sees-concentrated-job-gains-and-a-full-rebound-in-candidate-traffic/",
+   "earliest": "20200810224124"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-fun-ways-to-source-candidates/",
+   "earliest": "20220807230818"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-company-of-the-year-by-the-golden-bridge-awards/",
+   "earliest": "20220129051158"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-motivate-employees-going-new-year/",
+   "earliest": "20220926121159"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/using-company-values-to-inform-your-new-hr-mission-statement/",
+   "earliest": "20211018081437"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-top-ats-and-best-hr-software-for-small-businesses/",
+   "earliest": "20210517153107"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/notes-tech-recruiting-roundtable/",
+   "earliest": "20220522195116"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-technology-can-help-hiring-process/",
+   "earliest": "20220926130457"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-make-workplace-accessible/",
+   "earliest": "20200920073855"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-candidate-engagement-strategies-that-appeal-to-millennials-and-gen-z/",
+   "earliest": "20200920073319"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-partners-with-justworks/",
+   "earliest": "20210306084720"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/most-common-hr-challenges-in-china/",
+   "earliest": "20200920075317"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-leader-in-spring-2020-g2-reports/",
+   "earliest": "20200920075533"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-latka-250-fastest-growing-saas-company-list/",
+   "earliest": "20210216152253"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/infographic-holiday-hiring-trends/",
+   "earliest": "20220926115500"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-partners-with-vizi-to-drive-candidate-engagement/",
+   "earliest": "20211018071511"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/aapi-month/",
+   "earliest": "20210511141738"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/virtual-career-fairs/",
+   "earliest": "20210610084523"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/workout-of-the-week-build-your-brand-muscle/",
+   "earliest": "20210421232751"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-free-resources-for-new-hr-professionals/",
+   "earliest": "20220119103655"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-you-can-learn-from-your-competitors-about-attracting-top-talent/",
+   "earliest": "20210421223257"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-post-a-job-on-linkedin/",
+   "earliest": "20211130185209"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/9-must-have-documents-for-new-hr-teams/",
+   "earliest": "20220926130028"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-tips-making-onboarding-process-even-better/",
+   "earliest": "20200920081648"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-best-recruitment-marketing-techniques-youre-probably-not-using/",
+   "earliest": "20220119114547"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/top-5-free-resources-for-recently-unemployed-job-seekers/",
+   "earliest": "20210224225223"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/not-guide-series/",
+   "earliest": "20221007035255"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-deal-with-6-common-performance-management-challenges/",
+   "earliest": "20210926090800"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-comprehensive-list-of-short-term-employment-laws-for-businesses-that-need-flexible-workers/",
+   "earliest": "20201026133123"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-4-screening-strategies-to-boost-your-recruitment-and-hiring-process/",
+   "earliest": "20220926122623"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/video-interview-best-practices-part-1/",
+   "earliest": "20210322180256"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/uncover-hidden-hiring-incentives-with-retrotax/",
+   "earliest": "20221007022746"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/webinar-recap-the-future-of-the-talent-acquisition-qa/",
+   "earliest": "20210801003516"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/when-is-the-best-time-to-start-using-an-applicant-tracking-system/",
+   "earliest": "20220119102903"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-build-consistent-awareness-of-your-employer-brand-using-social-media/",
+   "earliest": "20220705102153"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhrs-top-3-hr-trends-of-2021/",
+   "earliest": "20220119104406"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-parallels-between-customer-and-candidate-engagement/",
+   "earliest": "20220522202403"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-in-g2-fall-2021-awards/",
+   "earliest": "20210909031101"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-to-inc-5000-list-of-fastest-growing-companies-in-america/",
+   "earliest": "20220129045915"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/improve-your-interview-process/",
+   "earliest": "20220119114912"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hire-temporary-workers-for-holiday-season/",
+   "earliest": "20210926100531"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-job-descriptions/",
+   "earliest": "20220710023507"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/recruiting-at-hybrid-workplaces-how-to-demonstrate-a-culture-of-inclusivity/",
+   "earliest": "20210507064320"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/4-outdated-hr-processes-and-how-to-fix-them/",
+   "earliest": "20210213185005"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-ranked-as-an-industry-leader-again-for-2022/",
+   "earliest": "20211223174433"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-a-better-application-process/",
+   "earliest": "20200723170439"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-ways-engaging-dev-communities-can-boost-your-hiring/",
+   "earliest": "20211018071052"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-perform-like-a-fortune-500-hr-team-even-though-its-just-you/",
+   "earliest": "20210130133359"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/ask-hr-5-tips-for-onboarding-remote-employees/",
+   "earliest": "20200727120315"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/3-ways-to-stay-compliant-during-the-hiring-process/",
+   "earliest": "20210926104554"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/shrm2018-recap/",
+   "earliest": "20220807220205"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/which-10-outdated-hiring-practices-are-you-guilty-of/",
+   "earliest": "20221028162112"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-4-fastest-growing-industries-and-how-to-hire-for-them/",
+   "earliest": "20221007032956"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-use-social-media-as-a-powerful-recruiting-tool/",
+   "earliest": "20200920072755"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/enhance-the-employee-experience-with-jazzhr-and-vantage-circle/",
+   "earliest": "20210926100418"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-best-practices-for-hiring-veterans/",
+   "earliest": "20201112015304"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/clocking-into-attendance-automation-with-time-rack/",
+   "earliest": "20220522195939"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/five-key-insights-from-todays-job-seekers/",
+   "earliest": "20220521032642"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/calculate-value-recruiting-efforts/",
+   "earliest": "20220926122152"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/product-update-candidate-profile/",
+   "earliest": "20220926121947"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-diversifies-technology-partner-ecosystem-with-tsheets-integration/",
+   "earliest": "20220926133139"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-do-training-and-development-look-like-in-the-remote-workplace-tips-for-2022/",
+   "earliest": "20211118060049"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/6-ways-to-drive-employee-performance/",
+   "earliest": "20220807215036"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-future-of-work-the-hybrid-office-explained/",
+   "earliest": "20201201083319"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creative-ways-welcome-new-hire/",
+   "earliest": "20200920073109"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-ranks-28th-on-pittsburgh-fast-50-list/",
+   "earliest": "20220926124136"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/seasonal-hiring-diversity-representation-in-the-workplace/",
+   "earliest": "20210926094904"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/franchisee-vs-franchisor-whats-the-difference-when-it-comes-to-hiring/",
+   "earliest": "20210321180153"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/8-creative-interview-questions-to-ask-potential-employees/",
+   "earliest": "20210421233158"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-easy-tricks-to-find-great-candidates-online/",
+   "earliest": "20220807221720"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/webinar-recap-creating-a-best-in-class-interview-strategy-qa/",
+   "earliest": "20201119055102"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/the-recruiting-habits-you-should-to-leave-behind-this-year/",
+   "earliest": "20211125071721"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/post-open-roles-faster-with-jazzhrs-new-job-creation-experience/",
+   "earliest": "20200810220252"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/casting-a-wide-net-part-2-how-to-source-candidates/",
+   "earliest": "20220926133440"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/questions-to-ask-a-franchisor-about-recruitment/",
+   "earliest": "20221007032920"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-is-an-rpo/",
+   "earliest": "20220119114015"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-is-a-five-time-inc-5000-winner/",
+   "earliest": "20210926103309"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/guest-blog-three-step-approach-long-term-diversity/",
+   "earliest": "20200920075716"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-look-at-your-recruitment-funnel-like-a-marketer/",
+   "earliest": "20210926104711"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/5-interview-questions-to-ask-sales-managers/",
+   "earliest": "20211130182534"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/creating-an-inclusive-culture-for-gender-non-conforming-employees/",
+   "earliest": "20201209153831"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-finalist-in-2019-saas-awards/",
+   "earliest": "20220926132036"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/when-to-actively-engage-with-passive-job-seekers-as-a-recruiter/",
+   "earliest": "20220807225702"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/employer-brand-optimization/",
+   "earliest": "20220926124444"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hr-redefined-recap/",
+   "earliest": "20220926122348"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-does-rpo-work-with-recruiting-software/",
+   "earliest": "20220705090429"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/introducing-new-jazzhr-integration-with-wonscore-from-wonderlic/",
+   "earliest": "20220926123124"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/business-metrics-for-your-recruiting-strategy/",
+   "earliest": "20220926115411"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-the-state-of-recruiting-means-for-smb-companies-today/",
+   "earliest": "20220915181420"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/revolutionize-recruiting-with-jazzhr-job-com-integration/",
+   "earliest": "20220926125757"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/eeo-1-report/",
+   "earliest": "20210615164515"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/workout-of-the-week-get-a-pulse-check-on-your-recruiting-process/",
+   "earliest": "20220926132904"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-keep-a-human-touch-in-automated-recruiting/",
+   "earliest": "20200920082619"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-recognized-for-industry-leadership-by-g2-and-cloud-awards/",
+   "earliest": "20220926134440"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/hiring-nightmares/",
+   "earliest": "20221007035158"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/what-is-candidate-experience-and-how-does-it-show-up-throughout-the-recruitment-process/",
+   "earliest": "20220522211154"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/how-to-gain-epic-hiring-clout-with-a-positive-candidate-experience/",
+   "earliest": "20220607061218"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/jazzhr-named-top-25-hr-software-of-2020/",
+   "earliest": "20200810214753"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/13-partnership-strategies-to-bolster-recruiting-efforts/",
+   "earliest": "20220728145138"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/simplify-remote-interview-scheduling-with-jazzhr-and-zoom/",
+   "earliest": "20210505022642"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/tips-keeping-digitally-savvy-candidate-engaged/",
+   "earliest": "20210926091459"
+  },
+  {
+   "url": "https://www.jazzhr.com/blog/getting-started-with-dei-it-all-starts-with-inclusion-part-1-of-2/",
+   "earliest": "20220705090551"
+  }
+ ]
+}
