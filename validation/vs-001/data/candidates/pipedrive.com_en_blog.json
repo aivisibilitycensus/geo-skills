@@ -1,0 +1,3611 @@
+{
+ "blog": "pipedrive.com/en/blog",
+ "group": "Sales and customer service",
+ "reserve": false,
+ "cdxRows": 1802,
+ "articleLike": 900,
+ "queriedAt": "2026-11-04T03:35:08.876Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.pipedrive.com/en/blog/intrnz-case-study",
+   "earliest": "20191210002028"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/interview-terms-and-conditions-september-october-2021",
+   "earliest": "20211019174755"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-trekksoft-doubled-signups-via-personalization-at-scale/",
+   "earliest": "20190326005924"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-october-2021",
+   "earliest": "20211101182405"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-gmail-extension",
+   "earliest": "20190721151330"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/what-to-do-when-someone-steals-your-startup-idea",
+   "earliest": "20190717062112"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/tips-for-rolling-out-new-software-in-a-team/",
+   "earliest": "20190326004712"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/october-insights-updates",
+   "earliest": "20201019032241"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/product-update-app-panels",
+   "earliest": "20190905170013"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/free-crm-software",
+   "earliest": "20190717063650"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-november-2019",
+   "earliest": "20191209232409"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/value-creation-sales-success",
+   "earliest": "20190823031248"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/17-million-new-funding",
+   "earliest": "20190823020658"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/qr-code-list",
+   "earliest": "20220716082249"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-kickoff",
+   "earliest": "20201125075132"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ten-pipedrive-habits-boost-productivity",
+   "earliest": "20190823031952"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ugly-side-business-growth",
+   "earliest": "20190823021947"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/find-right-prospects",
+   "earliest": "20190823064654"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-team-covid-19",
+   "earliest": "20200327213401"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/know-the-value-of-no",
+   "earliest": "20190722095545"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gifs-in-email",
+   "earliest": "20220926071732"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/reintech-recruitment-case-study",
+   "earliest": "20210218120721"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/introduction-sales-reporting",
+   "earliest": "20190823024642"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-fundraise-with-pipedrive",
+   "earliest": "20190722094909"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/feature-release-web-forms-beta-let-the-customers-come-to-you",
+   "earliest": "20190717062228"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/clickmechanic-pipedrive-zapier-sales-growth",
+   "earliest": "20190823022112"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/managing-workplace-stress",
+   "earliest": "20190722102129"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-training",
+   "earliest": "20220513213745"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/convince-your-team-crm",
+   "earliest": "20200626212049"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pro-arts-management-case-study",
+   "earliest": "20190722104041"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/transitions2earth-pipedrive-mobile-app",
+   "earliest": "20190722093643"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/propilib-case-study",
+   "earliest": "20191209232315"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/biggest-sales-myths",
+   "earliest": "20190823020925"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/choosing-a-sales-crm",
+   "earliest": "20190326003709"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/google-analytics-email-tracking",
+   "earliest": "20220516093640"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/good-open-rates-for-emails",
+   "earliest": "20220516081549"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-july-2022",
+   "earliest": "20220805165845"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-associate-skills",
+   "earliest": "20210922001911"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-dealbot-for-slack",
+   "earliest": "20190722102838"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-updates-2021",
+   "earliest": "20211202020128"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ai-bots-people-sales-process",
+   "earliest": "20190823064757"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ecommerce-email-marketing",
+   "earliest": "20220315190839"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/pipedrive/news-events",
+   "earliest": "20190722093811"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/why-new-years-resolutions-are-great-if-you-make-them-great",
+   "earliest": "20190721144915"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ways-to-foster-crm-adoption",
+   "earliest": "20190326010440"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/avoid-sales-team-surprises",
+   "earliest": "20190722102853"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-visibility",
+   "earliest": "20190326002512"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/christmas-email-marketing-tips",
+   "earliest": "20220119053201"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pipeline-tips-part-1",
+   "earliest": "20190823070826"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-forecasting-small-medium-businesses",
+   "earliest": "20190826011639"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mediavision-case-study-livestorm",
+   "earliest": "20210116020307"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-august-2020",
+   "earliest": "20200923055720"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/b2b-prospecting",
+   "earliest": "20201021042837"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-interview-richard-harris",
+   "earliest": "20190823062904"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gamify-sales-pipeline-pointagram",
+   "earliest": "20190823024935"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/25-qualities-salespeople",
+   "earliest": "20190722142045"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-april-2019",
+   "earliest": "20190823024955"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mindfulness-and-sales-results",
+   "earliest": "20190823022304"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/product-updates-december-2018",
+   "earliest": "20190326000936"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-specialist",
+   "earliest": "20220818235746"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-marketing-agency-case-study/",
+   "earliest": "20190326005713"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-campaign",
+   "earliest": "20220504141846"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/why-sales-process-never-ends",
+   "earliest": "20190823030129"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/video-marketing",
+   "earliest": "20210116030613"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/overcome-imposter-syndrome",
+   "earliest": "20211203134029"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/protection-dogs-international-case-study",
+   "earliest": "20190717062156"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/americans-arent-the-worlds-best-closers-and-what-this-means-for-you",
+   "earliest": "20190326002957"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/types-of-sales-jobs",
+   "earliest": "20210409120144"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipeline-metrics",
+   "earliest": "20190721144843"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/embedding-images-in-emails",
+   "earliest": "20220327030103"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-negotiation",
+   "earliest": "20201029144405"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-sales-by-managing-your-time",
+   "earliest": "20190823021154"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/grow-your-business-with-our-updated-plans",
+   "earliest": "20210922140636"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/document360-case-study",
+   "earliest": "20191007031846"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/two-factor-authentication-saml-sso",
+   "earliest": "20190826013545"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-integrations-update-july-2017",
+   "earliest": "20190721155817"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/smart-docs-september-2021",
+   "earliest": "20210922134121"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/asana-integration",
+   "earliest": "20190823023350"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-sales-books",
+   "earliest": "20190326003712"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-crm",
+   "earliest": "20191210001640"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-february-2021",
+   "earliest": "20210219104344"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-regulation-gdpr",
+   "earliest": "20210620220258"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/benefits-crm",
+   "earliest": "20191116213445"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-february-2022",
+   "earliest": "20220303124233"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-remote-sales-team/",
+   "earliest": "20190326004452"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-apps-spotlight-august",
+   "earliest": "20190823023946"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/insights-performance-conversion-reports",
+   "earliest": "20220412133848"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-management",
+   "earliest": "20190826002944"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/series-launch-inefficiencies-sales-process",
+   "earliest": "20190823193605"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-generation",
+   "earliest": "20190823062908"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-compensation-plan",
+   "earliest": "20190823204616"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/why-we-built-pipedrive",
+   "earliest": "20190823071223"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/caller-update",
+   "earliest": "20200327214631"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/breakup-email-say-send",
+   "earliest": "20190823021801"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/aircall-soft-skills",
+   "earliest": "20190722181226"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/we-have-updated-our-zapier-triggers-and-actions",
+   "earliest": "20190722183124"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-success-managing-depression",
+   "earliest": "20190823020754"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-investors-new-fuel-for-growth",
+   "earliest": "20190722095931"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-your-dating-pipeline-with-the-pipedrive-tinder-integration",
+   "earliest": "20190722183211"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-quiz-march-2020",
+   "earliest": "20200626224906"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-zapier-leads",
+   "earliest": "20210308125851"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/microsoft-teams-integration",
+   "earliest": "20210116023737"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/2017-roadmap-successful-sales-teams",
+   "earliest": "20190826003125"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-july-2022",
+   "earliest": "20220727184931"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leyout-case-study",
+   "earliest": "20210427135217"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/schedule-emails-in-pipedrive",
+   "earliest": "20210902160736"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/hack-sales-psychology-sell-better",
+   "earliest": "20190504124225"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-professionals-struggle-to-find-leads",
+   "earliest": "20210731023147"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-meeting",
+   "earliest": "20190826002322"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/advanced-stem-cell-institute-case-study",
+   "earliest": "20210419100524"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/hard-work-vs-smart-work",
+   "earliest": "20190824141054"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-professionals-working-from-home",
+   "earliest": "20210610031350"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/the-one-twitter-trick-that-pipedrive-founders-master",
+   "earliest": "20190722183006"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-manage-writing-a-thesis-with-pipedrive",
+   "earliest": "20190721150116"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/data-protection-rules-regulations",
+   "earliest": "20201021044353"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/case-study-adlots-facebook",
+   "earliest": "20190722103813"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/key-sales-activities",
+   "earliest": "20190326003945"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-august-2021",
+   "earliest": "20210826140835"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/product-launch-emails",
+   "earliest": "20220318100820"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pricing-questions",
+   "earliest": "20190823033138"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-sales-funnel",
+   "earliest": "20220818222322"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/automate-sales-tasks",
+   "earliest": "20190823070002"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/chief-sales-officer-job-description-salary",
+   "earliest": "20210222175053"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/holiday-email-templates-samples",
+   "earliest": "20220516082508"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pipeline-management",
+   "earliest": "20200626212032"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-email-tips",
+   "earliest": "20190826013534"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-may-2022",
+   "earliest": "20220602142304"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/introducing-an-easier-pipedrive-and-mailchimp-integration",
+   "earliest": "20190722181233"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-resume",
+   "earliest": "20200626232429"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-be-a-good-salesperson",
+   "earliest": "20200923072311"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-sales-stack",
+   "earliest": "20191210001157"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-autoresponders",
+   "earliest": "20220818222138"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-create-a-newsletter",
+   "earliest": "20220715105050"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/white-paper",
+   "earliest": "20220818230027"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-measure-sales-skills/",
+   "earliest": "20190326004005"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-create-a-sales-funnel",
+   "earliest": "20190326003956"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-now-has-1000-paying-customers-and-how-we-got-here",
+   "earliest": "20190721152717"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-apps-spotlight-january",
+   "earliest": "20190823022358"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/etribez-case-study",
+   "earliest": "20190717070015"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/brexit-uk-eu-sales",
+   "earliest": "20210324182918"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-january-2022",
+   "earliest": "20220202214030"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-motivation-tips/",
+   "earliest": "20190326003733"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/live-chat",
+   "earliest": "20201021052938"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gogoprint-case-study",
+   "earliest": "20190823024551"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-manage-a-sales-team",
+   "earliest": "20190326004436"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/the-story-behind-100000-customers",
+   "earliest": "20220222132114"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mobile-sms-marketing",
+   "earliest": "20220325102221"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/consultative-selling-success",
+   "earliest": "20190717070817"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-invoice",
+   "earliest": "20220919042438"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gamify-pointagram",
+   "earliest": "20200626212045"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/practical-steps-achieve-focus",
+   "earliest": "20190823071626"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/insights-feature-update",
+   "earliest": "20200327214635"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/project-management",
+   "earliest": "20221024113959"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-apps-spotlight-october",
+   "earliest": "20190721150312"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-june-2021",
+   "earliest": "20210603111009"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-lead-generation",
+   "earliest": "20190823062846"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-june-2020",
+   "earliest": "20200626212117"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-december-2019",
+   "earliest": "20191218115643"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-calls-vs-emails",
+   "earliest": "20190823074303"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/arr-vs-acv-sales-meaning",
+   "earliest": "20210422121122"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/visionair-media-case-study",
+   "earliest": "20200813111819"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-metrics-data/",
+   "earliest": "20190326004220"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/b2b-email-marketing-ideas",
+   "earliest": "20220502160458"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/software-app-development-pipedrive",
+   "earliest": "20190717065647"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-time-hacks",
+   "earliest": "20190722095317"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/state-of-sales",
+   "earliest": "20200813114024"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/optimize-sales-team-collaboration",
+   "earliest": "20190823020847"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/whats-new-pipedrive-july-product-update",
+   "earliest": "20190823021021"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/inkwell-case-study",
+   "earliest": "20210308125158"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/automated-campaigns-insights",
+   "earliest": "20220929080346"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/15-lessons-from-2012-and-meet-our-team",
+   "earliest": "20190823062819"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lemlist-personalized-images",
+   "earliest": "20190823031845"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ultimate-sales-communication-handbook",
+   "earliest": "20190826003541"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mobile-email-marketing-best-practices",
+   "earliest": "20220516094025"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/art-of-selling",
+   "earliest": "20190722104148"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/detailed-tracking-deal-movement-fingertips",
+   "earliest": "20190721153312"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/clean-sales-pipeline",
+   "earliest": "20190823020745"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/free-sales-tracking-software",
+   "earliest": "20200813121230"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/integrations-update-september-2017",
+   "earliest": "20190721145457"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/a-big-day-for-us-pipedrive-raises-9-million-in-series-a-funding",
+   "earliest": "20190722094147"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-follow-up-email-templates",
+   "earliest": "20190325225136"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-activities",
+   "earliest": "20190823072602"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-navigation-announcement",
+   "earliest": "20200702134321"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/what-is-brand-positioning",
+   "earliest": "20220315131840"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-tracker",
+   "earliest": "20220919042438"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-best-of-2021",
+   "earliest": "20220105141042"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-memes",
+   "earliest": "20211103141246"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-september-2020",
+   "earliest": "20201021045857"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-interview-mark-hunter",
+   "earliest": "20190823063944"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-pandadoc-used-pipedrive-to-close-5m-series-a",
+   "earliest": "20190326003952"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-funnel",
+   "earliest": "20220830133911"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-november-2020",
+   "earliest": "20201122144410"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-technology",
+   "earliest": "20200923072710"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-agencies-zeeland",
+   "earliest": "20190721153939"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/behavioral-segmentation",
+   "earliest": "20220705205857"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/streamline-pipedrive-zapier-automation",
+   "earliest": "20190823020805"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-march-2021",
+   "earliest": "20210419095327"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-email-subject-lines",
+   "earliest": "20200509063402"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-playbook",
+   "earliest": "20200626212053"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-video-letter",
+   "earliest": "20220310140153"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-phone-solutions",
+   "earliest": "20190717062312"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/protect-data-pipedrive",
+   "earliest": "20190722093658"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/simple-sales-hack-to-profitability",
+   "earliest": "20190823064101"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/recurring-revenue",
+   "earliest": "20200509065549"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-management",
+   "earliest": "20190325225132"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/product-updates",
+   "earliest": "20220810075456"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/bad-sales-habits-impact-productivity",
+   "earliest": "20190823062816"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/call-tracking-arrives-for-ios-and-android-apps",
+   "earliest": "20190717062215"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/empty-your-pipeline-regularly-to-keep-deals-flowing",
+   "earliest": "20190826012744"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/management-hacks-sales-scenarios",
+   "earliest": "20190823031456"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/web-forms-updates",
+   "earliest": "20190823062606"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/page-in-preview/sell-more-time-saving",
+   "earliest": "20191218123635"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-lead-nurturing",
+   "earliest": "20210604080522"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-sales-deal",
+   "earliest": "20190905170021"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ineffective-sales-techniques",
+   "earliest": "20190826001336"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-october-2020",
+   "earliest": "20201101062306"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-guru",
+   "earliest": "20220217143937"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-sales-funnels",
+   "earliest": "20220516080308"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/in-app-mentions-announcement",
+   "earliest": "20210516223229"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/stop-losing-best-leads",
+   "earliest": "20190826002046"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-courses",
+   "earliest": "20220119042606"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-list-views-powerful-filtering-of-contacts-and-deals",
+   "earliest": "20190823025543"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-now-soc-2-certified",
+   "earliest": "20190823031543"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-opens-office-lisbon",
+   "earliest": "20190826003448"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/unique-selling-proposition",
+   "earliest": "20220705071054"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-journey-map-template",
+   "earliest": "20220714092104"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/accelerate-app-downloads-email-marketing",
+   "earliest": "20220516094005"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-habits",
+   "earliest": "20190823070601"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/duplicate-prevention",
+   "earliest": "20190823074031"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/free-sales-resource-sales-pipeline-template",
+   "earliest": "20190717065002"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sell-from-home",
+   "earliest": "20200509072920"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-tips-small-business",
+   "earliest": "20220325094112"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/channel-sales",
+   "earliest": "20201019083906"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-engagement-metrics",
+   "earliest": "20220516075836"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/dismissing-staff",
+   "earliest": "20190823022935"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-cities-for-sales",
+   "earliest": "20220805122854"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-interaction",
+   "earliest": "20220516082002"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/managing-customer-success-with-pipedrive-yesware",
+   "earliest": "20190721155453"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/5-years-100-people-and-lessons-learned",
+   "earliest": "20190823020943"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-survey",
+   "earliest": "20220810074619"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/migrate-salesforce-to-pipedrive",
+   "earliest": "20190214142141"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-calls-tactics-and-strategy",
+   "earliest": "20190826012403"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-january-may-2020",
+   "earliest": "20200524190443"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/4-tactics-to-finish-the-sales-year-and-start-the-new-year-strong",
+   "earliest": "20190826003815"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/400-emails-a-day-idonethis",
+   "earliest": "20190722184658"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/managing-sales-activities",
+   "earliest": "20190326004449"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/belkins-case-study",
+   "earliest": "20191022194935"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/snug-case-study",
+   "earliest": "20191210001926"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/women-in-marketing",
+   "earliest": "20220425093849"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/develop-train-sales-team",
+   "earliest": "20190826013235"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/b2b-lead-gen",
+   "earliest": "20190823065633"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/interview-terms-and-conditions-july-2021",
+   "earliest": "20210731015058"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-xero-integration",
+   "earliest": "20190823030217"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-zapier-multistep-zaps",
+   "earliest": "20190823064001"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-infographic",
+   "earliest": "20220516091345"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gdpr-email-marketing",
+   "earliest": "20190722181300"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/seamlessly-call-your-customers-from-pipedrive-with-the-kixie-integration",
+   "earliest": "20190823023620"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-conversation-starters-mistakes",
+   "earliest": "20190826004705"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/toky-pipedrive-make-receive-calls",
+   "earliest": "20190721153916"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/vista-equity-partners-make-majority-investment-pipedrive",
+   "earliest": "20201113061753"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-email-expert-tips",
+   "earliest": "20200626212201"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leon-leni-die-luchse-pipedrive-use-case",
+   "earliest": "20210419081303"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/improve-sales-process",
+   "earliest": "20190326011341"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-email-subject-lines",
+   "earliest": "20210205090040"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketing-email-vs-transactional-email",
+   "earliest": "20220516092817"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/truth-about-social-selling",
+   "earliest": "20190823022220"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-best-practices-expert-tips",
+   "earliest": "20220522231629"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/hiring-sales-people",
+   "earliest": "20200327213412"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/serving-small-businesses",
+   "earliest": "20190721145047"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/smb-sales-infographic",
+   "earliest": "20190823031747"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mass-email",
+   "earliest": "20220504134619"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/private-filters-aka-how-to-reduce-noise-in-your-filters-list",
+   "earliest": "20190721154045"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/financial-services-tech-stack",
+   "earliest": "20191218125959"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/8-steps-finding-perfect-salesperson-team",
+   "earliest": "20190823200027"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-enablement",
+   "earliest": "20190721144805"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-construction",
+   "earliest": "20201021051745"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/web-forms",
+   "earliest": "20201021044933"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/teach-pipedrive-new-tricks-with-zapier",
+   "earliest": "20190721152339"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/zendesk-integration-december-2021",
+   "earliest": "20211216113628"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-allowlist",
+   "earliest": "20220926070418"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/global-sales-performance-review",
+   "earliest": "20200626211950"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn-to-manage-your-sales-pipeline-in-4-minutes-video",
+   "earliest": "20190823020902"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-pop-culture-salespeople",
+   "earliest": "20190823025515"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-design-trends",
+   "earliest": "20220516081507"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/international-womens-day-unstoppable-maris-heinaru",
+   "earliest": "20190721150531"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/scheduling-tool",
+   "earliest": "20190326000540"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/experts-partners",
+   "earliest": "20190823062645"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/motivational-sales-quotes",
+   "earliest": "20190722100500"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-march-2021",
+   "earliest": "20210419103617"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pipeline-template",
+   "earliest": "20200626211717"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/april-fools-email",
+   "earliest": "20220516090958"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-march-2020",
+   "earliest": "20200327213417"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/buyer-persona",
+   "earliest": "20210720120923"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/multiple-contacts-activities",
+   "earliest": "20190826001307"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-improved-data-import",
+   "earliest": "20190823064958"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/what-is-crm",
+   "earliest": "20190722093906"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/you-can-now-upgrade-to-our-new-detail-views-and-smart-email-bcc",
+   "earliest": "20190717063911"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/subscription-to-newsletter",
+   "earliest": "20220516085422"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/industry-sales-pipeline",
+   "earliest": "20190823030824"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-do-lead-qualification-right",
+   "earliest": "20190823020723"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/advantages-crm",
+   "earliest": "20191116221904"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mobile-payments-provider-fortumo-closes-deals-faster",
+   "earliest": "20190722182540"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/predictable-revenue-hacks",
+   "earliest": "20190826001340"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/improve-sales-contests",
+   "earliest": "20190722184618"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-email-expert-tips-templates",
+   "earliest": "20190326005457"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/maintain-sales-momentum",
+   "earliest": "20190717065159"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/eye-hospital-denmark-case-study",
+   "earliest": "20190823024052"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/smart-docs-add-on-january-2022",
+   "earliest": "20220111111129"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gray-matters-case-study",
+   "earliest": "20200626223944"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/big-dog-solar-case-study",
+   "earliest": "20210303085139"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pipeline-tips-part-2",
+   "earliest": "20190826010105"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/esignatures-announcement",
+   "earliest": "20201202041740"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-courses",
+   "earliest": "20220503143227"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-migration",
+   "earliest": "20220106122452"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-generation-software",
+   "earliest": "20190823062757"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/workflow-automation-update-june-2021",
+   "earliest": "20210802065209"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-leadfeeder-integration-case-study",
+   "earliest": "20190620213648"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/ipad-productivity",
+   "earliest": "20210719125751"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/meddic-sales-process",
+   "earliest": "20201125084656"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-sales-reporting",
+   "earliest": "20190823071245"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-tax",
+   "earliest": "20220302153455"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-process-sales-teams",
+   "earliest": "20190326003652"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/solution-selling",
+   "earliest": "20200310183131"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-zapier-ad-tools",
+   "earliest": "20201122141731"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gross-sales-vs-net-sales",
+   "earliest": "20210419093542"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/are-electronic-signatures-legal",
+   "earliest": "20220216093103"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/professional-business-email-marketing-templates",
+   "earliest": "20220516084034"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-march-2019",
+   "earliest": "20190722102614"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/send-christmas-cards-using-pipedrive",
+   "earliest": "20190826005345"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/two-factor-authentication-email",
+   "earliest": "20220516080225"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-tips-customers-love-your-product",
+   "earliest": "20190826011159"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/docusign-integration-march-2022",
+   "earliest": "20220310105947"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-deliverability",
+   "earliest": "20220208183139"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-superstar-qualities",
+   "earliest": "20190326003656"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-enterprise-saas-b2b-startup-2015-pipedrive",
+   "earliest": "20190717063700"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-list-cost",
+   "earliest": "20220712103204"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/urbanstems-use-case-retail",
+   "earliest": "20190616172118"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/one-year-in-sales-according-to-data-infographic/",
+   "earliest": "20190326002533"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-influencer-marketing",
+   "earliest": "20190717062145"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/invoicing-pipedrive",
+   "earliest": "20210802162733"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketing-okrs",
+   "earliest": "20220818234530"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gdpr-compliance",
+   "earliest": "20190722181347"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/two-new-ways-to-look-at-deals",
+   "earliest": "20190823063145"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-proposal",
+   "earliest": "20200310181727"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-monthly-apps-spotlight-september-2021",
+   "earliest": "20210928131516"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-negotiation-what-not-to-say",
+   "earliest": "20190717070032"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/pipedrive/product-updates",
+   "earliest": "20190505123316"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-objectives-examples",
+   "earliest": "20191116223636"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/quotes-for-email-signature",
+   "earliest": "20220522224210"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/juicebar-case-study-leadbooster",
+   "earliest": "20210116034245"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-customer-service-teams-aligned",
+   "earliest": "20190721150543"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-productivity-app-for-simpleshow-pipedrive-is-project-management-software",
+   "earliest": "20190722183300"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-quotes",
+   "earliest": "20220325201022"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-dashboard-templates",
+   "earliest": "20190326011152"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-pop-ups",
+   "earliest": "20220516080950"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/event-invitation-email-template",
+   "earliest": "20220516093754"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/soft-skills",
+   "earliest": "20190826004712"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-volume-variance",
+   "earliest": "20210903114949"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-productivity-around-the-world/",
+   "earliest": "20190326002743"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-be-more-impactful-in-sales",
+   "earliest": "20190823071538"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/balance-your-sales-time",
+   "earliest": "20190823194722"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/healthcare-crm",
+   "earliest": "20201021044417"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-be-a-good-car-salesperson",
+   "earliest": "20210419102935"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-benchmark",
+   "earliest": "20220628155728"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/product-update-app-extensions",
+   "earliest": "20190823062843"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pitch",
+   "earliest": "20191116213514"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-coaching-101",
+   "earliest": "20190717070049"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-ethics",
+   "earliest": "20210116034142"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-sales-process",
+   "earliest": "20191209234508"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/tiffany-largie-case-study",
+   "earliest": "20191007031842"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crisis-management-sales",
+   "earliest": "20190823020921"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/employee-feedback",
+   "earliest": "20211124232035"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/coronavirus-email-personalization",
+   "earliest": "20200525190745"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-apps-spotlight-november",
+   "earliest": "20190823062543"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/business-email-announcements",
+   "earliest": "20220325214937"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-referrals-techniques",
+   "earliest": "20190722101932"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/50000-customers-taught-us-sales",
+   "earliest": "20190404181057"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-journey-sales-success",
+   "earliest": "20190823021327"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-home-services-case-study",
+   "earliest": "20190620072435"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/medical-sales",
+   "earliest": "20201019012027"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/responsive-website-examples",
+   "earliest": "20220919042439"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/inevent-case-study",
+   "earliest": "20190326000912"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-lessons-nbc-the-office",
+   "earliest": "20190823063742"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-experts-what-will-matter-sales-2017",
+   "earliest": "20190826003457"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-demo",
+   "earliest": "20201223100933"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/social-burro-case-study",
+   "earliest": "20210419082742"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/end-of-year-sales",
+   "earliest": "20210116023447"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-callmaker-integration",
+   "earliest": "20190620051838"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/promotional-email-examples",
+   "earliest": "20220407124258"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-lose-better-in-sales",
+   "earliest": "20190823033134"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-the-mixergy-team-got-more-organized-with-interviewee-booking-a-great-sales-video/",
+   "earliest": "20190326005010"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-make-a-deal",
+   "earliest": "20190721144722"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/360-feedback",
+   "earliest": "20220720100205"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/introducing-pipedrive-marketplace",
+   "earliest": "20190823021018"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/call-center-skills",
+   "earliest": "20190717062129"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/scale-up/case-studies",
+   "earliest": "20190505073953"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/consultancy-sales-stack",
+   "earliest": "20191209235321"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-january-2021",
+   "earliest": "20210222130049"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-december-2021",
+   "earliest": "20211229170519"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/flowbird-activedemand-case-study",
+   "earliest": "20191209235933"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/start-using-predefined-lost-reasons",
+   "earliest": "20190823020959"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-customizable-dashboards",
+   "earliest": "20190826010233"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pto-sales-marketing",
+   "earliest": "20211022202443"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/direct-response-selling-vs-storytelling",
+   "earliest": "20220420103513"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/social-crm",
+   "earliest": "20210508111940"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-strategy-techniques",
+   "earliest": "20220222090141"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-and-marketing",
+   "earliest": "20190826005847"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/delay-steps-workflow-automations",
+   "earliest": "20220628112704"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/spin-selling",
+   "earliest": "20191210115941"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/web-to-mobile-calling",
+   "earliest": "20201029143533"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mailchimp-pipedrive-pipechimp",
+   "earliest": "20190722101953"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-product-launch",
+   "earliest": "20220325123019"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/box-2-media-case-study",
+   "earliest": "20201125083954"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/scaling-business-globally",
+   "earliest": "20190326011327"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-promotion",
+   "earliest": "20210419093153"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/scale-sales-team-fast",
+   "earliest": "20190326000842"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/insights-update-october-2021",
+   "earliest": "20211101125537"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pipeline-fundamental-stages",
+   "earliest": "20190325225140"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/hardest-part-selling",
+   "earliest": "20191007031855"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/rookie-sales-mistakes-killing-performance",
+   "earliest": "20190823193522"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-august-2019",
+   "earliest": "20190823062901"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-december-2020",
+   "earliest": "20210113221827"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/web-visitors",
+   "earliest": "20201019194710"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mybanker-plecto-case-study",
+   "earliest": "20191218130011"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/reporting-data-actionable-results",
+   "earliest": "20190823023432"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/react-and-share-pointagram-case-study",
+   "earliest": "20191209233338"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-september-2021",
+   "earliest": "20211001101307"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-quiz",
+   "earliest": "20200626222926"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/prospecting-tactics-for-real-estate-agents",
+   "earliest": "20190826001641"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-gmail-add-on",
+   "earliest": "20200626222917"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/why-emails-go-to-spam",
+   "earliest": "20220218175821"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-june-2021",
+   "earliest": "20210706103033"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/challenger-sales-model",
+   "earliest": "20200213075841"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-increasing-sales-velocity-will-radically-improve-your-sales-results",
+   "earliest": "20190407043120"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/consultative-selling",
+   "earliest": "20190823022522"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-team-motivation",
+   "earliest": "20190326003701"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-copywriting-techniques",
+   "earliest": "20220516092643"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/long-term-relationship-sales",
+   "earliest": "20190722181236"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-year-sales-quotes",
+   "earliest": "20201231155457"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-forecasting-mistakes",
+   "earliest": "20190826003227"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-spam-words",
+   "earliest": "20220516075503"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/webforms-beta-even-better",
+   "earliest": "20190717065325"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-staff-resignations",
+   "earliest": "20190823195751"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-qualification-introduction",
+   "earliest": "20190823023651"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/send-more-emails-with-email-templates",
+   "earliest": "20190826004039"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gentec-electro-optics-simplicity-pipedrive",
+   "earliest": "20190823072908"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/productivity-tools-for-small-business-we-love-at-pipedrive",
+   "earliest": "20190823193534"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activedemand-maximize-conversions",
+   "earliest": "20190823020858"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/discovery-call",
+   "earliest": "20220527133404"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-cover-letter",
+   "earliest": "20200524013348"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/south-africans-best-closers-beating-usa-uk",
+   "earliest": "20190717062421"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sell-more-time-saving",
+   "earliest": "20190823195456"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/top-sales-podcasts",
+   "earliest": "20211015115113"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-vocabulary",
+   "earliest": "20190826002936"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/whats-new-pipedrive-mobile",
+   "earliest": "20190722185837"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-leads-when-to-give-up",
+   "earliest": "20190721152857"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-switch-crm",
+   "earliest": "20190823023543"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-close-sales-whatrunswhere-has-found-balance-between-being-relaxed-and-well-organized",
+   "earliest": "20190326005241"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/enterprise-software-sales",
+   "earliest": "20211203101728"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/scale-up/sales-process",
+   "earliest": "20190722094554"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-lifecycle-marketing",
+   "earliest": "20220409105359"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leads-inbox",
+   "earliest": "20200626211454"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/vindi-case-study",
+   "earliest": "20190717063427"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-become-a-sales-manager",
+   "earliest": "20190717070206"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-process",
+   "earliest": "20190707062031"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/time-saving-sales-management-tactics",
+   "earliest": "20190823065020"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/top-female-leaders-in-business",
+   "earliest": "20220422071152"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/abandoned-cart-email",
+   "earliest": "20220517183113"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-performance",
+   "earliest": "20190823033220"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-may-2021",
+   "earliest": "20210620213817"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-benefits",
+   "earliest": "20211022182055"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-metrics",
+   "earliest": "20220516074812"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-automation",
+   "earliest": "20190717062309"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-define-a-sales-pipeline-seamlessdocs-tracks-cold-warm-hot-leads-in-separate-pipelines",
+   "earliest": "20190326003949"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-consultants",
+   "earliest": "20191210000501"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/bbmg-outfunnel-case-study",
+   "earliest": "20191209232229"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-discovery-questions",
+   "earliest": "20211203125326"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-sell-a-new-product",
+   "earliest": "20220214174531"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/series-c-funding-pipedrive",
+   "earliest": "20190823030016"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-july-2021",
+   "earliest": "20210922134926"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gdpr-cold-calling",
+   "earliest": "20190721145109"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lifecycle-email-marketing",
+   "earliest": "20220516073737"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/eco-friendly-business-ideas",
+   "earliest": "20220427102147"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/tire-kickers",
+   "earliest": "20200813114622"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/campaigns-avoid-email-abuse",
+   "earliest": "20220926051507"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-april-2021",
+   "earliest": "20210504080027"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/whatsapp-for-business",
+   "earliest": "20220522230708"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/facebook-lead-generation",
+   "earliest": "20211203132258"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/agt-case-study",
+   "earliest": "20191116205357"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/rss-emails",
+   "earliest": "20220302202918"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-training",
+   "earliest": "20200211145158"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-november-2021",
+   "earliest": "20211202182944"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/zapier-case-study-railsware",
+   "earliest": "20190823031234"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/digital-marketing-course",
+   "earliest": "20220705212141"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-june-2019",
+   "earliest": "20190621141616"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/brand-story",
+   "earliest": "20220405094107"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/calldrip-pipedrive-help-scout-integration",
+   "earliest": "20190722183353"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/b2b-email-marketing-examples",
+   "earliest": "20220516091910"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-sales-mentor-advice",
+   "earliest": "20190717062259"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/we-chatted-to-dan-pink-the-author-of-to-sell-is-human",
+   "earliest": "20190721152256"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-years-resolutions-salespeople",
+   "earliest": "20190823193612"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/morale-boost-sales-team",
+   "earliest": "20190826001356"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-presentation",
+   "earliest": "20191218115638"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-quiz-february-2020",
+   "earliest": "20200229113042"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/seven-new-pipedrive-integrations",
+   "earliest": "20190717063701"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-receipt-template",
+   "earliest": "20220816161729"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pandadoc-pipedrive-integration",
+   "earliest": "20190826012855"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/interview-website-pop-up-terms-and-conditions-scheduler-july-2021",
+   "earliest": "20210922133928"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-journey",
+   "earliest": "20220610110836"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-december-2020",
+   "earliest": "20210116031826"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/were-moving-to-new-york-and-were-hiring",
+   "earliest": "20190722093838"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-make-money-from-hearing-nos",
+   "earliest": "20190722180946"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/define-ideal-prospect",
+   "earliest": "20190721152250"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-updated-plans-features",
+   "earliest": "20190823020905"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/finance-leads",
+   "earliest": "20191218125946"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/why-salespeople-fail",
+   "earliest": "20190722101839"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-build-a-sales-pipeline",
+   "earliest": "20190326011200"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gdpr-email-tracking",
+   "earliest": "20190722100332"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/excel-spreadsheets-to-crm",
+   "earliest": "20190823062618"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/day-view-in-mobile-calendars",
+   "earliest": "20190823063223"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/after-sales-service",
+   "earliest": "20220309112846"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-productivity-tools-reduce-admin",
+   "earliest": "20190722095550"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-broadcast-example",
+   "earliest": "20211220111215"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-data",
+   "earliest": "20200923065136"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/viral-email-marketing",
+   "earliest": "20220516085922"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/monterail-case-study",
+   "earliest": "20200626223933"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leadbooster-announcement",
+   "earliest": "20201021042714"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-report-templates",
+   "earliest": "20200813111858"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sendify-pipedrive-use-case",
+   "earliest": "20190717072019"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-resubscribe",
+   "earliest": "20220411140822"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cognitive-bias-sales",
+   "earliest": "20190826013518"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-email-templates",
+   "earliest": "20190326000806"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-calendar",
+   "earliest": "20201125075717"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/call-center-training",
+   "earliest": "20190717070220"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-design-for-detail-views",
+   "earliest": "20190717062326"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/dedupely-clean-data",
+   "earliest": "20190823070856"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/integrations-update-may-2017",
+   "earliest": "20190722093654"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/campaigns-email-marketing-to-get-more-clicks",
+   "earliest": "20220318035140"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-mobiles-nearby-view",
+   "earliest": "20190823022909"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-data-business-decisions",
+   "earliest": "20190722093819"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customizable-crm",
+   "earliest": "20210805142712"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activity-based-sales-incentives",
+   "earliest": "20190722141932"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-users-tricks-and-hacks",
+   "earliest": "20190826002455"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-march-2022",
+   "earliest": "20220405093138"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/define-sales-cycle-stages",
+   "earliest": "20190326004216"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-strategy",
+   "earliest": "20191007031850"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-copywriter",
+   "earliest": "20220128105527"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-august-2021",
+   "earliest": "20210902170728"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-meeting-ideas",
+   "earliest": "20190326011311"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/improve-sales/tools-tech",
+   "earliest": "20190505074711"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/stop-neglecting-hot-leads",
+   "earliest": "20190823062850"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/create-predictable-revenue-with-pipedrive-2016-sales-stack/",
+   "earliest": "20190326003216"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/performance-objective",
+   "earliest": "20220520103807"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/missed-sales-objectives",
+   "earliest": "20190826001239"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-zapier-working-remote",
+   "earliest": "20210116034540"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/coronavirus-adjusting-marketing-automation-messaging",
+   "earliest": "20200518035739"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/asking-feedback-email",
+   "earliest": "20220516091211"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-we-run-engineering-at-pipedrive",
+   "earliest": "20190322115430"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/book-review-the-introverts-edge-to-networking",
+   "earliest": "20210308123750"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/google-postmaster-tools",
+   "earliest": "20220516075337"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-use-pipedrive-to-get-media-coverage",
+   "earliest": "20190721151656"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/campaigns-alerts-and-tips",
+   "earliest": "20220919042439"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/welcome-email-examples",
+   "earliest": "20221001080056"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-a-crm-helps-a-news-organization-manage-their-whole-workflow",
+   "earliest": "20190717071928"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-timing-everything",
+   "earliest": "20190721151953"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-june-2022",
+   "earliest": "20220810082706"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/outreach-sales",
+   "earliest": "20210116030310"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/autopilot-instyle-solar-case-study",
+   "earliest": "20190826012429"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/state-of-sales-and-marketing",
+   "earliest": "20220609074442"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-prospect",
+   "earliest": "20191022185807"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-forecast",
+   "earliest": "20190722182150"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/google-web-fonts-in-email-newsletters",
+   "earliest": "20220318103025"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/trade-cold-leads-hot-leads",
+   "earliest": "20190326011407"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/measure-track-entire-sales-teams-performance",
+   "earliest": "20190823070241"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lunch-meeting",
+   "earliest": "20220211131046"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-google-meet-integration",
+   "earliest": "20210804120746"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-zapier-new-features",
+   "earliest": "20190722093647"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/workflow-data-vainu",
+   "earliest": "20190823025322"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/chatbot-source-page-drop-off-incomplete-lead-data",
+   "earliest": "20220716001456"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-startups",
+   "earliest": "20200626211725"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/financial-services-reporting",
+   "earliest": "20191218125941"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/campaigns-email-deliverability",
+   "earliest": "20220926071813"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/quality-sales-long-term-success",
+   "earliest": "20190823071607"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/contacts-timeline-follow-up-leads",
+   "earliest": "20190823073034"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-sales-teams",
+   "earliest": "20190917004702"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-email-tracking",
+   "earliest": "20190826001403"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/can-you-do-without-sales-pipeline",
+   "earliest": "20190721150103"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/keep-team-safe-covid-19",
+   "earliest": "20200507181509"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-crm-alternative-uses",
+   "earliest": "20190823065752"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-landing-pages",
+   "earliest": "20220516092754"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/flip-your-phone-landscape-view-arrives-on-ios",
+   "earliest": "20190721153558"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/happy-new-year-email-template",
+   "earliest": "20220122092654"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/prospectio-four-pillars-automate",
+   "earliest": "20190717062232"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/scale-up/data-management",
+   "earliest": "20190722094142"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-is-opening-an-office-in-tartu",
+   "earliest": "20190717065741"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-career",
+   "earliest": "20190826002909"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/women-in-sales",
+   "earliest": "20220308121944"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/psychological-selling-guide",
+   "earliest": "20200526094014"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/fire-salesperson",
+   "earliest": "20190826002050"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/state-of-sales-2019-2020",
+   "earliest": "20210620215001"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/getaccept-lead-nurturing",
+   "earliest": "20190823062839"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/power-killer-sales-process",
+   "earliest": "20190717070209"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/achieve-sales-goals",
+   "earliest": "20190826012849"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/account-managers-customer-experience",
+   "earliest": "20190823025908"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/esignature-upgrade-2022",
+   "earliest": "20221001013154"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-may-2020",
+   "earliest": "20200626212121"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-operations-managers-responsibilities",
+   "earliest": "20190917010846"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/talent-savant-case-study",
+   "earliest": "20190326000925"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-collateral",
+   "earliest": "20210315071653"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-performance-measurement",
+   "earliest": "20190722184210"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/introducing-pipedrive-academy",
+   "earliest": "20190717062238"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/web-visitors-prospector-credits-january-2022",
+   "earliest": "20220124164357"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/nirmal-prospectio-case-study",
+   "earliest": "20191209232646"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-metrics",
+   "earliest": "20190823025007"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lessons-learned-from-y-combinator-and-seedcamp-1",
+   "earliest": "20190823020948"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/overcoming-sales-objections",
+   "earliest": "20190826002948"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-plan",
+   "earliest": "20200626224200"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/workflow-automation",
+   "earliest": "20190326001026"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-build-a-sales-calendar-using-block-logic",
+   "earliest": "20190826013446"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/go-to-market-strategy",
+   "earliest": "20220226071411"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-manage-sales-3-big-mistakes-to-avoid",
+   "earliest": "20190722181407"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-email-filters",
+   "earliest": "20190620063913"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/secret-santa-email-template",
+   "earliest": "20220705223701"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-list-value-quality-vs-quantity",
+   "earliest": "20220516182310"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/fear-of-rejection-in-sales",
+   "earliest": "20190826011652"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/newsletter-open-rate",
+   "earliest": "20220516094331"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-certification",
+   "earliest": "20220602113440"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/automation-history-workflow-automations",
+   "earliest": "20220715215018"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/look-up-email",
+   "earliest": "20220128102249"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/financial-crisis-sales",
+   "earliest": "20200509064529"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-tools-for-modern-email-warriors",
+   "earliest": "20190823022700"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leads-on-mobile",
+   "earliest": "20220721091031"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-september-2020",
+   "earliest": "20201024124220"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/facebook-pipedrive-zapier",
+   "earliest": "20190717064257"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketing-calendar",
+   "earliest": "20211222140037"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-april-2022",
+   "earliest": "20220522234552"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/intercom-app",
+   "earliest": "20190823072022"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/framery-pipedrive-leadfeeder",
+   "earliest": "20190717070009"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/missed-sales-quota",
+   "earliest": "20190826010052"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-call-planning",
+   "earliest": "20190722180927"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/b2b-sales-b2c-sales",
+   "earliest": "20201224030424"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/required-fields",
+   "earliest": "20200626211729"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/reviving-cold-leads",
+   "earliest": "20190823062919"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/the-blackties-case-study",
+   "earliest": "20190905170034"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/whats-the-best-weekday-to-sell-infographic/",
+   "earliest": "20190326003002"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/welcome-email-series",
+   "earliest": "20220518103957"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/behavioral-segmentation-marketing",
+   "earliest": "20220429112315"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/time-saving",
+   "earliest": "20220725104440"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/financial-services-crm",
+   "earliest": "20191218125956"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/high-performance-work-system",
+   "earliest": "20220426073806"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activity-based-selling/",
+   "earliest": "20190326002306"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-incentives",
+   "earliest": "20200626224204"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-bloggers",
+   "earliest": "20220315145359"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-sols-uses-pipedrive-yesware",
+   "earliest": "20190717065929"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/proprilib-case-study",
+   "earliest": "20200626223959"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-september-2019",
+   "earliest": "20190917001627"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-css-rendering",
+   "earliest": "20220516093928"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/keys-to-closing-deals",
+   "earliest": "20190722184012"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-trello-integration",
+   "earliest": "20190717062118"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-july-2019",
+   "earliest": "20190823073850"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/determine-customers-pain-points",
+   "earliest": "20190823022746"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-close-a-sale",
+   "earliest": "20211114080747"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/setting-sales-goals",
+   "earliest": "20190823025815"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/top-10-pipedrive-integrations",
+   "earliest": "20190717064652"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-digital-age-pipedrive-tech-open-air-berlin",
+   "earliest": "20190721155614"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-use-pipedrive-for-recruiting",
+   "earliest": "20190722094638"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/third-party-email-lists",
+   "earliest": "20220329075231"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-cities-for-marketing",
+   "earliest": "20220920151817"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/facebook-messenger-for-business",
+   "earliest": "20220516090305"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-format-an-email",
+   "earliest": "20220517174441"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-apps-spotlight-lead-generation",
+   "earliest": "20190823020821"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-pipedrive-api-reference",
+   "earliest": "20190823021025"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/dont-let-rejections-affect-your-sales",
+   "earliest": "20190721145821"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/protect-your-account-two-factor-authentication",
+   "earliest": "20211103143931"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/dmarc-policy-email",
+   "earliest": "20220517172828"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-apps-spotlight-february-2019",
+   "earliest": "20190722102542"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipeline-management-tips-real-estate",
+   "earliest": "20190823021844"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cyber-monday-email",
+   "earliest": "20220119043503"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/improve-productivity-crm",
+   "earliest": "20210826020248"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/product-update-related-organizations-list-view-improvements-and-more",
+   "earliest": "20190722093909"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/confirmation-email-templates",
+   "earliest": "20220516093121"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mckeon-group-case-study",
+   "earliest": "20201016142700"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-click-through-rate",
+   "earliest": "20220516083001"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/simplify-sales-process",
+   "earliest": "20190826001841"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-full-email-sync",
+   "earliest": "20190823025318"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-development-rep",
+   "earliest": "20210305092013"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leadbooster-prospector-free-credits-november-2021",
+   "earliest": "20211109133446"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/reminder-email-samples",
+   "earliest": "20220516073450"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/okr-for-sales",
+   "earliest": "20220627081659"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/recurring-revenue-announcement",
+   "earliest": "20200512055554"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/security-center-announcement",
+   "earliest": "20200526055814"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-february-2020",
+   "earliest": "20200310181732"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-competition-plecto",
+   "earliest": "20190721151023"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/4-steps-for-getting-out-of-the-short-term-focus-trap",
+   "earliest": "20190721150755"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-marketing-ideas",
+   "earliest": "20220705220743"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/creative-content-marketing",
+   "earliest": "20220407170359"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/september-2017-product-update",
+   "earliest": "20190823020732"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/8-tips-next-level-sales-forecasting",
+   "earliest": "20190826002420"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-success-falcon-social",
+   "earliest": "20190326004001"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-write-promotional-emails",
+   "earliest": "20220516091105"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-sensitive-sales-deals",
+   "earliest": "20190717063431"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/9-most-common-transactional-email-templates-examples",
+   "earliest": "20220325075401"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-july-2020",
+   "earliest": "20200813121450"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-email-templates",
+   "earliest": "20200626222754"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/phone-sales-tips",
+   "earliest": "20210227102222"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activity-invites-get-everyone-page",
+   "earliest": "20190823073141"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/scale-sales-team-growth",
+   "earliest": "20190917002750"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/leadfeeder-automation-pipedrive",
+   "earliest": "20190826001226"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/top-5-zaps-pipedrive",
+   "earliest": "20190823022351"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/know-your-leads-smart-contact-data",
+   "earliest": "20190823030232"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/the-digital-age-sales",
+   "earliest": "20190826013206"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/get-the-redesigned-pipedrive-android-app",
+   "earliest": "20190722103816"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/zaps-cut-hours-admin-sales-process",
+   "earliest": "20190823194859"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-objectives-to-track",
+   "earliest": "20190721145303"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/social-media-activity-based-selling",
+   "earliest": "20190826001311"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-tactics",
+   "earliest": "20200626212125"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-october-2020",
+   "earliest": "20201021045404"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/6-deadly-mistakes-great-salespeople-avoid",
+   "earliest": "20190826013327"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-march-2022",
+   "earliest": "20220331092936"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/rms-case-study",
+   "earliest": "20201021051643"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/traveling-sales-jobs",
+   "earliest": "20190823073050"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activities-performance-insights",
+   "earliest": "20200923065914"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/facebook-sign-up-form",
+   "earliest": "20220517164326"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-and-business-development",
+   "earliest": "20211117102549"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/global-search-update",
+   "earliest": "20190823063100"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activity-cross-item-columns",
+   "earliest": "20190721154948"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/the-art-of-selling",
+   "earliest": "20220222084114"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/smart-docs-pro-basics-2021",
+   "earliest": "20210419102457"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-activity-scheduler",
+   "earliest": "20190826004942"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-experience",
+   "earliest": "20220408103700"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-qualify-leads",
+   "earliest": "20190823031955"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-interview-max-altschuler",
+   "earliest": "20190823062753"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/asking-sales-questions",
+   "earliest": "20190717071338"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/expanish-case-study",
+   "earliest": "20200813113425"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-olympics",
+   "earliest": "20190823030037"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-email-search",
+   "earliest": "20190616182548"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/increase-email-open-rates",
+   "earliest": "20220516085500"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-management",
+   "earliest": "20220814050230"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/messaging-inbox-facebook-whatsapp-messenger-integration",
+   "earliest": "20220516012352"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/types-of-email",
+   "earliest": "20220204234015"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/value-proposition-in-marketing-and-sales",
+   "earliest": "20211022191931"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-crm",
+   "earliest": "20201117002647"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-vs-erp",
+   "earliest": "20201021040418"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/chatbots-sales",
+   "earliest": "20190722185800"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-get-email-addresses",
+   "earliest": "20220915120112"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-management-courses",
+   "earliest": "20220517125922"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-smart-email-bcc-and-detail-views",
+   "earliest": "20190722102126"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-360services-uses-weekly-metrics-to-create-a-culture-of-long-term-success",
+   "earliest": "20190326004445"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-for-small-business",
+   "earliest": "20200626212028"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/accentuate-case-study-web-design-crm",
+   "earliest": "20210308122458"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-funnel",
+   "earliest": "20190325225144"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/close-the-feedback-loop-with-dapulse",
+   "earliest": "20190722184852"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/target-mailing-lists",
+   "earliest": "20220516090850"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/case-study-jachete-en-espagne",
+   "earliest": "20201029141447"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-conversion-rates",
+   "earliest": "20220222122849"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/does-capitalization-matter-in-email",
+   "earliest": "20220516181238"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-drip-campaign-examples",
+   "earliest": "20220516184815"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-create-personalized-emails",
+   "earliest": "20220516182815"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/when-how-adjust-sales-forecast",
+   "earliest": "20190717062256"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/inside-sales-vs-outside-sales",
+   "earliest": "20191210115747"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/apology-email-to-customers",
+   "earliest": "20220427022051"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-integrations-october-2017",
+   "earliest": "20190722181845"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-january-2020",
+   "earliest": "20200310183122"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-deck-templates",
+   "earliest": "20220215013119"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/360-payments-case-study",
+   "earliest": "20190722100614"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/deals-app-global-permissions",
+   "earliest": "20221001023708"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-sales-organization-covid-19",
+   "earliest": "20200509052319"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/convince-your-boss-crm",
+   "earliest": "20190721151140"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/what-is-a-confirmation-email",
+   "earliest": "20220516092437"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-funnel-templates",
+   "earliest": "20200813120828"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/happened-2017-pipedrive-product-update",
+   "earliest": "20190823062637"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-statistics",
+   "earliest": "20190823020940"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/4-things-that-stop-clients-from-signing-your-sales-proposals",
+   "earliest": "20190721144956"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/trigger-emails",
+   "earliest": "20220313044841"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/product-update-email-templates-merge-fields",
+   "earliest": "20190326000953"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-prospecting",
+   "earliest": "20191209234930"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-january-2022",
+   "earliest": "20220202083804"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-pipedrive-sales-team-uses-chatbot",
+   "earliest": "20201021053105"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-reporting",
+   "earliest": "20190722181119"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/custom-columns-per-filter",
+   "earliest": "20190823064936"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/feedback-to-manager-examples",
+   "earliest": "20220121101724"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/re-engagement-email-examples",
+   "earliest": "20220516090413"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-quota-close-2016-start-2017",
+   "earliest": "20190823062912"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/streamline-sales-pipedrive-automations",
+   "earliest": "20190826001655"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-interview-andrea-waltz",
+   "earliest": "20190823063504"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/overcoming-tricky-sales-situations",
+   "earliest": "20190823023759"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/incremental-sales",
+   "earliest": "20210922150431"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-may-2021",
+   "earliest": "20210526103859"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-sales-interview-questions-answers",
+   "earliest": "20190326000856"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-administrator-tactics",
+   "earliest": "20190823030831"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-territory-management",
+   "earliest": "20210620211742"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/web-visitor-tracking",
+   "earliest": "20201021054130"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sobtic-case-study",
+   "earliest": "20190717070623"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-order-form-templates",
+   "earliest": "20210421112810"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lead-qualification",
+   "earliest": "20190823021653"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-october-2021",
+   "earliest": "20211105090725"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/activity-notifications-mobile-apps",
+   "earliest": "20190826001600"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-trends",
+   "earliest": "20200923074521"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/what-is-a-sales-pipeline",
+   "earliest": "20190826003129"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/salesforce-diversity",
+   "earliest": "20220601212853"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/setting-annual-sales-goals",
+   "earliest": "20190823211512"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-marketplace-monthly-apps-spotlight-july-2020",
+   "earliest": "20200813110454"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cold-calling-scripts",
+   "earliest": "20190326002525"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/black-friday-email",
+   "earliest": "20211126011438"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mental-load",
+   "earliest": "20211101155747"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-customizable-email-signature",
+   "earliest": "20190823030807"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-terms",
+   "earliest": "20220608155046"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/marketplace-apps-spotlight-october-2019",
+   "earliest": "20191116212805"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-2020",
+   "earliest": "20210116032322"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-pipeline-health",
+   "earliest": "20190722185010"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/push-notifications-announcement",
+   "earliest": "20200509044140"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-manage-your-sales-team",
+   "earliest": "20190722182102"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-task-management",
+   "earliest": "20191209232056"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/customer-success-manager",
+   "earliest": "20200923064901"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/improve-sales",
+   "earliest": "20191215152655"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/fibersals-case-study",
+   "earliest": "20200626223937"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-cliches",
+   "earliest": "20190722180931"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/call-center-hiring",
+   "earliest": "20190717062153"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cloud-based-crm",
+   "earliest": "20200626223351"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-use-cases",
+   "earliest": "20190823065744"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/scale-up/team-management",
+   "earliest": "20190722101351"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-coaching-software",
+   "earliest": "20211115142006"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/3-strategies-5-minute-phone-sale-challenge",
+   "earliest": "20190722181229"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-february-2022",
+   "earliest": "20220303113644"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/managing-details-pages-just-became-lot-easier",
+   "earliest": "20190721144745"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/manage-data-protection",
+   "earliest": "20190721144815"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/gdpr-usa-guide",
+   "earliest": "20190823024847"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-june-2020",
+   "earliest": "20200626212133"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-software-comparison",
+   "earliest": "20191116213728"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-february-2021",
+   "earliest": "20210304114940"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-team-organizational-structure",
+   "earliest": "20190823022234"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/introducing-new-dashboard",
+   "earliest": "20190717062242"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/four-day-week-sales-marketing",
+   "earliest": "20200813113459"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/spam-filters-email",
+   "earliest": "20220516091512"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-list-hygiene",
+   "earliest": "20220516093813"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/brexit-eu-uk-sales",
+   "earliest": "20210419082643"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-platinum-plan",
+   "earliest": "20190326001010"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-august-2022",
+   "earliest": "20221001030006"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-software-reviews",
+   "earliest": "20190326011355"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/feature-release-new-mail-user-interface",
+   "earliest": "20190823023806"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/learn/scale-up",
+   "earliest": "20190505064255"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/lessons-learned-from-y-combinator-and-seedcamp-2",
+   "earliest": "20190823063953"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/selbermakler-pipedrive-use-case",
+   "earliest": "20190826013031"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-metrics-that-matter",
+   "earliest": "20190326004440"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-activity-calendar-view",
+   "earliest": "20190823062827"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/avoid-trap-busy-sales-people",
+   "earliest": "20190823020741"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/responsive-email-editor",
+   "earliest": "20220808174129"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/relationship-selling",
+   "earliest": "20210308121459"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/community-announcement",
+   "earliest": "20200327213650"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/motivational-quotes",
+   "earliest": "20190722093623"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/cyber-security-culture",
+   "earliest": "20190823073620"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/new-improved-list-views",
+   "earliest": "20190823020851"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/juicebar-case-study-pipedrive-advanced",
+   "earliest": "20210620213625"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-methodology",
+   "earliest": "20191116223248"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-lists",
+   "earliest": "20220516074040"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/reassure-customers-covid-19",
+   "earliest": "20200327213405"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-in-numbers-and-in-other-curious-factoids-infographic",
+   "earliest": "20190721150248"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-size-limits",
+   "earliest": "20220516085344"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-unsubscribe-link",
+   "earliest": "20220408045838"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-call-management",
+   "earliest": "20190717065248"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-july-2021",
+   "earliest": "20210728122526"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/value-chain-analysis",
+   "earliest": "20200626222812"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-and-google-calendar-integration-receives-a-comprehensive-update",
+   "earliest": "20190721153737"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/website-ai-chatbot-sales",
+   "earliest": "20190823031602"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/scheduler-video-calls",
+   "earliest": "20210519124309"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/return-on-sales-ratio",
+   "earliest": "20210617080220"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-blast",
+   "earliest": "20211223144334"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/health-of-your-sales-pipeline",
+   "earliest": "20190823021707"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/best-sales-movies",
+   "earliest": "20190823020712"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/financial-services-forecasting",
+   "earliest": "20191218130016"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sharpen-your-soft-skills",
+   "earliest": "20210706120222"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/crm-preparing-gdpr",
+   "earliest": "20190722180911"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/goals-now-in-insights",
+   "earliest": "20210116034344"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/mixcloud-uses-pipedrive-to-ask-better-business-questions-and-find-the-answers",
+   "earliest": "20190721153848"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-engineer-salary-job-description",
+   "earliest": "20210308130847"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-forecasting-techniques",
+   "earliest": "20190722181219"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/real-estate-cold-calling",
+   "earliest": "20191209234249"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/zoom-crm-integration-update",
+   "earliest": "20201029143728"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-delivery",
+   "earliest": "20220516091242"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/pipedrive-updates-april-2021",
+   "earliest": "20210409104136"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/email-marketing-mistakes",
+   "earliest": "20220516093910"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/conducting-annual-sales-review",
+   "earliest": "20190823030750"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/video-email",
+   "earliest": "20220926064228"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-goals-that-bring-double-digit-growth",
+   "earliest": "20190326002953"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/calculate-how-tough-you-are-with-the-no-calculator",
+   "earliest": "20190721152418"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/unleash-social-selling",
+   "earliest": "20190722182025"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/nj-media-case-study",
+   "earliest": "20200626223940"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/how-to-manage-your-email-list",
+   "earliest": "20220516082624"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-tracking",
+   "earliest": "20190826011850"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/thiago-goncalves-loyalty-beyond-black-friday",
+   "earliest": "20201201083939"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sharable-dashboards-reports",
+   "earliest": "20210419082901"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/definitive-guide-combating-procrastination",
+   "earliest": "20190823062738"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-docs",
+   "earliest": "20200923061618"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/save-sales-quarter-2",
+   "earliest": "20190826001905"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/a-little-secret-and-a-thin-book-to-help-you-sell-more",
+   "earliest": "20190823031606"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/responsive-email-designs",
+   "earliest": "20220516081150"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-targets-what-to-do-when-you-are-not-hitting-them",
+   "earliest": "20190823201944"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/scratchpay-kixie-case-study",
+   "earliest": "20191218130003"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/zapier-alternatives-sales-workflows",
+   "earliest": "20190823203517"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/blog/sales-skills",
+   "earliest": "20220526140538"
+  }
+ ]
+}
