@@ -2,8 +2,11 @@ name: VS-001 validation study
 on:
   workflow_dispatch:
     inputs:
+      model:
+        description: "generate only: model ID for the Anthropic API"
+        default: "claude-sonnet-4-5"
       job:
-        description: "sample (CDX lists), fetch (human articles), check (run checkers), all"
+        description: "sample (CDX lists), fetch (human articles), generate (AI articles via API), check (run checkers), all"
         required: true
         default: all
 permissions:
@@ -36,6 +39,10 @@ jobs:
       - name: Build AI prompts
         if: inputs.job == 'fetch' || inputs.job == 'all'
         run: node prompts.mjs
+      - name: Generate AI articles (Anthropic API, Appendix B prompt only)
+        if: inputs.job == 'generate'
+        env: {ANTHROPIC_API_KEY: "${{ secrets.ANTHROPIC_API_KEY }}"}
+        run: node generate.mjs --provider anthropic --model "${{ inputs.model || 'claude-sonnet-4-5' }}" --label claude
       - name: Run checkers
         if: inputs.job == 'check' || inputs.job == 'all'
         run: |
