@@ -4,6 +4,20 @@ Open skills for Claude and other AI assistants that help you measure and check h
 
 Most GEO tools give you a score. These skills give you counts you can trace back to data, say how sure the data lets you be, and grade every tactic by the evidence behind it. None of them promise that a business will be named, and none of them use hidden instructions or tricks aimed at AI systems.
 
+## See it work
+
+The answer log analyzer on its worked example (a fictional Dublin accounting firm, 108 logged answers a month on three engines):
+
+| Engine | Named, September | Named, October |
+|---|---|---|
+| chatgpt | 28% (16-44%), n=36 | 33% (20-50%), n=36 |
+| copilot | 14% (6-29%), n=36 | 19% (10-35%), n=36 |
+| perplexity | 31% (18-47%), n=36 | 47% (32-63%), n=36 |
+
+A nearly 17-point jump on one engine, and the report says it is not outside the noise. That is the point of these skills: counts with ranges, not a score. Full output: [answer-log-analyzer/examples/example-report.md](answer-log-analyzer/examples/example-report.md).
+
+If a skill saves you time, star the repo. Stars are how other people find it.
+
 ## Skills
 
 | Skill | What it does | Needs |
