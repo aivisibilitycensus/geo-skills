@@ -1,0 +1,3807 @@
+{
+ "blog": "canva.com/learn",
+ "group": "Software and productivity",
+ "reserve": true,
+ "cdxRows": 1288,
+ "articleLike": 949,
+ "queriedAt": "2026-11-04T03:40:47.498Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.canva.com/learn/how-to-make-website-canva/",
+   "earliest": "20220929182515"
+  },
+  {
+   "url": "https://www.canva.com/learn/principle-of-scale-in-graphic-design/",
+   "earliest": "20190819210318"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-a-storyboard/",
+   "earliest": "20190822180644"
+  },
+  {
+   "url": "https://www.canva.com/learn/mothers-day-quotes/",
+   "earliest": "20220630174652"
+  },
+  {
+   "url": "https://www.canva.com/learn/25-most-beautiful-places-winter-landscape-photography/",
+   "earliest": "20190102144817"
+  },
+  {
+   "url": "https://www.canva.com/learn/typeface-fonts/",
+   "earliest": "20190119021759"
+  },
+  {
+   "url": "https://www.canva.com/learn/five-things-that-creative-people-do/",
+   "earliest": "20190308071739"
+  },
+  {
+   "url": "https://www.canva.com/learn/back-to-school-activities-engage-students/",
+   "earliest": "20221002035843"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-pinterest-content-that-lands-with-any-audience/",
+   "earliest": "20190719142408"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-pinterest-marketing/",
+   "earliest": "20190719211438"
+  },
+  {
+   "url": "https://www.canva.com/learn/customer-loyalty/",
+   "earliest": "20220630163547"
+  },
+  {
+   "url": "https://www.canva.com/learn/first-pride-parade-tips/",
+   "earliest": "20220630171329"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-use-tik-tok/",
+   "earliest": "20220701113339"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-web-design-trends-will-never-go-style/",
+   "earliest": "20190819204254"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-choose-website-color-scheme/",
+   "earliest": "20190907062903"
+  },
+  {
+   "url": "https://www.canva.com/learn/featured-designer-jack-zerby/",
+   "earliest": "20190920074650"
+  },
+  {
+   "url": "https://www.canva.com/learn/pitch-deck-examples/",
+   "earliest": "20210715061136"
+  },
+  {
+   "url": "https://www.canva.com/learn/facebook-page-design/",
+   "earliest": "20190820040926"
+  },
+  {
+   "url": "https://www.canva.com/learn/get-shooting-blue-hour/",
+   "earliest": "20190722182516"
+  },
+  {
+   "url": "https://www.canva.com/learn/logo-trends/",
+   "earliest": "20200926220643"
+  },
+  {
+   "url": "https://www.canva.com/learn/responsive-web-design/",
+   "earliest": "20190818130910"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/fonts-colors-images/",
+   "earliest": "20190823064652"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-simple-ways-instantly-jazz-brands-instagram-feed/",
+   "earliest": "20190819143211"
+  },
+  {
+   "url": "https://www.canva.com/learn/font-pairing-basics/",
+   "earliest": "20190404175926"
+  },
+  {
+   "url": "https://www.canva.com/learn/contributor-conversations-joshua-resnick/",
+   "earliest": "20190722182754"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-designing-cute-quote-graphics/",
+   "earliest": "20190818215403"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-communication-is-a-must-have-skill-for-future-managers/",
+   "earliest": "20200921135847"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-marketing-funnels-work/",
+   "earliest": "20190722182618"
+  },
+  {
+   "url": "https://www.canva.com/learn/makes-good-book-cover/",
+   "earliest": "20190707104603"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-steps-to-constructive-teacher-parent-communication/",
+   "earliest": "20200923020029"
+  },
+  {
+   "url": "https://www.canva.com/learn/70-awesome-design-boards-follow-pinterest/",
+   "earliest": "20190920223944"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-tips-help-get-drone-photography/",
+   "earliest": "20210921171253"
+  },
+  {
+   "url": "https://www.canva.com/learn/flipgrid-integration/",
+   "earliest": "20220118010224"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-instagram-marketing-strategy/",
+   "earliest": "20190722075202"
+  },
+  {
+   "url": "https://www.canva.com/learn/vintage-typography/",
+   "earliest": "20190819144434"
+  },
+  {
+   "url": "https://www.canva.com/learn/average-brand-face/",
+   "earliest": "20191113015604"
+  },
+  {
+   "url": "https://www.canva.com/learn/self-publish-book/",
+   "earliest": "20200809113923"
+  },
+  {
+   "url": "https://www.canva.com/learn/footer-design/",
+   "earliest": "20200924043811"
+  },
+  {
+   "url": "https://www.canva.com/learn/branding-templates/",
+   "earliest": "20190610191338"
+  },
+  {
+   "url": "https://www.canva.com/learn/get-wind-breathtaking-cloud-photos-shoot/",
+   "earliest": "20191105014756"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-use-photo-filters-to-enhance-your-images/",
+   "earliest": "20190722095446"
+  },
+  {
+   "url": "https://www.canva.com/learn/make-visual-assets/",
+   "earliest": "20201026041143"
+  },
+  {
+   "url": "https://www.canva.com/learn/portrait-photography/",
+   "earliest": "20200926073515"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-a-marketing-plan-for-your-business/",
+   "earliest": "20190818073820"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-photo-series-inspire-can-make/",
+   "earliest": "20190719122548"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-youtube-intro-video/",
+   "earliest": "20201123170928"
+  },
+  {
+   "url": "https://www.canva.com/learn/beginner-guide-instagram-reels/",
+   "earliest": "20220718024641"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-training-videos/",
+   "earliest": "20221002025632"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-stunning-instagram-travel-photographers/",
+   "earliest": "20190717003616"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-infographics/",
+   "earliest": "20190821224443"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-effective-schedule/",
+   "earliest": "20190724043726"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-insights-from-global-software-company-kayako/",
+   "earliest": "20190821223449"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-design-build-personal-brand/",
+   "earliest": "20190920081213"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-strong-photography-portfolio-attract-clients/",
+   "earliest": "20190721084221"
+  },
+  {
+   "url": "https://www.canva.com/learn/flow-and-rhythm/",
+   "earliest": "20200119234850"
+  },
+  {
+   "url": "https://www.canva.com/learn/resume-fonts/",
+   "earliest": "20190628135217"
+  },
+  {
+   "url": "https://www.canva.com/learn/web-banner-ads/",
+   "earliest": "20190703182948"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-personality/",
+   "earliest": "20190723032413"
+  },
+  {
+   "url": "https://www.canva.com/learn/building-instagram-following-martha-stewart-feature/",
+   "earliest": "20201027085226"
+  },
+  {
+   "url": "https://www.canva.com/learn/red-means/",
+   "earliest": "20190404184839"
+  },
+  {
+   "url": "https://www.canva.com/learn/stand-out-pop-up-shop/",
+   "earliest": "20220630174244"
+  },
+  {
+   "url": "https://www.canva.com/learn/tints-and-shades/",
+   "earliest": "20190721171203"
+  },
+  {
+   "url": "https://www.canva.com/learn/call-to-action-button/",
+   "earliest": "20190513231728"
+  },
+  {
+   "url": "https://www.canva.com/learn/art-evangelism/",
+   "earliest": "20190321145120"
+  },
+  {
+   "url": "https://www.canva.com/learn/struggling-shoot-snow-7-tips-master-winter-photography/",
+   "earliest": "20190502083343"
+  },
+  {
+   "url": "https://www.canva.com/learn/jobs-and-career/",
+   "earliest": "20190716085308"
+  },
+  {
+   "url": "https://www.canva.com/learn/creativity-and-psychology/",
+   "earliest": "20190426132742"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-ways-achieve-beautiful-bokeh-effect-photos-stunning-examples/",
+   "earliest": "20190724005652"
+  },
+  {
+   "url": "https://www.canva.com/learn/seize-moment-6-reasons-timing-important-street-photography/",
+   "earliest": "20201027161135"
+  },
+  {
+   "url": "https://www.canva.com/learn/modern-day-invitation-etiquette/",
+   "earliest": "20190330051312"
+  },
+  {
+   "url": "https://www.canva.com/learn/intro-white-balance-important-photography/",
+   "earliest": "20211019192655"
+  },
+  {
+   "url": "https://www.canva.com/learn/background-remover/",
+   "earliest": "20201202120728"
+  },
+  {
+   "url": "https://www.canva.com/learn/effective-design-brief/",
+   "earliest": "20190518154624"
+  },
+  {
+   "url": "https://www.canva.com/learn/fashion-photography/",
+   "earliest": "20200925141437"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-number/",
+   "earliest": "20190823094420"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-trends-try-2020/",
+   "earliest": "20191014184051"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-is-brand-equity/",
+   "earliest": "20190326062013"
+  },
+  {
+   "url": "https://www.canva.com/learn/cover-letter-examples/",
+   "earliest": "20210613224102"
+  },
+  {
+   "url": "https://www.canva.com/learn/back-to-school-brainstorm-students-thinking-after-break/",
+   "earliest": "20221002034546"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-one-nonprofit-uses-data-and-design-to-build-a-brighter-future-for-la/",
+   "earliest": "20200813045019"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-magically-surreal-photographs-using-double-exposure/",
+   "earliest": "20190822155210"
+  },
+  {
+   "url": "https://www.canva.com/learn/worlds-recognizable-brand-logos/",
+   "earliest": "20190426052312"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/branding-basics/",
+   "earliest": "20190823070804"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-school/",
+   "earliest": "20190206131856"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-free-commercial-fonts/",
+   "earliest": "20190330130043"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-complete-guide-to-designing-your-youtube-channel/",
+   "earliest": "20190826053304"
+  },
+  {
+   "url": "https://www.canva.com/learn/real-estate-marketing/",
+   "earliest": "20211208191719"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-network/",
+   "earliest": "20220527225231"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-instagram-stories-brand/",
+   "earliest": "20190520051749"
+  },
+  {
+   "url": "https://www.canva.com/learn/19-low-budget-marketing-ideas/",
+   "earliest": "20190723200322"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/put-stamp-history/",
+   "earliest": "20190823074913"
+  },
+  {
+   "url": "https://www.canva.com/learn/real-estate-social-ideas/",
+   "earliest": "20211025230601"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-new-every-day/",
+   "earliest": "20190920223559"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-inspiration-from-art-movements/",
+   "earliest": "20190330130835"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-practical-tips-spectacular-fireworks/",
+   "earliest": "20211208181014"
+  },
+  {
+   "url": "https://www.canva.com/learn/most-creative-countries-in-the-world/",
+   "earliest": "20200807182823"
+  },
+  {
+   "url": "https://www.canva.com/learn/why-a-mood-board-can-do-more-than-just-inspire-you/",
+   "earliest": "20190212232817"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-tactics-for-launching-a-product-using-social-media/",
+   "earliest": "20190920083155"
+  },
+  {
+   "url": "https://www.canva.com/learn/calling-all-photographers/",
+   "earliest": "20201025114501"
+  },
+  {
+   "url": "https://www.canva.com/learn/beginners-guide-understanding-power-depth-field-photography/",
+   "earliest": "20191105153715"
+  },
+  {
+   "url": "https://www.canva.com/learn/25-instagram-photo-hubs-hashtags-to-follow/",
+   "earliest": "20201023062313"
+  },
+  {
+   "url": "https://www.canva.com/learn/distractions-and-creativity/",
+   "earliest": "20190610170809"
+  },
+  {
+   "url": "https://www.canva.com/learn/a-step-by-step-guide-to-creating-a-style-guide-for-your-startup/",
+   "earliest": "20190716122140"
+  },
+  {
+   "url": "https://www.canva.com/learn/franchise-fonts/",
+   "earliest": "20210625070834"
+  },
+  {
+   "url": "https://www.canva.com/learn/negative-space/",
+   "earliest": "20190722074925"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-essential-elements-brand-storytelling/",
+   "earliest": "20190819190649"
+  },
+  {
+   "url": "https://www.canva.com/learn/stylish-fonts/",
+   "earliest": "20190822222149"
+  },
+  {
+   "url": "https://www.canva.com/learn/five-ways-to-nail-every-job-interview/",
+   "earliest": "20190510224829"
+  },
+  {
+   "url": "https://www.canva.com/learn/popular-instagram-filters/",
+   "earliest": "20190530021624"
+  },
+  {
+   "url": "https://www.canva.com/learn/website-color-schemes/",
+   "earliest": "20190330050053"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-history-graphic-design/",
+   "earliest": "20190416060434"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-fitness-trainer-jay-dang-used-instagram-and-facebook-to-build-a-6-figure-fitness-business/",
+   "earliest": "20191123011602"
+  },
+  {
+   "url": "https://www.canva.com/learn/photography-as-therapy/",
+   "earliest": "20190520175602"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-essential-tips-newborn-photography/",
+   "earliest": "20211019180234"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-one-nonprofit-designs-thumb-stopping-content-for-a-social-audience/",
+   "earliest": "20201101014341"
+  },
+  {
+   "url": "https://www.canva.com/learn/comprehensive-guide-shooting-different-kinds-light-weather/",
+   "earliest": "20190601070634"
+  },
+  {
+   "url": "https://www.canva.com/learn/email-marketing/",
+   "earliest": "20190719101642"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-use-canva-for-education/",
+   "earliest": "20210918011037"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/time-travel-adventure/",
+   "earliest": "20190823064725"
+  },
+  {
+   "url": "https://www.canva.com/learn/hidden-meanings-behind-50-worlds-recognizable-logos/",
+   "earliest": "20190114081650"
+  },
+  {
+   "url": "https://www.canva.com/learn/essential-canva-tools/",
+   "earliest": "20210921012549"
+  },
+  {
+   "url": "https://www.canva.com/learn/one-company-used-canva-increase-social-media-engagement-1100/",
+   "earliest": "20190722083405"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-leading-graphic-design-trends-to-check-before-your-next-design-project/",
+   "earliest": "20190513081158"
+  },
+  {
+   "url": "https://www.canva.com/learn/tools-graphic-designs-cant-live-without/",
+   "earliest": "20191021224834"
+  },
+  {
+   "url": "https://www.canva.com/learn/guy-kawasaki-chief-evangelist/",
+   "earliest": "20190321145041"
+  },
+  {
+   "url": "https://www.canva.com/learn/dreaming-creative-breakthroughs/",
+   "earliest": "20200723073954"
+  },
+  {
+   "url": "https://www.canva.com/learn/business-cards-worlds-famous-people/",
+   "earliest": "20190317024557"
+  },
+  {
+   "url": "https://www.canva.com/learn/morning-rituals/",
+   "earliest": "20191023153607"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-business-card-ideas/",
+   "earliest": "20190327182941"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-impactful-instagram-ads-free-templates/",
+   "earliest": "20200417080711"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-stories/",
+   "earliest": "20200803153305"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/illustrative-infographics/",
+   "earliest": "20190818212504"
+  },
+  {
+   "url": "https://www.canva.com/learn/canvas-natural-women-collection/",
+   "earliest": "20190819183633"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-rule-social-media-in-only-a-few-minutes-a-day/",
+   "earliest": "20190819183046"
+  },
+  {
+   "url": "https://www.canva.com/learn/designing-cool-brands/",
+   "earliest": "20191210045125"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-tutorial/",
+   "earliest": "20190428090634"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-personality-quiz/",
+   "earliest": "20190825073735"
+  },
+  {
+   "url": "https://www.canva.com/learn/three-simple-color-palettes-to-use-when-designing/",
+   "earliest": "20190921193205"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-popular-photography-techniques-to-use-in-moderation/",
+   "earliest": "20200811230020"
+  },
+  {
+   "url": "https://www.canva.com/learn/holidayseason-comp-terms/",
+   "earliest": "20191207120411"
+  },
+  {
+   "url": "https://www.canva.com/learn/skills-in-action/",
+   "earliest": "20220816184530"
+  },
+  {
+   "url": "https://www.canva.com/learn/landscape-photography/",
+   "earliest": "20190723195833"
+  },
+  {
+   "url": "https://www.canva.com/learn/12-props-elevate-food-photography-game/",
+   "earliest": "20190721133547"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-beginners-guide-to-small-business-marketing-online/",
+   "earliest": "20190720073722"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-creative-facebook-covers-to-inspire-you/",
+   "earliest": "20190722075314"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-challenge-contest-rules/",
+   "earliest": "20200924050237"
+  },
+  {
+   "url": "https://www.canva.com/learn/twitter-for-business/",
+   "earliest": "20190720094028"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-free-filipino-fonts/",
+   "earliest": "20201026043922"
+  },
+  {
+   "url": "https://www.canva.com/learn/advertisement-design-tips/",
+   "earliest": "20190326061927"
+  },
+  {
+   "url": "https://www.canva.com/learn/express-love-way-competition-terms/",
+   "earliest": "20200927045347"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-simple-tips-craft-stellar-slideshare/",
+   "earliest": "20190724044304"
+  },
+  {
+   "url": "https://www.canva.com/learn/accent-color-resume/",
+   "earliest": "20190717203813"
+  },
+  {
+   "url": "https://www.canva.com/learn/stay-sharp-15-foolproof-ways-avoid-blurry-photos/",
+   "earliest": "20190922121248"
+  },
+  {
+   "url": "https://www.canva.com/learn/composition-basics-20-ways-create-aesthetically-pleasing-photos/",
+   "earliest": "20190920074208"
+  },
+  {
+   "url": "https://www.canva.com/learn/tiny-world-macro-8-quick-tips-shoot-small-objects/",
+   "earliest": "20211017024816"
+  },
+  {
+   "url": "https://www.canva.com/learn/professional-corporate-poster-design/",
+   "earliest": "20190826075608"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-ways-doodling-will-change-your-life/",
+   "earliest": "20190127013618"
+  },
+  {
+   "url": "https://www.canva.com/learn/master-art-pinterest-images/",
+   "earliest": "20190719144000"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-management/",
+   "earliest": "20220529044313"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-essential-instagram-accounts-every-food-photographer-should-follow/",
+   "earliest": "20190819190003"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-brand-identity-5-examples-inspire/",
+   "earliest": "20190330131342"
+  },
+  {
+   "url": "https://www.canva.com/learn/font-trends/",
+   "earliest": "20200927175434"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-moderate-social-media/",
+   "earliest": "20200805023245"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-eye-catching-ideas-study-notes/",
+   "earliest": "20200409090522"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-facebook-covers-convert/",
+   "earliest": "20190703040109"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-psychology-the-logo-color-tricks-used-by-top-companies/",
+   "earliest": "20190331095824"
+  },
+  {
+   "url": "https://www.canva.com/learn/promote-youtube-channel-videos/",
+   "earliest": "20190516154736"
+  },
+  {
+   "url": "https://www.canva.com/learn/interview-mark-dawson/",
+   "earliest": "20190817230240"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-photograph-children-tips/",
+   "earliest": "20211021025438"
+  },
+  {
+   "url": "https://www.canva.com/learn/affordable-marketing-ideas-for-your-small-business/",
+   "earliest": "20190321151213"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-amazing-photo-filters-for-food-bloggers/",
+   "earliest": "20210617210522"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-a-cover-letter/",
+   "earliest": "20200803145128"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-free-video-editing-software/",
+   "earliest": "20220522142101"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-innovate-and-change-the-world/",
+   "earliest": "20211202095638"
+  },
+  {
+   "url": "https://www.canva.com/learn/perfect-font-palettes/",
+   "earliest": "20190518075930"
+  },
+  {
+   "url": "https://www.canva.com/learn/strong-branding-from-the-start-launching-a-beautiful-business/",
+   "earliest": "20190331012113"
+  },
+  {
+   "url": "https://www.canva.com/learn/marketing-trends-2020/",
+   "earliest": "20191205213855"
+  },
+  {
+   "url": "https://www.canva.com/learn/15-influential-graphic-designers-inspiring-quotes/",
+   "earliest": "20190411023112"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-design-trends-2022/",
+   "earliest": "20220529055442"
+  },
+  {
+   "url": "https://www.canva.com/learn/cool-logos/",
+   "earliest": "20190716121932"
+  },
+  {
+   "url": "https://www.canva.com/learn/easiest-ways-to-market-on-social-media/",
+   "earliest": "20190212235614"
+  },
+  {
+   "url": "https://www.canva.com/learn/romance-air-20-photoshoot-ideas-capture-couples-love/",
+   "earliest": "20200929065138"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-classroom-comic-strips/",
+   "earliest": "20220928032852"
+  },
+  {
+   "url": "https://www.canva.com/learn/magazine-cover-design/",
+   "earliest": "20190125202233"
+  },
+  {
+   "url": "https://www.canva.com/learn/book-cover-ideas/",
+   "earliest": "20200929081834"
+  },
+  {
+   "url": "https://www.canva.com/learn/images-that-sell/",
+   "earliest": "20190228051037"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/page-stage/",
+   "earliest": "20190823064537"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-stunning-instagram-accounts-show-can-apply-minimalist-techniques-every-photo-genre/",
+   "earliest": "20191211200908"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-a-distinctive-brand-identity/",
+   "earliest": "20190822162000"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-your-resume/",
+   "earliest": "20191022085717"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-hierarchy/",
+   "earliest": "20190105032205"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-brilliant-paw-traits-pet-photography-lessons-behind/",
+   "earliest": "20190514031901"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-smart-ways-to-use-canva-for-social-media/",
+   "earliest": "20190721104910"
+  },
+  {
+   "url": "https://www.canva.com/learn/a-step-by-step-guide-to-creating-an-engaging-lesson-plan-with-canva/",
+   "earliest": "20190917023616"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-ways-to-combine-artistic-and-scientific-thinking/",
+   "earliest": "20200815144218"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-tips-from-party-planning-pros-how-to-make-your-event-unforgettable/",
+   "earliest": "20191014233141"
+  },
+  {
+   "url": "https://www.canva.com/learn/desktop-wallpaper/",
+   "earliest": "20200509084748"
+  },
+  {
+   "url": "https://www.canva.com/learn/minimalist-design-beautiful-examples-and-practical-tips/",
+   "earliest": "20190105032204"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-raise-money-for-your-student-project/",
+   "earliest": "20190724044658"
+  },
+  {
+   "url": "https://www.canva.com/learn/pitch-decks/",
+   "earliest": "20190529234414"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-get-more-followers-on-pinterest/",
+   "earliest": "20200920183205"
+  },
+  {
+   "url": "https://www.canva.com/learn/4-ways-help-students-focus-back-to-school/",
+   "earliest": "20220928042502"
+  },
+  {
+   "url": "https://www.canva.com/learn/striking-letterhead-design-20-case-studies-to-inspire-you/",
+   "earliest": "20200808032153"
+  },
+  {
+   "url": "https://www.canva.com/learn/six-tips-for-creating-a-college-resume/",
+   "earliest": "20190321145543"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-your-designs-look-more-professional/",
+   "earliest": "20190820140322"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-communication-company-culture/",
+   "earliest": "20220518042424"
+  },
+  {
+   "url": "https://www.canva.com/learn/start-and-grow-youtube-channel/",
+   "earliest": "20200805015401"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-trends-2020/",
+   "earliest": "20191119093313"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-photograph-stunning-silhouettes/",
+   "earliest": "20210127171523"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/backgrounds-shapes-layouts/",
+   "earliest": "20190823064619"
+  },
+  {
+   "url": "https://www.canva.com/learn/valentines-day-cards/",
+   "earliest": "20211129054921"
+  },
+  {
+   "url": "https://www.canva.com/learn/hand-lettering-design/",
+   "earliest": "20190826072644"
+  },
+  {
+   "url": "https://www.canva.com/learn/12-common-image-formatting-mistakes-avoid-website/",
+   "earliest": "20190511003714"
+  },
+  {
+   "url": "https://www.canva.com/learn/white-space-can-best-friend-designing/",
+   "earliest": "20190405142729"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-pro-individuals/",
+   "earliest": "20200705155721"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-identity/",
+   "earliest": "20190720051442"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/",
+   "earliest": "20190206131903"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-visual-branding-mistakes-too-many-businesses-make/",
+   "earliest": "20190321145126"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-50-visuals-using-canva-weekly-boost-online-marketing/",
+   "earliest": "20191213132129"
+  },
+  {
+   "url": "https://www.canva.com/learn/13-brilliant-ideas-for-your-next-social-media-posts/",
+   "earliest": "20190213043425"
+  },
+  {
+   "url": "https://www.canva.com/learn/practical-rain-photography-tips/",
+   "earliest": "20221006153033"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-logo/",
+   "earliest": "20210126094823"
+  },
+  {
+   "url": "https://www.canva.com/learn/beauty-simplicity-golden-rules-minimalist-photography/",
+   "earliest": "20190922055649"
+  },
+  {
+   "url": "https://www.canva.com/learn/product-photography-guide/",
+   "earliest": "20200926074904"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-for-work-brand-fonts/",
+   "earliest": "20190228041836"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-instagram-photography-apps-wont-hurt-wallet/",
+   "earliest": "20190110232915"
+  },
+  {
+   "url": "https://www.canva.com/learn/heres-promote-photography-instagram-like-pro/",
+   "earliest": "20190510152947"
+  },
+  {
+   "url": "https://www.canva.com/learn/old-design-trends/",
+   "earliest": "20190825111829"
+  },
+  {
+   "url": "https://www.canva.com/learn/flat-design/",
+   "earliest": "20190820144613"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-elements-principles/",
+   "earliest": "20190618015058"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-easy-tips-build-visual-brand-identity/",
+   "earliest": "20190213032026"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-pro-designers-agencies/",
+   "earliest": "20200712070721"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-for-education-get-started-as-a-school-district/",
+   "earliest": "20210920150142"
+  },
+  {
+   "url": "https://www.canva.com/learn/40-best-quotes-time/",
+   "earliest": "20190515005700"
+  },
+  {
+   "url": "https://www.canva.com/learn/wedding-fonts/",
+   "earliest": "20190519232655"
+  },
+  {
+   "url": "https://www.canva.com/learn/involved-in-school-marketing-heres-10-ways-to-use-canva-to-get-the-word-out/",
+   "earliest": "20190717203939"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-for-education/",
+   "earliest": "20210918021940"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-essential-steps-planning-first-fashion-photo-shoot/",
+   "earliest": "20200804032045"
+  },
+  {
+   "url": "https://www.canva.com/learn/stock-photography-budget/",
+   "earliest": "20191122015519"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-tips-tricks-part-one/",
+   "earliest": "20190517205643"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-to-creating-a-Canva-resume-website/",
+   "earliest": "20220630165959"
+  },
+  {
+   "url": "https://www.canva.com/learn/prepare-job-interview/",
+   "earliest": "20191113225904"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-inspiring-quotes-for-teachers/",
+   "earliest": "20190721171115"
+  },
+  {
+   "url": "https://www.canva.com/learn/stock-photography/",
+   "earliest": "20190724043509"
+  },
+  {
+   "url": "https://www.canva.com/learn/travel-photography-tips/",
+   "earliest": "20200804032554"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-common-food-photography-mistakes/",
+   "earliest": "20190722183347"
+  },
+  {
+   "url": "https://www.canva.com/learn/amazing-views-25-epic-drone-photographers-follow-theyll-make-wish-bird/",
+   "earliest": "20210928112848"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-trifold-brochure-that-cuts-through/",
+   "earliest": "20221002023348"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-a-branding-strategy/",
+   "earliest": "20190820232355"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-trending-colors-to-use-in-2019/",
+   "earliest": "20190326055504"
+  },
+  {
+   "url": "https://www.canva.com/learn/expert-traveler-best-travel-photography-tips/",
+   "earliest": "20190822222039"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-get-twitter-followers/",
+   "earliest": "20200919091142"
+  },
+  {
+   "url": "https://www.canva.com/learn/inspiring-quotes-guy-kawasaki/",
+   "earliest": "20190512063213"
+  },
+  {
+   "url": "https://www.canva.com/learn/brochure-design/",
+   "earliest": "20190716082246"
+  },
+  {
+   "url": "https://www.canva.com/learn/app-smash-canva-and-thinglink-make-designs-interactive/",
+   "earliest": "20210506002120"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-procrastination/",
+   "earliest": "20190822210526"
+  },
+  {
+   "url": "https://www.canva.com/learn/inspiring-quotes-for-stress/",
+   "earliest": "20191014180703"
+  },
+  {
+   "url": "https://www.canva.com/learn/kids-websites/",
+   "earliest": "20191213134432"
+  },
+  {
+   "url": "https://www.canva.com/learn/makes-good-poster/",
+   "earliest": "20190724064504"
+  },
+  {
+   "url": "https://www.canva.com/learn/smore-integration/",
+   "earliest": "20211021215021"
+  },
+  {
+   "url": "https://www.canva.com/learn/4-clever-color-palettes-to-try-in-your-designs/",
+   "earliest": "20190820121643"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-grids-canva/",
+   "earliest": "20190825070442"
+  },
+  {
+   "url": "https://www.canva.com/learn/logo-design-principles/",
+   "earliest": "20200515094658"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-creativity-myths-probably-believe/",
+   "earliest": "20190916130453"
+  },
+  {
+   "url": "https://www.canva.com/learn/logo-trends-2020/",
+   "earliest": "20191222040850"
+  },
+  {
+   "url": "https://www.canva.com/learn/psychology-social-sharing-shape-content-according-people-want-share/",
+   "earliest": "20190819085503"
+  },
+  {
+   "url": "https://www.canva.com/learn/feeding-creativity-find-inspiration-graphics/",
+   "earliest": "20201127143906"
+  },
+  {
+   "url": "https://www.canva.com/learn/heres-what-your-resume-should-look-like-for-2019/",
+   "earliest": "20190321150921"
+  },
+  {
+   "url": "https://www.canva.com/learn/get-look-royal-wedding-invitation-templates/",
+   "earliest": "20190330154055"
+  },
+  {
+   "url": "https://www.canva.com/learn/hero-images/",
+   "earliest": "20190212224232"
+  },
+  {
+   "url": "https://www.canva.com/learn/youtube-thumbnail/",
+   "earliest": "20190626133004"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-and-wizer-make-worksheets-interactive-and-engaging/",
+   "earliest": "20210625063346"
+  },
+  {
+   "url": "https://www.canva.com/learn/graffiti-design/",
+   "earliest": "20190929163238"
+  },
+  {
+   "url": "https://www.canva.com/learn/motivational-posters/",
+   "earliest": "20190102182050"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/getting-know/",
+   "earliest": "20190823070921"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-stand-out-with-a-brilliant-facebook-cover-photo/",
+   "earliest": "20190820031509"
+  },
+  {
+   "url": "https://www.canva.com/learn/keywording-101/",
+   "earliest": "20190820031152"
+  },
+  {
+   "url": "https://www.canva.com/learn/wildlife-photography/",
+   "earliest": "20191122070229"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-photography-tips-big-groups/",
+   "earliest": "20200927082641"
+  },
+  {
+   "url": "https://www.canva.com/learn/want-boost-business-try-7-product-photography-tips-sell/",
+   "earliest": "20190514120241"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-color-palette/",
+   "earliest": "20190107102626"
+  },
+  {
+   "url": "https://www.canva.com/learn/light-and-shadow/",
+   "earliest": "20190819163609"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/this-is-canva/",
+   "earliest": "20190823065655"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-your-assignments-look-more-professional/",
+   "earliest": "20201029154635"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-designers/",
+   "earliest": "20190119002325"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-to-brand-awareness/",
+   "earliest": "20190922130309"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-promote-and-sell-your-teaching-materials/",
+   "earliest": "20190819082233"
+  },
+  {
+   "url": "https://www.canva.com/learn/40-books-unlock-creativity-start-lifes-best-work/",
+   "earliest": "20200721141138"
+  },
+  {
+   "url": "https://www.canva.com/learn/zoom-virtual-background/",
+   "earliest": "20200523025142"
+  },
+  {
+   "url": "https://www.canva.com/learn/ccc-season-opener-comp/",
+   "earliest": "20191207110105"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-google-font-combinations/",
+   "earliest": "20190805103207"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-things-never-say-graphic-designer-probably/",
+   "earliest": "20190309222830"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-inspiring-quotes-students/",
+   "earliest": "20190330135840"
+  },
+  {
+   "url": "https://www.canva.com/learn/basic-design-terms-to-know/",
+   "earliest": "20191112014547"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-marry-text-and-images/",
+   "earliest": "20190818132425"
+  },
+  {
+   "url": "https://www.canva.com/learn/plan-weekly-schedule/",
+   "earliest": "20190709073606"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-rules/",
+   "earliest": "20190406021052"
+  },
+  {
+   "url": "https://www.canva.com/learn/perks-becoming-canva-contributor/",
+   "earliest": "20190820031405"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-start-pet-photography-business/",
+   "earliest": "20191017003006"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-kit-examples/",
+   "earliest": "20220529061707"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-edit-stock-photography-that-sells/",
+   "earliest": "20190515092341"
+  },
+  {
+   "url": "https://www.canva.com/learn/colors-for-website-conversion/",
+   "earliest": "20190822184411"
+  },
+  {
+   "url": "https://www.canva.com/learn/get-followers-on-instagram/",
+   "earliest": "20190521081759"
+  },
+  {
+   "url": "https://www.canva.com/learn/shooting-cityscapes-8-tips-take-dramatic-shots-urban-skylines/",
+   "earliest": "20210921172609"
+  },
+  {
+   "url": "https://www.canva.com/learn/top-25-brands-instagram/",
+   "earliest": "20190522120827"
+  },
+  {
+   "url": "https://www.canva.com/learn/small-business-design-trends-for-2019/",
+   "earliest": "20190531074906"
+  },
+  {
+   "url": "https://www.canva.com/learn/introduction-brand-building-social-media/",
+   "earliest": "20190510185144"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-content-marketing/",
+   "earliest": "20190820121004"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-guide/",
+   "earliest": "20200728104353"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-web-design-principles-follow/",
+   "earliest": "20190819204623"
+  },
+  {
+   "url": "https://www.canva.com/learn/getting-started-with-visual-hierarchy/",
+   "earliest": "20190225153028"
+  },
+  {
+   "url": "https://www.canva.com/learn/wedding-photography/",
+   "earliest": "20200923042425"
+  },
+  {
+   "url": "https://www.canva.com/learn/collage-ideas/",
+   "earliest": "20190920074400"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-share-designs-on-canva/",
+   "earliest": "20190719172818"
+  },
+  {
+   "url": "https://www.canva.com/learn/personal-branding/",
+   "earliest": "20190512033344"
+  },
+  {
+   "url": "https://www.canva.com/learn/choosing-right-background/",
+   "earliest": "20210126082628"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-must-see-ted-talks-creativity-design/",
+   "earliest": "20190203093948"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-branding-guidelines/",
+   "earliest": "20190820234629"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-colors-for-logos/",
+   "earliest": "20210126093440"
+  },
+  {
+   "url": "https://www.canva.com/learn/educator-creator/",
+   "earliest": "20211028194123"
+  },
+  {
+   "url": "https://www.canva.com/learn/three-keys-good-branding/",
+   "earliest": "20190825075609"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-ultimate-guide-to-flyer-design/",
+   "earliest": "20190820031234"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-14500-marketers-are-creating-the-future-of-content-consumption/",
+   "earliest": "20190721174508"
+  },
+  {
+   "url": "https://www.canva.com/learn/a-step-by-step-guide-to-designing-from-scratch/",
+   "earliest": "20190820104820"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-digital-portfolio/",
+   "earliest": "20190723204135"
+  },
+  {
+   "url": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/",
+   "earliest": "20200525035145"
+  },
+  {
+   "url": "https://www.canva.com/learn/black-and-white/",
+   "earliest": "20190518054301"
+  },
+  {
+   "url": "https://www.canva.com/learn/beautiful-twitter-banners/",
+   "earliest": "20190723195925"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-inspiring-resume-designs/",
+   "earliest": "20190821224140"
+  },
+  {
+   "url": "https://www.canva.com/learn/an-easy-guide-to-creating-a-presentation-in-canva/",
+   "earliest": "20190721084704"
+  },
+  {
+   "url": "https://www.canva.com/learn/logo-trends-2020-3/",
+   "earliest": "20191205220555"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-instagram-trends-for-2018/",
+   "earliest": "20190723133315"
+  },
+  {
+   "url": "https://www.canva.com/learn/100-color-combinations/",
+   "earliest": "20190326053028"
+  },
+  {
+   "url": "https://www.canva.com/learn/marketing-experiments/",
+   "earliest": "20190719225137"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-learning/",
+   "earliest": "20190421072547"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/biodiversity-matters/",
+   "earliest": "20190321145323"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-is-ramadan/",
+   "earliest": "20220702113522"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-free-fonts/",
+   "earliest": "20190515073018"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-future-of-work-life-balance/",
+   "earliest": "20200427234910"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-building/",
+   "earliest": "20190327133358"
+  },
+  {
+   "url": "https://www.canva.com/learn/web-fonts/",
+   "earliest": "20190612003421"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-metaphors/",
+   "earliest": "20190917071450"
+  },
+  {
+   "url": "https://www.canva.com/learn/creating-stunning-graphics-for-your-teacher-blog/",
+   "earliest": "20190824175146"
+  },
+  {
+   "url": "https://www.canva.com/learn/sans-serif-fonts/",
+   "earliest": "20190326055516"
+  },
+  {
+   "url": "https://www.canva.com/learn/15-free-instagram-stories-templates-will-make-stand/",
+   "earliest": "20190507224329"
+  },
+  {
+   "url": "https://www.canva.com/learn/business-flyers/",
+   "earliest": "20200804061553"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-twitter-marketing/",
+   "earliest": "20190719205143"
+  },
+  {
+   "url": "https://www.canva.com/learn/science-shapes-learn-psychology-behind-basic-forms-figures-photography/",
+   "earliest": "20190722163334"
+  },
+  {
+   "url": "https://www.canva.com/learn/photography-trends/",
+   "earliest": "20200804032606"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-examples-pastel-colors/",
+   "earliest": "20190330131739"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-flyers/",
+   "earliest": "20190717011702"
+  },
+  {
+   "url": "https://www.canva.com/learn/nonprofits-design-data-reports/",
+   "earliest": "20190716081435"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-principle-randomness/",
+   "earliest": "20190922130412"
+  },
+  {
+   "url": "https://www.canva.com/learn/definition-marketing-psychology-use/",
+   "earliest": "20190321145245"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-distancing-tips/",
+   "earliest": "20201101020317"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-awesome-fathers-day-t-shirt-ideas/",
+   "earliest": "20220630172006"
+  },
+  {
+   "url": "https://www.canva.com/learn/modern-logo/",
+   "earliest": "20220130162119"
+  },
+  {
+   "url": "https://www.canva.com/learn/get-thrilling-shots-9-quick-tips-sports-action-photography/",
+   "earliest": "20211019174042"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-canva-beginners-guide/",
+   "earliest": "20221004233109"
+  },
+  {
+   "url": "https://www.canva.com/learn/marketing-trends-guide/",
+   "earliest": "20200814211057"
+  },
+  {
+   "url": "https://www.canva.com/learn/25-quotes-show-education-important/",
+   "earliest": "20190724050348"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-users-want/",
+   "earliest": "20191122235112"
+  },
+  {
+   "url": "https://www.canva.com/learn/strategic-brand-management/",
+   "earliest": "20220704005808"
+  },
+  {
+   "url": "https://www.canva.com/learn/quotes-about-success/",
+   "earliest": "20191222040852"
+  },
+  {
+   "url": "https://www.canva.com/learn/harrys-shows-its-not-the-biggest-marketing-budgets-that-win/",
+   "earliest": "20191122202327"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-alternative-flyer-designs-will-boost-business-roof-free-templates/",
+   "earliest": "20190519184245"
+  },
+  {
+   "url": "https://www.canva.com/learn/student-life/",
+   "earliest": "20190723201131"
+  },
+  {
+   "url": "https://www.canva.com/learn/all-the-features-on-canva/",
+   "earliest": "20190917030517"
+  },
+  {
+   "url": "https://www.canva.com/learn/album-cover-designs-examples/",
+   "earliest": "20190723200219"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-newsletter-examples/",
+   "earliest": "20190707142913"
+  },
+  {
+   "url": "https://www.canva.com/learn/self-portrait-photography/",
+   "earliest": "20190825080528"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-image-size/",
+   "earliest": "20190705214605"
+  },
+  {
+   "url": "https://www.canva.com/learn/speaking-volumes-using-design-convey-message/",
+   "earliest": "20201130201247"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-trends-create-flat-design/",
+   "earliest": "20190317024852"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-inspirational-quotes-for-your-desktop-wallpaper/",
+   "earliest": "20190904083832"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-shortcuts-infographic/",
+   "earliest": "20190820140800"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-is-personal-branding/",
+   "earliest": "20191014180434"
+  },
+  {
+   "url": "https://www.canva.com/learn/learn/group/presentation-design/",
+   "earliest": "20190516233932"
+  },
+  {
+   "url": "https://www.canva.com/learn/calendar-hacks/",
+   "earliest": "20190703201712"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-brand-narrative/",
+   "earliest": "20190330131249"
+  },
+  {
+   "url": "https://www.canva.com/learn/table-of-contents-design/",
+   "earliest": "20190125202230"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-trend/",
+   "earliest": "20200809092814"
+  },
+  {
+   "url": "https://www.canva.com/learn/earth-day-poster-contest-school/",
+   "earliest": "20210506004442"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-nail-your-marketing-as-a-solopreneur/",
+   "earliest": "20190820031424"
+  },
+  {
+   "url": "https://www.canva.com/learn/work-from-home-tips/",
+   "earliest": "20201202124024"
+  },
+  {
+   "url": "https://www.canva.com/learn/taking-long-walks/",
+   "earliest": "20190215093639"
+  },
+  {
+   "url": "https://www.canva.com/learn/banner-design/",
+   "earliest": "20190819141029"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-design-composition/",
+   "earliest": "20190108044437"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-wonderbly-sold-3-million-books/",
+   "earliest": "20190821224315"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-plan-an-epic-christmas-marketing-campaign/",
+   "earliest": "20190917214253"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-great-websites-find-logo-design-inspiration/",
+   "earliest": "20190907064356"
+  },
+  {
+   "url": "https://www.canva.com/learn/facebook-marketing-guide/",
+   "earliest": "20190820231529"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-meanings-symbolism/",
+   "earliest": "20190204101456"
+  },
+  {
+   "url": "https://www.canva.com/learn/8-creative-ways-capture-popular-travel-destinations-unique-perspective/",
+   "earliest": "20200815114221"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-for-business/",
+   "earliest": "20190427000013"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-is-the-golden-ratio/",
+   "earliest": "20190227035753"
+  },
+  {
+   "url": "https://www.canva.com/learn/beginners-guide-natural-light-use-take-great-photos/",
+   "earliest": "20190511235403"
+  },
+  {
+   "url": "https://www.canva.com/learn/blog-traffic/",
+   "earliest": "20190626102427"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-email-designs/",
+   "earliest": "20190115064853"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-content/",
+   "earliest": "20190404180449"
+  },
+  {
+   "url": "https://www.canva.com/learn/8-effective-tips-to-keep-photo-editing-consistent/",
+   "earliest": "20190721084319"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-resume-tips-try-2020/",
+   "earliest": "20191207122504"
+  },
+  {
+   "url": "https://www.canva.com/learn/website-background-pattern/",
+   "earliest": "20190312000108"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-brand-storytelling/",
+   "earliest": "20220620125139"
+  },
+  {
+   "url": "https://www.canva.com/learn/12-brands-that-are-killing-it-on-instagram/",
+   "earliest": "20190920074552"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-depth-in-design/",
+   "earliest": "20191014190853"
+  },
+  {
+   "url": "https://www.canva.com/learn/all-about-copyright-and-trademarks/",
+   "earliest": "20191120213726"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-distancing-activities/",
+   "earliest": "20200926185721"
+  },
+  {
+   "url": "https://www.canva.com/learn/work-plan/",
+   "earliest": "20211129060615"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-pencils-of-promise-uses-design-to-engage-social-advocates-across-the-world/",
+   "earliest": "20191208161008"
+  },
+  {
+   "url": "https://www.canva.com/learn/classroom-management/",
+   "earliest": "20220704131905"
+  },
+  {
+   "url": "https://www.canva.com/learn/presentation-design-101/",
+   "earliest": "20190210134233"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-marketing/",
+   "earliest": "20210623120442"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-fall-inspired-color-palettes/",
+   "earliest": "20190820121113"
+  },
+  {
+   "url": "https://www.canva.com/learn/minimalist-poster/",
+   "earliest": "20190204093341"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-incredible-book-covers-ever-published-templates-design/",
+   "earliest": "20190515140636"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-common-myths-about-graphic-design/",
+   "earliest": "20200815114353"
+  },
+  {
+   "url": "https://www.canva.com/learn/modern-fonts/",
+   "earliest": "20190720052033"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-presentations/",
+   "earliest": "20190213042317"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-principles-effective-visual-hierarchy/",
+   "earliest": "20190405095930"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-sell-first-stock-photo/",
+   "earliest": "20201029155359"
+  },
+  {
+   "url": "https://www.canva.com/learn/youtube-video-ideas/",
+   "earliest": "20220707081358"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-design-tips-non-designers/",
+   "earliest": "20190425164218"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-power-and-meaning-behind-bank-logos/",
+   "earliest": "20190514001435"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-movement-in-design/",
+   "earliest": "20190922122150"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-trends-2020/",
+   "earliest": "20191119081158"
+  },
+  {
+   "url": "https://www.canva.com/learn/insights-from-a-leading-publisher-on-self-publishing/",
+   "earliest": "20190817225929"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-terms/",
+   "earliest": "20190115064918"
+  },
+  {
+   "url": "https://www.canva.com/learn/newsletter-design/",
+   "earliest": "20191220054316"
+  },
+  {
+   "url": "https://www.canva.com/learn/six-ways-to-succeed-in-your-online-business/",
+   "earliest": "20190716184535"
+  },
+  {
+   "url": "https://www.canva.com/learn/ross-simmonds-guide-to-getting-content-noticed/",
+   "earliest": "20190722080753"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-book-creator-partnership/",
+   "earliest": "20221005091640"
+  },
+  {
+   "url": "https://www.canva.com/learn/new-photography-5-common-mistakes/",
+   "earliest": "20211021023313"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-photography-exercises-improve-skills/",
+   "earliest": "20210921171422"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-start-etsy-business/",
+   "earliest": "20220630204642"
+  },
+  {
+   "url": "https://www.canva.com/learn/manage-the-multiple-hats-you-wear-working-for-a-nonprofit/",
+   "earliest": "20210728171949"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/characters-journey/",
+   "earliest": "20190823065524"
+  },
+  {
+   "url": "https://www.canva.com/learn/make-photo-collage/",
+   "earliest": "20190721112436"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-design/",
+   "earliest": "20190821155624"
+  },
+  {
+   "url": "https://www.canva.com/learn/chasing-landscapes-one-adventurous-photographers-easy-tips-make-landscape-photography-stand/",
+   "earliest": "20200116123537"
+  },
+  {
+   "url": "https://www.canva.com/learn/art-directors-on-instagram/",
+   "earliest": "20190204101457"
+  },
+  {
+   "url": "https://www.canva.com/learn/choose-color-palette-brand/",
+   "earliest": "20190822182116"
+  },
+  {
+   "url": "https://www.canva.com/learn/sacred-trinity-photography-need-know-aperture-shutter-speed-iso/",
+   "earliest": "20190425205632"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-merch/",
+   "earliest": "20220529055301"
+  },
+  {
+   "url": "https://www.canva.com/learn/rebranding-becoming-a-better-version-of-your-brand/",
+   "earliest": "20190817130222"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-get-started-as-a-canva-affiliate/",
+   "earliest": "20211016105958"
+  },
+  {
+   "url": "https://www.canva.com/learn/creativity-psychology/",
+   "earliest": "20190606161438"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-insights-from-nonprofits-that-stand-out-on-social-media/",
+   "earliest": "20191122083709"
+  },
+  {
+   "url": "https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/",
+   "earliest": "20190402004606"
+  },
+  {
+   "url": "https://www.canva.com/learn/photography-for-beginners/",
+   "earliest": "20190719101431"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-publish-your-design-canva/",
+   "earliest": "20190916222409"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-trends/",
+   "earliest": "20200930005801"
+  },
+  {
+   "url": "https://www.canva.com/learn/23-tips-and-ideas-to-promote-your-school-event/",
+   "earliest": "20190917210155"
+  },
+  {
+   "url": "https://www.canva.com/learn/photographers-guide-poses-effortlessly-beautiful-wedding-photos/",
+   "earliest": "20200929072542"
+  },
+  {
+   "url": "https://www.canva.com/learn/advertising-mood-board-create-one/",
+   "earliest": "20190706220529"
+  },
+  {
+   "url": "https://www.canva.com/learn/flat-logo/",
+   "earliest": "20220408075610"
+  },
+  {
+   "url": "https://www.canva.com/learn/peardeck-integration/",
+   "earliest": "20210922142705"
+  },
+  {
+   "url": "https://www.canva.com/learn/banner-ads/",
+   "earliest": "20190818071751"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-this-fashion-photographer-turned-her-passion-for-self-portraits-into-a-microstock-business/",
+   "earliest": "20190919063806"
+  },
+  {
+   "url": "https://www.canva.com/learn/interactive-classroom-ideas/",
+   "earliest": "20200814171626"
+  },
+  {
+   "url": "https://www.canva.com/learn/pitch-deck/",
+   "earliest": "20220522231845"
+  },
+  {
+   "url": "https://www.canva.com/learn/spanish-design/",
+   "earliest": "20190201040309"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/fantastic-fables/",
+   "earliest": "20190823074721"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-at-work/",
+   "earliest": "20190720051412"
+  },
+  {
+   "url": "https://www.canva.com/learn/working-light-take-advantage-different-lighting-situations-get-stunning-photos/",
+   "earliest": "20190917024819"
+  },
+  {
+   "url": "https://www.canva.com/learn/travel-photography/",
+   "earliest": "20190717211439"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-art/",
+   "earliest": "20190514132319"
+  },
+  {
+   "url": "https://www.canva.com/learn/emotional-branding/",
+   "earliest": "20190723100021"
+  },
+  {
+   "url": "https://www.canva.com/learn/combining-fonts-10-must-know-tips-from-a-designer/",
+   "earliest": "20190607103122"
+  },
+  {
+   "url": "https://www.canva.com/learn/typography-mistakes/",
+   "earliest": "20190402104406"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/guess-mystery-artist/",
+   "earliest": "20190819185202"
+  },
+  {
+   "url": "https://www.canva.com/learn/snatch-competitive-advantage-facebook-instagram-carousel-ads/",
+   "earliest": "20191102210217"
+  },
+  {
+   "url": "https://www.canva.com/learn/free-stock-photos/",
+   "earliest": "20201202162302"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-design-terms/",
+   "earliest": "20190330073421"
+  },
+  {
+   "url": "https://www.canva.com/learn/aerial-photography/",
+   "earliest": "20191016220116"
+  },
+  {
+   "url": "https://www.canva.com/learn/letterpress-business-cards/",
+   "earliest": "20190406003509"
+  },
+  {
+   "url": "https://www.canva.com/learn/8-eye-catching-marketing-trends-for-social-media-in-2018/",
+   "earliest": "20190818233425"
+  },
+  {
+   "url": "https://www.canva.com/learn/facebook-banner-marketing/",
+   "earliest": "20190706082334"
+  },
+  {
+   "url": "https://www.canva.com/learn/milky-way-photographers-guide-capturing-universe/",
+   "earliest": "20210921162958"
+  },
+  {
+   "url": "https://www.canva.com/learn/stepping-up-your-instagram-stories-with-canva/",
+   "earliest": "20190515191959"
+  },
+  {
+   "url": "https://www.canva.com/learn/photographer-earns-money-traveling-selling-stock-photos/",
+   "earliest": "20191213025149"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-manage-your-calendar/",
+   "earliest": "20190821054051"
+  },
+  {
+   "url": "https://www.canva.com/learn/4-ways-use-images-background-design/",
+   "earliest": "20190722191136"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-grunge-texture-designs/",
+   "earliest": "20191017183959"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-trends/",
+   "earliest": "20200804032651"
+  },
+  {
+   "url": "https://www.canva.com/learn/a-simple-trick-canvas-senior-designer-uses-to-enhance-her-images-and-achieve-brand-consistency/",
+   "earliest": "20190515184230"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-steps-get-first-submission/",
+   "earliest": "20190820040101"
+  },
+  {
+   "url": "https://www.canva.com/learn/funny-graphic-design/",
+   "earliest": "20190309233340"
+  },
+  {
+   "url": "https://www.canva.com/learn/internal-communications-best-practices/",
+   "earliest": "20220815214036"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-is-niche-marketing/",
+   "earliest": "20190724010412"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-marketing-tools/",
+   "earliest": "20220620125153"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-standout-instagram-fashion-photography-accounts-follow-makes-great/",
+   "earliest": "20190719142050"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-ways-design-flyers-big-bold-beautiful-colors/",
+   "earliest": "20190228100858"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-trends/",
+   "earliest": "20200704135704"
+  },
+  {
+   "url": "https://www.canva.com/learn/9-clever-ways-to-teach-creativity/",
+   "earliest": "20190722182523"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-design-ideas-to-simplify-your-layouts/",
+   "earliest": "20200926095007"
+  },
+  {
+   "url": "https://www.canva.com/learn/100-resume-power-words/",
+   "earliest": "20190821210115"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-flyers-party/",
+   "earliest": "20190712165820"
+  },
+  {
+   "url": "https://www.canva.com/learn/wonderopolis-partnership/",
+   "earliest": "20220523155023"
+  },
+  {
+   "url": "https://www.canva.com/learn/nine-tips-to-building-a-profitable-ecommerce-business/",
+   "earliest": "20191113224633"
+  },
+  {
+   "url": "https://www.canva.com/learn/transparent-background/",
+   "earliest": "20190213212021"
+  },
+  {
+   "url": "https://www.canva.com/learn/40-instagram-travel-accounts-inspire-jaw-dropping-landscapes-intimate-travel-stories/",
+   "earliest": "20200813204631"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-challenges-nonprofits-face-and-how-to-solve-them-with-design/",
+   "earliest": "20191211202942"
+  },
+  {
+   "url": "https://www.canva.com/learn/call-to-action/",
+   "earliest": "20190717010317"
+  },
+  {
+   "url": "https://www.canva.com/learn/content-marketing-strategy/",
+   "earliest": "20190413102202"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-instagram-stories-ideas-business/",
+   "earliest": "20190823122922"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-resume-practices/",
+   "earliest": "20190922125253"
+  },
+  {
+   "url": "https://www.canva.com/learn/logo-inspiration/",
+   "earliest": "20200814175551"
+  },
+  {
+   "url": "https://www.canva.com/learn/menu-psychology-design/",
+   "earliest": "20190426071321"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-techniques-to-help-you-win-the-student-council-election/",
+   "earliest": "20200409084655"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-communication/",
+   "earliest": "20211208181949"
+  },
+  {
+   "url": "https://www.canva.com/learn/french-design/",
+   "earliest": "20210508165741"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-minimalist-flyers-make-statement-free-templates/",
+   "earliest": "20190717005734"
+  },
+  {
+   "url": "https://www.canva.com/learn/inspire-audiences-emotions-using-photographys-color-palette/",
+   "earliest": "20190505224534"
+  },
+  {
+   "url": "https://www.canva.com/learn/productivity-tips-and-tricks/",
+   "earliest": "20191113220500"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-block/",
+   "earliest": "20190721131054"
+  },
+  {
+   "url": "https://www.canva.com/learn/outline-icons/",
+   "earliest": "20190918200632"
+  },
+  {
+   "url": "https://www.canva.com/learn/resume-trends/",
+   "earliest": "20200811230014"
+  },
+  {
+   "url": "https://www.canva.com/learn/an-easy-guide-cool-color-combos/",
+   "earliest": "20190222054720"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-start-a-blog/",
+   "earliest": "20200809210844"
+  },
+  {
+   "url": "https://www.canva.com/learn/bucket-list-50-beautiful-places-earth-photograph/",
+   "earliest": "20190510160532"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-diy-home-studio-budget/",
+   "earliest": "20190721105357"
+  },
+  {
+   "url": "https://www.canva.com/learn/book-cover-design-50-amazing-covers-you-will-want-to-pick-up/",
+   "earliest": "20190212231020"
+  },
+  {
+   "url": "https://www.canva.com/learn/diy-design-rules/",
+   "earliest": "20190518075406"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-resume-templates-to-help-you-get-your-next-job/",
+   "earliest": "20190719012931"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/historical-impact/",
+   "earliest": "20190716082814"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-free-stock-photos/",
+   "earliest": "20190516052054"
+  },
+  {
+   "url": "https://www.canva.com/learn/contributor-conversations-barbara-bezina/",
+   "earliest": "20190717151208"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-brand-mood-board/",
+   "earliest": "20190710091845"
+  },
+  {
+   "url": "https://www.canva.com/learn/professional-design-tips/",
+   "earliest": "20190624185517"
+  },
+  {
+   "url": "https://www.canva.com/learn/canvas-quick-start-guide/",
+   "earliest": "20190821222928"
+  },
+  {
+   "url": "https://www.canva.com/learn/packaging-design/",
+   "earliest": "20190818234417"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-marketing-guide/",
+   "earliest": "20200805225324"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-psychology/",
+   "earliest": "20200803182333"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-graphics-that-connect-with-your-audience-on-social-media/",
+   "earliest": "20190723202533"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-is-branding/",
+   "earliest": "20200530183538"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-camera-gear-for-stock-photography/",
+   "earliest": "20190515041223"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-things-we-learned-at-istelive-21/",
+   "earliest": "20210920142324"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-start-design-process/",
+   "earliest": "20190821172154"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-real-estate-brand/",
+   "earliest": "20211129060132"
+  },
+  {
+   "url": "https://www.canva.com/learn/love-five-photographers-capture-diversity-relationships-around-world/",
+   "earliest": "20190101152527"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-tips-to-teach-yourself-design-boost-your-design-skills/",
+   "earliest": "20190717004831"
+  },
+  {
+   "url": "https://www.canva.com/learn/motivational-quotes-inspiring-posters/",
+   "earliest": "20190124225508"
+  },
+  {
+   "url": "https://www.canva.com/learn/memorable-branding/",
+   "earliest": "20220704001935"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/social-change-persuasion/",
+   "earliest": "20190823073418"
+  },
+  {
+   "url": "https://www.canva.com/learn/keeping-portfolio-date/",
+   "earliest": "20191113171900"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-ways-to-market-your-student-club-on-campus/",
+   "earliest": "20200409090403"
+  },
+  {
+   "url": "https://www.canva.com/learn/school-project/",
+   "earliest": "20190724023353"
+  },
+  {
+   "url": "https://www.canva.com/learn/email-marketing-guide/",
+   "earliest": "20190719205228"
+  },
+  {
+   "url": "https://www.canva.com/learn/15-instagram-accounts-to-view-architectural-photography/",
+   "earliest": "20191121030125"
+  },
+  {
+   "url": "https://www.canva.com/learn/14-architectural-photography-tips-capture-magnificence-man-made-structures-around-world/",
+   "earliest": "20190515111304"
+  },
+  {
+   "url": "https://www.canva.com/learn/invoice-design-with-samples/",
+   "earliest": "20190112172712"
+  },
+  {
+   "url": "https://www.canva.com/learn/photographing-mist-fog-25-atmospheric-examples-shoot/",
+   "earliest": "20210123140323"
+  },
+  {
+   "url": "https://www.canva.com/learn/web-design-history/",
+   "earliest": "20190822180435"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-makes-a-famous-logos/",
+   "earliest": "20190922122155"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-meanings/",
+   "earliest": "20190330131903"
+  },
+  {
+   "url": "https://www.canva.com/learn/learn/group/design-trends/",
+   "earliest": "20190516231641"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-a-creative-quote-for-social-media/",
+   "earliest": "20190721171632"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-designers-instagram/",
+   "earliest": "20190822182614"
+  },
+  {
+   "url": "https://www.canva.com/learn/content-strategy/",
+   "earliest": "20190720073305"
+  },
+  {
+   "url": "https://www.canva.com/learn/pitch-deck-presentation-tips/",
+   "earliest": "20200804061635"
+  },
+  {
+   "url": "https://www.canva.com/learn/print-vs-web/",
+   "earliest": "20190326063250"
+  },
+  {
+   "url": "https://www.canva.com/learn/raw-vs-jpeg-guide/",
+   "earliest": "20190918200805"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/career-infographic/",
+   "earliest": "20190823064523"
+  },
+  {
+   "url": "https://www.canva.com/learn/using-lifestyle-photography-in-business/",
+   "earliest": "20190514150535"
+  },
+  {
+   "url": "https://www.canva.com/learn/contributor-conversations-matthew-gibson/",
+   "earliest": "20190721125941"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-for-nonprofits/",
+   "earliest": "20190610183911"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-couple-poses-photography-ideas-to-capture-romantic-portraits/",
+   "earliest": "20190321145131"
+  },
+  {
+   "url": "https://www.canva.com/learn/under-construction-page/",
+   "earliest": "20211130122038"
+  },
+  {
+   "url": "https://www.canva.com/learn/bold-header-resume/",
+   "earliest": "20191120222708"
+  },
+  {
+   "url": "https://www.canva.com/learn/geometric-design/",
+   "earliest": "20190605201213"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-inspiring-classroom-poster-designs/",
+   "earliest": "20190724043751"
+  },
+  {
+   "url": "https://www.canva.com/learn/complete-guide-pr/",
+   "earliest": "20191122034240"
+  },
+  {
+   "url": "https://www.canva.com/learn/8-simple-tricks-for-soft-dreamy-portraits/",
+   "earliest": "20190521033239"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-tips/",
+   "earliest": "20190818064650"
+  },
+  {
+   "url": "https://www.canva.com/learn/digital-marketing/",
+   "earliest": "20190702231833"
+  },
+  {
+   "url": "https://www.canva.com/learn/capturing-culture-expert-advice-worlds-best-travel-photographers/",
+   "earliest": "20190803225349"
+  },
+  {
+   "url": "https://www.canva.com/learn/business-tips/",
+   "earliest": "20190723001702"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-easy-email-marketing-tips-try/",
+   "earliest": "20190822221541"
+  },
+  {
+   "url": "https://www.canva.com/learn/21-iconic-album-covers-and-what-they-mean/",
+   "earliest": "20190823064704"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-designer-pinterest/",
+   "earliest": "20211017185453"
+  },
+  {
+   "url": "https://www.canva.com/learn/startup-business/",
+   "earliest": "20190719142829"
+  },
+  {
+   "url": "https://www.canva.com/learn/13-creative-marketing-ideas-for-nonprofits/",
+   "earliest": "20191112003220"
+  },
+  {
+   "url": "https://www.canva.com/learn/career-tips-first-job/",
+   "earliest": "20191014180619"
+  },
+  {
+   "url": "https://www.canva.com/learn/branding-identity-design/",
+   "earliest": "20190610195606"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-complete-beginners-guide-to-drone-photography/",
+   "earliest": "20190720051451"
+  },
+  {
+   "url": "https://www.canva.com/learn/five-principles-design-can/",
+   "earliest": "20190920081816"
+  },
+  {
+   "url": "https://www.canva.com/learn/beginners-guide-aspect-ratio/",
+   "earliest": "20190721120223"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-inspiration-for-startups-10-trends-and-40-palettes-to-get-your-creative-juices-flowing/",
+   "earliest": "20190610204903"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-a-tshirt/",
+   "earliest": "20210227163522"
+  },
+  {
+   "url": "https://www.canva.com/learn/five-top-social-media-layouts-for-your-facebook-page/",
+   "earliest": "20211202112338"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-history-of-motivational-posters/",
+   "earliest": "20190207061959"
+  },
+  {
+   "url": "https://www.canva.com/learn/japanese-design/",
+   "earliest": "20190722075142"
+  },
+  {
+   "url": "https://www.canva.com/learn/contributor-conversations-meghan-plowman/",
+   "earliest": "20190824175314"
+  },
+  {
+   "url": "https://www.canva.com/learn/art-consistent-brand-image/",
+   "earliest": "20190212200520"
+  },
+  {
+   "url": "https://www.canva.com/learn/type-advertisements/",
+   "earliest": "20190118230713"
+  },
+  {
+   "url": "https://www.canva.com/learn/branding-basics-an-introduction/",
+   "earliest": "20190725153709"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-move-your-classroom-online/",
+   "earliest": "20210804220131"
+  },
+  {
+   "url": "https://www.canva.com/learn/grow-business-with-linkedin/",
+   "earliest": "20190815220811"
+  },
+  {
+   "url": "https://www.canva.com/learn/motivational-quotes-creativity/",
+   "earliest": "20190823064945"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-elements-and-principles/",
+   "earliest": "20190321145236"
+  },
+  {
+   "url": "https://www.canva.com/learn/food-photography-tips/",
+   "earliest": "20200804025811"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-a-brand-kit/",
+   "earliest": "20190820224914"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-brilliant-social-media-examples-b2c-content-marketing/",
+   "earliest": "20190523200514"
+  },
+  {
+   "url": "https://www.canva.com/learn/symmetrical-logos/",
+   "earliest": "20200515171231"
+  },
+  {
+   "url": "https://www.canva.com/learn/nature-photography/",
+   "earliest": "20190817232232"
+  },
+  {
+   "url": "https://www.canva.com/learn/free-icons-download/",
+   "earliest": "20190330150808"
+  },
+  {
+   "url": "https://www.canva.com/learn/establish-art-direction/",
+   "earliest": "20190922121646"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-influential-art-movements-still-used-today/",
+   "earliest": "20190403045050"
+  },
+  {
+   "url": "https://www.canva.com/learn/inside-look-instagram-accounts/",
+   "earliest": "20211018072944"
+  },
+  {
+   "url": "https://www.canva.com/learn/heres-what-your-resume-should-look-like-in-2018/",
+   "earliest": "20190720080047"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-layout/",
+   "earliest": "20190330150740"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/visual-poetry/",
+   "earliest": "20190212232428"
+  },
+  {
+   "url": "https://www.canva.com/learn/principle-framing-graphic-design/",
+   "earliest": "20190922121113"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphics-increase-conversion-rate/",
+   "earliest": "20190916224734"
+  },
+  {
+   "url": "https://www.canva.com/learn/difference-marketing-advertising/",
+   "earliest": "20190321150904"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-owl-crate-grew-its-subscription-box-business-from-basement-to-packing-facility-in-six-months/",
+   "earliest": "20191015061552"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-infographics/",
+   "earliest": "20190825113341"
+  },
+  {
+   "url": "https://www.canva.com/learn/working-remotely/",
+   "earliest": "20200805073319"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-purpose-important/",
+   "earliest": "20190724002508"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-start-homeschooling/",
+   "earliest": "20200926192308"
+  },
+  {
+   "url": "https://www.canva.com/learn/hunting-camera-12-tips-take-wildlife-photography-next-level/",
+   "earliest": "20190716043003"
+  },
+  {
+   "url": "https://www.canva.com/learn/non-profit-logos/",
+   "earliest": "20220510220506"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-easy-tips-terrific-titles/",
+   "earliest": "20200805030552"
+  },
+  {
+   "url": "https://www.canva.com/learn/examples-of-propaganda/",
+   "earliest": "20190619195038"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-mobile-photography-tips-improve-social-media/",
+   "earliest": "20190821060031"
+  },
+  {
+   "url": "https://www.canva.com/learn/facebook-marketing/",
+   "earliest": "20190916122105"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-creating-business-card-industry/",
+   "earliest": "20190716125735"
+  },
+  {
+   "url": "https://www.canva.com/learn/grammarly-mastering-art-flawless-messaging/",
+   "earliest": "20190121190940"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-inspiration/",
+   "earliest": "20190204122307"
+  },
+  {
+   "url": "https://www.canva.com/learn/submission-dos-donts/",
+   "earliest": "20190820033332"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-fundraising-ideas/",
+   "earliest": "20191122070402"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-stunning-photos-worlds-incredible-waterfalls/",
+   "earliest": "20190909142132"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-trends/",
+   "earliest": "20190506211724"
+  },
+  {
+   "url": "https://www.canva.com/learn/print-advertising-ideas/",
+   "earliest": "20190718194514"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-definition-of-brand-loyalty/",
+   "earliest": "20190426052314"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-design-inspiration-50-designers-you-should-know/",
+   "earliest": "20190204014856"
+  },
+  {
+   "url": "https://www.canva.com/learn/nail-pose-make-subjects-look-best-photos/",
+   "earliest": "20201027184816"
+  },
+  {
+   "url": "https://www.canva.com/learn/symmetry-graphic-design/",
+   "earliest": "20190820225504"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-tips/",
+   "earliest": "20190405084115"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/",
+   "earliest": "20190218213051"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-adapt-your-business/",
+   "earliest": "20200416132724"
+  },
+  {
+   "url": "https://www.canva.com/learn/so-competition-terms/",
+   "earliest": "20191207110159"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-nonprofits-use-design-to-reach-millennial-audiences/",
+   "earliest": "20190717204621"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-eye-catching-real-estate-flyer-templates-canva-library/",
+   "earliest": "20190717003727"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-management-software-2022/",
+   "earliest": "20220721221648"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-design-formulas-to-create-stand-out-social-media-content/",
+   "earliest": "20190826045036"
+  },
+  {
+   "url": "https://www.canva.com/learn/monochromatic-colors/",
+   "earliest": "20190516233631"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-inspiring-project-365-ideas-take-photo-day-keep-creative-block-away/",
+   "earliest": "20190718175058"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-quotes-instagram/",
+   "earliest": "20220811171609"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-shoot-winter-landscape-photography/",
+   "earliest": "20190502135336"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-collaborative-team/",
+   "earliest": "20191015044240"
+  },
+  {
+   "url": "https://www.canva.com/learn/quotes-on-happiness/",
+   "earliest": "20191222040850"
+  },
+  {
+   "url": "https://www.canva.com/learn/9-nonprofit-design-templates-you-can-use-right-now/",
+   "earliest": "20191122080945"
+  },
+  {
+   "url": "https://www.canva.com/learn/scandinavian-design/",
+   "earliest": "20191207183208"
+  },
+  {
+   "url": "https://www.canva.com/learn/getting-started-social-media-design/",
+   "earliest": "20190722182804"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-contributor-success-guides/",
+   "earliest": "20190820032026"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-campaigns/",
+   "earliest": "20200814203645"
+  },
+  {
+   "url": "https://www.canva.com/learn/food-photography/",
+   "earliest": "20190723200019"
+  },
+  {
+   "url": "https://www.canva.com/learn/15-practical-ways-to-make-the-learning-process-more-visible/",
+   "earliest": "20201101005129"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-free-handwriting-fonts/",
+   "earliest": "20190330131824"
+  },
+  {
+   "url": "https://www.canva.com/learn/last-minute-gifts/",
+   "earliest": "20220121114422"
+  },
+  {
+   "url": "https://www.canva.com/learn/makeover-life-7-design-projects-7-days/",
+   "earliest": "20190428173113"
+  },
+  {
+   "url": "https://www.canva.com/learn/adding-variety-portfolio/",
+   "earliest": "20191119050954"
+  },
+  {
+   "url": "https://www.canva.com/learn/everything-need-know-art-director/",
+   "earliest": "20190424012536"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/",
+   "earliest": "20190103110049"
+  },
+  {
+   "url": "https://www.canva.com/learn/clever-advertising/",
+   "earliest": "20190102103520"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-quotes/",
+   "earliest": "20190117185211"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-infographics/",
+   "earliest": "20190201122450"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-collaboration/",
+   "earliest": "20190920074537"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-outstanding-film-photographers-instagram-follow-get-shooting-analog/",
+   "earliest": "20190723135804"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-things-creative-people-differently/",
+   "earliest": "20191122214431"
+  },
+  {
+   "url": "https://www.canva.com/learn/weird-and-creative-thinking/",
+   "earliest": "20190326060923"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-loyalty/",
+   "earliest": "20190227200011"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-dosomething-uses-design-to-empower-young-advocates/",
+   "earliest": "20191119071521"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-photo-collages-to-make-your-friends-laugh-and-cry/",
+   "earliest": "20210615163245"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-impactful-instagram-ads/",
+   "earliest": "20190821222952"
+  },
+  {
+   "url": "https://www.canva.com/learn/13-steps-to-help-you-land-your-dream-job-or-internship-with-free-templates/",
+   "earliest": "20190408133054"
+  },
+  {
+   "url": "https://www.canva.com/learn/trending-color-combinations-2020/",
+   "earliest": "20191222040850"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-columns-support-design/",
+   "earliest": "20201130204633"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-5-simple-tools-create-beautiful-backgrounds/",
+   "earliest": "20190821201854"
+  },
+  {
+   "url": "https://www.canva.com/learn/one-nonprofit-changing-image-charity-design/",
+   "earliest": "20190819210351"
+  },
+  {
+   "url": "https://www.canva.com/learn/frank-body-build-a-distinctive-brand/",
+   "earliest": "20190515101934"
+  },
+  {
+   "url": "https://www.canva.com/learn/see-how-these-companies-win-on-instagram-and-learn-how-you-can-do-the-same-without-a-professional-designer/",
+   "earliest": "20190825070252"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-consistency/",
+   "earliest": "20190719171928"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-creative-design-ideas-using-grids/",
+   "earliest": "20190405122412"
+  },
+  {
+   "url": "https://www.canva.com/learn/grid-design/",
+   "earliest": "20190203075700"
+  },
+  {
+   "url": "https://www.canva.com/learn/billboard-advertising/",
+   "earliest": "20190108193754"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-a-landing-page/",
+   "earliest": "20220630161246"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-science/",
+   "earliest": "20190329061837"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-ways-support-small-businesses/",
+   "earliest": "20201013081833"
+  },
+  {
+   "url": "https://www.canva.com/learn/web-layout/",
+   "earliest": "20190321151002"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-camera-one-thats-19-smartphone-photography-tips-mobile-traveler/",
+   "earliest": "20201129231805"
+  },
+  {
+   "url": "https://www.canva.com/learn/your-royalties-at-canva/",
+   "earliest": "20191119125232"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-marketing-strategy/",
+   "earliest": "20190606164511"
+  },
+  {
+   "url": "https://www.canva.com/learn/choose-right-colors-brand/",
+   "earliest": "20190916222952"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-great-ideas-for-designing-on-canva-for-mobile/",
+   "earliest": "20211022231443"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-branding-tips/",
+   "earliest": "20191014190659"
+  },
+  {
+   "url": "https://www.canva.com/learn/creating-images-sell/",
+   "earliest": "20191119060159"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-creating-checklist/",
+   "earliest": "20190723204244"
+  },
+  {
+   "url": "https://www.canva.com/learn/poster-design/",
+   "earliest": "20190819203326"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-for-engagement/",
+   "earliest": "20190817230301"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-shooting-subjects-motion-panning-techniques/",
+   "earliest": "20190502105503"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-personalized-thank-you-cards/",
+   "earliest": "20221002042607"
+  },
+  {
+   "url": "https://www.canva.com/learn/distinguished-typographers-share-their-favorite-fonts/",
+   "earliest": "20190427021410"
+  },
+  {
+   "url": "https://www.canva.com/learn/cause-marketing/",
+   "earliest": "20190426114237"
+  },
+  {
+   "url": "https://www.canva.com/learn/franchise-branding-checklist/",
+   "earliest": "20211029032533"
+  },
+  {
+   "url": "https://www.canva.com/learn/using-styled-shoots-to-build-a-business/",
+   "earliest": "20190921195047"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-irresistible-graphics/",
+   "earliest": "20200813104122"
+  },
+  {
+   "url": "https://www.canva.com/learn/rituals-historys-creative-minds/",
+   "earliest": "20190510041638"
+  },
+  {
+   "url": "https://www.canva.com/learn/19-creative-ways-capture-purr-fect-cat-portrait/",
+   "earliest": "20190506033150"
+  },
+  {
+   "url": "https://www.canva.com/learn/8-tips-give-photos-authentic-cinematic-feel/",
+   "earliest": "20190716164647"
+  },
+  {
+   "url": "https://www.canva.com/learn/business-card-design/",
+   "earliest": "20210802163636"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-icons/",
+   "earliest": "20190112145045"
+  },
+  {
+   "url": "https://www.canva.com/learn/flowchart-design-tips/",
+   "earliest": "20220703081504"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-pro-teams/",
+   "earliest": "20191120000835"
+  },
+  {
+   "url": "https://www.canva.com/learn/microsoft-onenote-canva-organize-digital-notes/",
+   "earliest": "20210616011546"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-creative-self-portraits-techniques-will-inspire-create/",
+   "earliest": "20200809180013"
+  },
+  {
+   "url": "https://www.canva.com/learn/upon-time-spellbinding-photos-breathe-life-fairy-tales/",
+   "earliest": "20191018011509"
+  },
+  {
+   "url": "https://www.canva.com/learn/blurred-background/",
+   "earliest": "20190817130102"
+  },
+  {
+   "url": "https://www.canva.com/learn/futuristic-fonts/",
+   "earliest": "20190610170814"
+  },
+  {
+   "url": "https://www.canva.com/learn/not-just-another-content-marketing-plan-intercoms-tips-standing-crowded-market/",
+   "earliest": "20190819062241"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-design-food-wine/",
+   "earliest": "20200924220220"
+  },
+  {
+   "url": "https://www.canva.com/learn/resume-format/",
+   "earliest": "20200813114705"
+  },
+  {
+   "url": "https://www.canva.com/learn/text-rules/",
+   "earliest": "20210921022459"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-taking-better-candid-photos/",
+   "earliest": "20190721085452"
+  },
+  {
+   "url": "https://www.canva.com/learn/logos-for-beginners/",
+   "earliest": "20190426092522"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-professional-fonts-use-website/",
+   "earliest": "20190321145101"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-business-cards-people-will-remember-you-by/",
+   "earliest": "20190823092314"
+  },
+  {
+   "url": "https://www.canva.com/learn/calligraphy-fonts/",
+   "earliest": "20190426043943"
+  },
+  {
+   "url": "https://www.canva.com/learn/branding-with-personality/",
+   "earliest": "20200926115409"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-strategy/",
+   "earliest": "20190405150022"
+  },
+  {
+   "url": "https://www.canva.com/learn/photographers-guide-to-capturing-autumn-fall/",
+   "earliest": "20210921181746"
+  },
+  {
+   "url": "https://www.canva.com/learn/30-free-typewriter-fonts/",
+   "earliest": "20190819080250"
+  },
+  {
+   "url": "https://www.canva.com/learn/basic-color-theory/",
+   "earliest": "20190330124511"
+  },
+  {
+   "url": "https://www.canva.com/learn/serif-vs-sans-serif-fonts/",
+   "earliest": "20190321145212"
+  },
+  {
+   "url": "https://www.canva.com/learn/get-inspired-20-photographers-celebrate-women/",
+   "earliest": "20190724002333"
+  },
+  {
+   "url": "https://www.canva.com/learn/wedding-thank-you-cards-everything-you-need-to-know/",
+   "earliest": "20190213020328"
+  },
+  {
+   "url": "https://www.canva.com/learn/transform-facebook-business-page/",
+   "earliest": "20190228002736"
+  },
+  {
+   "url": "https://www.canva.com/learn/psychological-safety/",
+   "earliest": "20220516213140"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-run-a-successful-blog-that-attracts-brands/",
+   "earliest": "20190724064330"
+  },
+  {
+   "url": "https://www.canva.com/learn/product-photography/",
+   "earliest": "20191122195740"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-brilliant-flyer-designs/",
+   "earliest": "20190213022945"
+  },
+  {
+   "url": "https://www.canva.com/learn/gestalt-theory/",
+   "earliest": "20190724002803"
+  },
+  {
+   "url": "https://www.canva.com/learn/nonprofit-redesign-boosts-impact/",
+   "earliest": "20191209185744"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-fonts-effectively/",
+   "earliest": "20190918154637"
+  },
+  {
+   "url": "https://www.canva.com/learn/building-community-and-business/",
+   "earliest": "20191213123143"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-email-signature-design/",
+   "earliest": "20190709153022"
+  },
+  {
+   "url": "https://www.canva.com/learn/heres-what-your-resume-should-look-like/",
+   "earliest": "20190923031735"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-factors-that-paralyse-your-creativity/",
+   "earliest": "20190426094928"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-thinking/",
+   "earliest": "20190212111234"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-content-creation/",
+   "earliest": "20190417134855"
+  },
+  {
+   "url": "https://www.canva.com/learn/make-photos-pop-8-colorful-ways-shoot-neon-signs/",
+   "earliest": "20190512194031"
+  },
+  {
+   "url": "https://www.canva.com/learn/practical-tips-help-capture-beautiful-golden-hour-shots-every-time/",
+   "earliest": "20190515212614"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-great-excuses-to-use-snapchat-geofilters/",
+   "earliest": "20210623122039"
+  },
+  {
+   "url": "https://www.canva.com/learn/creating-on-brand-logos-that-inform-and-captivate/",
+   "earliest": "20190818192033"
+  },
+  {
+   "url": "https://www.canva.com/learn/welcome-to-the-canva-blog-2/",
+   "earliest": "20190722081112"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-enterprise-about/",
+   "earliest": "20191205215800"
+  },
+  {
+   "url": "https://www.canva.com/learn/multi-page-layout/",
+   "earliest": "20190823070658"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-an-online-business/",
+   "earliest": "20201016144733"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-practices-for-live-tweeting-events/",
+   "earliest": "20190823091034"
+  },
+  {
+   "url": "https://www.canva.com/learn/branding-and-corporate-identity/",
+   "earliest": "20190331090934"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-and-why-to-create-a-blog-style-guide/",
+   "earliest": "20190719220933"
+  },
+  {
+   "url": "https://www.canva.com/learn/13-ways-generate-new-ideas/",
+   "earliest": "20190702153945"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-ways-stay-creative-pressure-4/",
+   "earliest": "20200723080416"
+  },
+  {
+   "url": "https://www.canva.com/learn/brainstorming-is-bad/",
+   "earliest": "20190818132935"
+  },
+  {
+   "url": "https://www.canva.com/learn/transparency-in-graphic-design/",
+   "earliest": "20190907062652"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-unique-typefaces-try-next-design/",
+   "earliest": "20190330140153"
+  },
+  {
+   "url": "https://www.canva.com/learn/make-a-mood-board/",
+   "earliest": "20190112164213"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-a-positive-and-valuable-classroom-culture/",
+   "earliest": "20190723195645"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-desks/",
+   "earliest": "20190117114949"
+  },
+  {
+   "url": "https://www.canva.com/learn/serif-fonts/",
+   "earliest": "20190213025013"
+  },
+  {
+   "url": "https://www.canva.com/learn/celebration-stylist-party-blogging-work-life-balance/",
+   "earliest": "20190723201911"
+  },
+  {
+   "url": "https://www.canva.com/learn/editorial-design/",
+   "earliest": "20190213035818"
+  },
+  {
+   "url": "https://www.canva.com/learn/famous-brand-color-palettes/",
+   "earliest": "20190907063048"
+  },
+  {
+   "url": "https://www.canva.com/learn/thinking-buying-new-lens-5-important-things-need-know-first/",
+   "earliest": "20211021021932"
+  },
+  {
+   "url": "https://www.canva.com/learn/learn/group/design-inspiration/",
+   "earliest": "20190516214134"
+  },
+  {
+   "url": "https://www.canva.com/learn/what-makes-a-good-logo/",
+   "earliest": "20200805110905"
+  },
+  {
+   "url": "https://www.canva.com/learn/next-trends-graphic-design-according-five-experts/",
+   "earliest": "20190823095924"
+  },
+  {
+   "url": "https://www.canva.com/learn/wedding-colors/",
+   "earliest": "20190102003615"
+  },
+  {
+   "url": "https://www.canva.com/learn/6-essential-photography-tips-mastering-camera-lens/",
+   "earliest": "20190521045929"
+  },
+  {
+   "url": "https://www.canva.com/learn/use-shapes-creatively-design/",
+   "earliest": "20190413185354"
+  },
+  {
+   "url": "https://www.canva.com/learn/digital-brand-management/",
+   "earliest": "20220816105246"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-marketing-strategy/",
+   "earliest": "20200513100932"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-great-infographics-and-how-to-get-the-look/",
+   "earliest": "20190717003833"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-facebook-fan-page/",
+   "earliest": "20201026183226"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-700-selling-stock-photo/",
+   "earliest": "20190515145258"
+  },
+  {
+   "url": "https://www.canva.com/learn/17-films-try-next-analog-adventure/",
+   "earliest": "20200813053216"
+  },
+  {
+   "url": "https://www.canva.com/learn/introducing-canva-button-let-users-design/",
+   "earliest": "20210306054736"
+  },
+  {
+   "url": "https://www.canva.com/learn/funny-zoom-backgrounds/",
+   "earliest": "20200423004808"
+  },
+  {
+   "url": "https://www.canva.com/learn/linkedin-for-business/",
+   "earliest": "20190723025240"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-workflow/",
+   "earliest": "20211208180012"
+  },
+  {
+   "url": "https://www.canva.com/learn/most-popular-stock-photography-trends-2018/",
+   "earliest": "20190514022321"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-ad-campaigns-all-nonprofits-should-see/",
+   "earliest": "20190724024721"
+  },
+  {
+   "url": "https://www.canva.com/learn/importance-marketing-segmentation/",
+   "earliest": "20190612215554"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-content/",
+   "earliest": "20200803143827"
+  },
+  {
+   "url": "https://www.canva.com/learn/youtube-channel-art/",
+   "earliest": "20190822182434"
+  },
+  {
+   "url": "https://www.canva.com/learn/font-pairing-like-a-pro-part-two/",
+   "earliest": "20200122165835"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-viral-nonprofit-campaigns-can-learn/",
+   "earliest": "20190723200102"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-print-tshirt-smartmockups/",
+   "earliest": "20221004102337"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/food-chain-make-connections/",
+   "earliest": "20190720141129"
+  },
+  {
+   "url": "https://www.canva.com/learn/traveling-with-analog-film/",
+   "earliest": "20190824180913"
+  },
+  {
+   "url": "https://www.canva.com/learn/interview-tips/",
+   "earliest": "20200805070639"
+  },
+  {
+   "url": "https://www.canva.com/learn/marketers-guide-designing-memorable-brand-catches/",
+   "earliest": "20190606162113"
+  },
+  {
+   "url": "https://www.canva.com/learn/product-marketing/",
+   "earliest": "20220630174603"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-best-food-instagram-accounts-makes-deliciously-good/",
+   "earliest": "20200812003024"
+  },
+  {
+   "url": "https://www.canva.com/learn/apple-google-starbucks-inside-the-web-design-style-guides-of-10-famous-companies/",
+   "earliest": "20190513191011"
+  },
+  {
+   "url": "https://www.canva.com/learn/a-complete-guide-to-creating-an-instagram-story/",
+   "earliest": "20190226101912"
+  },
+  {
+   "url": "https://www.canva.com/learn/your-ultimate-guide-to-the-4-ps-of-marketing/",
+   "earliest": "20190724025812"
+  },
+  {
+   "url": "https://www.canva.com/learn/blog-header-design/",
+   "earliest": "20190716122520"
+  },
+  {
+   "url": "https://www.canva.com/learn/wedding-photography-5-tips-make-bride-groom-fall-love-photos/",
+   "earliest": "20190720200226"
+  },
+  {
+   "url": "https://www.canva.com/learn/learn/group/design-interviews/",
+   "earliest": "20190516230216"
+  },
+  {
+   "url": "https://www.canva.com/learn/photographer-duo-turned-everyday-product-photography-art-form/",
+   "earliest": "20190819170616"
+  },
+  {
+   "url": "https://www.canva.com/learn/contributor-conversations-bogdan-dreava/",
+   "earliest": "20200803184127"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-insight-creating-ecourse-sells/",
+   "earliest": "20191112015118"
+  },
+  {
+   "url": "https://www.canva.com/learn/launch-popular-newsletter/",
+   "earliest": "20190708154240"
+  },
+  {
+   "url": "https://www.canva.com/learn/make-coloring-book-easily-entertain-kids/",
+   "earliest": "20220928033401"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-dont-just-post-pretty-pics-go-plan/",
+   "earliest": "20190717144644"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-design-wedding-stationery-invites-cards/",
+   "earliest": "20220928042424"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/literary-devices-unleashed/",
+   "earliest": "20190823070511"
+  },
+  {
+   "url": "https://www.canva.com/learn/build-your-tribe-and-a-booming-coaching-business-online/",
+   "earliest": "20190716124807"
+  },
+  {
+   "url": "https://www.canva.com/learn/17-study-tips-to-help-you-stay-focused/",
+   "earliest": "20190521130239"
+  },
+  {
+   "url": "https://www.canva.com/learn/famous-graphic-designers/",
+   "earliest": "20190717204709"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-female-photographers-around-world-show-off-power-feminine-gaze/",
+   "earliest": "20201028030845"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-an-infographic/",
+   "earliest": "20211025042543"
+  },
+  {
+   "url": "https://www.canva.com/learn/keep-parents-informed-and-students-involved-with-a-classroom-newsletter/",
+   "earliest": "20201029144813"
+  },
+  {
+   "url": "https://www.canva.com/learn/19-ideas-to-promote-more-creativity-in-your-classroom/",
+   "earliest": "20190717004229"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-tips-create-majestic-shots-long-exposure-photography/",
+   "earliest": "20190823051025"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-a-flyer-without-being-a-designer/",
+   "earliest": "20190716164122"
+  },
+  {
+   "url": "https://www.canva.com/learn/night-photography/",
+   "earliest": "20190920080401"
+  },
+  {
+   "url": "https://www.canva.com/learn/attracting-ideal-coaching-client/",
+   "earliest": "20191017010311"
+  },
+  {
+   "url": "https://www.canva.com/learn/professional-resume-template/",
+   "earliest": "20190922021532"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-to-updating-your-brand-identity/",
+   "earliest": "20220522131949"
+  },
+  {
+   "url": "https://www.canva.com/learn/instagram-ads/",
+   "earliest": "20200805073830"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-pro-for-affiliates/",
+   "earliest": "20220707074049"
+  },
+  {
+   "url": "https://www.canva.com/learn/best-design-books/",
+   "earliest": "20201030075347"
+  },
+  {
+   "url": "https://www.canva.com/learn/image-enhancement/",
+   "earliest": "20190819210933"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-graphic-design-can-help-your-business/",
+   "earliest": "20190728215945"
+  },
+  {
+   "url": "https://www.canva.com/learn/make-flyers-business/",
+   "earliest": "20190708104338"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-design-elements-principles/",
+   "earliest": "20190820224935"
+  },
+  {
+   "url": "https://www.canva.com/learn/404-page-design/",
+   "earliest": "20190420225636"
+  },
+  {
+   "url": "https://www.canva.com/learn/women-graphic-designers/",
+   "earliest": "20190819142454"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-recreate-a-magazine-layout-from-scratch/",
+   "earliest": "20191213124720"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-tips-from-canva-designers-on-creating-better-looking-designs/",
+   "earliest": "20190213013304"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-trends-2016/",
+   "earliest": "20190416041603"
+  },
+  {
+   "url": "https://www.canva.com/learn/40-examples-classic-branding-next-modern-version/",
+   "earliest": "20190317032538"
+  },
+  {
+   "url": "https://www.canva.com/learn/event-promotion/",
+   "earliest": "20190822205642"
+  },
+  {
+   "url": "https://www.canva.com/learn/9-places-around-world-immerse-wildlife-photography/",
+   "earliest": "20190401085927"
+  },
+  {
+   "url": "https://www.canva.com/learn/franchise-marketing/",
+   "earliest": "20210731221411"
+  },
+  {
+   "url": "https://www.canva.com/learn/white-space-design/",
+   "earliest": "20190507183743"
+  },
+  {
+   "url": "https://www.canva.com/learn/canva-print-announcement/",
+   "earliest": "20200809105524"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-organize-a-blog-post-while-writing/",
+   "earliest": "20200731024959"
+  },
+  {
+   "url": "https://www.canva.com/learn/designing-book-covers/",
+   "earliest": "20190723025233"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/character-analysis-creating-web/",
+   "earliest": "20190823064516"
+  },
+  {
+   "url": "https://www.canva.com/learn/25-wedding-elopement-photographers-follow-instagram/",
+   "earliest": "20210919232411"
+  },
+  {
+   "url": "https://www.canva.com/learn/christmas-fonts/",
+   "earliest": "20191018201613"
+  },
+  {
+   "url": "https://www.canva.com/learn/film-photography-not-dead-8-reasons-go-analog-increasingly-digital-world/",
+   "earliest": "20190515004744"
+  },
+  {
+   "url": "https://www.canva.com/learn/guide-to-visual-marketing-strategy/",
+   "earliest": "20220526053607"
+  },
+  {
+   "url": "https://www.canva.com/learn/creative-genius-quiz/",
+   "earliest": "20191207111737"
+  },
+  {
+   "url": "https://www.canva.com/learn/tints-and-shades-your-designs/",
+   "earliest": "20190819054919"
+  },
+  {
+   "url": "https://www.canva.com/learn/picture-quotes/",
+   "earliest": "20200225105519"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-an-infographic-design/",
+   "earliest": "20190819183548"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-art-of-alignment/",
+   "earliest": "20190822180211"
+  },
+  {
+   "url": "https://www.canva.com/learn/keynote-presentations/",
+   "earliest": "20190421085630"
+  },
+  {
+   "url": "https://www.canva.com/learn/brand-style-guide/",
+   "earliest": "20210826070321"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-design-personality/",
+   "earliest": "20210120074721"
+  },
+  {
+   "url": "https://www.canva.com/learn/headline-font/",
+   "earliest": "20190819144104"
+  },
+  {
+   "url": "https://www.canva.com/learn/christmas-cards/",
+   "earliest": "20190716123023"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-be-more-creative-8-tips-from-designers/",
+   "earliest": "20190721171319"
+  },
+  {
+   "url": "https://www.canva.com/learn/everything-need-know-image-releases/",
+   "earliest": "20191113025822"
+  },
+  {
+   "url": "https://www.canva.com/learn/youtube-marketing/",
+   "earliest": "20220629172313"
+  },
+  {
+   "url": "https://www.canva.com/learn/9-free-marketing-tools-can-help-business/",
+   "earliest": "20190321150909"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-nonprofits-design-campaigner-toolkits-to-empower-supporters/",
+   "earliest": "20191122070522"
+  },
+  {
+   "url": "https://www.canva.com/learn/resume-formats-10-different-industries/",
+   "earliest": "20190920074204"
+  },
+  {
+   "url": "https://www.canva.com/learn/color-harmony-graphic-design/",
+   "earliest": "20190907065003"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-create-an-eye-catching-presentation/",
+   "earliest": "20190317024406"
+  },
+  {
+   "url": "https://www.canva.com/learn/fast-design/",
+   "earliest": "20190213113457"
+  },
+  {
+   "url": "https://www.canva.com/learn/minimalist-font/",
+   "earliest": "20190105033818"
+  },
+  {
+   "url": "https://www.canva.com/learn/content-marketing/",
+   "earliest": "20190719105048"
+  },
+  {
+   "url": "https://www.canva.com/learn/biggest-logo-trends-2019/",
+   "earliest": "20190208232902"
+  },
+  {
+   "url": "https://www.canva.com/learn/survive-organize-thrive-8-tips-becoming-organized-freelance-photographer/",
+   "earliest": "20190523163150"
+  },
+  {
+   "url": "https://www.canva.com/learn/ecommerce-website/",
+   "earliest": "20190723132938"
+  },
+  {
+   "url": "https://www.canva.com/learn/visual-glossary-typographic-terms/",
+   "earliest": "20190405224155"
+  },
+  {
+   "url": "https://www.canva.com/learn/business-tools/",
+   "earliest": "20190604013809"
+  },
+  {
+   "url": "https://www.canva.com/learn/accessible-event-planning/",
+   "earliest": "20220630201219"
+  },
+  {
+   "url": "https://www.canva.com/learn/background-design/",
+   "earliest": "20190227190834"
+  },
+  {
+   "url": "https://www.canva.com/learn/mobile-marketing-strategies/",
+   "earliest": "20190705072914"
+  },
+  {
+   "url": "https://www.canva.com/learn/14-valentines-day-card-ideas-that-say-i-love-you/",
+   "earliest": "20190308071850"
+  },
+  {
+   "url": "https://www.canva.com/learn/branding-your-teaching-materials-courses-programs-or-anything-in-between/",
+   "earliest": "20190724022931"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-yearbook-marketing-make-yearbook-sell-success/",
+   "earliest": "20190825152930"
+  },
+  {
+   "url": "https://www.canva.com/learn/coming-soon-pages/",
+   "earliest": "20190326055230"
+  },
+  {
+   "url": "https://www.canva.com/learn/spring-design/",
+   "earliest": "20190719101820"
+  },
+  {
+   "url": "https://www.canva.com/learn/film-titles/",
+   "earliest": "20190516115832"
+  },
+  {
+   "url": "https://www.canva.com/learn/the-best-free-business-fonts/",
+   "earliest": "20190213005956"
+  },
+  {
+   "url": "https://www.canva.com/learn/facebook-advertising/",
+   "earliest": "20200928004956"
+  },
+  {
+   "url": "https://www.canva.com/learn/swiss-design/",
+   "earliest": "20190724064520"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-creative-methods-to-teach-media-literacy/",
+   "earliest": "20191122070051"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-build-a-loyal-customer-base-using-social-media/",
+   "earliest": "20190818192146"
+  },
+  {
+   "url": "https://www.canva.com/learn/green-screen/",
+   "earliest": "20220630161910"
+  },
+  {
+   "url": "https://www.canva.com/learn/invitation-design-ideas/",
+   "earliest": "20190721105001"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-marketing-tips/",
+   "earliest": "20200805171932"
+  },
+  {
+   "url": "https://www.canva.com/learn/social-media-marketing/",
+   "earliest": "20190426035943"
+  },
+  {
+   "url": "https://www.canva.com/learn/20-effective-ways-learn-photography-without-going-photography-school/",
+   "earliest": "20190428044848"
+  },
+  {
+   "url": "https://www.canva.com/learn/contact-us-page-design/",
+   "earliest": "20190502141903"
+  },
+  {
+   "url": "https://www.canva.com/learn/resume-first-job/",
+   "earliest": "20200927050505"
+  },
+  {
+   "url": "https://www.canva.com/learn/graphic-designers-branding-inspiration-dribble/",
+   "earliest": "20191014183128"
+  },
+  {
+   "url": "https://www.canva.com/learn/presentation-design/",
+   "earliest": "20190916123341"
+  },
+  {
+   "url": "https://www.canva.com/learn/photography-tips/",
+   "earliest": "20190521050053"
+  },
+  {
+   "url": "https://www.canva.com/learn/teacher-resources/",
+   "earliest": "20190723140606"
+  },
+  {
+   "url": "https://www.canva.com/learn/inspirational-quotes-for-the-new-year/",
+   "earliest": "20190724023412"
+  },
+  {
+   "url": "https://www.canva.com/learn/trifold-brochures/",
+   "earliest": "20190717004315"
+  },
+  {
+   "url": "https://www.canva.com/learn/25-ways-to-design-an-awesome-poster-and-create-a-buzz-for-your-next-event/",
+   "earliest": "20190212143041"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-design-a-wedding-invitation/",
+   "earliest": "20200803181745"
+  },
+  {
+   "url": "https://www.canva.com/learn/looking-inspiration-12-photography-challenges-get-creativity-going/",
+   "earliest": "20190721110628"
+  },
+  {
+   "url": "https://www.canva.com/learn/font-pairs-for-you-to-try/",
+   "earliest": "20190818090847"
+  },
+  {
+   "url": "https://www.canva.com/learn/contributor-conversations-mythja-food-photography/",
+   "earliest": "20200812010622"
+  },
+  {
+   "url": "https://www.canva.com/learn/19-funny-christmas-and-holiday-season-card-ideas-to-try-this-year/",
+   "earliest": "20191213141540"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-resources/",
+   "earliest": "20190112145215"
+  },
+  {
+   "url": "https://www.canva.com/learn/contrasting-colors/",
+   "earliest": "20190124231941"
+  },
+  {
+   "url": "https://www.canva.com/learn/food-design/",
+   "earliest": "20190512213714"
+  },
+  {
+   "url": "https://www.canva.com/learn/unique-inspiring-about-page/",
+   "earliest": "20190823223222"
+  },
+  {
+   "url": "https://www.canva.com/learn/everything-about-canvas-new-pricing/",
+   "earliest": "20220813155712"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-ways-to-take-your-lessons-to-the-next-level-with-canva/",
+   "earliest": "20190825115719"
+  },
+  {
+   "url": "https://www.canva.com/learn/design-a-pitch-deck-that-makes-investors-say-yes/",
+   "earliest": "20190723195810"
+  },
+  {
+   "url": "https://www.canva.com/learn/font-design/",
+   "earliest": "20190514090404"
+  },
+  {
+   "url": "https://www.canva.com/learn/nonprofit-marketing/",
+   "earliest": "20200808034324"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-white-space-designs/",
+   "earliest": "20190514221644"
+  },
+  {
+   "url": "https://www.canva.com/learn/typographic-techniques-part-two/",
+   "earliest": "20190518104716"
+  },
+  {
+   "url": "https://www.canva.com/learn/8-social-media-lessons-can-learn-pros-templates/",
+   "earliest": "20190719143559"
+  },
+  {
+   "url": "https://www.canva.com/learn/font-psychology/",
+   "earliest": "20190820232147"
+  },
+  {
+   "url": "https://www.canva.com/learn/ultimate-guide-productivity/",
+   "earliest": "20191015035426"
+  },
+  {
+   "url": "https://www.canva.com/learn/hrc-builds-cultural-political-movements-design/",
+   "earliest": "20190818064935"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-signs-business-needs-rebrand-launch-one-budget/",
+   "earliest": "20190718152113"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-different-fonts-speak-to-you/",
+   "earliest": "20190822180709"
+  },
+  {
+   "url": "https://www.canva.com/learn/7-career-tips-help-succeed-creative-industry/",
+   "earliest": "20191014181018"
+  },
+  {
+   "url": "https://www.canva.com/learn/scale-designs/",
+   "earliest": "20190405103601"
+  },
+  {
+   "url": "https://www.canva.com/learn/connect-canva-education-istelive21/",
+   "earliest": "20210917032429"
+  },
+  {
+   "url": "https://www.canva.com/learn/ways-pop-art-changed-modern-design/",
+   "earliest": "20190227182235"
+  },
+  {
+   "url": "https://www.canva.com/learn/50-funny-birthday-card-ideas/",
+   "earliest": "20190817225827"
+  },
+  {
+   "url": "https://www.canva.com/learn/10-birthday-card-ideas-for-adults/",
+   "earliest": "20190818065058"
+  },
+  {
+   "url": "https://www.canva.com/learn/funny-ads/",
+   "earliest": "20190716125736"
+  },
+  {
+   "url": "https://www.canva.com/learn/how-to-make-print-flyer/",
+   "earliest": "20221002041748"
+  },
+  {
+   "url": "https://www.canva.com/learn/9-night-photography-techniques-capture-detailed-scenes-limited-lighting/",
+   "earliest": "20190819183117"
+  },
+  {
+   "url": "https://www.canva.com/learn/5-strategies-for-digital-marketers-in-2019/",
+   "earliest": "20190818065556"
+  },
+  {
+   "url": "https://www.canva.com/learn/create-amazing-infographics/",
+   "earliest": "20190920224201"
+  },
+  {
+   "url": "https://www.canva.com/learn/going-photo-walk-9-tips-come-back-amazing-photos/",
+   "earliest": "20200803183002"
+  },
+  {
+   "url": "https://www.canva.com/learn/design/teaching-materials/comic-book-creation/",
+   "earliest": "20190823071415"
+  },
+  {
+   "url": "https://www.canva.com/learn/newsletter-signup-form-ideas/",
+   "earliest": "20190822222208"
+  },
+  {
+   "url": "https://www.canva.com/learn/time-management/",
+   "earliest": "20191213071811"
+  }
+ ]
+}
