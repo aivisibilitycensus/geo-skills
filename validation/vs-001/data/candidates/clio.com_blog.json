@@ -1,0 +1,3019 @@
+{
+ "blog": "clio.com/blog",
+ "group": "Legal",
+ "reserve": false,
+ "cdxRows": 1397,
+ "articleLike": 752,
+ "queriedAt": "2026-11-04T02:56:36.608Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.clio.com/blog/set-up-professional-email-for-your-law-firm/",
+   "earliest": "20190713040939"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-culture-silicon-valley/",
+   "earliest": "20190824192831"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-signs-your-legal-seo-specialist-sucks/",
+   "earliest": "20190327161805"
+  },
+  {
+   "url": "https://www.clio.com/blog/9-things-starting-your-own-law-firm/",
+   "earliest": "20190811015621"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-experience-prison/",
+   "earliest": "20191121203248"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-make-a-difference/",
+   "earliest": "20190822060445"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-alternative-practice-models-offer-flexibility/",
+   "earliest": "20190821235558"
+  },
+  {
+   "url": "https://www.clio.com/blog/a-clio-cloud-conference-packing-guide/",
+   "earliest": "20190824192801"
+  },
+  {
+   "url": "https://www.clio.com/blog/6-things-lawyers-gmail-update/",
+   "earliest": "20190715210159"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-stressful/",
+   "earliest": "20220516221839"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-statistics/",
+   "earliest": "20201216154438"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-billing-template/",
+   "earliest": "20210817171528"
+  },
+  {
+   "url": "https://www.clio.com/blog/improving-law-firm-customer-service/",
+   "earliest": "20190822060647"
+  },
+  {
+   "url": "https://www.clio.com/blog/practice-management-best-practices-with-nathan-mccoy/",
+   "earliest": "20190821235338"
+  },
+  {
+   "url": "https://www.clio.com/blog/seo-for-lawyers/",
+   "earliest": "20200810154552"
+  },
+  {
+   "url": "https://www.clio.com/blog/easy-ways-to-secure-your-mobile-device-and-computer/",
+   "earliest": "20190715210045"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-tech-conference/",
+   "earliest": "20220916150547"
+  },
+  {
+   "url": "https://www.clio.com/blog/lead-generation-for-lawyers/",
+   "earliest": "20200803032511"
+  },
+  {
+   "url": "https://www.clio.com/blog/advice-for-new-lawyers/",
+   "earliest": "20201106221406"
+  },
+  {
+   "url": "https://www.clio.com/blog/grow-a-law-practice-vela-wood/",
+   "earliest": "20190718120106"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-records-management/",
+   "earliest": "20210929185154"
+  },
+  {
+   "url": "https://www.clio.com/blog/aba-legal-technology-the-cloud-is-here-to-stay/",
+   "earliest": "20190822061238"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-centered-law-firm/",
+   "earliest": "20190330022533"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-places-lawyers-can-advertise-online-for-free/",
+   "earliest": "20190824192701"
+  },
+  {
+   "url": "https://www.clio.com/blog/matt-homann-change-management/",
+   "earliest": "20200810160414"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-year-review-2017/",
+   "earliest": "20190822060838"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-aba-partnership/",
+   "earliest": "20200923000327"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-things-10-years/",
+   "earliest": "20190715210118"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-seo-writer/",
+   "earliest": "20211201042525"
+  },
+  {
+   "url": "https://www.clio.com/blog/payment-plans-law-firm/",
+   "earliest": "20190720061902"
+  },
+  {
+   "url": "https://www.clio.com/blog/6-practical-ways-to-better-manage-your-overscheduled-life/",
+   "earliest": "20190822061434"
+  },
+  {
+   "url": "https://www.clio.com/blog/marketing-for-criminal-defense-lawyers/",
+   "earliest": "20211125223446"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-marketing-consultant/",
+   "earliest": "20211020040955"
+  },
+  {
+   "url": "https://www.clio.com/blog/attorney-email-marketing-101/",
+   "earliest": "20190822061508"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2014-day-2/",
+   "earliest": "20190822000435"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-steps-to-eliminate-lawyer-data-entry-in-clio/",
+   "earliest": "20190822061102"
+  },
+  {
+   "url": "https://www.clio.com/blog/avoid-malpractice-claims-through-better-calendaring/",
+   "earliest": "20190824192927"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-technology-law-firms/",
+   "earliest": "20190706202552"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-win-big-burnaby-business-excellence-awards-2015/",
+   "earliest": "20190821235417"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-month-customize-clio-practice/",
+   "earliest": "20190822060549"
+  },
+  {
+   "url": "https://www.clio.com/blog/hiring-process-law-firms/",
+   "earliest": "20190821235951"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-predictions-10-years/",
+   "earliest": "20190719023745"
+  },
+  {
+   "url": "https://www.clio.com/blog/leslie-ginzel-access-legal-services/",
+   "earliest": "20200922225628"
+  },
+  {
+   "url": "https://www.clio.com/blog/closing-a-law-practice/",
+   "earliest": "20200810154741"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-agility-and-alternative-sourcing/",
+   "earliest": "20190824192131"
+  },
+  {
+   "url": "https://www.clio.com/blog/jack-newton-keynote-2018/",
+   "earliest": "20190824193019"
+  },
+  {
+   "url": "https://www.clio.com/blog/what-will-increase-access-to-justice/",
+   "earliest": "20200808061955"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-business-development/",
+   "earliest": "20190822061157"
+  },
+  {
+   "url": "https://www.clio.com/blog/benefits-of-shared-office-space-for-new-law-firms/",
+   "earliest": "20200919153443"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-laptop-for-lawyers/",
+   "earliest": "20210820025206"
+  },
+  {
+   "url": "https://www.clio.com/blog/guide-law-firm-seo/",
+   "earliest": "20190327161848"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-mentor/",
+   "earliest": "20210707135412"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-education-cost/",
+   "earliest": "20221006144603"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-partnership-structure/",
+   "earliest": "20210924163417"
+  },
+  {
+   "url": "https://www.clio.com/blog/top-legal-trends-watch-2019/",
+   "earliest": "20190718115806"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-hackers-come-to-brooklyn/",
+   "earliest": "20190822000720"
+  },
+  {
+   "url": "https://www.clio.com/blog/simple-data-new-clients/",
+   "earliest": "20190821235800"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-lawyer-directories/",
+   "earliest": "20210311184323"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-much-does-it-cost-to-start-your-own-law-firm/",
+   "earliest": "20190822000356"
+  },
+  {
+   "url": "https://www.clio.com/blog/shanita-gaines-clioday/",
+   "earliest": "20190824192904"
+  },
+  {
+   "url": "https://www.clio.com/blog/beyond-the-checkbook-better-billing-for-lawyers/",
+   "earliest": "20190822061413"
+  },
+  {
+   "url": "https://www.clio.com/blog/mary-meeker-internet-trends-lawyers/",
+   "earliest": "20190713040959"
+  },
+  {
+   "url": "https://www.clio.com/blog/electronic-signature-for-lawyers/",
+   "earliest": "20200620050636"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-needed-election-day/",
+   "earliest": "20190822061111"
+  },
+  {
+   "url": "https://www.clio.com/blog/6-reasons-to-have-a-paperless-law-firm/",
+   "earliest": "20190822000024"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-cover-letter-for-law-firms/",
+   "earliest": "20221031101035"
+  },
+  {
+   "url": "https://www.clio.com/blog/could-your-firm-benefit-from-an-apple-watch-app/",
+   "earliest": "20190822000640"
+  },
+  {
+   "url": "https://www.clio.com/blog/tracking-productivity-law-firm/",
+   "earliest": "20190718120036"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-books-for-lawyers/",
+   "earliest": "20190822000805"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-insurance/",
+   "earliest": "20211012193027"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-business-development-the-conversation-list-strategy/",
+   "earliest": "20190824233351"
+  },
+  {
+   "url": "https://www.clio.com/blog/supercharge-law-practice-zapier/",
+   "earliest": "20190319165044"
+  },
+  {
+   "url": "https://www.clio.com/blog/nps-law-firms/",
+   "earliest": "20190824192350"
+  },
+  {
+   "url": "https://www.clio.com/blog/7-tips-millennial-starting-law-firm/",
+   "earliest": "20190822061021"
+  },
+  {
+   "url": "https://www.clio.com/blog/burgeon-legal-clioday/",
+   "earliest": "20190822061624"
+  },
+  {
+   "url": "https://www.clio.com/blog/7-simple-steps-to-successfully-close-a-case/",
+   "earliest": "20190822061534"
+  },
+  {
+   "url": "https://www.clio.com/blog/what-is-clio-cloud-conference/",
+   "earliest": "20190821235940"
+  },
+  {
+   "url": "https://www.clio.com/blog/improve-client-intake-law-firm/",
+   "earliest": "20190824192533"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-software-program-list/",
+   "earliest": "20220809224809"
+  },
+  {
+   "url": "https://www.clio.com/blog/what-you-can-learn-about-law-firm-management-from-shark-tank/",
+   "earliest": "20190824192225"
+  },
+  {
+   "url": "https://www.clio.com/blog/making-a-murderer-clio/",
+   "earliest": "20190822060604"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-support-100000-tickets-answered/",
+   "earliest": "20190824192333"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-age-of-the-entrepreneurial-lawyer-part-1/",
+   "earliest": "20190822000617"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-establish-value-for-legal-clients/",
+   "earliest": "20190824193248"
+  },
+  {
+   "url": "https://www.clio.com/blog/stop-using-excel-for-billing/",
+   "earliest": "20211206204705"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-resume-tips/",
+   "earliest": "20200707212530"
+  },
+  {
+   "url": "https://www.clio.com/blog/start-law-firm-mac/",
+   "earliest": "20190715210514"
+  },
+  {
+   "url": "https://www.clio.com/blog/2021-clio-cloud-conference-keynote-speakers/",
+   "earliest": "20211020030129"
+  },
+  {
+   "url": "https://www.clio.com/blog/tools-for-lawyers/",
+   "earliest": "20210121202409"
+  },
+  {
+   "url": "https://www.clio.com/blog/4-things-your-clients-arent-telling-you/",
+   "earliest": "20190824192413"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-rise-of-the-robots/",
+   "earliest": "20190821235921"
+  },
+  {
+   "url": "https://www.clio.com/blog/automate-law-firm-zapier/",
+   "earliest": "20190824192604"
+  },
+  {
+   "url": "https://www.clio.com/blog/microsoft-office-365-for-law-firms/",
+   "earliest": "20200810164716"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-briefcases/",
+   "earliest": "20220922152633"
+  },
+  {
+   "url": "https://www.clio.com/blog/brian-cuban-lifting-mental-health-addiction-stigma/",
+   "earliest": "20210527183041"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-things-to-do-in-nashville-clio-cloud-conference-2022/",
+   "earliest": "20220914174521"
+  },
+  {
+   "url": "https://www.clio.com/blog/data-privacy-and-cloud-computing/",
+   "earliest": "20190822061045"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2014-day-1/",
+   "earliest": "20190822060531"
+  },
+  {
+   "url": "https://www.clio.com/blog/ip-docketing-deadlines/",
+   "earliest": "20190822000232"
+  },
+  {
+   "url": "https://www.clio.com/blog/prevent-admin-errors-avoid-malpractice/",
+   "earliest": "20190824192440"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-letterhead/",
+   "earliest": "20220516215138"
+  },
+  {
+   "url": "https://www.clio.com/blog/online-brand-protection/",
+   "earliest": "20190821235814"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-future-of-law-one-path-or-many/",
+   "earliest": "20190822060857"
+  },
+  {
+   "url": "https://www.clio.com/blog/document-management-for-lawyers-without-the-migration/",
+   "earliest": "20190822061333"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-analytics/",
+   "earliest": "20200629231658"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-vision-values/",
+   "earliest": "20190718115513"
+  },
+  {
+   "url": "https://www.clio.com/blog/local-seo-for-lawyers/",
+   "earliest": "20211019183831"
+  },
+  {
+   "url": "https://www.clio.com/blog/essential-steps-marketing-law-firm/",
+   "earliest": "20190824192945"
+  },
+  {
+   "url": "https://www.clio.com/blog/mobility-balanced-lifestyle/",
+   "earliest": "20190822000250"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-outstanding-balances/",
+   "earliest": "20191022180206"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-ways-to-manage-law-firm-cash-flow/",
+   "earliest": "20190822000745"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-website-builders/",
+   "earliest": "20200808183056"
+  },
+  {
+   "url": "https://www.clio.com/blog/time-billing-software-law-firms-reviews/",
+   "earliest": "20220831232623"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-support-custom-actions/",
+   "earliest": "20190824193155"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2016-jack-newtons-opening-keynote/",
+   "earliest": "20190822060703"
+  },
+  {
+   "url": "https://www.clio.com/blog/art-client-centered-communication/",
+   "earliest": "20190824192249"
+  },
+  {
+   "url": "https://www.clio.com/blog/billable-hours-chart/",
+   "earliest": "20210617164708"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-things-dont-teach-law-school/",
+   "earliest": "20190718120205"
+  },
+  {
+   "url": "https://www.clio.com/blog/response-to-covid-19/",
+   "earliest": "20200417185953"
+  },
+  {
+   "url": "https://www.clio.com/blog/apps-for-lawyers/",
+   "earliest": "20190330022433"
+  },
+  {
+   "url": "https://www.clio.com/blog/2014-a-clio-year-in-review/",
+   "earliest": "20190824192842"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-wellness-mental-health/",
+   "earliest": "20190616110019"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-tech-tips-office-administrators/",
+   "earliest": "20190715210310"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-write-a-winning-proposal/",
+   "earliest": "20190821235458"
+  },
+  {
+   "url": "https://www.clio.com/blog/daniel-gershburg-why-im-going-to-the-clio-cloud-conference/",
+   "earliest": "20190822060903"
+  },
+  {
+   "url": "https://www.clio.com/blog/assessing-the-lifetime-value-of-a-client/",
+   "earliest": "20200808184640"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-ways-law-firms-overcomplicate-bookkeeping/",
+   "earliest": "20190822060523"
+  },
+  {
+   "url": "https://www.clio.com/blog/black-friday-lawyers-selling-skilling/",
+   "earliest": "20190822060820"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-product-releases-2016/",
+   "earliest": "20190824192650"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-clio-gives-lawyers-more-free-time/",
+   "earliest": "20190821235313"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-billing/",
+   "earliest": "20190330022454"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegal-interview-questions/",
+   "earliest": "20220516220009"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-legal-project-management-provides-client-value/",
+   "earliest": "20190822000020"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-technology-trends/",
+   "earliest": "20190824192949"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-7-biggest-ediscovery-milestones-of-the-decade/",
+   "earliest": "20190822061143"
+  },
+  {
+   "url": "https://www.clio.com/blog/7-legal-networking-tips/",
+   "earliest": "20190824192600"
+  },
+  {
+   "url": "https://www.clio.com/blog/referral-campaign-law-firm/",
+   "earliest": "20200809032744"
+  },
+  {
+   "url": "https://www.clio.com/blog/top-legal-trends-2020/",
+   "earliest": "20200926092534"
+  },
+  {
+   "url": "https://www.clio.com/blog/payment-chargebacks/",
+   "earliest": "20220601205143"
+  },
+  {
+   "url": "https://www.clio.com/blog/what-can-paralegals-do/",
+   "earliest": "20210405205630"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-custom-fields-tab-gmail-entries/",
+   "earliest": "20190717193517"
+  },
+  {
+   "url": "https://www.clio.com/blog/daniel-pink-secret-law-firm-efficiency/",
+   "earliest": "20200810154146"
+  },
+  {
+   "url": "https://www.clio.com/blog/communication-writing-paralegals/",
+   "earliest": "20220814025420"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-chart-of-accounts-sample/",
+   "earliest": "20211207212438"
+  },
+  {
+   "url": "https://www.clio.com/blog/data-privacy-certification-lawyers/",
+   "earliest": "20221007005127"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-grow-payments/",
+   "earliest": "20190822000541"
+  },
+  {
+   "url": "https://www.clio.com/blog/jacks-opening-keynote-clio-cloud-conference-2017/",
+   "earliest": "20190720061916"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-document-shredding-101/",
+   "earliest": "20190822000545"
+  },
+  {
+   "url": "https://www.clio.com/blog/cover-letter-for-law-firms/",
+   "earliest": "20200623193430"
+  },
+  {
+   "url": "https://www.clio.com/blog/why-your-firm-needs-a-byod-policy/",
+   "earliest": "20190719043322"
+  },
+  {
+   "url": "https://www.clio.com/blog/two-approaches-to-legal-commodotization/",
+   "earliest": "20190822061012"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-interview-questions/",
+   "earliest": "20190822000705"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-project-manager/",
+   "earliest": "20210614140800"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegal-newsletters/",
+   "earliest": "20220625071758"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-hard-to-make-it-solo-practitioner/",
+   "earliest": "20200923005742"
+  },
+  {
+   "url": "https://www.clio.com/blog/secure-payments-with-lawpay-feature-interview/",
+   "earliest": "20190822060946"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-law-firm-websites/",
+   "earliest": "20200627043043"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-pricing-updated-2020/",
+   "earliest": "20201124072424"
+  },
+  {
+   "url": "https://www.clio.com/blog/new-years-resolutions-for-lawyers/",
+   "earliest": "20211230145448"
+  },
+  {
+   "url": "https://www.clio.com/blog/comparing-the-best-lawyer-billing-software/",
+   "earliest": "20220325192540"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-new-lawyers-get-clients/",
+   "earliest": "20200919160741"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-marketing-strategy/",
+   "earliest": "20210126181130"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-2019-clio-cloud-conference/",
+   "earliest": "20191121202526"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-rank-top-20-deloitte-technology-fast-50-awards-2015/",
+   "earliest": "20190822060709"
+  },
+  {
+   "url": "https://www.clio.com/blog/cloud-law-firm/",
+   "earliest": "20220307160736"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-pricing/",
+   "earliest": "20200923002557"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-ways-flat-fees-protect-your-downside/",
+   "earliest": "20190822061720"
+  },
+  {
+   "url": "https://www.clio.com/blog/8-black-friday-gifts-for-lawyers-who-love-tech/",
+   "earliest": "20190822061631"
+  },
+  {
+   "url": "https://www.clio.com/blog/achieve-more-with-lawyer-coaching/",
+   "earliest": "20210617175833"
+  },
+  {
+   "url": "https://www.clio.com/blog/conflict-check-how-to/",
+   "earliest": "20191022180850"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-technology-trends-2018/",
+   "earliest": "20190718120012"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-payments-one-place/",
+   "earliest": "20190715210408"
+  },
+  {
+   "url": "https://www.clio.com/blog/run-law-firm-securely-2017/",
+   "earliest": "20190822061000"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-tips-for-determining-whether-your-contingency-fee-is-reasonable/",
+   "earliest": "20190824193229"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-mediators-billing/",
+   "earliest": "20190822060452"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-tips-for-small-law-firms-to-thrive-in-the-online-era/",
+   "earliest": "20190822060612"
+  },
+  {
+   "url": "https://www.clio.com/blog/gone-clio-woolf-gafni-fowler-llp/",
+   "earliest": "20190822061131"
+  },
+  {
+   "url": "https://www.clio.com/blog/on-courtroom-etiquette-and-the-practice-of-law/",
+   "earliest": "20190821235425"
+  },
+  {
+   "url": "https://www.clio.com/blog/2016-financial-resolutions-for-your-law-firm-2/",
+   "earliest": "20190720062920"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-fee-collection-how-to-make-your-clients-pay/",
+   "earliest": "20190824192731"
+  },
+  {
+   "url": "https://www.clio.com/blog/cloud-computing-lawyers-ethics-opinions/",
+   "earliest": "20200808170058"
+  },
+  {
+   "url": "https://www.clio.com/blog/addiction-law-school-brian-cuban/",
+   "earliest": "20190717192731"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-practice-areas-solo-attorneys/",
+   "earliest": "20200922235823"
+  },
+  {
+   "url": "https://www.clio.com/blog/improve-legal-tech-know-how-and-become-a-clio-power-user/",
+   "earliest": "20190822060510"
+  },
+  {
+   "url": "https://www.clio.com/blog/live-chat-for-law-firms/",
+   "earliest": "20210216232214"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-get-keep-clients/",
+   "earliest": "20190822061429"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-marketing/",
+   "earliest": "20190709133400"
+  },
+  {
+   "url": "https://www.clio.com/blog/contingency-fees/",
+   "earliest": "20211020032404"
+  },
+  {
+   "url": "https://www.clio.com/blog/2019-clio-year-in-review/",
+   "earliest": "20201203235123"
+  },
+  {
+   "url": "https://www.clio.com/blog/consider-offering-legal-clients-flat-fees/",
+   "earliest": "20190822000314"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-automate-clio-with-zapier/",
+   "earliest": "20190319164716"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-web-designer/",
+   "earliest": "20190718115709"
+  },
+  {
+   "url": "https://www.clio.com/blog/managed-services-for-law-firms/",
+   "earliest": "20220326012437"
+  },
+  {
+   "url": "https://www.clio.com/blog/revenue-advantages-online-payments/",
+   "earliest": "20220720170551"
+  },
+  {
+   "url": "https://www.clio.com/blog/manage-law-firm-growth-2-steps-optimize-automate/",
+   "earliest": "20190822060336"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-strategic-planning/",
+   "earliest": "20200923010041"
+  },
+  {
+   "url": "https://www.clio.com/blog/listening-makes-law-firms-money/",
+   "earliest": "20190822061152"
+  },
+  {
+   "url": "https://www.clio.com/blog/an-agile-mindset-before-workflow/",
+   "earliest": "20190822060236"
+  },
+  {
+   "url": "https://www.clio.com/blog/pricing-risk-law-firms/",
+   "earliest": "20200923005832"
+  },
+  {
+   "url": "https://www.clio.com/blog/emerging-areas-law/",
+   "earliest": "20210615205630"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-lead-generation-services-lawyers-reviews/",
+   "earliest": "20200809031746"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-kpis/",
+   "earliest": "20190717192821"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-scheduler-online-payments/",
+   "earliest": "20200808172203"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-referral-marketing/",
+   "earliest": "20210306140055"
+  },
+  {
+   "url": "https://www.clio.com/blog/need-to-know-ediscovery/",
+   "earliest": "20190715210820"
+  },
+  {
+   "url": "https://www.clio.com/blog/tax-season-preparation-for-your-legal-practice/",
+   "earliest": "20190219214204"
+  },
+  {
+   "url": "https://www.clio.com/blog/need-robotics-laws/",
+   "earliest": "20190822061206"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-time-entries-self-serve/",
+   "earliest": "20190719024032"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-ways-to-automate-your-law-firm-with-zapier/",
+   "earliest": "20190821235525"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-ranks-in-deloitte-technology-fast-500/",
+   "earliest": "20190824193210"
+  },
+  {
+   "url": "https://www.clio.com/blog/website-packages-for-lawyers/",
+   "earliest": "20221025210137"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-manage-your-online-legal-reputation/",
+   "earliest": "20190822000614"
+  },
+  {
+   "url": "https://www.clio.com/blog/6-ways-to-use-ipads-in-your-law-firm/",
+   "earliest": "20190718120058"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-receives-20-million-from-bessemer-venture-partners/",
+   "earliest": "20190822060316"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-technology-trends-part-2/",
+   "earliest": "20190824193259"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-payment-plans/",
+   "earliest": "20190715210451"
+  },
+  {
+   "url": "https://www.clio.com/blog/organization-for-lawyers/",
+   "earliest": "20200803214128"
+  },
+  {
+   "url": "https://www.clio.com/blog/work-smarter-with-a-lean-canvas/",
+   "earliest": "20190822060537"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-essential-services/",
+   "earliest": "20200417193329"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-grow/",
+   "earliest": "20190330022443"
+  },
+  {
+   "url": "https://www.clio.com/blog/contacts-organized-law-firm/",
+   "earliest": "20190616111552"
+  },
+  {
+   "url": "https://www.clio.com/blog/whats-the-difference-between-paralegal-and-lawyer/",
+   "earliest": "20211206204110"
+  },
+  {
+   "url": "https://www.clio.com/blog/virtual-legal-conference/",
+   "earliest": "20200810161635"
+  },
+  {
+   "url": "https://www.clio.com/blog/was-clio-your-canadian-legal-blawg-of-choice-this-year/",
+   "earliest": "20190822061351"
+  },
+  {
+   "url": "http://www.clio.com/blog/ebilling-for-law-firms/",
+   "earliest": "20211020204010"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-anxiety/",
+   "earliest": "20200607185356"
+  },
+  {
+   "url": "https://www.clio.com/blog/should-law-students-self-study-for-the-bar-exam/",
+   "earliest": "20190715210700"
+  },
+  {
+   "url": "https://www.clio.com/blog/four-new-reasons-to-love-clio/",
+   "earliest": "20190824192548"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-profitability/",
+   "earliest": "20210210165549"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-2020-clio-cloud-conference/",
+   "earliest": "20201101014514"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-best-practices-with-attorney-jennifer-laviano/",
+   "earliest": "20190822060739"
+  },
+  {
+   "url": "https://www.clio.com/blog/tax-expenses-lawyers/",
+   "earliest": "20190822060310"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-best-practices-with-gabriel-cheong/",
+   "earliest": "20190822060458"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-goals/",
+   "earliest": "20201211160453"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-ethics-technology/",
+   "earliest": "20190822000817"
+  },
+  {
+   "url": "https://www.clio.com/blog/non-engagement-letter/",
+   "earliest": "20210223234802"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-quickbooks-online-trust-sync/",
+   "earliest": "20190821235849"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-texting/",
+   "earliest": "20210218182425"
+  },
+  {
+   "url": "https://www.clio.com/blog/document-automation-law-firms/",
+   "earliest": "20220602055538"
+  },
+  {
+   "url": "https://www.clio.com/blog/evergreen-content-marketing-law-firms/",
+   "earliest": "20190822060743"
+  },
+  {
+   "url": "https://www.clio.com/blog/improve-diversity-inclusion-law-firm-brand/",
+   "earliest": "20200922232313"
+  },
+  {
+   "url": "https://www.clio.com/blog/jack-client-experience-letter/",
+   "earliest": "20190720062053"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-student-mental-health-statistics/",
+   "earliest": "20220516215637"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-advertising-rules/",
+   "earliest": "20210112174323"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-documents-integrations/",
+   "earliest": "20190824232858"
+  },
+  {
+   "url": "https://www.clio.com/blog/why-you-need-to-increase-your-password-security/",
+   "earliest": "20190713054207"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-debt-collection-letter-sample/",
+   "earliest": "20210628145150"
+  },
+  {
+   "url": "https://www.clio.com/blog/researching-googles-motion-for-declaratory-judgment/",
+   "earliest": "20190822060719"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-cash-flow/",
+   "earliest": "20200417193814"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-mobile-nps/",
+   "earliest": "20190822061556"
+  },
+  {
+   "url": "https://www.clio.com/blog/programming-for-lawyers/",
+   "earliest": "20200923005420"
+  },
+  {
+   "url": "https://www.clio.com/blog/infographic-law-firm-cybersecurity/",
+   "earliest": "20190824192846"
+  },
+  {
+   "url": "https://www.clio.com/blog/news-helps-lawyers-get-clients/",
+   "earliest": "20190719023954"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-document-format/",
+   "earliest": "20220310193812"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-get-more-clients-lawyers/",
+   "earliest": "20190824192432"
+  },
+  {
+   "url": "https://www.clio.com/blog/pre-vacation-checklist-lawyers/",
+   "earliest": "20190824192448"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-administrators-spearhead-change/",
+   "earliest": "20210622141912"
+  },
+  {
+   "url": "https://www.clio.com/blog/copywriting-tips-for-your-law-firm-website/",
+   "earliest": "20190824193015"
+  },
+  {
+   "url": "https://www.clio.com/blog/lead-with-empathy/",
+   "earliest": "20200428173947"
+  },
+  {
+   "url": "https://www.clio.com/blog/top-5-automation-integrations/",
+   "earliest": "20190822060750"
+  },
+  {
+   "url": "https://www.clio.com/blog/eliminate-underearning-habits/",
+   "earliest": "20190821235548"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-ways-to-track-time-with-clio/",
+   "earliest": "20200314143651"
+  },
+  {
+   "url": "https://www.clio.com/blog/closing-letter-to-client/",
+   "earliest": "20210428173542"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-powerful-ways-to-boost-your-lawyer-client-relationships/",
+   "earliest": "20190824192510"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-success-lessons-from-a-venture-capitalist/",
+   "earliest": "20190824193206"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-named-one-of-bcs-25-fastest-growing-companies-in-2013/",
+   "earliest": "20190822061310"
+  },
+  {
+   "url": "https://www.clio.com/blog/what-do-lawyers-love-about-the-law/",
+   "earliest": "20190824232623"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-visits-the-international-bar-association-conference/",
+   "earliest": "20190822000219"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-confidentiality-digital-age/",
+   "earliest": "20190822000223"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-think-pink-law-uses-clio-to-practice-law/",
+   "earliest": "20190822060417"
+  },
+  {
+   "url": "https://www.clio.com/blog/subscription-based-law-firm/",
+   "earliest": "20190616110030"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-reputation-management-strategies/",
+   "earliest": "20211207205446"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-legal-podcasts/",
+   "earliest": "20200620111313"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-technology-provider-requirements-checklist/",
+   "earliest": "20220625073810"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2017-day-one-highlights/",
+   "earliest": "20190718115352"
+  },
+  {
+   "url": "https://www.clio.com/blog/tech-savvy-lawyer/",
+   "earliest": "20190720062253"
+  },
+  {
+   "url": "https://www.clio.com/blog/behind-the-scenes-at-the-2014-clio-cloud-conference/",
+   "earliest": "20190821235702"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-learn-from-designers/",
+   "earliest": "20190821235326"
+  },
+  {
+   "url": "https://www.clio.com/blog/free-law-firm-marketing-tools/",
+   "earliest": "20200809032755"
+  },
+  {
+   "url": "https://www.clio.com/blog/ediscovery-how-to/",
+   "earliest": "20190822061218"
+  },
+  {
+   "url": "https://www.clio.com/blog/run-a-law-firm-while-traveling/",
+   "earliest": "20190717193027"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-legal-e-billing-management-programs/",
+   "earliest": "20220812003955"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-confidentiality-lawyers/",
+   "earliest": "20190822061039"
+  },
+  {
+   "url": "https://www.clio.com/blog/training-for-lawyers/",
+   "earliest": "20201101050907"
+  },
+  {
+   "url": "https://www.clio.com/blog/decide-on-legal-billing-software/",
+   "earliest": "20200628130549"
+  },
+  {
+   "url": "https://www.clio.com/blog/new-speakers-announced-for-the-2016-clio-cloud-conference/",
+   "earliest": "20190822000307"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-law-firm-marketing-tips/",
+   "earliest": "20190715210034"
+  },
+  {
+   "url": "https://www.clio.com/blog/local-seo-lawyers/",
+   "earliest": "20220528033228"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-from-2020-legal-trends-report/",
+   "earliest": "20201118181956"
+  },
+  {
+   "url": "https://www.clio.com/blog/big-law-vs-you/",
+   "earliest": "20190822060517"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-legal-tech-blog/",
+   "earliest": "20190822061649"
+  },
+  {
+   "url": "https://www.clio.com/blog/saas-cloud-technology-for-lawyers/",
+   "earliest": "20190821235656"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-financing/",
+   "earliest": "20210811135334"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2017-key-highlights/",
+   "earliest": "20190718115956"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-do-clients-find-their-lawyers/",
+   "earliest": "20190715210454"
+  },
+  {
+   "url": "https://www.clio.com/blog/email-marketing-for-lawyers/",
+   "earliest": "20200808191623"
+  },
+  {
+   "url": "https://www.clio.com/blog/jack-newton-keynote-2019/",
+   "earliest": "20191121203307"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-podcast-guest/",
+   "earliest": "20190715210805"
+  },
+  {
+   "url": "https://www.clio.com/blog/cyber-security-law-firms/",
+   "earliest": "20220928214332"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-social-media-tips-for-lawyers/",
+   "earliest": "20190822061210"
+  },
+  {
+   "url": "https://www.clio.com/blog/video-conferencing-for-lawyers/",
+   "earliest": "20200620151833"
+  },
+  {
+   "url": "https://www.clio.com/blog/malpractice-claim-what-to-do/",
+   "earliest": "20190719023540"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-ways-lawyers-can-use-ifttt/",
+   "earliest": "20190822061659"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-year-review-2016/",
+   "earliest": "20190824193244"
+  },
+  {
+   "url": "https://www.clio.com/blog/chatbots-for-lawyers/",
+   "earliest": "20210902221244"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-mental-health/",
+   "earliest": "20220525223016"
+  },
+  {
+   "url": "https://www.clio.com/blog/bar-exam-uncertainty/",
+   "earliest": "20200903013611"
+  },
+  {
+   "url": "https://www.clio.com/blog/new-clio-experience/",
+   "earliest": "20190822000243"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-lawyers-local-search-toolkit/",
+   "earliest": "20190822000227"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-intake-forms-account-security/",
+   "earliest": "20201002135223"
+  },
+  {
+   "url": "https://www.clio.com/blog/a-bing-ads-guide-for-lawyers/",
+   "earliest": "20190824193133"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-outlook-add-in/",
+   "earliest": "20190715210528"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-management/",
+   "earliest": "20200809031445"
+  },
+  {
+   "url": "https://www.clio.com/blog/clients-want-accept-credit/",
+   "earliest": "20190715210345"
+  },
+  {
+   "url": "https://www.clio.com/blog/data-driven-lawyer/",
+   "earliest": "20190822000255"
+  },
+  {
+   "url": "https://www.clio.com/blog/social-media-for-lawyers/",
+   "earliest": "20190824193233"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-google-my-business-bill-message-templates/",
+   "earliest": "20201120201041"
+  },
+  {
+   "url": "https://www.clio.com/blog/marketing-software-law-firms/",
+   "earliest": "20220928212831"
+  },
+  {
+   "url": "https://www.clio.com/blog/linkedin-advertising-for-law-firms/",
+   "earliest": "20220107161215"
+  },
+  {
+   "url": "https://www.clio.com/blog/billing-procedures-law-firms/",
+   "earliest": "20220821043446"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-client-communication/",
+   "earliest": "20190330022423"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-much-do-lawyers-make-billable-hour-index/",
+   "earliest": "20190824192405"
+  },
+  {
+   "url": "https://www.clio.com/blog/document-automation-for-lawyers/",
+   "earliest": "20201027224754"
+  },
+  {
+   "url": "https://www.clio.com/blog/security-tips-mac-attorneys/",
+   "earliest": "20190626164301"
+  },
+  {
+   "url": "https://www.clio.com/blog/mike-whelan-jr-why-im-going-to-the-clio-cloud-conference/",
+   "earliest": "20190822000031"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-phone-systems/",
+   "earliest": "20220314080321"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-dialpad-integration/",
+   "earliest": "20200810164632"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-side-hustle/",
+   "earliest": "20210526003202"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-conferences-for-lawyers-2021/",
+   "earliest": "20210721131513"
+  },
+  {
+   "url": "https://www.clio.com/blog/content-marketing-law-firms/",
+   "earliest": "20220131223322"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-logos/",
+   "earliest": "20210120191509"
+  },
+  {
+   "url": "https://www.clio.com/blog/roundtable-law-saves-time-cloud/",
+   "earliest": "20190713040931"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-data-privacy-cles-lawyers/",
+   "earliest": "20221010131129"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-ways-lawyers-achieve-stress-relief/",
+   "earliest": "20190822000645"
+  },
+  {
+   "url": "https://www.clio.com/blog/simplify-billing-and-receivables-with-legal-tech/",
+   "earliest": "20190821235406"
+  },
+  {
+   "url": "https://www.clio.com/blog/buy-legal-malpractice-insurance/",
+   "earliest": "20190824193214"
+  },
+  {
+   "url": "https://www.clio.com/blog/engage-legal-client-their-terms/",
+   "earliest": "20190822060400"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-levelled-up-features/",
+   "earliest": "20190821235910"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-tech-mistakes-that-lawyers-make/",
+   "earliest": "20190822061318"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-technology-conference-attend/",
+   "earliest": "20190822061527"
+  },
+  {
+   "url": "https://www.clio.com/blog/myths-online-payments-lawyers/",
+   "earliest": "20190718115552"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-use-google-my-business-to-promote-your-law-firm/",
+   "earliest": "20200926085754"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-big-ideas-experts/",
+   "earliest": "20190822061336"
+  },
+  {
+   "url": "https://www.clio.com/blog/modern-law-firm-next-level/",
+   "earliest": "20190824193310"
+  },
+  {
+   "url": "https://www.clio.com/blog/accounting-software-managing-law-firm-easier/",
+   "earliest": "20190821235529"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-work-life-balance/",
+   "earliest": "20200810162404"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-kpis-how-well-law-firm-doing/",
+   "earliest": "20190821235645"
+  },
+  {
+   "url": "https://www.clio.com/blog/nicole-abboud-shayan-navigate-different-career/",
+   "earliest": "20200923001538"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-resume-tips-lawyer/",
+   "earliest": "20190822000343"
+  },
+  {
+   "url": "https://www.clio.com/blog/outsourcing-legal-services/",
+   "earliest": "20190719024012"
+  },
+  {
+   "url": "https://www.clio.com/blog/7-articles-improve-firm-summer/",
+   "earliest": "20190718120343"
+  },
+  {
+   "url": "https://www.clio.com/blog/attorney-networking/",
+   "earliest": "20190824193011"
+  },
+  {
+   "url": "https://www.clio.com/blog/2021-clio-year-in-review/",
+   "earliest": "20211229200210"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-new-mobile-app/",
+   "earliest": "20200809030134"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-in-the-field-warnken-llc/",
+   "earliest": "20190822061603"
+  },
+  {
+   "url": "https://www.clio.com/blog/measure-the-return-on-investment-of-your-marketing-efforts/",
+   "earliest": "20190822061242"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-legal-professionals-share-moms-inspired-careers/",
+   "earliest": "20190822061407"
+  },
+  {
+   "url": "https://www.clio.com/blog/save-time-by-using-client-referral-technology-part-1/",
+   "earliest": "20190715210653"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-from-2021-legal-trends-report/",
+   "earliest": "20211116164810"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-gifts-for-lawyers/",
+   "earliest": "20190822060426"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-do-legal-research/",
+   "earliest": "20201101121433"
+  },
+  {
+   "url": "https://www.clio.com/blog/write-legal-contract/",
+   "earliest": "20220525104959"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-trust-accounting/",
+   "earliest": "20190330022506"
+  },
+  {
+   "url": "https://www.clio.com/blog/future-for-law-firms-client-centered/",
+   "earliest": "20200926080818"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-future-of-law-four-visions/",
+   "earliest": "20190824192953"
+  },
+  {
+   "url": "https://www.clio.com/blog/billing-collections-law-firm/",
+   "earliest": "20190822061202"
+  },
+  {
+   "url": "https://www.clio.com/blog/credit-cards-and-trust-accounts-3-considerations-for-lawyers/",
+   "earliest": "20190720062708"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-innovation/",
+   "earliest": "20200809031513"
+  },
+  {
+   "url": "https://www.clio.com/blog/adopt-a-mobile-practice/",
+   "earliest": "20190822061117"
+  },
+  {
+   "url": "https://www.clio.com/blog/resilience-during-uncertainty/",
+   "earliest": "20200612233548"
+  },
+  {
+   "url": "https://www.clio.com/blog/fall-in-love-client-intake-process/",
+   "earliest": "20220209181128"
+  },
+  {
+   "url": "https://www.clio.com/blog/jack-newton-keynote-2021/",
+   "earliest": "20211102203110"
+  },
+  {
+   "url": "https://www.clio.com/blog/build-strong-lawyer-client-relationship/",
+   "earliest": "20190824192827"
+  },
+  {
+   "url": "https://www.clio.com/blog/business-lawyers-land-clients/",
+   "earliest": "20190822061400"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-stress-kelly-mcgonigal/",
+   "earliest": "20190720062540"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-pr-media-story/",
+   "earliest": "20190822061214"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-burnout/",
+   "earliest": "20200517141205"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-firm-dashboard/",
+   "earliest": "20200808182024"
+  },
+  {
+   "url": "https://www.clio.com/blog/lead-management-best-practices-law-firms/",
+   "earliest": "20200809032214"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-experience-client-centered-lawyer/",
+   "earliest": "20201004081110"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-filing-systems/",
+   "earliest": "20210128165114"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-intake-law-firms/",
+   "earliest": "20190719033258"
+  },
+  {
+   "url": "https://www.clio.com/blog/going-paperless-law-firm/",
+   "earliest": "20200620181938"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-journey-law-firms/",
+   "earliest": "20190822060640"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-2021-clio-cloud-conference/",
+   "earliest": "20211116012112"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-office-automation/",
+   "earliest": "20200810145320"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-payment-methods/",
+   "earliest": "20211022175212"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegals-lead-innovation/",
+   "earliest": "20200810164434"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-reasons-to-attend-the-clio-cloud-conference/",
+   "earliest": "20190824193325"
+  },
+  {
+   "url": "https://www.clio.com/blog/growing-a-law-firm/",
+   "earliest": "20200923005625"
+  },
+  {
+   "url": "https://www.clio.com/blog/slack-for-lawyers/",
+   "earliest": "20220518010429"
+  },
+  {
+   "url": "https://www.clio.com/blog/should-lawyers-use-landing-pages/",
+   "earliest": "20190824232200"
+  },
+  {
+   "url": "https://www.clio.com/blog/reopening-your-law-office/",
+   "earliest": "20200623211240"
+  },
+  {
+   "url": "https://www.clio.com/blog/accept-bitcoin-law-firm/",
+   "earliest": "20190822000712"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-conferences-for-lawyers-2022/",
+   "earliest": "20211207221517"
+  },
+  {
+   "url": "https://www.clio.com/blog/family-lawyer-education-requirements/",
+   "earliest": "20221006141424"
+  },
+  {
+   "url": "https://www.clio.com/blog/outside-counsel-clo-tips/",
+   "earliest": "20190822061619"
+  },
+  {
+   "url": "https://www.clio.com/blog/jason-golbey-clioday/",
+   "earliest": "20190824192957"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-importance-of-branding-your-law-firm/",
+   "earliest": "20190821235756"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-blog-effectively-a-guide-for-law-firms/",
+   "earliest": "20190821235725"
+  },
+  {
+   "url": "https://www.clio.com/blog/8-steps-to-repeatable-law-firm-processes/",
+   "earliest": "20220121031427"
+  },
+  {
+   "url": "https://www.clio.com/blog/7-things-ive-learned-since-starting-a-law-firm/",
+   "earliest": "20190720061832"
+  },
+  {
+   "url": "https://www.clio.com/blog/missing-pieces-firm-website/",
+   "earliest": "20190822060320"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegal-networking/",
+   "earliest": "20211020041034"
+  },
+  {
+   "url": "https://www.clio.com/blog/should-your-law-firm-be-a-boutique-or-volume-practice/",
+   "earliest": "20190821235832"
+  },
+  {
+   "url": "https://www.clio.com/blog/introducing-clios-new-cfo-marketing-vp/",
+   "earliest": "20190822000209"
+  },
+  {
+   "url": "https://www.clio.com/blog/dropbox-for-lawyers/",
+   "earliest": "20210603232121"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-platform-power/",
+   "earliest": "20190822000120"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-the-lean-canvas-can-benefit-your-law-firm/",
+   "earliest": "20190715210635"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyering-and-fatherhood-finding-a-balance/",
+   "earliest": "20190822061403"
+  },
+  {
+   "url": "https://www.clio.com/blog/determine-price-flat-fee-legal-services/",
+   "earliest": "20200809030433"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-cloud-computing-now/",
+   "earliest": "20190717192759"
+  },
+  {
+   "url": "https://www.clio.com/blog/why-content-is-the-next-big-thing-in-legal-marketing/",
+   "earliest": "20190822000043"
+  },
+  {
+   "url": "https://www.clio.com/blog/freelance-attorney/",
+   "earliest": "20200810164615"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-stories-be-kind-to-lawyers-day/",
+   "earliest": "20190822061107"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-landing-page/",
+   "earliest": "20220517012834"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-practice-travelling-country-rv/",
+   "earliest": "20201101061412"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegal-burnout/",
+   "earliest": "20210507040437"
+  },
+  {
+   "url": "https://www.clio.com/blog/seo-lawyers/",
+   "earliest": "20190327161837"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-reasons-lawyers-are-more-likely-to-be-audited/",
+   "earliest": "20190822000046"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-growth-burgeon-legal/",
+   "earliest": "20190824192712"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-networking-tips-learning-experience/",
+   "earliest": "20190822061148"
+  },
+  {
+   "url": "https://www.clio.com/blog/dealing-with-lawyer-depression/",
+   "earliest": "20210518170024"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-expensive-keywords-online-legal-marketing/",
+   "earliest": "20190822061635"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-advertising-examples/",
+   "earliest": "20220118220828"
+  },
+  {
+   "url": "https://www.clio.com/blog/solo-practice-vs-grow-team/",
+   "earliest": "20190824192727"
+  },
+  {
+   "url": "https://www.clio.com/blog/unbundled-legal-services/",
+   "earliest": "20200810164710"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-month-trust-disbursements-faster-search-document-automation/",
+   "earliest": "20190824192525"
+  },
+  {
+   "url": "https://www.clio.com/blog/call-to-action-legal-clients/",
+   "earliest": "20190616110033"
+  },
+  {
+   "url": "https://www.clio.com/blog/8-wordpress-plugins-law-firm-websites/",
+   "earliest": "20200808185355"
+  },
+  {
+   "url": "https://www.clio.com/blog/cyber-security-insurance-law-firms/",
+   "earliest": "20220628071354"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-flexibility/",
+   "earliest": "20190824193329"
+  },
+  {
+   "url": "https://www.clio.com/blog/questions-to-consider-before-signing-up-for-law-school/",
+   "earliest": "20190821235706"
+  },
+  {
+   "url": "https://www.clio.com/blog/singapores-kel-llc-loves-clio/",
+   "earliest": "20190822060956"
+  },
+  {
+   "url": "https://www.clio.com/blog/time-management-tips-lawyers/",
+   "earliest": "20190720062029"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firms-accepting-credit-cards/",
+   "earliest": "20201101015953"
+  },
+  {
+   "url": "https://www.clio.com/blog/blog-pci-compliance-for-law-firms/",
+   "earliest": "20211207223413"
+  },
+  {
+   "url": "https://www.clio.com/blog/twitter-for-lawyers/",
+   "earliest": "20190719035148"
+  },
+  {
+   "url": "https://www.clio.com/blog/changing-where-legal-professionals-spend-their-time/",
+   "earliest": "20220607130124"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-integrated-communications/",
+   "earliest": "20190821235711"
+  },
+  {
+   "url": "https://www.clio.com/blog/should-your-law-firm-upgrade-to-windows-10-asap/",
+   "earliest": "20190821235625"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-slow-business-periods/",
+   "earliest": "20190718115502"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-marketing-statistics/",
+   "earliest": "20200808182954"
+  },
+  {
+   "url": "https://www.clio.com/blog/thank-legal-staff/",
+   "earliest": "20190821235857"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-2015-sweet-spot-lawyers-legalzooms-john-suh/",
+   "earliest": "20190715210437"
+  },
+  {
+   "url": "https://www.clio.com/blog/litigation-lawyers-losing-hours/",
+   "earliest": "20190821235521"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-from-2022-legal-trends-report/",
+   "earliest": "20221011204258"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-working-hours/",
+   "earliest": "20210510131509"
+  },
+  {
+   "url": "https://www.clio.com/blog/working-at-a-law-firm/",
+   "earliest": "20211203152916"
+  },
+  {
+   "url": "https://www.clio.com/blog/virtual-legal-assistant/",
+   "earliest": "20210227124756"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-accounting-software/",
+   "earliest": "20210927012804"
+  },
+  {
+   "url": "https://www.clio.com/blog/discussing-clio-w-andrew-cabasso-of-jurispage/",
+   "earliest": "20190821235256"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-to-follow-clio-cloud-conference-edition/",
+   "earliest": "20190822000420"
+  },
+  {
+   "url": "https://www.clio.com/blog/power-client-communications/",
+   "earliest": "20190824232727"
+  },
+  {
+   "url": "https://www.clio.com/blog/types-of-paralegals/",
+   "earliest": "20211106132639"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-10th-anniversary/",
+   "earliest": "20190715210539"
+  },
+  {
+   "url": "https://www.clio.com/blog/payment-processing-fees/",
+   "earliest": "20220628071416"
+  },
+  {
+   "url": "https://www.clio.com/blog/reviewing-the-international-bar-association-conference/",
+   "earliest": "20190824192812"
+  },
+  {
+   "url": "https://www.clio.com/blog/level-up-solo-practice/",
+   "earliest": "20190824192537"
+  },
+  {
+   "url": "https://www.clio.com/blog/social-media-best-practices/",
+   "earliest": "20190824192451"
+  },
+  {
+   "url": "https://www.clio.com/blog/reasons-to-turn-away-a-client/",
+   "earliest": "20200728132225"
+  },
+  {
+   "url": "https://www.clio.com/blog/encryption-for-law-firms/",
+   "earliest": "20190228123619"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-month-dashboard-update-task-notifications-new-integration-partners/",
+   "earliest": "20190822000322"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-kimberley-motley-keynote/",
+   "earliest": "20190824192716"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-overcome-your-fear-of-the-cloud/",
+   "earliest": "20190822060607"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-grow-your-practice-with-virtual-assistants/",
+   "earliest": "20190824192938"
+  },
+  {
+   "url": "https://www.clio.com/blog/evergreen-retainers-law-firms/",
+   "earliest": "20190322225847"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firms-respond-faster/",
+   "earliest": "20190822060528"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-branding/",
+   "earliest": "20200619214801"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-payment-methods/&utm_medium=social&utm_campaign=aba_social_share_august_2022/",
+   "earliest": "20220829131541"
+  },
+  {
+   "url": "https://www.clio.com/blog/digital-marketing-tips/",
+   "earliest": "20211014180308"
+  },
+  {
+   "url": "https://www.clio.com/blog/automating-firm-accounts-receivables/",
+   "earliest": "20190824192709"
+  },
+  {
+   "url": "https://www.clio.com/blog/should-you-start-your-own-law-firm/",
+   "earliest": "20210709154134"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-enhanced-expenses/",
+   "earliest": "20190616110043"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-client-service/",
+   "earliest": "20200923001353"
+  },
+  {
+   "url": "https://www.clio.com/blog/a-guide-to-paralegal-billing/",
+   "earliest": "20210806182842"
+  },
+  {
+   "url": "https://www.clio.com/blog/stop-wasting-time-law-firm-collections/",
+   "earliest": "20190718115516"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-paralegal-software-programs/",
+   "earliest": "20220725211420"
+  },
+  {
+   "url": "https://www.clio.com/blog/essential-accounting-for-law-firms/",
+   "earliest": "20190822000102"
+  },
+  {
+   "url": "https://www.clio.com/blog/quickbooks-for-lawyers/",
+   "earliest": "20210927015226"
+  },
+  {
+   "url": "https://www.clio.com/blog/advice-from-preet-bharara/",
+   "earliest": "20190821235805"
+  },
+  {
+   "url": "https://www.clio.com/blog/why-lawyers-shouldnt-email-their-clients/",
+   "earliest": "20190719023856"
+  },
+  {
+   "url": "https://www.clio.com/blog/9-tips-for-law-firm-ppc-success/",
+   "earliest": "20211020030838"
+  },
+  {
+   "url": "https://www.clio.com/blog/value-negative-feedback-lawyers/",
+   "earliest": "20190824192521"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-culture/",
+   "earliest": "20200810162130"
+  },
+  {
+   "url": "https://www.clio.com/blog/facebook-advertising-right-law-firm/",
+   "earliest": "20190822061417"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-underused-features/",
+   "earliest": "20190822000013"
+  },
+  {
+   "url": "https://www.clio.com/blog/new-law-firm-announcement/",
+   "earliest": "20210617151658"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2016-day-one-highlights/",
+   "earliest": "20190822000701"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-succession-planning/",
+   "earliest": "20200810155618"
+  },
+  {
+   "url": "https://www.clio.com/blog/track-court-deadlines-court-rules/",
+   "earliest": "20190824192654"
+  },
+  {
+   "url": "https://www.clio.com/blog/alternative-fee-arrangements/",
+   "earliest": "20210816174227"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-practice-flexibility-best-practices/",
+   "earliest": "20190824193137"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-shifts-in-the-legal-technology-world-in-2014/",
+   "earliest": "20190824193023"
+  },
+  {
+   "url": "https://www.clio.com/blog/medical-records-yocierge/",
+   "earliest": "20190824192849"
+  },
+  {
+   "url": "https://www.clio.com/blog/attorney-client-confidentiality/",
+   "earliest": "20220528042429"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-be-a-more-productive-lawyer-with-clio/",
+   "earliest": "20190822061027"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-symbols-keyboard-shortcuts/",
+   "earliest": "20201105222838"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-domain-names/",
+   "earliest": "20220517020725"
+  },
+  {
+   "url": "https://www.clio.com/blog/accounting-for-law-firms/",
+   "earliest": "20220302114244"
+  },
+  {
+   "url": "https://www.clio.com/blog/gifts-for-law-students/",
+   "earliest": "20211210190025"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-mission-statements/",
+   "earliest": "20210917122934"
+  },
+  {
+   "url": "https://www.clio.com/blog/choosing-your-legal-niche/",
+   "earliest": "20190715210138"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-market-your-firm-with-jurispage/",
+   "earliest": "20190824192743"
+  },
+  {
+   "url": "https://www.clio.com/blog/adaptability-is-your-superpower/",
+   "earliest": "20200810162202"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-accept-credit-cards-law-firm/",
+   "earliest": "20211209170616"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-client-centered-bestseller/",
+   "earliest": "20200428053113"
+  },
+  {
+   "url": "https://www.clio.com/blog/credit-card-processing-for-lawyers/",
+   "earliest": "20211018233505"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-month-app-directory-newclio/",
+   "earliest": "20190718120209"
+  },
+  {
+   "url": "https://www.clio.com/blog/highlights-2022-clio-cloud-conference/",
+   "earliest": "20221013143617"
+  },
+  {
+   "url": "https://www.clio.com/blog/device-policy-for-law-firms/",
+   "earliest": "20190616111508"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-attorneys-can-use-slack-for-legal-research-2/",
+   "earliest": "20190820204509"
+  },
+  {
+   "url": "https://www.clio.com/blog/announcing-the-2013-clio-cloud-conference/",
+   "earliest": "20190824193049"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-client-experience/",
+   "earliest": "20190718115449"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-20-integrations/",
+   "earliest": "20190822000736"
+  },
+  {
+   "url": "https://www.clio.com/blog/facebook-for-lawyers/",
+   "earliest": "20210726132215"
+  },
+  {
+   "url": "https://www.clio.com/blog/hire-a-paralegal/",
+   "earliest": "20210204185134"
+  },
+  {
+   "url": "https://www.clio.com/blog/changing-legal-practice-areas/",
+   "earliest": "20200526005228"
+  },
+  {
+   "url": "https://www.clio.com/blog/boutique-law-firm/",
+   "earliest": "20210413195148"
+  },
+  {
+   "url": "https://www.clio.com/blog/start-law-firm-no-money/",
+   "earliest": "20190822061438"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-share-why-they-return-to-the-clio-cloud-conference/",
+   "earliest": "20190822060812"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-secure-your-tech-devices-against-attacks/",
+   "earliest": "20190822061642"
+  },
+  {
+   "url": "https://www.clio.com/blog/its-clios-6th-anniversary/",
+   "earliest": "20190822000812"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-invoice-clio-payments/",
+   "earliest": "20220831232602"
+  },
+  {
+   "url": "https://www.clio.com/blog/profitable-law-with-tech/",
+   "earliest": "20190824193332"
+  },
+  {
+   "url": "https://www.clio.com/blog/dave-stasaitis-on-the-clio-certified-consultant-program/",
+   "earliest": "20190822000153"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-home-office/",
+   "earliest": "20200713165848"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-much-should-lawyers-charge/",
+   "earliest": "20190713042746"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-start-a-law-firm-newsletter/",
+   "earliest": "20200919153151"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-retention-strategies-law-firms/",
+   "earliest": "20190822060817"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-marketers/",
+   "earliest": "20211007134025"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-full-text-search/",
+   "earliest": "20190719023645"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-problems-and-solutions/",
+   "earliest": "20190715210050"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-client-interview-questions/",
+   "earliest": "20210323213708"
+  },
+  {
+   "url": "https://www.clio.com/blog/starting-your-own-law-firm/",
+   "earliest": "20190822000606"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-website-content/",
+   "earliest": "20210408172122"
+  },
+  {
+   "url": "https://www.clio.com/blog/in-house-counsel-technology/",
+   "earliest": "20190824193203"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-software-reviews/",
+   "earliest": "20220728153318"
+  },
+  {
+   "url": "https://www.clio.com/blog/surprising-finding-legal-trends/",
+   "earliest": "20190715210134"
+  },
+  {
+   "url": "https://www.clio.com/blog/intro-agile-3-techniques-modern-lawyer/",
+   "earliest": "20190824192444"
+  },
+  {
+   "url": "https://www.clio.com/blog/civility-in-law-its-all-about-the-relationships/",
+   "earliest": "20190821235606"
+  },
+  {
+   "url": "https://www.clio.com/blog/mobile-connectivity-in-the-workplace/",
+   "earliest": "20190822061713"
+  },
+  {
+   "url": "https://www.clio.com/blog/free-accounting-software-for-lawyers/",
+   "earliest": "20220517020144"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-public-intake-forms/",
+   "earliest": "20200620002003"
+  },
+  {
+   "url": "https://www.clio.com/blog/attorney-melissa-conner-loves-clio-customer-support/",
+   "earliest": "20190822061137"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-data-encryption/",
+   "earliest": "20220814030258"
+  },
+  {
+   "url": "https://www.clio.com/blog/jack-newton-keynote-2022/",
+   "earliest": "20221011014723"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-i-doubled-my-law-firms-revenue-and-where-were-headed-next/",
+   "earliest": "20190824193336"
+  },
+  {
+   "url": "https://www.clio.com/blog/data-security-law-firms/",
+   "earliest": "20190616111502"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-client-portals/",
+   "earliest": "20190720061934"
+  },
+  {
+   "url": "https://www.clio.com/blog/diversity-inclusion-in-law-firms/",
+   "earliest": "20210422184215"
+  },
+  {
+   "url": "https://www.clio.com/blog/billing-software-for-mac/",
+   "earliest": "20210811001538"
+  },
+  {
+   "url": "https://www.clio.com/blog/freelance-paralegal/",
+   "earliest": "20220517001309"
+  },
+  {
+   "url": "https://www.clio.com/blog/marketing-budget-for-small-law-firm/",
+   "earliest": "20220121213348"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-budget/",
+   "earliest": "20190824193306"
+  },
+  {
+   "url": "https://www.clio.com/blog/a-guide-to-the-10-best-lawyer-time-tracking-tools/",
+   "earliest": "20211128230509"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-year-review-2018/",
+   "earliest": "20190718120200"
+  },
+  {
+   "url": "https://www.clio.com/blog/being-social-media-savvy-in-family-law/",
+   "earliest": "20190822000331"
+  },
+  {
+   "url": "https://www.clio.com/blog/practice-management-and-legal-tech-tips-from-around-the-web/",
+   "earliest": "20190821235611"
+  },
+  {
+   "url": "https://www.clio.com/blog/online-reputation-management-basics-for-law-firms/",
+   "earliest": "20190824193129"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-writing-tips-for-lawyers/",
+   "earliest": "20210501152316"
+  },
+  {
+   "url": "https://www.clio.com/blog/remote-paralegals/",
+   "earliest": "20210716153627"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-resources-for-the-agile-attorney/",
+   "earliest": "20190719034813"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-seo-tips-for-lawyers-2/",
+   "earliest": "20190327161816"
+  },
+  {
+   "url": "https://www.clio.com/blog/design-law-office-client-experience/",
+   "earliest": "20200808191400"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-conference/",
+   "earliest": "20220907201635"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-timer-update-support-trust-requests/",
+   "earliest": "20190822060422"
+  },
+  {
+   "url": "https://www.clio.com/blog/environmental-lawyer-education/",
+   "earliest": "20220928212831"
+  },
+  {
+   "url": "https://www.clio.com/blog/bryan-stevenson-make-difference/",
+   "earliest": "20190330022414"
+  },
+  {
+   "url": "https://www.clio.com/blog/excel-lawyers/",
+   "earliest": "20220414005349"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-payment-processing-software/",
+   "earliest": "20211207220536"
+  },
+  {
+   "url": "https://www.clio.com/blog/average-law-firm-revenue/",
+   "earliest": "20210825005635"
+  },
+  {
+   "url": "https://www.clio.com/blog/ach-payments-for-lawyers/",
+   "earliest": "20211206203147"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-highlights-2018/",
+   "earliest": "20190330022522"
+  },
+  {
+   "url": "https://www.clio.com/blog/quickbooks-trust-accounting/",
+   "earliest": "20200923005955"
+  },
+  {
+   "url": "https://www.clio.com/blog/5-content-marketing-tips-for-lawyers/",
+   "earliest": "20190822061514"
+  },
+  {
+   "url": "https://www.clio.com/blog/matter-numbering-system-law-firm/",
+   "earliest": "20191022180258"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-implications-of-big-data-self-driving-cars/",
+   "earliest": "20190824192835"
+  },
+  {
+   "url": "https://www.clio.com/blog/part-time-law-practice/",
+   "earliest": "20200627210128"
+  },
+  {
+   "url": "https://www.clio.com/blog/secure-phone-8-mobile-security-tips-lawyers/",
+   "earliest": "20190822000126"
+  },
+  {
+   "url": "https://www.clio.com/blog/buy-a-law-practice/",
+   "earliest": "20210923225702"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-fonts-for-legal-documents/",
+   "earliest": "20210420201245"
+  },
+  {
+   "url": "https://www.clio.com/blog/why-your-legal-firm-needs-a-website-and-how-to-build-one/",
+   "earliest": "20190822060355"
+  },
+  {
+   "url": "https://www.clio.com/blog/advanced-tasks-smart-law-firms-going-mobile/",
+   "earliest": "20190715210326"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-key-highlights/",
+   "earliest": "20190821235721"
+  },
+  {
+   "url": "https://www.clio.com/blog/8-ways-get-paid-on-time/",
+   "earliest": "20190824192514"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-business-plan/",
+   "earliest": "20190718115716"
+  },
+  {
+   "url": "https://www.clio.com/blog/future-law-new-vision-legal/",
+   "earliest": "20201117181041"
+  },
+  {
+   "url": "https://www.clio.com/blog/differentiate-law-firm/",
+   "earliest": "20200923005306"
+  },
+  {
+   "url": "https://www.clio.com/blog/shadow-it-and-your-law-firm/",
+   "earliest": "20190822061540"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-stay-off-phones/",
+   "earliest": "20190720061944"
+  },
+  {
+   "url": "https://www.clio.com/blog/9-tips-for-attorney-pay-per-click-advertising-success/",
+   "earliest": "20200810164450"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-lead-generation/",
+   "earliest": "20220814043543"
+  },
+  {
+   "url": "https://www.clio.com/blog/introducing-clio-payments/",
+   "earliest": "20211027112217"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-zoom-microsoft-teams/",
+   "earliest": "20200809032241"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-name-a-law-firm/",
+   "earliest": "20201101022535"
+  },
+  {
+   "url": "https://www.clio.com/blog/future-law-connected-year-transition/",
+   "earliest": "20201210224129"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-awards/",
+   "earliest": "20210316174500"
+  },
+  {
+   "url": "https://www.clio.com/blog/apps-preventing-lawyer-burnout/",
+   "earliest": "20190822060834"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-2018-review/",
+   "earliest": "20190718120023"
+  },
+  {
+   "url": "https://www.clio.com/blog/local-seo-guide-law-firms/",
+   "earliest": "20200808184343"
+  },
+  {
+   "url": "https://www.clio.com/blog/investing-next-era-legal/",
+   "earliest": "20190922130315"
+  },
+  {
+   "url": "https://www.clio.com/blog/will-small-law-save-law-school-grads/",
+   "earliest": "20190822000009"
+  },
+  {
+   "url": "https://www.clio.com/blog/business-card-designs-for-attorneys/",
+   "earliest": "20211122190103"
+  },
+  {
+   "url": "https://www.clio.com/blog/apple-in-law-firms-2013-survey-results-are-in/",
+   "earliest": "20190822000424"
+  },
+  {
+   "url": "https://www.clio.com/blog/future-law-cloud-based-client-centered-future/",
+   "earliest": "20201101015130"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-disaster-recovery-plan/",
+   "earliest": "20201110222553"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-students-benefit-from-the-alt-ac-phd-movement/",
+   "earliest": "20190824193052"
+  },
+  {
+   "url": "https://www.clio.com/blog/virtual-law-firm-guide/",
+   "earliest": "20200417193051"
+  },
+  {
+   "url": "https://www.clio.com/blog/attorney-referral-agreements/",
+   "earliest": "20190824193302"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-clios-academic-access-program-empowers-students/",
+   "earliest": "20190822000727"
+  },
+  {
+   "url": "https://www.clio.com/blog/cloud-law-firm-it-professionals/",
+   "earliest": "20190824192345"
+  },
+  {
+   "url": "https://www.clio.com/blog/smarter-legal-research/",
+   "earliest": "20190824193218"
+  },
+  {
+   "url": "https://www.clio.com/blog/flat-fee-attorney/",
+   "earliest": "20211207215447"
+  },
+  {
+   "url": "https://www.clio.com/blog/collecting-social-media-evidence/",
+   "earliest": "20190824193100"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-eff-lawyers/",
+   "earliest": "20190822061552"
+  },
+  {
+   "url": "https://www.clio.com/blog/virtual-receptionist-reviews-law-firms/",
+   "earliest": "20200919160524"
+  },
+  {
+   "url": "https://www.clio.com/blog/future-law-better-normal-law-firm/",
+   "earliest": "20201004110829"
+  },
+  {
+   "url": "https://www.clio.com/blog/alternative-career-lawyers/",
+   "earliest": "20200526001411"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-pay-per-click-advertising-tips-for-lawyers/",
+   "earliest": "20190715210855"
+  },
+  {
+   "url": "https://www.clio.com/blog/root-rebound-reentry/",
+   "earliest": "20190822000143"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegal-organizations/",
+   "earliest": "20220516225532"
+  },
+  {
+   "url": "https://www.clio.com/blog/social-media-law-firms-samantha-collier/",
+   "earliest": "20190822060800"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-forums/",
+   "earliest": "20210331170352"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-financial-management/",
+   "earliest": "20220204230541"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-retirement/",
+   "earliest": "20211020033127"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-tips-design-thinkers/",
+   "earliest": "20190822060349"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-disaster-relief-alberta-law-firms-2/",
+   "earliest": "20190822061122"
+  },
+  {
+   "url": "https://www.clio.com/blog/what-is-a-legal-assistant/",
+   "earliest": "20211207210757"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-networks-connected-future-ready/",
+   "earliest": "20220329140628"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-legal-blogs/",
+   "earliest": "20210911130122"
+  },
+  {
+   "url": "https://www.clio.com/blog/infographic-billing-bank-cash-flow-solutions-lawyers/",
+   "earliest": "20190820204430"
+  },
+  {
+   "url": "https://www.clio.com/blog/understanding-mindfulness-a-primer-for-lawyers/",
+   "earliest": "20190820210813"
+  },
+  {
+   "url": "https://www.clio.com/blog/implement-new-technology-law-firm/",
+   "earliest": "20190821235430"
+  },
+  {
+   "url": "https://www.clio.com/blog/selling-a-law-practice/",
+   "earliest": "20210920114248"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-work-from-home-policy/",
+   "earliest": "20200417193407"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-2016-day-two-highlights/",
+   "earliest": "20190822000035"
+  },
+  {
+   "url": "https://www.clio.com/blog/increase-attorney-fees/",
+   "earliest": "20190824193225"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-more-productive/",
+   "earliest": "20190718120347"
+  },
+  {
+   "url": "https://www.clio.com/blog/haben-girma-differences-drive-innovation/",
+   "earliest": "20190822000212"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-integrated-document-editing-and-clever-clio-uses/",
+   "earliest": "20190822060228"
+  },
+  {
+   "url": "https://www.clio.com/blog/choose-scanner-law-firm/",
+   "earliest": "20190718120419"
+  },
+  {
+   "url": "https://www.clio.com/blog/mobile-security-for-the-modern-lawyer/",
+   "earliest": "20190822000625"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-happiness/",
+   "earliest": "20210520171353"
+  },
+  {
+   "url": "https://www.clio.com/blog/government-stimulus-options/",
+   "earliest": "20200414090320"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-video-marketing-guide/",
+   "earliest": "20200808191233"
+  },
+  {
+   "url": "https://www.clio.com/blog/electronic-billing-software-law-firms/",
+   "earliest": "20220616121540"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-profit-sharing-formulas/",
+   "earliest": "20210826213729"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-calculate-utilization-rate/",
+   "earliest": "20211113140554"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-stress/",
+   "earliest": "20210514150044"
+  },
+  {
+   "url": "https://www.clio.com/blog/seo-services-law-firms/",
+   "earliest": "20210114202007"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-press-release/",
+   "earliest": "20190822060340"
+  },
+  {
+   "url": "https://www.clio.com/blog/help-the-lawyers-tech/",
+   "earliest": "20190822061250"
+  },
+  {
+   "url": "https://www.clio.com/blog/make-money-lawyer/",
+   "earliest": "20190225225930"
+  },
+  {
+   "url": "https://www.clio.com/blog/virtual-lawyer/",
+   "earliest": "20210713185527"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-website-hosting/",
+   "earliest": "20210729151131"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-time-tracking/",
+   "earliest": "20220324101954"
+  },
+  {
+   "url": "https://www.clio.com/blog/paralegal-automation/",
+   "earliest": "20210927002531"
+  },
+  {
+   "url": "https://www.clio.com/blog/three-cybersecurity-safeguards-for-law-firms/",
+   "earliest": "20190824193103"
+  },
+  {
+   "url": "https://www.clio.com/blog/google-advertising-lawyers/",
+   "earliest": "20200919152520"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyers-love-practice-law/",
+   "earliest": "20190822061446"
+  },
+  {
+   "url": "https://www.clio.com/blog/2020-clio-year-in-review/",
+   "earliest": "20201229182332"
+  },
+  {
+   "url": "https://www.clio.com/blog/collaboration-tools-for-improved-law-firm-productivity/",
+   "earliest": "20190824192503"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-manage-small-law-firm/",
+   "earliest": "20201124213805"
+  },
+  {
+   "url": "https://www.clio.com/blog/hipaa-compliance-law-firms/",
+   "earliest": "20220708064731"
+  },
+  {
+   "url": "https://www.clio.com/blog/tips-for-legal-blogging-success/",
+   "earliest": "20190822061126"
+  },
+  {
+   "url": "https://www.clio.com/blog/define-your-ideal-client-with-metrics/",
+   "earliest": "20190821235635"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-malpractice-claim/",
+   "earliest": "20220520151122"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-start-a-niche-law-firm-ip/",
+   "earliest": "20190720062033"
+  },
+  {
+   "url": "https://www.clio.com/blog/save-your-wallet-with-these-business-card-apps/",
+   "earliest": "20190822060242"
+  },
+  {
+   "url": "https://www.clio.com/blog/bar-exam-study-for-your-jurisdiction/",
+   "earliest": "20190822000338"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-free-legal-research-tools/",
+   "earliest": "20190822000657"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-expenses-affect-legal-fees/",
+   "earliest": "20190822061323"
+  },
+  {
+   "url": "https://www.clio.com/blog/3-ways-automate-client-intake/",
+   "earliest": "20190717193130"
+  },
+  {
+   "url": "https://www.clio.com/blog/complete-guide-facebook-advertising-campaigns-law-firms/",
+   "earliest": "20190713042735"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-melanie-heller-keynote/",
+   "earliest": "20190822061052"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-fee-financing-vs-payment-plans/",
+   "earliest": "20221029152235"
+  },
+  {
+   "url": "https://www.clio.com/blog/data-driven-improve-legal-practice/",
+   "earliest": "20190720061756"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-cloud-mobile-technology-are-revolutionizing-law/",
+   "earliest": "20190824232842"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-protect-your-clients-from-hackers/",
+   "earliest": "20190824193144"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-billing-tax-enhancements/",
+   "earliest": "20200923002127"
+  },
+  {
+   "url": "https://www.clio.com/blog/byod-policy-clients-will-hire-you-for/",
+   "earliest": "20190719033816"
+  },
+  {
+   "url": "https://www.clio.com/blog/2022-clio-cloud-conference-keynote-speakers/",
+   "earliest": "20221005233807"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-ways-to-increase-security-of-law-firm-data/",
+   "earliest": "20190824192337"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-lawyers-should-handle-free-advice-seekers/",
+   "earliest": "20190824193118"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-launcher-editing/",
+   "earliest": "20190822000051"
+  },
+  {
+   "url": "https://www.clio.com/blog/the-future-of-law-law-efficiency/",
+   "earliest": "20190822060330"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-buyers-market/",
+   "earliest": "20190822000130"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-app-directory/",
+   "earliest": "20190821235248"
+  },
+  {
+   "url": "https://www.clio.com/blog/2016-clio-cloud-conferencemeet-the-speakers/",
+   "earliest": "20190824192212"
+  },
+  {
+   "url": "https://www.clio.com/blog/caap-and-gown-from-college-to-a-legal-career/",
+   "earliest": "20190821235946"
+  },
+  {
+   "url": "https://www.clio.com/blog/credit-card-surcharge-what-it-means-for-law-firms/",
+   "earliest": "20211116141028"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-business-development-client-relationships/",
+   "earliest": "20190713042701"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-linkedin-profile-tips-for-lawyers/",
+   "earliest": "20190715210543"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-free-case-management-law-firms/",
+   "earliest": "20220814041849"
+  },
+  {
+   "url": "https://www.clio.com/blog/secure-file-sharing-law-firms/",
+   "earliest": "20200417193514"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-website-checklist/",
+   "earliest": "20190822060644"
+  },
+  {
+   "url": "https://www.clio.com/blog/20-realistic-new-years-resolutions-success/",
+   "earliest": "20190715210230"
+  },
+  {
+   "url": "https://www.clio.com/blog/client-intake-process-stages/",
+   "earliest": "20190718120156"
+  },
+  {
+   "url": "https://www.clio.com/blog/year-end-law-firm-financial-best-practices/",
+   "earliest": "20190713042730"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-malpractice-traps-and-how-to-avoid-them/",
+   "earliest": "20190824192321"
+  },
+  {
+   "url": "https://www.clio.com/blog/education-required-to-be-a-lawyer/",
+   "earliest": "20221006125803"
+  },
+  {
+   "url": "https://www.clio.com/blog/design-human-friendly-contracts/",
+   "earliest": "20210426130101"
+  },
+  {
+   "url": "https://www.clio.com/blog/reviewing-the-clio-certified-consultant-program/",
+   "earliest": "20190822061421"
+  },
+  {
+   "url": "https://www.clio.com/blog/search-engine-marketing-tips-for-lawyers/",
+   "earliest": "20190327161826"
+  },
+  {
+   "url": "https://www.clio.com/blog/multi-state-lawyers/",
+   "earliest": "20210406161617"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-8th-anniversary/",
+   "earliest": "20190822060830"
+  },
+  {
+   "url": "https://www.clio.com/blog/switching-to-bankruptcy-law/",
+   "earliest": "20220128111850"
+  },
+  {
+   "url": "https://www.clio.com/blog/working-remotely-as-a-lawyer/",
+   "earliest": "20200403202952"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-technology-trends/",
+   "earliest": "20201223205009"
+  },
+  {
+   "url": "https://www.clio.com/blog/public-sector-lawyers-experience-centralized-document-bliss/",
+   "earliest": "20190719040504"
+  },
+  {
+   "url": "https://www.clio.com/blog/remembering-ross-kodner/",
+   "earliest": "20190821235853"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-non-billable-time-tracking/",
+   "earliest": "20190922125504"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-stress-level/",
+   "earliest": "20220614191717"
+  },
+  {
+   "url": "https://www.clio.com/blog/legaltech-news/",
+   "earliest": "20220814034225"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-plan-summer-vacation-lawyer/",
+   "earliest": "20210703130204"
+  },
+  {
+   "url": "https://www.clio.com/blog/thriving-practitioner-and-person/",
+   "earliest": "20200923000520"
+  },
+  {
+   "url": "https://www.clio.com/blog/leaving-a-law-firm/",
+   "earliest": "20210629205111"
+  },
+  {
+   "url": "https://www.clio.com/blog/two-factor-authentication-lawyers-use/",
+   "earliest": "20190718115942"
+  },
+  {
+   "url": "https://www.clio.com/blog/true-cost-of-interruptions-for-lawyers/",
+   "earliest": "20190715210203"
+  },
+  {
+   "url": "https://www.clio.com/blog/lawyer-ai/",
+   "earliest": "20210610105132"
+  },
+  {
+   "url": "https://www.clio.com/blog/choose-credit-card-processor-law-firm/",
+   "earliest": "20190715210602"
+  },
+  {
+   "url": "https://www.clio.com/blog/steps-improve-mental-wellness/",
+   "earliest": "20190521134900"
+  },
+  {
+   "url": "https://www.clio.com/blog/palm-beach-county-bar-association-supercharge-legal-career/",
+   "earliest": "20190822000158"
+  },
+  {
+   "url": "https://www.clio.com/blog/zapier-integrations-simplifying-lawyers-lives/",
+   "earliest": "20190319164749"
+  },
+  {
+   "url": "https://www.clio.com/blog/pipeline-qualified-leads/",
+   "earliest": "20200921202203"
+  },
+  {
+   "url": "https://www.clio.com/blog/iso-27001-certified-law-firms/",
+   "earliest": "20220713200053"
+  },
+  {
+   "url": "https://www.clio.com/blog/2013-apple-in-law-firms-survey-results-show-continued-growth-for-idevices/",
+   "earliest": "20190715210827"
+  },
+  {
+   "url": "https://www.clio.com/blog/10-lessons-10-years-legal-career/",
+   "earliest": "20190822060621"
+  },
+  {
+   "url": "https://www.clio.com/blog/modern-metrics-for-the-entrepreneurial-lawyer/",
+   "earliest": "20190822061232"
+  },
+  {
+   "url": "https://www.clio.com/blog/clients-want-to-pay-by-credit-card/",
+   "earliest": "20211020040917"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-cloud-computing-association/",
+   "earliest": "20190715210841"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-billing-process/",
+   "earliest": "20190822061519"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-this-month-partial-refunds/",
+   "earliest": "20200926080332"
+  },
+  {
+   "url": "https://www.clio.com/blog/law-firm-linkedin-pages/",
+   "earliest": "20190718120032"
+  },
+  {
+   "url": "https://www.clio.com/blog/how-to-market-your-law-firm-on-yelp/",
+   "earliest": "20200926085954"
+  },
+  {
+   "url": "https://www.clio.com/blog/open-second-office-law-firm/",
+   "earliest": "20190718115423"
+  },
+  {
+   "url": "https://www.clio.com/blog/skills-law-firm-marketing-person/",
+   "earliest": "20200808183941"
+  },
+  {
+   "url": "https://www.clio.com/blog/clio-cloud-conference-bug-smash/",
+   "earliest": "20190822060632"
+  },
+  {
+   "url": "https://www.clio.com/blog/five-ways-to-improve-law-firm-billing/",
+   "earliest": "20190822000512"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-legal-follows-on-twitter/",
+   "earliest": "20190824192241"
+  },
+  {
+   "url": "https://www.clio.com/blog/jack-newton-keynote-2020/",
+   "earliest": "20201124064424"
+  },
+  {
+   "url": "https://www.clio.com/blog/4-ways-small-law-firms-can-improve-cash-flow/",
+   "earliest": "20190715210657"
+  },
+  {
+   "url": "https://www.clio.com/blog/email-marketing-software-lawyers/",
+   "earliest": "20210415220503"
+  },
+  {
+   "url": "https://www.clio.com/blog/24-billable-hours-3-simple-steps-law-firm-automation/",
+   "earliest": "20190715210922"
+  },
+  {
+   "url": "https://www.clio.com/blog/microsoft-word-hacks-every-lawyer-should-know/",
+   "earliest": "20190824232423"
+  },
+  {
+   "url": "https://www.clio.com/blog/gary-vaynerchuk-interview/",
+   "earliest": "20190822000413"
+  },
+  {
+   "url": "https://www.clio.com/blog/best-practices-to-optimize-your-firm-with-michael-carroll/",
+   "earliest": "20190715210430"
+  },
+  {
+   "url": "https://www.clio.com/blog/legal-operating-system/",
+   "earliest": "20220516214518"
+  },
+  {
+   "url": "https://www.clio.com/blog/attorney-work-from-home-jobs/",
+   "earliest": "20200526001559"
+  },
+  {
+   "url": "https://www.clio.com/blog/create-study-outlines-to-master-the-bar-exam/",
+   "earliest": "20190822060411"
+  },
+  {
+   "url": "https://www.clio.com/blog/four-reasons-to-have-an-independent-practice/",
+   "earliest": "20190821235744"
+  }
+ ]
+}
