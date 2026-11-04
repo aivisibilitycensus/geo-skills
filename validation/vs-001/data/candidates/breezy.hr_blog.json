@@ -1,0 +1,1027 @@
+{
+ "blog": "breezy.hr/blog",
+ "group": "Recruitment and HR",
+ "reserve": true,
+ "cdxRows": 469,
+ "articleLike": 254,
+ "queriedAt": "2026-11-04T03:33:47.580Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://breezy.hr/blog/hr-memes",
+   "earliest": "20220614005348"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-add-value-to-your-employer-brand-as-an-indispensable-in-house-recruiter",
+   "earliest": "20190721205908"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-compensation-for-small-businesses",
+   "earliest": "20210810194816"
+  },
+  {
+   "url": "https://breezy.hr/blog/human-hiring-2020-5-predictions",
+   "earliest": "20200930165555"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-your-diversity-hiring-goals-shouldnt-be-about-gender-or-race",
+   "earliest": "20190721212011"
+  },
+  {
+   "url": "https://breezy.hr/blog/7-deadly-diversity-recruiting-mistakes",
+   "earliest": "20190820100048"
+  },
+  {
+   "url": "https://breezy.hr/blog/interview-with-michelle-murray-market-force",
+   "earliest": "20190721220150"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-beat-the-healthcare-hiring-crunch",
+   "earliest": "20190721210905"
+  },
+  {
+   "url": "https://breezy.hr/blog/do-interview-thank-you-emails-matter",
+   "earliest": "20220516205424"
+  },
+  {
+   "url": "https://breezy.hr/blog/an-expert-look-at-boosting-dei-in-2022",
+   "earliest": "20211215140955"
+  },
+  {
+   "url": "https://breezy.hr/blog/interview-with-kyle-maltz-dollar-flight-club",
+   "earliest": "20200804234428"
+  },
+  {
+   "url": "https://breezy.hr/blog/discrimination-against-older-workers",
+   "earliest": "20191115152527"
+  },
+  {
+   "url": "https://breezy.hr/blog/social-media-recruiting-metrics",
+   "earliest": "20200930163802"
+  },
+  {
+   "url": "https://breezy.hr/blog/what-are-hr-analytics",
+   "earliest": "20200804230232"
+  },
+  {
+   "url": "https://breezy.hr/blog/gender-pronouns-are-changing-the-way-we-work",
+   "earliest": "20200919180447"
+  },
+  {
+   "url": "https://breezy.hr/blog/interviewing-working-moms",
+   "earliest": "20210505095833"
+  },
+  {
+   "url": "https://breezy.hr/blog/scheduling-links-faster-automated-interview-scheduling",
+   "earliest": "20190721213449"
+  },
+  {
+   "url": "https://breezy.hr/blog/did-you-catch-april-breezy-updates",
+   "earliest": "20190721214231"
+  },
+  {
+   "url": "https://breezy.hr/blog/hr-horror-stories-2021",
+   "earliest": "20211028110406"
+  },
+  {
+   "url": "https://breezy.hr/blog/hr-professionals",
+   "earliest": "20220327012738"
+  },
+  {
+   "url": "https://breezy.hr/blog/is-it-time-to-stop-talking-about-millennials",
+   "earliest": "20190721214734"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-give-feedback-unsuccessful-candidates-will-appreciate-with-examples",
+   "earliest": "20190721205858"
+  },
+  {
+   "url": "https://breezy.hr/blog/remote-candidate-experience",
+   "earliest": "20201109110703"
+  },
+  {
+   "url": "https://breezy.hr/blog/introducing-breezy-tasks",
+   "earliest": "20190721220357"
+  },
+  {
+   "url": "https://breezy.hr/blog/top-20-job-boards-diversity-hiring",
+   "earliest": "20190721215049"
+  },
+  {
+   "url": "https://breezy.hr/blog/long-distance-love-how-to-create-an-awesome-candidate-experience-for-remote-employees",
+   "earliest": "20190721214818"
+  },
+  {
+   "url": "https://breezy.hr/blog/from-creeper-to-class-act-social-recruiting-done-right",
+   "earliest": "20190721220659"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-be-a-good-interviewer",
+   "earliest": "20210601220131"
+  },
+  {
+   "url": "https://breezy.hr/blog/real-life-hiring-stories",
+   "earliest": "20210413014831"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-privacy-laws",
+   "earliest": "20220110180821"
+  },
+  {
+   "url": "https://breezy.hr/blog/building-a-diverse-workplace-as-a-revenue-driver",
+   "earliest": "20220228151105"
+  },
+  {
+   "url": "https://breezy.hr/blog/best-remote-jobs",
+   "earliest": "20201217182135"
+  },
+  {
+   "url": "https://breezy.hr/blog/target-top-talent-on-australias-number-one-jobs-site",
+   "earliest": "20190721215915"
+  },
+  {
+   "url": "https://breezy.hr/blog/covid-19-hiring-remote-video-interviews-assessments",
+   "earliest": "20200401110307"
+  },
+  {
+   "url": "https://breezy.hr/blog/attract-retain-standout-educators-7-steps",
+   "earliest": "20190820102238"
+  },
+  {
+   "url": "https://breezy.hr/blog/hire-healthcare-employees-patients-love",
+   "earliest": "20190721211216"
+  },
+  {
+   "url": "https://breezy.hr/blog/attract-retain-millennial-workers-for-construction",
+   "earliest": "20190721205950"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-hiring-managers-complete-guide-to-creating-a-stellar-candidate-experience",
+   "earliest": "20190721210029"
+  },
+  {
+   "url": "https://breezy.hr/blog/talent-search-get-millions-of-candidates-with-one-simple-search",
+   "earliest": "20190920205303"
+  },
+  {
+   "url": "https://breezy.hr/blog/zoom-google-meet-in-scheduling-links",
+   "earliest": "20210603171109"
+  },
+  {
+   "url": "https://breezy.hr/blog/women-in-talent",
+   "earliest": "20210311183618"
+  },
+  {
+   "url": "https://breezy.hr/blog/performance-management",
+   "earliest": "20220418203251"
+  },
+  {
+   "url": "https://breezy.hr/blog/behind-the-deal-why-ltg-bought-breezy-hr",
+   "earliest": "20190721215845"
+  },
+  {
+   "url": "https://breezy.hr/blog/what-every-job-candidate-wishes-you-knew-bs-free-recruitment-advice-from-8-candid-career-coaches",
+   "earliest": "20190721220507"
+  },
+  {
+   "url": "https://breezy.hr/blog/examples-of-hospitality-recruitment-strategy",
+   "earliest": "20211011154420"
+  },
+  {
+   "url": "https://breezy.hr/blog/attract-and-retain-millennial-healthcare-workers",
+   "earliest": "20200930160527"
+  },
+  {
+   "url": "https://breezy.hr/blog/minimum-wage-debate-in-hr",
+   "earliest": "20210830173805"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-easy-ways-to-simplify-your-hiring-process-with-examples",
+   "earliest": "20190721210652"
+  },
+  {
+   "url": "https://breezy.hr/blog/diversity-in-the-hospitality-industry",
+   "earliest": "20220210164642"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-simple-rules-to-rock-your-candidate-meet-and-greets",
+   "earliest": "20190721214854"
+  },
+  {
+   "url": "https://breezy.hr/blog/return-to-work-plan",
+   "earliest": "20210916042908"
+  },
+  {
+   "url": "https://breezy.hr/blog/9-hr-horror-stories",
+   "earliest": "20191115150949"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-recognized-for-awesomeness-in-like-7-recent-hr-software-award-lists",
+   "earliest": "20190417165801"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-all-in-one-guide-to-your-best-interview-process-yet",
+   "earliest": "20190721211107"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-hire-like-an-hr-pro-when-youre-definitely-not-one",
+   "earliest": "20190718011434"
+  },
+  {
+   "url": "https://breezy.hr/blog/find-qualified-workers-for-construction-team",
+   "earliest": "20190721210146"
+  },
+  {
+   "url": "https://breezy.hr/blog/10-small-to-mid-size-employer-brands-that-punch-above-their-weight",
+   "earliest": "20190721212108"
+  },
+  {
+   "url": "https://breezy.hr/blog/recruiter-vs-hiring-manager-where-does-the-buck-stop",
+   "earliest": "20190721212740"
+  },
+  {
+   "url": "https://breezy.hr/blog/hr-compliance",
+   "earliest": "20220127200911"
+  },
+  {
+   "url": "https://breezy.hr/blog/is-your-bias-crippling-your-business-heres-why-hr-should-embrace-neurodiversity",
+   "earliest": "20190718005344"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-in-a-tough-talent-market",
+   "earliest": "20220912143653"
+  },
+  {
+   "url": "https://breezy.hr/blog/background-checks-will-speed-up-your-hiring-process",
+   "earliest": "20200920222300"
+  },
+  {
+   "url": "https://breezy.hr/blog/recruiting-via-text-message-6-ways-sms-can-help-you-hire-better",
+   "earliest": "20190721210042"
+  },
+  {
+   "url": "https://breezy.hr/blog/10-interview-questions-to-hire-teachers",
+   "earliest": "20190820094529"
+  },
+  {
+   "url": "https://breezy.hr/blog/unique-interview-questions",
+   "earliest": "20201209190531"
+  },
+  {
+   "url": "https://breezy.hr/blog/women-in-talent-6-outspoken-experts",
+   "earliest": "20190721213221"
+  },
+  {
+   "url": "https://breezy.hr/blog/dos-and-donts-of-sms-recruiting",
+   "earliest": "20190721215456"
+  },
+  {
+   "url": "https://breezy.hr/blog/just-how-fit-are-you-diversity-recruiting-beyond-the-buzz",
+   "earliest": "20190721220748"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-hr-goodhire-faster-friendlier-background-checks",
+   "earliest": "20190721212802"
+  },
+  {
+   "url": "https://breezy.hr/blog/employer-branding",
+   "earliest": "20220425160151"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-accessible-site-redesign",
+   "earliest": "20220401133311"
+  },
+  {
+   "url": "https://breezy.hr/blog/recruitment-plan",
+   "earliest": "20200919175525"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-you-need-to-know-the-roi-on-your-ats",
+   "earliest": "20190721205944"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-checkr-faster-automated-background-screening",
+   "earliest": "20190721210157"
+  },
+  {
+   "url": "https://breezy.hr/blog/phone-screen-interview",
+   "earliest": "20211229193844"
+  },
+  {
+   "url": "https://breezy.hr/blog/soft-skills-list",
+   "earliest": "20220919150012"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-is-discrimination-against-working-moms-still-a-thing",
+   "earliest": "20190721212505"
+  },
+  {
+   "url": "https://breezy.hr/blog/what-hr-can-learn-about-employee-retention-from-customer-success",
+   "earliest": "20190411052620"
+  },
+  {
+   "url": "https://breezy.hr/blog/want-a-better-experience-for-candidates-first-humanize-your-hiring-workflow",
+   "earliest": "20190721215248"
+  },
+  {
+   "url": "https://breezy.hr/blog/upgraded-document-signing-is-here",
+   "earliest": "20190721220944"
+  },
+  {
+   "url": "https://breezy.hr/blog/planning-to-fail-the-painful-truth-about-succession-planning",
+   "earliest": "20190721214357"
+  },
+  {
+   "url": "https://breezy.hr/blog/organizational-communication",
+   "earliest": "20210219164036"
+  },
+  {
+   "url": "https://breezy.hr/blog/recruitment-compliance",
+   "earliest": "20220125060229"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-hire-for-your-startup-without-copying-the-unicorn-next-door-interview-with-sarah-corboliou-unito",
+   "earliest": "20190920203137"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-online-dating-is-a-metaphor-for-recruiting",
+   "earliest": "20190721212650"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-avoid-burnout-in-hiring-process",
+   "earliest": "20210730204617"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-honest-recruiters-guide-to-collaborative-hiring-with-examples",
+   "earliest": "20190721213939"
+  },
+  {
+   "url": "https://breezy.hr/blog/three-tips-for-nailing-your-employment-branding",
+   "earliest": "20190721210455"
+  },
+  {
+   "url": "https://breezy.hr/blog/new-era-of-hospitality-hiring",
+   "earliest": "20210824133311"
+  },
+  {
+   "url": "https://breezy.hr/blog/rapid-hire-how-knock-uses-a-people-first-recruitment-process-to-source-for-massive-growth",
+   "earliest": "20190721220652"
+  },
+  {
+   "url": "https://breezy.hr/blog/if-youre-not-a-client-of-choice-youll-lose-in-the-on-demand-talent-economy",
+   "earliest": "20190721220941"
+  },
+  {
+   "url": "https://breezy.hr/blog/earth-day-activities-for-work",
+   "earliest": "20210426172139"
+  },
+  {
+   "url": "https://breezy.hr/blog/bringing-a-sense-of-purpose-to-unsexy-roles",
+   "earliest": "20190721214232"
+  },
+  {
+   "url": "https://breezy.hr/blog/interview-with-pointed-copywriting",
+   "earliest": "20201019215503"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-optimize-your-career-page-in-3-simple-steps",
+   "earliest": "20190721212057"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-bias",
+   "earliest": "20210413013348"
+  },
+  {
+   "url": "https://breezy.hr/blog/talent-acquisition-in-2021",
+   "earliest": "20210113181244"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-turnover-rate",
+   "earliest": "20210122092541"
+  },
+  {
+   "url": "https://breezy.hr/blog/applicant-tracking-system-checklist-crucial-features-of-your-next-ats",
+   "earliest": "20190721211841"
+  },
+  {
+   "url": "https://breezy.hr/blog/sourcing-in-the-moment",
+   "earliest": "20190721205928"
+  },
+  {
+   "url": "https://breezy.hr/blog/post-a-job-on-google",
+   "earliest": "20220809054126"
+  },
+  {
+   "url": "https://breezy.hr/blog/interview-with-rob-collie-p3",
+   "earliest": "20200919191134"
+  },
+  {
+   "url": "https://breezy.hr/blog/career-portal-perfection-express-yourself",
+   "earliest": "20190721205848"
+  },
+  {
+   "url": "https://breezy.hr/blog/what-the-vaxx-mandate-means-for-employers",
+   "earliest": "20211124044234"
+  },
+  {
+   "url": "https://breezy.hr/blog/candidate-sourcing-perfect-fit-strategy",
+   "earliest": "20190820105208"
+  },
+  {
+   "url": "https://breezy.hr/blog/always-have-highly-skilled-construction-workers",
+   "earliest": "20190718012922"
+  },
+  {
+   "url": "https://breezy.hr/blog/cloud-based-recruiting-solution",
+   "earliest": "20220411232300"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-improve-your-acquisition-efficiency-in-3-simple-steps",
+   "earliest": "20190721215137"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-teachers-leaving-jobs",
+   "earliest": "20190721205902"
+  },
+  {
+   "url": "https://breezy.hr/blog/perks-and-benefits-every-healthcare-worker-wants",
+   "earliest": "20190721220739"
+  },
+  {
+   "url": "https://breezy.hr/blog/dont-get-burned-by-gdpr-actionable-tips",
+   "earliest": "20190721215847"
+  },
+  {
+   "url": "https://breezy.hr/blog/these-4-simple-ways-to-show-appreciation-for-job-candidates-will-leave-you-with-zero-excuse",
+   "earliest": "20190721215745"
+  },
+  {
+   "url": "https://breezy.hr/blog/software-advice-adds-breezy-to-applicant-tracking-frontrunners-2016",
+   "earliest": "20190417144918"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-women-are-the-key-to-beating-the-construction-hiring-crunch",
+   "earliest": "20190721220649"
+  },
+  {
+   "url": "https://breezy.hr/blog/building-quality-remote-teams",
+   "earliest": "20200930162014"
+  },
+  {
+   "url": "https://breezy.hr/blog/did-you-see-these-june-breezy-updates",
+   "earliest": "20190721220034"
+  },
+  {
+   "url": "https://breezy.hr/blog/gen-z-in-the-workplace",
+   "earliest": "20221011012121"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-5x-your-team",
+   "earliest": "20191214151239"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-hr-partners-with-hellosign-to-deliver-unrivaled-in-app-offer-management",
+   "earliest": "20190721210859"
+  },
+  {
+   "url": "https://breezy.hr/blog/hidden-gem-hiring",
+   "earliest": "20200930144612"
+  },
+  {
+   "url": "https://breezy.hr/blog/ways-to-hire-quality-faculty-members",
+   "earliest": "20190820093946"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-construction-companies-are-winning-the-best-workers",
+   "earliest": "20190721212557"
+  },
+  {
+   "url": "https://breezy.hr/blog/holiday-ideas-for-workplace",
+   "earliest": "20211117213600"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-benefits",
+   "earliest": "20221010223455"
+  },
+  {
+   "url": "https://breezy.hr/blog/winning-the-gig-economy-with-the-hollywood-model",
+   "earliest": "20190721210747"
+  },
+  {
+   "url": "https://breezy.hr/blog/attract-retain-millennial-healthcare-workers",
+   "earliest": "20190721211204"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-manager-vs-recruiter",
+   "earliest": "20220407200557"
+  },
+  {
+   "url": "https://breezy.hr/blog/vacation-policy-for-small-businesses",
+   "earliest": "20210909234715"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-5-most-overlooked-perks-and-benefits-every-teacher-wants",
+   "earliest": "20190721210026"
+  },
+  {
+   "url": "https://breezy.hr/blog/15-problem-solving-interview-questions",
+   "earliest": "20190721211543"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-burnout-vs-employee-productivity",
+   "earliest": "20210706061317"
+  },
+  {
+   "url": "https://breezy.hr/blog/inclusion-in-the-workplace-10-simple-rules",
+   "earliest": "20200804230951"
+  },
+  {
+   "url": "https://breezy.hr/blog/working-moms-report",
+   "earliest": "20211209120708"
+  },
+  {
+   "url": "https://breezy.hr/blog/applicant-tracking-system-for-small-businesses",
+   "earliest": "20211208161231"
+  },
+  {
+   "url": "https://breezy.hr/blog/toxic-work-environment",
+   "earliest": "20210518161204"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-we-love-these-10-inspiring-employer-brands",
+   "earliest": "20190721210106"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-reasons-your-millennial-recruiting-strategy-wont-work-with-new-gradz",
+   "earliest": "20190721213524"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-referral-program",
+   "earliest": "20220927231504"
+  },
+  {
+   "url": "https://breezy.hr/blog/11-personality-tests-for-hiring-awesome-talent",
+   "earliest": "20190820092835"
+  },
+  {
+   "url": "https://breezy.hr/blog/salaries-on-jobs",
+   "earliest": "20220626090401"
+  },
+  {
+   "url": "https://breezy.hr/blog/hire-remote-employees-perfect-culture-add",
+   "earliest": "20200804233253"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-go-from-startup-to-scaleup",
+   "earliest": "20200930164344"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-criteria-corp-better-data-driven-hiring-decisions",
+   "earliest": "20190718013352"
+  },
+  {
+   "url": "https://breezy.hr/blog/socially-responsible-companies",
+   "earliest": "20201031013141"
+  },
+  {
+   "url": "https://breezy.hr/blog/talent-acquisition",
+   "earliest": "20220509195112"
+  },
+  {
+   "url": "https://breezy.hr/blog/candidate-communication-inbox-for-breezy-hr",
+   "earliest": "20190721210756"
+  },
+  {
+   "url": "https://breezy.hr/blog/diversity-inclusion-quick-checklist",
+   "earliest": "20190721205925"
+  },
+  {
+   "url": "https://breezy.hr/blog/types-of-diversity",
+   "earliest": "20220606202424"
+  },
+  {
+   "url": "https://breezy.hr/blog/attract-hire-high-performing-millennial-talent-saas",
+   "earliest": "20190721214614"
+  },
+  {
+   "url": "https://breezy.hr/blog/social-recruiting-and-the-metrics-that-count",
+   "earliest": "20190721220939"
+  },
+  {
+   "url": "https://breezy.hr/blog/phone-interview-questions",
+   "earliest": "20201101001352"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-big-predictions-for-recruitment-in-2019",
+   "earliest": "20190721210035"
+  },
+  {
+   "url": "https://breezy.hr/blog/put-gdpr-compliance-on-auto-pilot-with-the-breezy-compliance-kit",
+   "earliest": "20190721210931"
+  },
+  {
+   "url": "https://breezy.hr/blog/practical-ways-to-attract-neurodiverse-talent",
+   "earliest": "20200930162131"
+  },
+  {
+   "url": "https://breezy.hr/blog/framework-for-winning-aging-workforce",
+   "earliest": "20190721214116"
+  },
+  {
+   "url": "https://breezy.hr/blog/screen-applicants-faster-with-ai",
+   "earliest": "20220801184511"
+  },
+  {
+   "url": "https://breezy.hr/blog/is-your-eeo-statement-helping-or-hurting",
+   "earliest": "20190718003102"
+  },
+  {
+   "url": "https://breezy.hr/blog/21-interview-questions-management-positions",
+   "earliest": "20190721210010"
+  },
+  {
+   "url": "https://breezy.hr/blog/is-your-employer-brand-bull-heres-how-to-build-trust-with-job-candidates",
+   "earliest": "20190721220525"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-seasonal-employees",
+   "earliest": "20211122180214"
+  },
+  {
+   "url": "https://breezy.hr/blog/structured-interview-process",
+   "earliest": "20220718195957"
+  },
+  {
+   "url": "https://breezy.hr/blog/interview-with-rachel-hammerton-spark-lifecare",
+   "earliest": "20200509013646"
+  },
+  {
+   "url": "https://breezy.hr/blog/employee-mental-health-and-inclusion",
+   "earliest": "20211021170444"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-hire-veterans",
+   "earliest": "20190920201048"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-process-guide",
+   "earliest": "20191014125201"
+  },
+  {
+   "url": "https://breezy.hr/blog/did-you-miss-breezys-september-updates",
+   "earliest": "20190721210032"
+  },
+  {
+   "url": "https://breezy.hr/blog/these-are-the-only-perks-youll-ever-need-to-attract-star-talent",
+   "earliest": "20190721214651"
+  },
+  {
+   "url": "https://breezy.hr/blog/5-stellar-career-pages-that-will-give-you-serious-recruitment-envy",
+   "earliest": "20190721214437"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-surprising-hiring-mistakes-saas-startup",
+   "earliest": "20190721205947"
+  },
+  {
+   "url": "https://breezy.hr/blog/beyond-the-buzz-a-real-world-guide-to-agile-recruitment",
+   "earliest": "20190721215211"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-developers-2019",
+   "earliest": "20190920201155"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-step-process-to-hire-candidates-for-your-volunteer-based-organization",
+   "earliest": "20190721215410"
+  },
+  {
+   "url": "https://breezy.hr/blog/when-its-this-easy-to-communicate-with-candidates-everyone-wins",
+   "earliest": "20190721214721"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-make-a-fair-job-offer",
+   "earliest": "20200930165439"
+  },
+  {
+   "url": "https://breezy.hr/blog/best-office-pranks",
+   "earliest": "20210401170541"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-craft-a-great-candidate-experience",
+   "earliest": "20190721213113"
+  },
+  {
+   "url": "https://breezy.hr/blog/fluff-free-cheat-sheet-to-improve-your-sourcing-prowess",
+   "earliest": "20190721213103"
+  },
+  {
+   "url": "https://breezy.hr/blog/women-in-talent-13-outspoken-experts",
+   "earliest": "20200930154047"
+  },
+  {
+   "url": "https://breezy.hr/blog/hr-horror-stories",
+   "earliest": "20201101063738"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-long-term-candidate-nurture-is-a-must-for-modern-recruiters",
+   "earliest": "20190721211449"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-world-according-to-the-evil-hr-lady-suzanne-lucas",
+   "earliest": "20191214154333"
+  },
+  {
+   "url": "https://breezy.hr/blog/kill-the-culture-cliches-why-every-office-needs-a-healthy-dose-of-irreverence",
+   "earliest": "20190721214540"
+  },
+  {
+   "url": "https://breezy.hr/blog/did-you-catch-these-may-breezy-updates",
+   "earliest": "20190721215749"
+  },
+  {
+   "url": "https://breezy.hr/blog/better-healthcare-hiring-5-companies",
+   "earliest": "20190721212252"
+  },
+  {
+   "url": "https://breezy.hr/blog/recruit-to-retain-candidate-experience",
+   "earliest": "20190721212545"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-gdpr-is-not-the-anti-christ",
+   "earliest": "20190721205953"
+  },
+  {
+   "url": "https://breezy.hr/blog/build-scalable-hiring-process-for-your-saas-business",
+   "earliest": "20190721210022"
+  },
+  {
+   "url": "https://breezy.hr/blog/women-in-the-workplace",
+   "earliest": "20220313051752"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-hackerrank-a-better-way-to-evaluate-hire-tech-talent",
+   "earliest": "20190721205931"
+  },
+  {
+   "url": "https://breezy.hr/blog/best-job-search-sites",
+   "earliest": "20201130184258"
+  },
+  {
+   "url": "https://breezy.hr/blog/what-if-your-ats-was-more-like-your-favorite-app",
+   "earliest": "20190718003521"
+  },
+  {
+   "url": "https://breezy.hr/blog/hris-ats-integration",
+   "earliest": "20200919193509"
+  },
+  {
+   "url": "https://breezy.hr/blog/did-you-miss-these-july-breezy-updates",
+   "earliest": "20190721215802"
+  },
+  {
+   "url": "https://breezy.hr/blog/inclusive-onboarding",
+   "earliest": "20200930161021"
+  },
+  {
+   "url": "https://breezy.hr/blog/remote-recruitment-a-to-z-guide",
+   "earliest": "20200804231553"
+  },
+  {
+   "url": "https://breezy.hr/blog/your-mobile-recruiting-just-got-a-mobile-rebooting",
+   "earliest": "20190721210904"
+  },
+  {
+   "url": "https://breezy.hr/blog/revamp-your-hiring-2019",
+   "earliest": "20190721211231"
+  },
+  {
+   "url": "https://breezy.hr/blog/4-practical-ways-to-attract-neurodiverse-talent",
+   "earliest": "20190721214015"
+  },
+  {
+   "url": "https://breezy.hr/blog/job-rejection-email",
+   "earliest": "20210622210345"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-take-the-rigidity-out-of-your-structured-interview-process",
+   "earliest": "20190721212349"
+  },
+  {
+   "url": "https://breezy.hr/blog/free-job-posting-site",
+   "earliest": "20220705211714"
+  },
+  {
+   "url": "https://breezy.hr/blog/gearing-up-for-hrtechconf-2017",
+   "earliest": "20190721205937"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-easy-ways-to-measure-your-employer-brand-and-woo-the-pants-off-your-ceo",
+   "earliest": "20190721211412"
+  },
+  {
+   "url": "https://breezy.hr/blog/dei-recruitment-and-hiring",
+   "earliest": "20211112130239"
+  },
+  {
+   "url": "https://breezy.hr/blog/diverse-candidates-star-talent-slip-through-cracks",
+   "earliest": "20200930145325"
+  },
+  {
+   "url": "https://breezy.hr/blog/did-you-miss-these-august-breezy-updates",
+   "earliest": "20190721210946"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-build-a-recruitment-process",
+   "earliest": "20191014140209"
+  },
+  {
+   "url": "https://breezy.hr/blog/5-predictions-for-hr-in-2018",
+   "earliest": "20190718012225"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-write-an-engaging-job-description",
+   "earliest": "20190721205920"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-attract-awesome-candidates-on-a-budget",
+   "earliest": "20190721212917"
+  },
+  {
+   "url": "https://breezy.hr/blog/what-should-you-include-in-your-candidate-experience-survey-sample-questions",
+   "earliest": "20190721213851"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-examples-of-termination-letters-done-right",
+   "earliest": "20190820092822"
+  },
+  {
+   "url": "https://breezy.hr/blog/adios-google-hire",
+   "earliest": "20191014125023"
+  },
+  {
+   "url": "https://breezy.hr/blog/recruitment-in-2018-weve-got-one-word-for-you",
+   "earliest": "20190721212115"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-structured-interviews-help-you-predictably-hire-the-most-successful-candidates",
+   "earliest": "20190721212827"
+  },
+  {
+   "url": "https://breezy.hr/blog/5-easy-steps-to-writing-winning-job-descriptions",
+   "earliest": "20190721221147"
+  },
+  {
+   "url": "https://breezy.hr/blog/interview-with-julie-zollo-elevation-church",
+   "earliest": "20190820093458"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-hr-customers-give-us-a-perfect-score",
+   "earliest": "20190417164521"
+  },
+  {
+   "url": "https://breezy.hr/blog/hr-horror-stories-2022",
+   "earliest": "20221025160112"
+  },
+  {
+   "url": "https://breezy.hr/blog/data-driven-assessment-structured-interviews",
+   "earliest": "20220829195252"
+  },
+  {
+   "url": "https://breezy.hr/blog/close-the-teacher-diversity-gap",
+   "earliest": "20190820092746"
+  },
+  {
+   "url": "https://breezy.hr/blog/inclusive-recruiting-after-you-post-your-open-position",
+   "earliest": "20200930150201"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-indeed-assessments-helping-companies-reduce-bias-in-hiring",
+   "earliest": "20190721213430"
+  },
+  {
+   "url": "https://breezy.hr/blog/blockchain-meets-recruitment",
+   "earliest": "20190820103212"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-hire-heroes-interview-with-miguel-marshall-of-the-central-park-medical-unit",
+   "earliest": "20190721220653"
+  },
+  {
+   "url": "https://breezy.hr/blog/formal-offer-letter-templates",
+   "earliest": "20190820110206"
+  },
+  {
+   "url": "https://breezy.hr/blog/ultimate-interview-process",
+   "earliest": "20210527193817"
+  },
+  {
+   "url": "https://breezy.hr/blog/3-simple-rules-for-using-inclusive-language-in-your-job-ads",
+   "earliest": "20190721214045"
+  },
+  {
+   "url": "https://breezy.hr/blog/want-an-all-star-team-try-the-moneyball-approach-to-hiring",
+   "earliest": "20190721212930"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-catch-release-is-the-next-brilliant-recruiting-strategy",
+   "earliest": "20190721205934"
+  },
+  {
+   "url": "https://breezy.hr/blog/virtual-assistant",
+   "earliest": "20220822161843"
+  },
+  {
+   "url": "https://breezy.hr/blog/5-trends-hire-best-construction-workers-2020",
+   "earliest": "20200804232539"
+  },
+  {
+   "url": "https://breezy.hr/blog/is-your-healthcare-hiring-process-outdated",
+   "earliest": "20190721211021"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-no-nonsense-guide-to-sourcing-talent",
+   "earliest": "20190721214808"
+  },
+  {
+   "url": "https://breezy.hr/blog/why-fairer-background-checks-are-a-must-in-modern-hiring",
+   "earliest": "20190718002443"
+  },
+  {
+   "url": "https://breezy.hr/blog/three-essential-lessons-on-recruiting-in-a-job-seekers-market",
+   "earliest": "20190718012234"
+  },
+  {
+   "url": "https://breezy.hr/blog/fair-chance-hiring-incarcerated-talent-pool",
+   "earliest": "20191115151133"
+  },
+  {
+   "url": "https://breezy.hr/blog/minimize-bias-in-your-interview-process",
+   "earliest": "20200930161901"
+  },
+  {
+   "url": "https://breezy.hr/blog/web3-and-the-future-of-hiring",
+   "earliest": "20220711185321"
+  },
+  {
+   "url": "https://breezy.hr/blog/guide-to-your-best-interview-process",
+   "earliest": "20200804231506"
+  },
+  {
+   "url": "https://breezy.hr/blog/cost-of-bad-hire",
+   "earliest": "20190721214215"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-and-why-to-hire-for-personality",
+   "earliest": "20190721212314"
+  },
+  {
+   "url": "https://breezy.hr/blog/hiring-managers-guide-candidate-experience",
+   "earliest": "20200922020128"
+  },
+  {
+   "url": "https://breezy.hr/blog/ways-to-improve-dei-in-2022",
+   "earliest": "20220221174219"
+  },
+  {
+   "url": "https://breezy.hr/blog/effects-of-technology-on-employee-mental-health",
+   "earliest": "20210729195119"
+  },
+  {
+   "url": "https://breezy.hr/blog/breezy-joins-the-ltg-family",
+   "earliest": "20190417144912"
+  },
+  {
+   "url": "https://breezy.hr/blog/5-ways-behavioral-economics-can-help-transform-your-company-culture",
+   "earliest": "20190718002447"
+  },
+  {
+   "url": "https://breezy.hr/blog/how-to-predictably-hire-the-most-successful-candidates-using-structured-interview-questions",
+   "earliest": "20190721220925"
+  },
+  {
+   "url": "https://breezy.hr/blog/5-trends-to-hire-the-best-construction-workers-in-2019",
+   "earliest": "20190721220802"
+  },
+  {
+   "url": "https://breezy.hr/blog/blind-hiring",
+   "earliest": "20220626072912"
+  },
+  {
+   "url": "https://breezy.hr/blog/video-interviews-made-easy-by-breezy-hr",
+   "earliest": "20190721220330"
+  },
+  {
+   "url": "https://breezy.hr/blog/that-time-you-made-the-impossible-hire-6-recruiters-share-their-stories",
+   "earliest": "20190721211201"
+  },
+  {
+   "url": "https://breezy.hr/blog/the-no-bull-approach-to-winning-millennial-talent-interview-with-trevor-longino-unito",
+   "earliest": "20190721210715"
+  },
+  {
+   "url": "https://breezy.hr/blog/modern-recruiting-starts-with-a-selfie",
+   "earliest": "20190721213553"
+  }
+ ]
+}
