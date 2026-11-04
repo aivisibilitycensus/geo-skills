@@ -1,0 +1,3791 @@
+{
+ "blog": "greenhouse.io/blog",
+ "group": "Recruitment and HR",
+ "reserve": false,
+ "cdxRows": 1032,
+ "articleLike": 945,
+ "queriedAt": "2026-11-04T03:25:28.517Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.greenhouse.io/blog/5-ways-to-cultivate-inclusion-in-your-organization",
+   "earliest": "20220818101606"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-importance-of-data-in-recruiting",
+   "earliest": "20190723072147"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-recognition-can-help-you-flatline-turnover",
+   "earliest": "20190225073804"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-ways-to-attract-women-to-your-tech-company",
+   "earliest": "20190213184920"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/what-new-data-reveals-about-bias-and-dei",
+   "earliest": "20220406160000"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/7-situations-where-enlisting-the-help-of-a-recruiting-agency-is-more-advantageous-than-using-an-in-house-recruiter",
+   "earliest": "20190718233124"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/monday-metric-uncovering-the-value-of-employees-through-quality-of-hire",
+   "earliest": "20190303223306"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/where-marketing-meets-recruiting-using-personas-campaigns-and-pipelines-to-build-a-robust-marketing-team",
+   "earliest": "20190526132541"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-makes-a-company-a-glassdoor-best-place-to-work",
+   "earliest": "20190721085115"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/social-sharing-with-greenhouse-made-simple-at-siriusdecisions",
+   "earliest": "20190719001517"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-transform-your-traditional-hiring-process-into-a-culture-add-approach",
+   "earliest": "20190719001044"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-write-effective-email-subject-lines-to-attract-candidates",
+   "earliest": "20220818111608"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-one-ceo-cracked-the-recruiting-code-and-grew-by-45-in-6-weeks",
+   "earliest": "20190723071337"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/announcing-the-workplace-intelligence-report-new-research-from-greenhouse-and-hrwins",
+   "earliest": "20190405124309"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-find-a-job-in-two-easy-steps",
+   "earliest": "20200926045616"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-implement-structured-hiring-step-4-create-an-interview-kit-with-these-4-types-of-questions",
+   "earliest": "20190718235802"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/emea-talent-professionals-join-us-at-open-forum-to-transform-your-hiring-practices",
+   "earliest": "20211017150324"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/4-ways-applicant-tracking-software-accelerates-your-hiring-process",
+   "earliest": "20190111061742"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/want-to-transform-recruiting-start-thinking-like-a-marketer",
+   "earliest": "20190723071450"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-future-of-making-great-hires-how-structured-hiring-drops-the-mic-on-freestyle",
+   "earliest": "20190718232816"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-good-are-your-interviews",
+   "earliest": "20190721083903"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-key-takeaways-from-greenhouse-open",
+   "earliest": "20190721082457"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/new-recruiting-roles-the-social-media-sourcer",
+   "earliest": "20190723080256"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/from-lou-adler-how-implementing-a-talent-scarcity-strategy-can-solve-your-common-hiring-problems",
+   "earliest": "20190723065415"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-build-custom-benefits-strategy-for-remote-teams",
+   "earliest": "20210923151445"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-culture-amps-community-engages-prospective-candidates-in-its-culture",
+   "earliest": "20190718232853"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-feature-update",
+   "earliest": "20190721084302"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/an-education-in-data-driven-diversity-equity-and-inclusion-at-donorschoose",
+   "earliest": "20201020040521"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-nutrabolt-built-a-small-but-world-class-recruiting-team-with-greenhouse",
+   "earliest": "20190718232701"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/why-recruiting-matters-more-than-ever",
+   "earliest": "20190125064637"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-hubspot-empowers-all-employees-to-foster-inclusion",
+   "earliest": "20190321173601"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-two-components-of-a-successful-talent-brand",
+   "earliest": "20190723074100"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/inside-the-mind-of-a-candidate-exclusive-insights-from-open-2018-roadshows-candidate-panel",
+   "earliest": "20190718235549"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/measuring-d-i-impact-and-progress-with-alphabet-paradigm-and-greenhouse-part-2",
+   "earliest": "20190721090401"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/growing-our-presence-in-emea-greenhouse-named-a-core-leader-in-the-2022-fosway-9-grid",
+   "earliest": "20220614143935"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-hire-a-great-recruiter",
+   "earliest": "20190718232929"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-hiring-impacts-culture-a-conversation-between-greenhouse-glassdoor",
+   "earliest": "20190721094746"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/six-ways-to-measure-the-impact-of-your-talent-brand",
+   "earliest": "20190723075610"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-hiring-builds-great-companies-the-warby-parker-story-as-told-at-greenhouse-open-2019",
+   "earliest": "20190819184033"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-greatest-minds-in-recruiting-hr-and-people-ops-announcing-the-greenhouse-open-roadshow-2016",
+   "earliest": "20190718234601"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-elevate-your-talent-brand-with-recruitment-marketing",
+   "earliest": "20191029065130"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-hiring-software-can-be-biased-and-what-to-do-about-it",
+   "earliest": "20210923150804"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/customers-love-our-product",
+   "earliest": "20190721093958"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-impact-of-people-operations-on-employee-lifetime-value",
+   "earliest": "20190723073621"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiter-101-what-is-topgrading",
+   "earliest": "20190716060813"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/onboard-new-employees",
+   "earliest": "20190723071739"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/weathering-the-storm",
+   "earliest": "20200419154750"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/top-hr-articles-of-2015-from-talent-acquisition-to-company-culture",
+   "earliest": "20190427151023"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/celebrate-international-womens-day-by-breaking-bias-in-your-hiring-processes",
+   "earliest": "20220516051406"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-codeity",
+   "earliest": "20190723065722"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-steps-for-conducting-effective-reference-calls",
+   "earliest": "20190718110132"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-hidden-power-of-the-humble-job-posting",
+   "earliest": "20190718233027"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ensuring-saas-data-security-with-soc-2-reports",
+   "earliest": "20190721083559"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-nitros-epic-employee-referral-program",
+   "earliest": "20190718231812"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/new-ebook-recruiting-onboarding-trends",
+   "earliest": "20190721094351"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/implementing-diversity-hiring-practices-in-a-remote-working-world",
+   "earliest": "20210730204654"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/business-in-the-front-talent-in-the-back-how-talent-becomes-a-strategic-business-partner-open-2019",
+   "earliest": "20190721092927"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-how-sift-science-tackled-university-recruiting-and-how-you-can-too",
+   "earliest": "20190721093726"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/hubspots-marketing-tips-for-recruiters",
+   "earliest": "20190119012922"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-pymetrics",
+   "earliest": "20190718232903"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/5-human-resource-skills-you-need-to-have-as-a-manager",
+   "earliest": "20200926064834"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-hiring-ecosystem-part-1-talent-marketing",
+   "earliest": "20190721083533"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/six-tips-for-employers-to-attract-the-mobile-millennial",
+   "earliest": "20190718232751"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-increase-your-recruiting-roi-by-mastering-your-candidate-source-data",
+   "earliest": "20190427201743"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/introducing-the-sdr-culture-committee",
+   "earliest": "20190202032725"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-5-kpis-we-use-to-measure-recruiting-success-at-greenhouse-intro",
+   "earliest": "20190718101130"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/7-companies-with-a-game-changing-candidate-experience",
+   "earliest": "20190121074828"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/from-the-interns-perspective-your-comprehensive-guide-to-creating-a-mutually-beneficial-internship-program",
+   "earliest": "20190723075341"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/is-a-structured-interview-really-necessary-yes-and-heres-why",
+   "earliest": "20190723065540"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/this-is-how-you-can-10x-your-recruitment-process-2",
+   "earliest": "20190809040239"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/create-an-effective-interview-process-with-greenhouses-simplified-interviewing-permissions",
+   "earliest": "20201020023748"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-speaker-series-sustaining-culture-through-collaboration-ginger-hardage-svp-of-culture-comms-southwest",
+   "earliest": "20190721093010"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/employer-branding-excellence-highlighting-your-company-mission-vision-and-values",
+   "earliest": "20210222181831"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/live-coverage-of-greenhouse-open-day-2-people-centric-organizations-transparency-career-development-tactics-and-becoming-a-change-agent",
+   "earliest": "20190718232725"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-feature-update-june",
+   "earliest": "20190721092820"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/ats-buyers-guide-preview",
+   "earliest": "20200927144130"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-first-textio-ats-integration",
+   "earliest": "20200927202508"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-expensify-hires-at-warp-speed-without-compromising-company-culture",
+   "earliest": "20190819182537"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/company-wide-buy-in-and-recruiter-hiring-manager-alignment-how-echo-successfully-deployed-greenhouse",
+   "earliest": "20190719002334"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-5-kpis-we-use-to-measure-recruiting-success-at-greenhouse-kpi-3",
+   "earliest": "20190716060818"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-people-and-culture-make-greenhouse-a-best-place-to-work",
+   "earliest": "20190819182622"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-sokanu",
+   "earliest": "20190721083842"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/find-reach-engage-passive-talent-with-sourcing-automation",
+   "earliest": "20220524172543"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-appcast",
+   "earliest": "20190718232947"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/creating-harmony-between-the-candidate-experience-new-hire-experience",
+   "earliest": "20190211025133"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-todays-talent-trends-are-shaping-hiring-on-a-global-scale",
+   "earliest": "20220830135507"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/evolving-your-talent-acquisition-strategy-for-2019",
+   "earliest": "20190223054738"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-speaker-series-googles-jennifer-turner-shares-hr-advice-and-a-career-motto-youll-want-to-steal",
+   "earliest": "20190721091357"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/bias-busting-tips-from-talent-leaders-at-sendgrid-collectivei",
+   "earliest": "20190404070053"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/redesigning-your-jobs-website-how-inbound-recruiting-can-help",
+   "earliest": "20190719001219"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/employee-lifetime-value-understand-roi",
+   "earliest": "20190102142100"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-speaker-series-how-a-womens-rights-lawyer-started-a-movement-with-joelle-emerson-ceo-of-paradigm",
+   "earliest": "20190721092106"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/get-better-hires-while-saving-your-recruiters-time-a-message-from-a-greenhouse-assessment-partner",
+   "earliest": "20190720014813"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/away-is-a-perfectly-acceptable-4-letter-word",
+   "earliest": "20191002231938"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/make-your-own-luck-with-video-interviewing",
+   "earliest": "20190721093214"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/sourcing-emails-the-nurture-email",
+   "earliest": "20220626013827"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-tips-for-achieving-data-centric-personalized-recruiting-from-under-armours-sr-manager-of-talent-acquisition",
+   "earliest": "20190718232846"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-we-hire-plangrids-rapid-growth",
+   "earliest": "20190619001712"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouse-product-news-engage-recruiting-stakeholders-across-the-organization-with-greenhouse-reports-and-visualizations",
+   "earliest": "20190428025119"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouse-integration-with-hireright",
+   "earliest": "20190718233734"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouse-entelo-partner-up",
+   "earliest": "20190712073833"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/monday-metric-is-it-time-to-rethink-time-to-hire",
+   "earliest": "20190303022645"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/here-are-4-hiring-mistakes-to-avoid",
+   "earliest": "20220319183015"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-zypes-upfront-and-transparent-hiring-philosophy",
+   "earliest": "20190723071346"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-people-of-greenhouse-meet-zakiya",
+   "earliest": "20210117125419"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hire-for-a-family-manage-as-a-team",
+   "earliest": "20190718232744"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/this-womens-equality-day-lets-shift-our-focus-to-equity-in-the-workplace",
+   "earliest": "20210923153601"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/happy-new-year-from-all-of-us-at-greenhouse",
+   "earliest": "20200926042937"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/calculating-the-roi-and-benefits-of-hr-software",
+   "earliest": "20190129103140"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/help-your-company-grow-responsibly-with-tips-from-hired-and-peloton",
+   "earliest": "20190119012905"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/optimize-the-recruitment-process-maximize-hiring-success",
+   "earliest": "20190718234422"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-milestones-approach-the-key-to-better-recruiter-operations-relations",
+   "earliest": "20190718233813"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-cant-miss-sessions-at-greenhouse-open-2019-talent-conference",
+   "earliest": "20190718234615"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/betting-on-recruiters-how-to-avoid-burnout",
+   "earliest": "20220925084619"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/do-you-put-your-employees-first-5-tips-for-designing-an-employee-recognition-program",
+   "earliest": "20190718232653"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-mac-cosmetics-weaves-a-d-i-driven-purpose-into-its-brand-dna",
+   "earliest": "20190721090803"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-steps-to-writing-a-good-customer-service-job-description",
+   "earliest": "20190718233109"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-include-remote-employees-in-your-company-culture",
+   "earliest": "20190718234533"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/using-seo-to-optimize-job-descriptions",
+   "earliest": "20190721083838"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/best-of-greenhouse-open-2016-the-new-work-landscape-talent-marketing-strategy-and-roi-of-people-practices",
+   "earliest": "20190718234135"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiting-events-simplified-a-recruiters-perspective-on-using-the-greenhouse-events-app",
+   "earliest": "20190208044319"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/optimize-outbound-recruiting-build-talent-source",
+   "earliest": "20190819183757"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-linkedin-recruiter-system-connect",
+   "earliest": "20190107192514"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/bringing-fair-chance-hiring-into-the-diversity-and-inclusion-conversation-part-1",
+   "earliest": "20190620031013"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiting-data-in-action-how-tripadvisor-leverages-greenhouse-reporting-to-stay-competitive",
+   "earliest": "20190405102147"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/empower-black-employees-by-investing-in-their-growth",
+   "earliest": "20220516051554"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/whats-data-got-to-do-with-it-measuring-recruiting-performance-in-real-time",
+   "earliest": "20190721085018"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/inclusion-in-action-how-the-knot-worldwide-successfully-factors-d-e-i-into-their-recruiting-strategy",
+   "earliest": "20210527164420"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monthly-round-up-julys-recruiting-must-reads",
+   "earliest": "20190723070106"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/looking-to-hire-millennials-dont-reinvent-the-wheel",
+   "earliest": "20190719000606"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/hr-reinvented-the-new-people-teams",
+   "earliest": "20190819183711"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-feature-update-april",
+   "earliest": "20190721090638"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-ways-to-measure-the-success-of-your-onboarding-process",
+   "earliest": "20190723071614"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-2017-taught-us-about-diversity-inclusion",
+   "earliest": "20190721090510"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/ideas-for-celebrating-black-history-month-virtually-at-your-organization",
+   "earliest": "20210209214744"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/5-reasons-you-should-use-your-learning-and-development-budget-on-open-2022",
+   "earliest": "20220414170814"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-extraordinary-lesson-i-learned-from-talking-to-88-recruiters-in-4-weeks",
+   "earliest": "20190120132635"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/improve-response-rates-recruitment-email-outreach",
+   "earliest": "20190721083917"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouse-s-integration-with-plum",
+   "earliest": "20190723070043"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/6-areas-focus-business-leaders-hiring",
+   "earliest": "20200814015711"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-squarespace-formula-for-a-successful-recruiting-campaign",
+   "earliest": "20190703044905"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/everything-your-new-hire-wants-to-know-but-might-be-afraid-to-ask",
+   "earliest": "20190723072133"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-avoid-inadvertent-age-bias-in-your-recruiting-and-hiring",
+   "earliest": "20191210065425"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monthly-roundup-aprils-recruiting-must-reads",
+   "earliest": "20190723072143"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/new-recruiting-roles-the-talent-operations-manager",
+   "earliest": "20190321155427"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/measuring-d-i-impact-and-progress-with-alphabet-paradigm-and-greenhouse-part-1",
+   "earliest": "20190609213606"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/supporting-the-aapi-community-starts-with-you-self-reflecting-and-improving-as-a-business-leader",
+   "earliest": "20210527201004"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-implement-structured-hiring-steps-2-and-3-defining-your-scorecard-and-planning-your-interview",
+   "earliest": "20190723065607"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/open-2018-update-announcing-5-new-sessions-you-wont-want-to-miss",
+   "earliest": "20190721084703"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/10-reasons-why-you-should-attend-greenhouse-open-2016",
+   "earliest": "20190718233904"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/is-travel-overlooked-in-your-candidate-experience",
+   "earliest": "20190517031104"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-new-hiring-ecosystem-part-3-hiring",
+   "earliest": "20190121074920"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/sourcing-for-candidates",
+   "earliest": "20190721092411"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-thomson-reuters-used-instagram-to-attract-candidates",
+   "earliest": "20190719000102"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-steps-to-a-98-employee-retention-rate",
+   "earliest": "20190723070056"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/talent-recruitment-practices",
+   "earliest": "20190723065551"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/drive-efficiency-and-improve-accountability-with-the-new-greenhouse-report-dashboards",
+   "earliest": "20211109191920"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/recruiting-metrics-101-tips-from-hired-greenhouse",
+   "earliest": "20190819181829"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-justin-bethune-global-diversity-program-manager-people-dropbox",
+   "earliest": "20190719000015"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/harnessing-the-power-of-job-boards-diversifying-your-sourcing-strategy",
+   "earliest": "20210612013024"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/outsourcing-recruitment-process",
+   "earliest": "20190721083651"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-reject-candidates",
+   "earliest": "20190719001024"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/9-influencers-for-recruiters-to-follow-on-twitter",
+   "earliest": "20190721083739"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/new-employee-stories-can-boost-your-employer-brand-in-a-remote-world",
+   "earliest": "20211127183337"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/join-us-for-the-first-greenhouse-user-conference",
+   "earliest": "20190718232939"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-questions-to-ask-yourself-when-building-an-employee-alumni-program",
+   "earliest": "20190622155222"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-4-changes-we-made-to-scale-our-recruiting-process",
+   "earliest": "20190718232828"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/remote-hiring-tips-tech-roles",
+   "earliest": "20200810121835"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/announcing-open-2019-transforming-the-conversation-around-talent",
+   "earliest": "20190718234858"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/gartners-market-guide-for-talent-acquisition-applications-is-here-to-help-you-evaluate-the-best-recruiting-software-for-you",
+   "earliest": "20190322001156"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/get-hired-a-recruiters-tips-for-job-seekers",
+   "earliest": "20200907120050"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/ebook-employer-branding-best-practices",
+   "earliest": "20201123002502"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-cutover-onboarded-remote-employees",
+   "earliest": "20211127182353"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/interview-questions-for-managers",
+   "earliest": "20190721083521"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/brand-like-no-other",
+   "earliest": "20200926044012"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/3-challenges-remote-interviews-solve",
+   "earliest": "20200814020308"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monday-metric-why-interview-stage-conversion-rates-matter",
+   "earliest": "20190718235630"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/why-engineers-wont-do-your-coding-test",
+   "earliest": "20200926051527"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-empowering-great-people-managers",
+   "earliest": "20190721093240"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-5-modern-hr-innovations-improving-the-employee-lifecycle",
+   "earliest": "20190715191213"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-calculate-cost-per-hire-to-optimize-your-recruiting",
+   "earliest": "20190106084400"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-you-can-create-a-more-diverse-and-inclusive-workplace",
+   "earliest": "20190721083630"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiter-by-practice-not-by-trade-what-i-learned-from-my-6-month-stint-as-a-corporate-recruiter",
+   "earliest": "20190721094741"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/stacy-zapars-how-to-guide-for-building-an-employer-brand",
+   "earliest": "20190723080000"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-future-proof-your-tech-stack-with-the-greenhouse-hiring-cloud",
+   "earliest": "20220925091026"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-should-companies-prioritize-diversity",
+   "earliest": "20190723065506"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/this-is-how-we-offsite-enhancing-employee-experience-through-effective-and-fun-team-retreats",
+   "earliest": "20190715191042"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/new-ebook-hr-tech-stack",
+   "earliest": "20190819184258"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/managing-expectations-how-we-set-recruiters-and-hiring-managers-up-for-success-at-greenhouse",
+   "earliest": "20190718232716"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-4-inputs-of-eltv-which-people-practices-impact-your-employees-the-most",
+   "earliest": "20190102070025"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monday-metric-why-you-should-be-measuring-source-to-close",
+   "earliest": "20190723080316"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-better-outcome-and-a-better-experience-what-is-structured-hiring",
+   "earliest": "20190719002256"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/sourcing-emails-the-introductory-email",
+   "earliest": "20220427160954"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-importance-of-diversity-in-leadership-and-how-to-improve-it",
+   "earliest": "20201222215856"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-joelle-emerson-founder-ceo-paradigm",
+   "earliest": "20190723065645"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-make-better-hiring-decisions-with-video-interviewing",
+   "earliest": "20190719001136"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-hiring-maturity-business-success",
+   "earliest": "20200618051831"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-be-a-successful-recruiter-challenging-market",
+   "earliest": "20220818110407"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/flexible-recruiting-process",
+   "earliest": "20190718234457"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-we-hire-tilts-a-method-recruiting-model",
+   "earliest": "20190715190855"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/focus-on-the-latest-trends-in-human-resources-management",
+   "earliest": "20190720014808"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-how-to-use-video-to-speed-up-your-interview-process",
+   "earliest": "20190721083507"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/building-big-learning-roadmaps-for-a-small-team",
+   "earliest": "20190718234934"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/taking-action-dei-experts-share-their-advice",
+   "earliest": "20200719235646"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-innovations-2017",
+   "earliest": "20190723075451"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-customer-exclusive-take-your-hiring-to-the-next-level-at-open-forum-hire-with-confidence",
+   "earliest": "20210909033810"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-ways-the-greenhouse-events-app-will-change-your-life",
+   "earliest": "20190718235638"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/yes-hiring-is-in-your-lane-why-senior-leaders-need-to-embrace-their-role-of-talent-maker",
+   "earliest": "20200927201814"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-host-meaningful-dei-conversations-at-your-company",
+   "earliest": "20200926065812"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/build-employee-referral-program",
+   "earliest": "20190303125709"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-for-interviewing-software-engineers",
+   "earliest": "20190819183407"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/merging-mindsets-generations-in-the-workplace",
+   "earliest": "20191002234813"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/being-people-first-an-update-on-greenhouses-workforce-diversity-goals",
+   "earliest": "20220818111821"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/cracking-the-code-for-hiring-diversity-in-tech",
+   "earliest": "20210520100628"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/speaker-spotlight-performance-based-hiring-guru-lou-adler",
+   "earliest": "20190718234137"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monthly-round-up-mays-recruiting-must-reads",
+   "earliest": "20190721093600"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-top-6-reasons-why-your-company-is-losing-great-candidates",
+   "earliest": "20190721094751"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-bucket-jobs-approach-and-why-its-a-game-changer-for-recruiters",
+   "earliest": "20190723072716"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/talent-leaders-at-duolingo-vox-media-and-acquire-share-their-hiring-success-stories",
+   "earliest": "20211017161107"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/sourcing-strategies-event-july-8th-in-nyc",
+   "earliest": "20190718233148"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/employee-experience-essentials-with-namely-culture-amp-and-greenhouse",
+   "earliest": "20190919071453"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/9-steps-for-a-successful-talent-management-strategy",
+   "earliest": "20190716060634"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-ways-to-create-lasting-relationships-with-employee-alumni",
+   "earliest": "20190721083459"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/talent-pools-heres-what-you-need-to-know",
+   "earliest": "20191029065140"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/say-so-long-to-loneliness-6-ways-to-help-new-hires-feel-included",
+   "earliest": "20190719002446"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/performance-based-hiring-methods",
+   "earliest": "20190216031606"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/employee-engagement-starts-with-your-recruiting-process",
+   "earliest": "20190819181817"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-write-a-good-human-resource-manager-job-description",
+   "earliest": "20190819181610"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/talent-acquisition-best-practices",
+   "earliest": "20190718231848"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-ceo-of-zenefits-david-sacks-as-keynote-speaker-at-greenhouse-open-2016",
+   "earliest": "20190719001507"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-get-the-most-from-your-agency-partners",
+   "earliest": "20190721093343"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/demystifying-employment-background-checks",
+   "earliest": "20190719000923"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/roadblock-1-hiring-managers-dont-prioritize-recruiting",
+   "earliest": "20190718235731"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-dos-and-donts-of-delivering-feedback-to-candidates-employees",
+   "earliest": "20191005063106"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-global-expansion-ireland",
+   "earliest": "20201218144048"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/saying-hello-successfully-essential-onboarding-checklists-to-give-your-new-hire-a-great-first-week",
+   "earliest": "20190723065746"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-ziprecruiter",
+   "earliest": "20190719001818"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/introducing-techyes-greenhouses-diversity-in-tech-meetup",
+   "earliest": "20190718231852"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-overcome-common-hiring-manager-roadblocks",
+   "earliest": "20190723071606"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/re-engaging-past-prospects-candidates-crm-success-stories-part-2",
+   "earliest": "20191024074354"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-most-valuable-hour-for-your-business-that-youre-probably-overlooking",
+   "earliest": "20190723080135"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruitment-strategies-coinbase-reddit-quiz",
+   "earliest": "20190721085112"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-sourcing-metrics-to-optimize-your-sourcing-strategy-and-process",
+   "earliest": "20190723075748"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/new-recruiting-roles-the-recruitment-marketing-specialist",
+   "earliest": "20190718101125"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/whats-next-the-rise-of-the-people-first-company",
+   "earliest": "20220526204410"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/future-proofing-your-career-heres-what-you-need-to-know",
+   "earliest": "20190723065518"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-add-skip-level-one-on-ones-to-your-management-toolbox",
+   "earliest": "20190723073704"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-ways-to-make-your-hiring-team-love-you",
+   "earliest": "20190719000726"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruitment-metrics-101-adding-transparency-to-your-work",
+   "earliest": "20190723074551"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-kabbage-defines-their-ideal-candidate",
+   "earliest": "20190517031001"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/3-ways-to-improve-employee-engagement-in-a-virtual-work-environment",
+   "earliest": "20200926051235"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/learn-to-build-a-culture-of-inclusivity-7-real-tips-from-real-talent-practitioners",
+   "earliest": "20190313040206"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monthly-roundup-marchs-recruiting-must-reads",
+   "earliest": "20190721094455"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/airbnb-candidate-experience",
+   "earliest": "20190723065513"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/data-migration-doesnt-have-to-be-hard-simplify-it-by-asking-these-questions",
+   "earliest": "20190718233435"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/sitecompli-rapid-growth-with-tiny-talent-team",
+   "earliest": "20190721083448"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/what-hiring-looks-like-right-now-best-practices-for-recruiters-and-hiring-managers",
+   "earliest": "20200810114832"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/advice-to-recruiters-from-actual-prospects-heres-how-to-improve-engagement",
+   "earliest": "20190721083859"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-impact-of-recruiting-on-employee-lifetime-value",
+   "earliest": "20190718235340"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-is-an-ats",
+   "earliest": "20190919061926"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/3-reasons-why-resumes-suck-and-3-surefire-shortlisting-alternatives",
+   "earliest": "20191002061428"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/talkdesk-climbed-hiring-maturity-curve-part-two",
+   "earliest": "20200810122014"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-new-kind-of-onboarding-for-a-new-kind-of-people-team",
+   "earliest": "20190721091717"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouses-secret-ingredient-to-building-a-thriving-company-culture",
+   "earliest": "20190718234414"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/unlocking-the-power-of-data-boxs-head-of-recruiting-operations-is-forging-a-new-path-in-talent",
+   "earliest": "20190721083743"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/3-keys-to-being-a-more-inclusive-leader-learnings-from-the-cannes-lions-international-festival-of-creativity",
+   "earliest": "20220711164227"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-5-kpis-we-use-to-measure-recruiting-success-at-greenhouse-kpi-4",
+   "earliest": "20190722144419"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-hacks-to-effectively-source-and-engage-engineering-talent",
+   "earliest": "20190721093714"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-you-really-should-factor-in-engineering-time-when-calculating-cost-per-hire",
+   "earliest": "20190819183912"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/kinh-demarees-story",
+   "earliest": "20190719000430"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/introducing-the-talent-makers-hub-everything-you-need-to-bring-strategic-hiring-to-your-company",
+   "earliest": "20191002220645"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-i-lead-my-recruiting-team-to-victory-4-tips-from-greenhouses-recruiting-manager",
+   "earliest": "20190723065438"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/creating-advantage-at-the-intersection-of-business-talent-strategy-open-2019",
+   "earliest": "20190721092659"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-sendgrid-eliminates-first-day-jitters-with-pre-boarding",
+   "earliest": "20190719002449"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/are-your-interviewers-focused-heres-how-you-make-sure-they-are",
+   "earliest": "20190719002314"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/structure-is-the-way-to-hire-excellent-a-bulletproof-5-step-plan-for-interviewing-success",
+   "earliest": "20190103090439"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/celebrate-black-history-month-with-more-than-surface-level-company-initiatives",
+   "earliest": "20201020034714"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/tripadvisors-10-step-process-for-building-an-employer-brand",
+   "earliest": "20190723071151"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-people-teams-how-rapid7-is-scaling-with-soul",
+   "earliest": "20190718233715"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruitment-strategies-how-signpost-tripled-its-sales-team-in-under-a-year",
+   "earliest": "20190721083808"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-great-leaders-navigate-unprecedented-challenges",
+   "earliest": "20201020035357"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/talent-makers-book-make-hiring-sustainable-competitive-advantage",
+   "earliest": "20210219200533"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-new-people-teams-how-enigmas-4-person-people-team-has-made-massive-impact-within-the-organization",
+   "earliest": "20190603204956"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/new-data-reveals-how-hiring-managers-are-coping-with-new-hiring-challenges",
+   "earliest": "20220506191133"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-greenhouses-director-of-talent-acquisition-uses-data-to-determine-recruiter-capacity",
+   "earliest": "20190723071428"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/structured-hiring-and-workplace-inclusivity-across-the-globe-why-greenhouse-is-expanding-in-dublin",
+   "earliest": "20220117193620"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-science-of-hiring-identifying-success-factors-of-top-talent",
+   "earliest": "20191005063111"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/quiz-do-you-know-enough-about-programming-to-recruit-engineers",
+   "earliest": "20190723070744"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-recruiters-guide-to-competency-based-interviews",
+   "earliest": "20190719001456"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/culture-is-powerful-announcing-open-2018-keynote-speaker-patty-mccord",
+   "earliest": "20190531020233"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/lessons-on-resilience-and-authenticity-from-laverne-cox",
+   "earliest": "20220626025151"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/going-mobile-meeting-the-expectations-of-todays-job-seekers",
+   "earliest": "20190723065711"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/build-healthy-pipelines-of-passive-candidates-with-greenhouse-crm-prospect-posts",
+   "earliest": "20190721093816"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/making-the-case-for-employee-referral-programs",
+   "earliest": "20190721083849"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-people-of-greenhouse-meet-henry",
+   "earliest": "20220117182222"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/best-practices-for-using-recruitment-analytics-for-successful-hiring",
+   "earliest": "20210117125719"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-diagnose-your-recruiting-funnel-problems-quickly-painlessly",
+   "earliest": "20190723072928"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-ebook-crm",
+   "earliest": "20190819182925"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-interview-at-a-startup",
+   "earliest": "20190716185357"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/three-key-business-automations-for-improving-your-employer-brand",
+   "earliest": "20210820225829"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/tomorrows-talentops-meetup-cocktails-and-case-studies",
+   "earliest": "20190718232722"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-future-belongs-to-people-first-companies",
+   "earliest": "20220818105532"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-checkr-used-greenhouse-to-optimize-their-recruiting-process",
+   "earliest": "20190719002330"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-tips-for-implementing-fair-chance-hiring-to-increase-your-diversity-inclusion-initiatives-part-2",
+   "earliest": "20190620031105"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/6-key-insights-from-the-resources-for-humans-virtual-conference-2021",
+   "earliest": "20211017162701"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/lou-adlers-approach-to-sourcing-and-recruiting-a-players",
+   "earliest": "20190330151422"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/7-strategies-for-effective-international-recruiting",
+   "earliest": "20210411031427"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-how-to-take-your-social-recruiting-to-the-next-level",
+   "earliest": "20190723080209"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouse-s-integration-with-hackerearth",
+   "earliest": "20190718233413"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/measure-candidate-experience",
+   "earliest": "20190721083722"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/whats-data-got-to-do-with-it-data-setup-hygiene",
+   "earliest": "20190718233540"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/new-recruiting-roles-the-candidate-experience-manager",
+   "earliest": "20190715190901"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/great-candidate-experience",
+   "earliest": "20190715191411"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/learn-to-embrace-a-culture-of-great-hiring-at-recfest-2022",
+   "earliest": "20220630194903"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/from-spreadsheets-to-automation-how-cloudreach-transformed-its-onboarding-process",
+   "earliest": "20190719001741"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/maximizing-the-impact-of-your-people-programs-whats-the-roi",
+   "earliest": "20190721084003"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-technologies-to-help-you-impress-and-win-over-passive-job-candidates",
+   "earliest": "20190723072053"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/15-cant-miss-recruiting-hr-events-to-attend-in-2017",
+   "earliest": "20190723065521"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/interviewing-the-recruiter-what-whole-foods-director-of-recruiting-looks-for-in-interviews",
+   "earliest": "20190301113806"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/adapting-your-company-culture-to-a-changing-work-environment",
+   "earliest": "20200929034855"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-develop-an-employer-brand-thats-true-to-your-company",
+   "earliest": "20210202190910"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/acquiring-interseller",
+   "earliest": "20211028162310"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-stripe-created-a-referral-culture-without-monetary-reward",
+   "earliest": "20190327011156"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/social-sourcing-strategies",
+   "earliest": "20190718231845"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-ways-recruiters-can-adapt-for-the-future",
+   "earliest": "20190723072825"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/humble-bundle-candidate-experience",
+   "earliest": "20190721083824"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiter-101-employer-branding",
+   "earliest": "20190505071804"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/boosting-work-from-home-productivity-part-2",
+   "earliest": "20200810111901"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-help-your-employees-stay-productive-during-the-summer",
+   "earliest": "20190721083555"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/step-up-your-game-in-2016-11-influencers-to-follow-in-the-hr-space",
+   "earliest": "20190427150922"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/virtual-working-talent-greenhouse-glassdoor-niantic-willowtree",
+   "earliest": "20200810110840"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouses-new-denver-customer-support-center-is-open-for-business",
+   "earliest": "20190120101219"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-security-engineer-lauren-lv-vicknair",
+   "earliest": "20190721083820"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-make-the-business-case-for-workplace-diversity-in-7-steps",
+   "earliest": "20190718232737"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/your-careers-page-is-broken-5-tips-for-creating-a-more-candidate-friendly-application-experience",
+   "earliest": "20190718101742"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/great-hiring-every-department",
+   "earliest": "20200927141054"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-dos-and-donts-of-group-interview-feedback-sessions",
+   "earliest": "20190719000140"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-wepow",
+   "earliest": "20190819191859"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-event-of-the-season-why-you-should-attend-greenhouse-open-2016",
+   "earliest": "20190719001955"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/are-your-job-descriptions-fogging-up-the-glass-ceiling",
+   "earliest": "20190721091339"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/what-is-the-topgrading-interview-process",
+   "earliest": "20200814014557"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/customers-tell-all-the-greenhouse-open-experience",
+   "earliest": "20220621190339"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/stop-paying-the-price-for-employee-burnout-now",
+   "earliest": "20190527120437"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-coderpad",
+   "earliest": "20190718235635"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/finding-the-time-to-be-a-strategic-recruiter",
+   "earliest": "20190721083705"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-candidates-think-about-your-recruiting-process",
+   "earliest": "20190721083801"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/fire-them-up-3-ways-to-get-passive-candidates-really-excited-about-your-company",
+   "earliest": "20190723070604"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/goodbye-culture-fit-hello-culture-add",
+   "earliest": "20190119204322"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/drafted-built-the-layoff-network-to-connect-people-to-jobs-faster-and-its-free-for-the-greenhouse-community",
+   "earliest": "20200929055233"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/what-is-talent-management",
+   "earliest": "20201020040140"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/extending-recruiting-to-onboarding-greenhouse-acquires-parklet",
+   "earliest": "20190723071441"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/learn-how-to-build-a-company-culture-of-belonging-at-greenhouse-open-forum",
+   "earliest": "20210624215054"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-next-chapter",
+   "earliest": "20210114160458"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-glimpse-into-the-future-5-key-insights-about-the-future-of-hr-from-namelys-hr-redefined-2018-conference",
+   "earliest": "20190721084540"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/introducing-greenhouse-predicts-machine-learning",
+   "earliest": "20190721092353"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-future-of-talent-university-recruiting",
+   "earliest": "20190107190008"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-ins-and-outs-of-hiring-senior-level-staff-with-hubspots-head-of-executive-recruiting-celeste-narganes",
+   "earliest": "20190721092529"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/welcoming-stacy-zapar-to-the-greenhouse-team",
+   "earliest": "20190721083835"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-general-assembly-as-greenhouse-opens-new-education-partner",
+   "earliest": "20190723071302"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/celebrate-candidate-experience-day-by-making-a-great-first-impression",
+   "earliest": "20220319183011"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/d-i-decoded-insights-from-the-workplace-intelligence-report",
+   "earliest": "20190718233128"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/top-2019-talent-trends-the-remote-and-distributed-workforce",
+   "earliest": "20200805173143"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/hot-topics-in-hr",
+   "earliest": "20190703044900"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-5-kpis-we-use-to-measure-recruiting-success-at-greenhouse-kpi-1",
+   "earliest": "20190718234726"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-manara-is-unlocking-an-untapped-pool-of-women-software-engineers-from-the-middle-east",
+   "earliest": "20211017161956"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-people-of-greenhouse-meet-kevin",
+   "earliest": "20200810114539"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/our-dei-journey-to-build-belonging",
+   "earliest": "20201117193106"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/4-risks-your-company-takes-when-background-checks-are-not-a-part-of-your-hiring-process",
+   "earliest": "20190717070446"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/designing-the-future-we-want-to-see-our-commitment-to-dei-innovation",
+   "earliest": "20210617210156"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-talent-makers-champion-dei",
+   "earliest": "20200810122128"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/state-of-inclusivity-during-onboarding-process-new-research-from-greenhouse-and-everfi",
+   "earliest": "20220326225553"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/introducing-astha-malik-marketing-veteran-and-greenhouses-newest-board-member",
+   "earliest": "20200926065524"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-rules-for-social-recruiting-success",
+   "earliest": "20190719000912"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/at-open-2019-were-ushering-in-a-new-era-in-the-talent-industry-get-ready-to-meet-the-talent-makers",
+   "earliest": "20190819191420"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-recright",
+   "earliest": "20190719001627"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/14-must-read-recruiting-articles-of-2014",
+   "earliest": "20190721083701"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/linkedin-talent-connect-2016-recap-the-4-tenets-of-great-talent",
+   "earliest": "20190718231827"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-use-exit-interviews-to-improve-your-company-culture",
+   "earliest": "20190228111710"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-people-teams-how-medallia-is-creating-a-transformative-workplace-for-all-employees",
+   "earliest": "20190718233427"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/whats-your-why-a-series-celebrating-talent-professionals",
+   "earliest": "20220516054438"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-machine-learning-can-tackle-key-recruiting-problems",
+   "earliest": "20220922014333"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-improve-employee-lifetime-value-through-employee-experience",
+   "earliest": "20190723072911"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/what-we-can-learn-from-womens-history-10-inspiring-career-stories",
+   "earliest": "20191015134133"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/anchor-test",
+   "earliest": "20201020030457"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-flatiron-health-provides-a-thoughtful-candidate-experience",
+   "earliest": "20190628174117"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-really-know-if-youre-providing-a-great-candidate-experience",
+   "earliest": "20190721083654"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/womens-history-month-how-to-prioritize-intersectional-inclusion-in-the-workplace",
+   "earliest": "20210324202253"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-greenhouse-does-its-employee-referral-program-philosophy-execution-and-success-metrics",
+   "earliest": "20190721084450"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-crm-launch",
+   "earliest": "20190819191158"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/get-inspired-by-these-15-awesome-career-pages",
+   "earliest": "20200810121149"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/onboarding-and-beyond-set-your-new-hires-up-for-success-with-an-employee-development-plan",
+   "earliest": "20190719000848"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/new-recruiting-roles-the-employer-branding-specialist",
+   "earliest": "20190722144254"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/inspiring-keynote-sessions-headline-greenhouse-open-conference",
+   "earliest": "20220516044010"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/onboarding-theory-what-are-the-3-development-cycles-of-proper-onboarding",
+   "earliest": "20190723073017"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/modern-talent-branding-how-to-attract-technical-talent-through-video",
+   "earliest": "20190718235010"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-greenhouse-services-provide-enterprise-companies-with-customized-guidance-for-hiring-success",
+   "earliest": "20210411040635"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-for-purple-squirrels-and-why-we-should-care-about-other-squirrels",
+   "earliest": "20190721094803"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ensure-your-new-hires-first-6-months-are-as-successful-as-possible-with-these-checklists",
+   "earliest": "20190723065502"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-5-most-coveted-workplace-benefits-to-attract-millennials",
+   "earliest": "20190105035047"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-the-greenhouse-sales-org-is-creating-a-culture-of-diversity-inclusion",
+   "earliest": "20190718233051"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiter-spotlight-q-a-with-saleslofts-talent-manager",
+   "earliest": "20190418041036"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-1m-difference-between-good-and-great-people-practices-a-case-study",
+   "earliest": "20190721090832"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/making-the-business-case-for-increasing-your-recruiting-budgets",
+   "earliest": "20190721090425"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/introducing-report-builder-personalized-reporting-feature-now-live",
+   "earliest": "20190721094457"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/structured-approach-engineer-onboarding",
+   "earliest": "20200926061139"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/behind-the-product-how-a-diversity-of-experience-created-greenhouse-inclusion",
+   "earliest": "20190721092727"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/are-you-forecasting-recruiting-start-with-these-2-metrics",
+   "earliest": "20190718232943"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/want-to-improve-candidate-engagement-engage-your-hiring-managers-first",
+   "earliest": "20190718233042"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-one-tech-company-achieved-candidate-experience-scores-33-better-than-industry-average",
+   "earliest": "20190919064401"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/candidate-experience-essentials-tips-from-fabfitfun-checkr-and-greenhouse",
+   "earliest": "20191003112007"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/new-ebook-3-d-i-strategies-from-lyfts-talent-team",
+   "earliest": "20190721083633"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/okrecruiter-or-plenty-of-candidates-should-applicant-tracking-systems-be-more-like-dating-apps",
+   "earliest": "20190721091038"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ask-a-recruiter-when-do-i-ask-a-candidate-about-compensation",
+   "earliest": "20190718232806"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/building-a-thoughtful-pre-boarding-program-the-5-components-of-an-effective-buddy-system",
+   "earliest": "20190718234618"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-steps-for-recruiters-to-overcome-hiring-manager-roadblocks",
+   "earliest": "20190721094401"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/introduction-jamie-adasi-greenhouses-first-director-diversity-equity-inclusion",
+   "earliest": "20200814015834"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hr-recruiting-lessons-from-a-digital-marketer",
+   "earliest": "20190107221454"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-launch-of-greenhouse-events-app-a-message-from-greenhouses-co-founder",
+   "earliest": "20190317092631"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-three-strategies-to-hire-millennials-and-why-you-need-to-do-it",
+   "earliest": "20190719000722"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/writing-your-equal-opportunity-employer-statement-heres-some-inspiration",
+   "earliest": "20200927203948"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-mixer-building-your-growth-stage-recruiting-strategy",
+   "earliest": "20190718234959"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/improving-your-candidate-experience-4-lessons-from-the-workplace-intelligence-report",
+   "earliest": "20190428025004"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-reasons-to-invest-in-new-hire-onboarding",
+   "earliest": "20190718234508"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/7-linkedin-groups-to-join-in-2015",
+   "earliest": "20190723074459"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/new-hire-pre-boarding-why-waiting-until-day-1-to-start-onboarding-is-too-late",
+   "earliest": "20190723065509"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/6-recruiting-trends-from-2017-that-are-here-to-stay",
+   "earliest": "20190101054617"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/5-ways-to-move-the-needle-on-d-i-in-2019",
+   "earliest": "20190819191925"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-strategies-for-competitive-roles",
+   "earliest": "20190723074739"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-interviewed",
+   "earliest": "20190718233106"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/word-on-the-street-a-chat-with-bostons-open-2018-roadshow-attendees",
+   "earliest": "20190718235153"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-rxbar-and-zipwhip-are-using-greenhouse-onboarding-to-elevate-their-new-hire-experiences",
+   "earliest": "20190519095222"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/do-employee-referrals-reduce-diversity",
+   "earliest": "20200927204527"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-best-practices-for-telling-your-employer-brand-story",
+   "earliest": "20190723071919"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hr-tech-during-rapid-growth-a-fireside-chat-with-23andmes-head-of-recruiting",
+   "earliest": "20190819183450"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/a-helpful-guide-for-distributed-management",
+   "earliest": "20200401201816"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-real-impact-of-successful-talent-referrals",
+   "earliest": "20190719001025"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/create-a-seamless-onboarding-process-with-the-greenhouse-onboarding-x-namely-and-bamboohr-integrations",
+   "earliest": "20190723065430"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/top-2019-talent-trends-meet-the-talent-makers",
+   "earliest": "20200926061009"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/not-breaking-the-law-ensuring-compliance-during-offboarding",
+   "earliest": "20190723070813"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/from-lou-adler-a-5-step-plan-for-improving-quality-of-hire",
+   "earliest": "20190723071149"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-speaker-series-prioritizing-people-team-growth-with-katie-burke-hubspots-cpo",
+   "earliest": "20190301212843"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-candidates-really-think-of-you",
+   "earliest": "20190718233746"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/overcoming-virtual-onboarding-challenges-in-a-hybrid-workplace",
+   "earliest": "20210724103709"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/twitter-takeaways-glassdoor-recruit-2017",
+   "earliest": "20190819192545"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiting-metrics-abcs-the-ultimate-list-of-the-recruiting-metrics-that-matter",
+   "earliest": "20190110091432"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-app-redesign-to-improve-customer-experience",
+   "earliest": "20220516052935"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/8-ways-ace-video-interview",
+   "earliest": "20201020034431"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-top-talent-how-to-win-when-hiring-for-sales-roles",
+   "earliest": "20190819191629"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-international-companies-trivago-and-scout24-use-structured-hiring-to-create-long-term-hiring-success",
+   "earliest": "20210108200044"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/partner-spotlight-codility",
+   "earliest": "20190718233113"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-we-hire-the-impact-of-grovos-explicit-culture",
+   "earliest": "20190120100945"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-speaker-series-from-engineering-to-ops-kumud-kokal-head-of-business-systems-at-airbnb-strives-to-make-the-world-more-inclusive",
+   "earliest": "20190721085919"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-things-to-keep-in-mind-when-hiring-summer-interns",
+   "earliest": "20190721083445"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/solving-the-challenges-the-real-deal-about-greenhouse-reporting",
+   "earliest": "20201020033929"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hit-the-motivation-jackpot-4-steps-for-determining-what-motivates-a-passive-technical-candidate",
+   "earliest": "20190723075752"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hackerrank-and-greenhouse",
+   "earliest": "20190719000641"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/roadblock-2-hiring-managers-dont-know-what-theyre-looking-for",
+   "earliest": "20190718232758"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/video-killed-the-job-post-3-reasons-educational-videos-should-be-a-critical-part-of-your-recruiting-strategy",
+   "earliest": "20190723070939"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/10-examples-of-awesome-careers-pages",
+   "earliest": "20190714120942"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-and-gem-create-powerful-sourcing-solution-q-a-with-gem-ceo-steve-bartel",
+   "earliest": "20190819190052"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/carnival-of-hr-data-metrics-kpis-oh-my",
+   "earliest": "20190721093349"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-implement-structured-hiring-steps-5-and-6-interviewing-candidates-and-reviewing-feedback",
+   "earliest": "20190217061933"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/considerations-recruiters-hiring-slows-down",
+   "earliest": "20200810120241"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-prevent-microaggressions-in-the-virtual-workplace",
+   "earliest": "20210117115129"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/looking-for-your-next-ats-after-google-hire-heres-a-helpful-guide-from-greenhouses-ceo",
+   "earliest": "20190919065152"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/6-ways-to-attract-talent-to-less-than-desirable-companies",
+   "earliest": "20190718234020"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-glassdoor-recruit",
+   "earliest": "20190721092324"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-use-learning-development-to-attract-talent",
+   "earliest": "20190225074005"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-best-rating-scale-to-score-your-candidates",
+   "earliest": "20190723065547"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/deception-is-the-shortest-path-to-authenticity-best-wishes-from-the-greenhouse-creative-team",
+   "earliest": "20190723065426"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-you-can-support-women-during-womens-history-month-and-beyond",
+   "earliest": "20200929053546"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-hiring-managers-perspective-synergizing-with-recruiters",
+   "earliest": "20190718233010"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-hiring-ecosystem-part-2-sourcing",
+   "earliest": "20190719001506"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-greenhouse-spotlight-committee-making-thought-leadership-a-professional-development-priority",
+   "earliest": "20190719001831"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-a-data-driven-recruiting-solution-is-critical-for-a-strong-candidate-experience",
+   "earliest": "20190721091721"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monthly-round-up-junes-recruiting-must-reads",
+   "earliest": "20190721094333"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-neil-frye-global-head-of-operations-technology-people-dropbox",
+   "earliest": "20190721083709"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/transforming-recruiters-into-recruiting-business-partners",
+   "earliest": "20190723065733"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/50-ways-to-be-a-talent-maker-insights-for-talent-magnets",
+   "earliest": "20201101111953"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/toast-tackles-recruiting-data-storytelling-with-greenhouse-report-builder",
+   "earliest": "20210411040223"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-used-the-qualified-candidates-kpi-to-improve-recruiting-results",
+   "earliest": "20190718232932"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/bringing-that-essential-human-element-to-recruiting-how-you-can-stay-focused-on-people-and-not-just-process",
+   "earliest": "20190723065459"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-hr-tech-can-boost-employee-productivity-in-these-five-areas",
+   "earliest": "20200927124749"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-thumbtack-is-building-a-recruiting-culture",
+   "earliest": "20190103090321"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/announcing-the-calendly-integration-with-greenhouse-recruiting",
+   "earliest": "20190720014755"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-gimlet-medias-authentic-candidate-experience-wins-top-talent",
+   "earliest": "20190719000426"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-traps-that-are-holding-back-your-companys-diversity-recruiting",
+   "earliest": "20190723064509"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-can-you-do-about-unconscious-bias",
+   "earliest": "20190719002309"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-gdpr-checklist-for-hr-professionals",
+   "earliest": "20200926045202"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-everyone-should-invest-in-employee-offboarding",
+   "earliest": "20190723072622"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/building-a-people-team-for-a-new-era-of-work",
+   "earliest": "20220817211058"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouse-helps-keeptruckin-manage-the-road-to-rapid-growth",
+   "earliest": "20191029065124"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiters-spill-their-most-unusual-interview-stories",
+   "earliest": "20190716185700"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-customer-success-manager-scherezad-yusef",
+   "earliest": "20190721083544"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/create-a-seamless-new-hire-experience-with-greenhouse-welcome",
+   "earliest": "20210505012149"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-best-practices-for-generating-employee-referrals",
+   "earliest": "20190718231838"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/supporting-our-employees-and-our-business-how-we-designed-our-parental-leave-and-perks-program-at-greenhouse",
+   "earliest": "20190718233237"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/6-trends-for-talent-in-2019",
+   "earliest": "20190723064506"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ninjas-rock-stars-and-other-ways-to-ruin-your-careers-page",
+   "earliest": "20190723075601"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/streamline-your-hiring-process-with-the-new-greenhouse-and-microsoft-dynamics-365-hr-integration",
+   "earliest": "20220925072625"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/roadblock-5-hiring-managers-rely-solely-on-recruiting-to-find-candidates",
+   "earliest": "20190507233859"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/10-more-examples-of-awesome-careers-pages",
+   "earliest": "20190120101044"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/is-hows-my-hire-going-impossible-for-your-company-to-answer",
+   "earliest": "20190718231809"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/customer-preferred-partners-improve-your-recruitment-technology-with-greenhouse",
+   "earliest": "20201020025718"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/too-busy-to-recruit",
+   "earliest": "20190723074607"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/committing-to-de-i-in-2020-get-started-here",
+   "earliest": "20200927213325"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/never-again-lost-in-translation-interview-in-german-french-spanish-and-italian-with-greenhouse",
+   "earliest": "20200810113935"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/employee-engagement-company-culture",
+   "earliest": "20190208015800"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-named-top-rated-cloud-company-by-battery-ventures-glassdoor",
+   "earliest": "20190721094208"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-a-look-inside-evernotes-revamped-recruiting-process",
+   "earliest": "20190723074013"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/why-structured-hiring-is-key-to-datadogs-successful-global-expansion",
+   "earliest": "20210411043222"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/strengthen-talent-communities-personalization",
+   "earliest": "20190819181706"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/yotpo-how-we-hire",
+   "earliest": "20190712074247"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/improve-your-quality-of-hire-with-these-5-tips-for-enhancing-the-final-interview",
+   "earliest": "20190119034436"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-questions-in-3-minutes-with-3-speakers-at-namelys-hr-redefined-2018-conference",
+   "earliest": "20190721093806"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/culture-mapping-2-0-an-exercise-to-help-you-map-out-your-core-values-and-achieve-a-cohesive-company-culture",
+   "earliest": "20190715191133"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-zenefits-recruiting-team-created-alignment-and-became-a-strategic-business-partner",
+   "earliest": "20190723075857"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-kpis-of-strategic-recruiting",
+   "earliest": "20190723080132"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/optimizing-the-recruiter-recruiting-coordinator-relationship-at-greenhouse",
+   "earliest": "20190721090833"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/more-best-of-greenhouse-open-2016-people-metrics-onboarding-and-future-hiring-trends",
+   "earliest": "20190721085638"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/whos-responsible-for-new-hire-onboarding",
+   "earliest": "20190721093200"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/onboarding-theory-when-does-onboarding-end",
+   "earliest": "20190204032553"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-chloe-philips-sales-development-representative",
+   "earliest": "20190723065536"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-greenhouse-vidcruiter-integration-is-here",
+   "earliest": "20190121074833"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-launches",
+   "earliest": "20190718232918"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouse-s-integration-with-criteria-corp",
+   "earliest": "20190718234948"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/a-helpful-guide-for-managing-remote-teams",
+   "earliest": "20200410151712"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-stacy-zapar-founder-of-tenfold",
+   "earliest": "20190723073053"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-twitters-head-of-talent-acquisition-approaches-diversity-and-inclusion",
+   "earliest": "20190415130104"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/summer-reading-list-9-people-people-books-to-throw-in-your-beach-bag",
+   "earliest": "20190723070907"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-methods-for-startups",
+   "earliest": "20190515183941"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-product-marketing-manager-jennifer-ho",
+   "earliest": "20190721083750"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/say-my-name-introducing-candidate-name-pronunciation",
+   "earliest": "20201020040739"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-goeuro-hires-quickly-efficiently-with-greenhouse",
+   "earliest": "20190719000756"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/2017-hr-influencers",
+   "earliest": "20190721092109"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-founders-role-in-recruiting-3-tips-from-2-innovators",
+   "earliest": "20190723072803"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/taking-a-page-out-of-the-sales-playbook-how-to-solution-sell-candidates",
+   "earliest": "20190705080153"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/drive-organizational-change-through-hiring-with-the-talent-makers-book-now-available-everywhere",
+   "earliest": "20210420150145"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/getting-buy-in-for-an-employee-referral-program",
+   "earliest": "20190719002516"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/candidate-economic-sentiment-report",
+   "earliest": "20220805190833"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/interview-scorecards-are-critical-virtual-world",
+   "earliest": "20210120213334"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-strategies-to-hire-and-grow-an-awesome-sales-team",
+   "earliest": "20190721085530"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/why-enterprise-companies-choose-to-grow-with-greenhouse",
+   "earliest": "20220117200024"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hr-agile-with-retrospectives",
+   "earliest": "20190718235445"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/video-mind-your-interviews",
+   "earliest": "20190723065603"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-an-inside-look-into-coinbases-recruiting-approach",
+   "earliest": "20190718233102"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/enhance-your-company-culture-with-these-top-slack-bots",
+   "earliest": "20190721091639"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-tips-for-high-volume-recruiting-in-new-markets",
+   "earliest": "20190819190651"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/16-new-years-resolutions-every-recruiter-should-make",
+   "earliest": "20190719002453"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/16-cant-miss-recruiting-hr-events-to-attend-in-2018",
+   "earliest": "20190302021902"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/crm-the-single-sourcing-tool-every-recruiter-needs",
+   "earliest": "20191002224509"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-i-love-ask-me-anything-sessions-especially-when-the-questions-get-tough",
+   "earliest": "20190721083647"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/company-culture-mapping",
+   "earliest": "20190718231841"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/boxs-kenny-mendes-shares-how-he-built-a-killer-recruiting-team",
+   "earliest": "20190723070546"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-5-new-greenhouse-onboarding-features",
+   "earliest": "20190721093139"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-mitigate-bias-with-structured-hiring-a-recap-of-the-greenhouse-and-hiretual-summit",
+   "earliest": "20201020022449"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/advancing-the-candidate-experience-with-ibm-greenhouse-talent-acquisition-suite-to-partner-with-ibm",
+   "earliest": "20190306133249"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-4-steps-to-defining-your-company-culture",
+   "earliest": "20190718235909"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/a-recruiters-guide-to-candidate-relationship-management-in-a-hiring-slowdown",
+   "earliest": "20200810121640"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/a-quick-guide-to-improving-candidate-experience-with-candidate-surveys",
+   "earliest": "20190115094910"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/10-tips-to-kickoff-your-diversity-recruitment-initiative",
+   "earliest": "20190723071914"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/adapting-hiring-slowdown-guide",
+   "earliest": "20200810120257"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-senior-director-of-engineering-adam-creeger",
+   "earliest": "20190721084635"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruiting-data-matching-the-right-type-of-data-with-the-right-cadence-of-communication",
+   "earliest": "20191002221111"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/a-6-step-assessment-for-hiring-top-salespeople",
+   "earliest": "20210923143917"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-ethical-principles-a-framework-for-evaluating-key-business-decisions",
+   "earliest": "20210117125308"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/harmony-is-possible-3-steps-for-calibrating-the-recruiter-hiring-manager-relationship",
+   "earliest": "20190322001202"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/why-quality-of-hire-is-your-companys-most-important-metric",
+   "earliest": "20190716184232"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/you-have-the-power-and-responsibility-for-building-a-diverse-workforce",
+   "earliest": "20190721083613"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/content-nurture-talent-communities",
+   "earliest": "20190301113742"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-plum-greenhouse-integration-has-arrived-to-help-you-prepare-for-the-future-of-work",
+   "earliest": "20190718235734"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-people-teams-how-flatiron-health-was-able-to-maintain-a-thriving-culture-during-immense-growth",
+   "earliest": "20190718232910"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/trying-to-recruit-millennials-heres-what-you-need-to-know",
+   "earliest": "20190719002411"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-the-greenhouse-redesign",
+   "earliest": "20190723065543"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/managing-culture-change-with-data",
+   "earliest": "20190717070834"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/enhancing-your-employer-brand-3-strategies-for-success",
+   "earliest": "20190723065359"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2019-speaker-series-talking-talent-making-with-pattie-money-chief-people-officer-twilio-sendgrid",
+   "earliest": "20190819191004"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/thursday-join-us-for-the-first-talentops-meetup",
+   "earliest": "20190723065611"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-carrot-creatives-unique-company-culture",
+   "earliest": "20190721083914"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-investing-in-data-driven-hiring-paid-off-for-wise",
+   "earliest": "20220925081757"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/idc-marketscape-names-greenhouse-a-leader",
+   "earliest": "20190718233404"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/effective-interview-questions-to-ask-when-hiring-for-hr-manager-roles",
+   "earliest": "20201129034911"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-approach-the-creation-of-a-successful-employment-engagement-survey",
+   "earliest": "20190721090724"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2019-speaker-series-fostering-inclusion-with-mita-mallick-unilevers-head-of-diversity-and-cross-cultural-marketing",
+   "earliest": "20190718235309"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/best-practices-interactive-remote-interviews",
+   "earliest": "20200531223025"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-are-the-ways-your-company-ensures-cultural-fit-for-prospective-new-hires",
+   "earliest": "20190723065707"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/6-ways-to-involve-your-entire-company-in-new-hire-onboarding-1",
+   "earliest": "20190723073156"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-senior-recruiter-ariana-moon",
+   "earliest": "20200927212435"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/top-2019-talent-trends-candidate-experience",
+   "earliest": "20201020040937"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/four-strategies-for-high-volume-scheduling",
+   "earliest": "20190718232733"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/make-smarter-hiring-tech-stack-decisions-with-greenhouse-customer-preferred-partners",
+   "earliest": "20191120194619"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/using-nps-to-optimize-the-candidate-experience",
+   "earliest": "20190203080413"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/celebrating-international-womens-day-with-7-inspiring-women",
+   "earliest": "20190313052826"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-common-employee-referral-program-mistakes-and-how-to-solve-them",
+   "earliest": "20190718234808"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/successful-employee-referral-program",
+   "earliest": "20190721093507"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-betterment-built-an-effective-in-house-recruiting-process",
+   "earliest": "20190718233132"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/50-ways-to-be-a-talent-maker-insights-for-talent-partners",
+   "earliest": "20201113212109"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-are-some-key-traits-that-should-be-included-in-a-job-description-for-a-very-effective-startup-marketer",
+   "earliest": "20190723065532"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-5-kpis-we-use-to-measure-recruiting-success-at-greenhouse-kpi-5",
+   "earliest": "20190718233039"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/10-unique-job-description-examples",
+   "earliest": "20190715191128"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/10-hr-and-recruiting-blogs-every-talent-leader-should-read-in-2022",
+   "earliest": "20220105204718"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-use-email-personalization-to-attract-great-candidates",
+   "earliest": "20220818103355"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/capacity-modeling-essentials-understanding-past-performance-and-forecasting-the-future-1",
+   "earliest": "20191210064821"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/fixing-the-reference-check",
+   "earliest": "20190129103029"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/content-social-media-and-candidate-experience-the-3-pillars-of-building-an-effective-employer-brand",
+   "earliest": "20190721092716"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-processes-2017",
+   "earliest": "20190719000428"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/choose-the-right-ats-by-asking-these-questions",
+   "earliest": "20190106133456"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-used-slack-to-increase-warm-fuzzy-feelings-at-greenhouse",
+   "earliest": "20190819192229"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/embracing-radical-candor-how-to-build-a-culture-of-giving-great-feedback",
+   "earliest": "20190311105918"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/why-e-recruiting-software-is-critical-for-your-tech-stack",
+   "earliest": "20201129044200"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/this-is-how-zety-retains-86-of-its-employees",
+   "earliest": "20190405124319"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-finally-fix-referrals",
+   "earliest": "20190723071056"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/its-candidate-experience-day-celebrate-by-making-a-great-first-impression",
+   "earliest": "20220126172907"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-support-employee-mental-health-remotely",
+   "earliest": "20200719235655"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/top-3-ways-to-improve-the-intersection-between-talent-acquisition-and-talent-management",
+   "earliest": "20190609213611"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/empower-candidates-with-the-new-personal-pronouns-feature-in-greenhouse",
+   "earliest": "20210617165534"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/prioritizing-diversity-in-hiring",
+   "earliest": "20210625194614"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/why-having-a-strong-candidate-sourcing-strategy-is-key-to-successful-recruitment",
+   "earliest": "20220818100657"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/4-major-challenges-to-recruiting-sales-associates-and-how-to-overcome-them",
+   "earliest": "20190622155115"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/access-thousands-of-the-best-job-boards-in-one-place-with-the-greenhouse-job-ad-market",
+   "earliest": "20210720170647"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/lars-schmidt-answers-our-tough-talent-questions",
+   "earliest": "20190721083732"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/employee-referral-program-best-practices",
+   "earliest": "20190719001528"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/understanding-the-science-of-hiring-bias-and-how-to-overcome-it",
+   "earliest": "20210316155048"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/employee-referral-program-tactics",
+   "earliest": "20190720014749"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/eu-based-personio-integrates-with-greenhouse-to-transform-hiring-and-onboarding",
+   "earliest": "20210415204424"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruitment-strategies-axials-great-employer-branding",
+   "earliest": "20190718232953"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/6-ways-to-bring-a-human-touch-to-employee-referrals",
+   "earliest": "20190723075619"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/supercharge-your-candidate-experience-with-tips-from-squarespace-digitalocean-namely",
+   "earliest": "20190302151326"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/bookmark-this-template-for-job-descriptions",
+   "earliest": "20190819185353"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/success-is-calling-5-phone-interview-tips-to-reveal-top-candidates",
+   "earliest": "20190726224406"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-speaker-series-learn-why-diversity-inclusion-is-top-of-mind-for-whole-foods-market-director-of-global-executive-recruiting-andres-traslavina",
+   "earliest": "20190721083609"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/live-from-open-2019-lets-get-awkward-tackling-tough-hiring-conversations",
+   "earliest": "20190721083511"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/people-of-greenhouse-meet-emmett",
+   "earliest": "20200719235643"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-ways-to-nail-your-interviews-as-an-hr-manager",
+   "earliest": "20190109053058"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-lauren-jackman-diversity-and-inclusion-manager-medallia",
+   "earliest": "20190719001151"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/using-nps-to-optimize-candidate-experience-part-2",
+   "earliest": "20190721091213"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-how-kik-built-a-recruiting-process-its-engineers-love",
+   "earliest": "20190723074930"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/talent-and-business-leaders-predict-hiring-trends-for-2022",
+   "earliest": "20220120044203"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/key-learnings-from-the-greenhouse-2021-employer-hiring-sentiment-report",
+   "earliest": "20211007124647"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/uncovering-candidate-motivations-phone-screens",
+   "earliest": "20190819181647"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-hiring-mindset-series-how-to-implement-candidate-scorecard-adoption",
+   "earliest": "20200927200927"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-most-common-interviewing-mistake-and-how-to-fix-it",
+   "earliest": "20190819183352"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/top-five-twitter-takeaways-reminiscing-on-namely-hr-redefined-2018",
+   "earliest": "20190721083602"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-josh-bersin-principal-at-bersin-by-deloitte-as-keynote-speaker-at-greenhouse-open-2016",
+   "earliest": "20190723072522"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/three-employee-engagement-questions-to-enhance-recruiting",
+   "earliest": "20190107151449"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/increasing-recruiting-efficiency-with-ai",
+   "earliest": "20190718233059"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-cammio",
+   "earliest": "20190718232856"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/4-strategic-recruiting-kpis",
+   "earliest": "20200814015353"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/twitter-takeaways-from-greenhouse-open-2016",
+   "earliest": "20190721085550"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-leading-companies-drive-candidate-and-employee-engagement-using-text-recruiting-platform-grayscale",
+   "earliest": "20200814015444"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/open-2018-roadshow-speaker-spotlight-build-maintain-a-culture-of-inclusivity",
+   "earliest": "20190721093731"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/delivering-a-meaningful-experience-for-every-new-hire-introducing-greenhouse-onboarding",
+   "earliest": "20190723073641"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-culture-fit-questions",
+   "earliest": "20190717071502"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/attention-greenhouse-customers-introducing-the-greenhouse-community",
+   "earliest": "20190721085627"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-gayle-laakmann-mcdowell-founder-ceo-careercup",
+   "earliest": "20190723065912"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-use-engaging-content-to-attract-top-notch-talent",
+   "earliest": "20190721083813"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/actioning-de-i-how-classy-empowers-its-employees-and-the-world",
+   "earliest": "20190819190550"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/real-talk-asking-the-right-questions-in-todays-interviews",
+   "earliest": "20190731142000"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/metric-recruiting-teams-must-watch-low-unemployment-rate",
+   "earliest": "20190721094129"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/4-reasons-reach-out-previously-candidates",
+   "earliest": "20190215190342"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/from-the-comfort-of-your-couch-or-desk-chair-join-greenhouse-for-the-glassdoor-summit-live-stream",
+   "earliest": "20190718233047"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-hire-for-whats-next",
+   "earliest": "20200401224926"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-is-broken-make-smarter-hiring-decisions",
+   "earliest": "20190721084329"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/managers-empower-your-team-to-boost-the-value-of-the-business",
+   "earliest": "20190102035016"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-truth-is-in-the-data-the-top-5-ways-to-recruit-more-women",
+   "earliest": "20190114022143"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-collecting-feedback-is-an-essential-part-of-new-hire-onboarding-and-how-to-do-it",
+   "earliest": "20190723074335"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-strategies-to-build-your-hr-dream-team",
+   "earliest": "20190721083552"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-hacks-how-to-streamline-your-recruiting-process-from-interviewing-to-onboarding",
+   "earliest": "20190721092303"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/mission-driven-and-ready-for-whats-next",
+   "earliest": "20211127180053"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-ways-to-showcase-your-company-culture-during-interviews",
+   "earliest": "20190718234746"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/our-commitment-to-diversity-equity-inclusion",
+   "earliest": "20201116225739"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/dispelled-4-common-misconceptions-about-needing-an-applicant-tracking-system",
+   "earliest": "20190819192018"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/bringing-the-conference-to-life-greenhouse-open-2019-sponsors",
+   "earliest": "20190819190211"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/our-greenhouse-readiness-plan-for-general-data-protection-regulation-gdpr-1",
+   "earliest": "20190721093333"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/building-the-team-how-to-recruit-for-a-startup-1",
+   "earliest": "20190819191449"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/3-key-hiring-trends-to-keep-in-mind-in-2021",
+   "earliest": "20210216170710"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-forces-shaping-the-future-of-work",
+   "earliest": "20220714101657"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/mark-your-calendars-14-hr-and-recruiting-events-to-attend-in-2016",
+   "earliest": "20190718233024"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/getting-candidates-to-respond-10-sourcing-tips-from-the-most-connected-woman-on-linkedin",
+   "earliest": "20190718232658"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/defining-recruiting-operations",
+   "earliest": "20190131131345"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/live-from-greenhouse-open-our-ultimate-structured-hiring-workshop",
+   "earliest": "20190723075519"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouse-and-linkedin-recruiter-integration",
+   "earliest": "20190405091942"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/dublin-japan-and-beyond-how-hubspot-approaches-recruiting-candidates-in-international-markets",
+   "earliest": "20190719001518"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-tips-how-i-built-a-sales-team-that-scales",
+   "earliest": "20190721084207"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/debunked-3-myths-on-how-to-best-recruit-salespeople",
+   "earliest": "20190211100018"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-reasons-we-cant-wait-for-open-2018-roadshow",
+   "earliest": "20190719001843"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/talent-management-in-action-one-people-managers-3-pronged-approach-to-fully-developing-his-team",
+   "earliest": "20190723072116"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/creating-a-value-driven-organizational-culture-key-takeaways-from-remote-connect",
+   "earliest": "20220418164716"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-its-like-to-interview-at-greenhouse",
+   "earliest": "20190723080321"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/a-quick-easy-guide-to-structured-interview-questions",
+   "earliest": "20190428024959"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/new-10-more-awesome-careers-pages",
+   "earliest": "20190413040837"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/monday-metric-candidates-by-source",
+   "earliest": "20190718233002"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/effective-emails-that-attract-great-talent",
+   "earliest": "20220405164833"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/idc-marketscape-names-greenhouse-a-leader-2020",
+   "earliest": "20201201190007"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-recruiting-coordinator-aj-biggers",
+   "earliest": "20190721094157"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/architecting-the-interview-process-for-success-4-steps-to-creating-a-structured-interview",
+   "earliest": "20190119034608"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/driving-success-for-lyft-how-the-ambitious-startup-grew-into-an-ipo-enterprise-with-greenhouse",
+   "earliest": "20191210065513"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-shazam-implemented-greenhouse-to-take-the-spreadsheet-pain-away",
+   "earliest": "20190819181754"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/10-twitter-takeaways-from-the-greenhouse-recruiting-optimization-summit",
+   "earliest": "20190723072743"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/stay-agile-distributed-world-greenhouse-zoom-integration",
+   "earliest": "20200927203401"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/interview-scorecard-planning",
+   "earliest": "20190717070848"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/digital-recruiting-hiring-in-todays-talent-market",
+   "earliest": "20190819183816"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/in-review-whats-the-right-way-to-read-a-resume",
+   "earliest": "20190723065451"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/boosting-work-from-home-productivity-part-1",
+   "earliest": "20200810103637"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hiring-as-you-grow-an-interview-with-kathryn-minshew-of-the-muse",
+   "earliest": "20190721094052"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/take-your-hiring-from-chaotic-to-confident-with-structured-hiring",
+   "earliest": "20210513152003"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-chose-our-applicant-tracking-system-at-brightroll",
+   "earliest": "20190721082509"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-pinterests-culture-drives-its-recruiting-process",
+   "earliest": "20190721092617"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-to-look-for-in-customer-success-a-players",
+   "earliest": "20190723072430"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/increase-company-diversity",
+   "earliest": "20190718233418"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/structured-hiring-enterprise-companies",
+   "earliest": "20200926070017"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/new-years-resolutions-for-recruiters-5-good-habits-to-start-or-continue-in-2019",
+   "earliest": "20190120154342"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouse-s-integration-with-take-the-interview",
+   "earliest": "20190723064454"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-5-most-popular-greenhouse-blog-posts-of-2016",
+   "earliest": "20190723065442"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ask-a-recruiter-how-do-i-write-an-effective-job-description",
+   "earliest": "20190721084100"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-parklet",
+   "earliest": "20190719001605"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-ways-to-help-employees-rise-above-workplace-politics",
+   "earliest": "20190301163326"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-fresh-ideas-for-successfully-sourcing-sales-candidates",
+   "earliest": "20190718101045"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/surpassing-250-distinct-integration-partners-a-word-from-greenhouses-director-of-partnerships",
+   "earliest": "20190723075223"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-confront-workplace-gender-inequality",
+   "earliest": "20191120195140"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-be-an-expert-sourcer-a-conversation-between-red-ventures-greenhouse",
+   "earliest": "20190720014832"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/i-declined-a-job-with-a-fortune-100-company-to-work-for-a-tech-startup-heres-why",
+   "earliest": "20190405124313"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-onboarding-launches-bulk-onboarding",
+   "earliest": "20190721084931"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-hire-for-emotional-intelligence",
+   "earliest": "20210126101316"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/women-in-hr-tech",
+   "earliest": "20190819181641"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-is-employee-experience-and-why-should-you-care",
+   "earliest": "20190721090800"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/employee-candidate-experience-secrets-from-facebook-entelo-greenhouse",
+   "earliest": "20190723075129"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/sourcing-emails-the-breakup-email",
+   "earliest": "20220620103234"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-a-strong-culture-helped-trunk-club-scale-from-60-to-550-stylists-in-3-years",
+   "earliest": "20190719002206"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ask-a-recruiter-should-i-hire-an-agency-or-in-house",
+   "earliest": "20190718233645"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-refugee-workforce-welcome-your-best-new-workers-home",
+   "earliest": "20190313040214"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-kick-start-your-recruiting-culture",
+   "earliest": "20190721083736"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/talkdesk-climbed-hiring-maturity-curve",
+   "earliest": "20200810114905"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/build-talent-community-at-scale",
+   "earliest": "20190721084819"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/ready-for-better-data-driven-recruiting-follow-these-tips-from-talent-leaders",
+   "earliest": "20211216222903"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/diversity-recruiting-workplace",
+   "earliest": "20190718232755"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-red-ventures-selective-and-effective-process",
+   "earliest": "20190723065726"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/build-employee-referrals-program",
+   "earliest": "20190718232824"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/open-news-we-reveal-details-about-5-new-2018-sessions",
+   "earliest": "20190721083729"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/8-tips-for-a-seamless-video-interviewing-process",
+   "earliest": "20200810121821"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/your-job-description-is-doing-double-duty-and-why-thats-a-problem",
+   "earliest": "20190721093045"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/design-thinking-optimize-recruiting-process",
+   "earliest": "20190616071143"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/5-benefits-of-diversity-in-the-workplace",
+   "earliest": "20190715190807"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/set-your-structured-hiring-process-up-for-success-with-the-job-kickoff-form",
+   "earliest": "20220516062025"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/improve-candidate-experience-2017",
+   "earliest": "20190723075030"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/increasing-transparency-in-your-workforce",
+   "earliest": "20190313053244"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/oracles-gvp-of-customer-success-shares-her-3-tips-for-building-effective-teams",
+   "earliest": "20190719000609"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/do-employee-referral-programs-reduce-diversity",
+   "earliest": "20190525071558"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-new-people-teams-how-bonobos-is-creating-a-learning-development-focused-company",
+   "earliest": "20190213184950"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-61-of-companies-are-looking-at-recruiting-all-wrong",
+   "earliest": "20190721094632"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/5-tactics-surge-job-applicants",
+   "earliest": "20200810110117"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/reduce-bias-when-automating-high-volume-applications",
+   "earliest": "20200719235641"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/discussing-diversity-inclusion-gender-equality-and-hr-tech-in-smart-hiring-with-dave-carvajal",
+   "earliest": "20190721092240"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/meet-greenhouses-director-of-talent-acquisition-lauren-ryan-who-has-won-greenhouse-a-bronze-for-best-advance-in-big-data-to-inform-and-predict-talent-strategy",
+   "earliest": "20190721083434"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/roadblock-4-hiring-managers-dont-budget-time-for-recruiting",
+   "earliest": "20190718233919"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/inside-the-6-stages-of-stack-overflows-technical-interview-process",
+   "earliest": "20190716055407"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/up-your-sourcing-game-with-tips-from-niantics-recruiting-team",
+   "earliest": "20190819190100"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-3-pillars-of-pinterests-diversity-and-inclusion-strategy",
+   "earliest": "20190718232813"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-tips-how-to-recruit-and-hire-remote-workers",
+   "earliest": "20190819185003"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/real-impact-of-the-shift-towards-people-teams",
+   "earliest": "20190721085534"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-insights-from-talent-operations-leaders",
+   "earliest": "20190721091123"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/candidate-experience-winners",
+   "earliest": "20190212030933"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-formlabs-used-an-internship-program-to-grow-its-team-from-10-to-150-employees",
+   "earliest": "20190719001007"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ask-the-experts-talent-pros-reveal-their-future-predictions",
+   "earliest": "20190721094224"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/6-companies-with-great-employer-brands",
+   "earliest": "20190721084128"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-unconscious-bias-affects-employee-experience-and-how-to-reduce-it",
+   "earliest": "20190721084548"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/navigating-a-mess-three-steps-to-revamping-your-broken-talent-processes-1",
+   "earliest": "20191029065135"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/creating-a-dynamic-headcount-plan",
+   "earliest": "20190721083455"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-people-teams-how-1stdibs-promotes-rapid-growth-development",
+   "earliest": "20190718231831"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/key-learnings-from-the-2022-greenhouse-candidate-experience-report",
+   "earliest": "20220203211417"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/5-key-learnings-from-greenhouse-open-2022",
+   "earliest": "20220626011809"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/greenhouse-is-one-of-the-first-ats-companies-iso-277012019-certified",
+   "earliest": "20220313025732"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/recruitment-strategies-how-to-use-angellist-to-source",
+   "earliest": "20190103090528"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-spark-hire",
+   "earliest": "20190719001937"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/is-your-recruitment-process-pushing-away-top-talent",
+   "earliest": "20190721083853"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/saving-time-making-time-introducing-the-new-scheduler-in-greenhouse",
+   "earliest": "20200926054653"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouses-integration-with-swoop-talent",
+   "earliest": "20190718233553"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouses-first-graduate-intern",
+   "earliest": "20190721093851"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-importance-of-recruitment-data",
+   "earliest": "20200810114521"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/owning-your-quality-of-hire-to-recruit-and-retain-top-talent",
+   "earliest": "20220925084100"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/making-the-case-5-reasons-why-you-cant-miss-open-2018",
+   "earliest": "20190103082113"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/daniel-chaits-interview-on-the-unsexy-startup-podcast",
+   "earliest": "20190107015745"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hackerrank-co-founder-vivek-makes-it-his-job-to-interview-everyone",
+   "earliest": "20190723065757"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/sourcing-recruiting-strategies-a-simple-guide",
+   "earliest": "20200810121309"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-prevent-candidates-from-hating-your-guts",
+   "earliest": "20190718232802"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-3-elements-of-hiring-at-scale",
+   "earliest": "20190723065556"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-you-can-use-storytelling-to-up-your-recruiting-game",
+   "earliest": "20190718234024"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/lets-talk-about-employee-departures",
+   "earliest": "20190723074051"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/glassdoor-best-place-to-work-2017",
+   "earliest": "20190723070102"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/another-10-awesome-careers-pages",
+   "earliest": "20190723065700"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-characteristics-define-a-strong-hiring-culture-within-a-company",
+   "earliest": "20190723071612"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/text-me-maybe-keeping-in-touch-with-candidates-during-the-long-recruitment-process",
+   "earliest": "20190628074508"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouse-helped-this-tech-company-save-over-800k-discover-the-roi-for-better-recruiter-and-hiring-manager-alignment",
+   "earliest": "20191002210420"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2019-speaker-series-hiring-manager-hacks-with-kurtis-stein-head-of-talent-wrike",
+   "earliest": "20190819181718"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/essential-checklists-to-ensure-your-new-hire-has-a-smooth-first-day",
+   "earliest": "20190721083910"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/10-voodoo-hiring-methods",
+   "earliest": "20190317092756"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/if-great-talent-walked-through-your-door-would-you-recognize-it",
+   "earliest": "20190723065350"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/creating-a-more-honest-candidate-experience-tips-from-yotpo-recruitingdaily",
+   "earliest": "20190721094323"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/whats-next-for-a-physically-and-digitally-split-workplace",
+   "earliest": "20200926060633"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-make-transparency-part-of-your-companys-dna",
+   "earliest": "20191210065328"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/whats-data-got-to-do-with-it-sourcing-prospective-candidates",
+   "earliest": "20190721093920"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-recruiters-cheat-sheet-to-employer-branding-recruitment-marketing",
+   "earliest": "20190716060135"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/employer-branding-tips-from-airbnb-hired-looker-and-greenhouse",
+   "earliest": "20191120195416"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/https-www.greenhouse.io-blog-how-the-city-of-fort-worth-chose-greenhouse-to-create-a-successful-data-driven-hiring-process",
+   "earliest": "20210330204601"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-key-to-striking-the-right-balance-between-recruiting-automation-and-the-human-touch",
+   "earliest": "20210621063617"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/growing-in-the-greenhouse-spotlight-on-front-end-developer-ellie-wawrzaszek",
+   "earliest": "20191002081745"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-leg-up-in-recruiting-make-sure-your-applicant-tracking-system-does-these-10-things",
+   "earliest": "20190718235030"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/interview-with-a-customer-support-specialist-how-a-positive-candidate-experience-made-an-impact",
+   "earliest": "20190721083856"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/icymi-the-10-most-popular-pieces-of-greenhouse-content-from-the-first-half-of-2016",
+   "earliest": "20190719002340"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/2017-hr-innovations-trends",
+   "earliest": "20190819181650"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/your-2015-hr-recruiting-events-calendar",
+   "earliest": "20190718232907"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/is-boolean-search-dead-for-recruiters",
+   "earliest": "20190518035325"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/sourcing-emails-the-follow-up-email",
+   "earliest": "20220430025815"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/monday-metric-putting-source-quality-over-source-quantity",
+   "earliest": "20190401171121"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-recruiting-metrics-everyone-should-be-looking-at-in-q3",
+   "earliest": "20190819184930"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-research-prospects-for-email-outreach",
+   "earliest": "20220925083125"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/3-takeaways-from-sourcelikeapro-the-event-on-recruitment-sourcing-strategies",
+   "earliest": "20190723070235"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/keep-your-process-in-check-the-ultimate-new-hire-onboarding-checklist",
+   "earliest": "20190718235817"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/having-trouble-hiring-developers-heres-why-developer-hiring-is-a-marathon-not-a-sprint",
+   "earliest": "20190723075231"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ask-a-recruiter-how-do-i-get-better-at-sourcing-candidates-part-two",
+   "earliest": "20190721085211"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-hire-an-engineering-team-or-any-team-at-each-stage-of-your-start-up",
+   "earliest": "20190516224259"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/navigating-recruiting-tech-a-guide-to-evaluating-selecting-implementing-the-right-tools",
+   "earliest": "20190718235143"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/hiring-the-hirer-interview-questions-for-recruiters",
+   "earliest": "20201209231251"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/why-fair-chance-hiring-should-be-part-of-your-dei-strategy",
+   "earliest": "20211207215515"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/what-makes-100k-candidates-tick",
+   "earliest": "20190428025024"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-better-people-practices-can-bring-a-6x-return-on-investment",
+   "earliest": "20190721084942"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/from-lou-adler-a-step-by-step-how-to-for-calculating-the-roi-of-quality-of-hire",
+   "earliest": "20190721085011"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-do-an-inclusivity-check-in-your-organization",
+   "earliest": "20201020040718"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-ways-to-recruit-informed-candidates-on-glassdoor",
+   "earliest": "20190721085730"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-at-gutcheck",
+   "earliest": "20190719001752"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/celebrating-10-powerful-women-in-talent",
+   "earliest": "20191002050730"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-refugee-workforce-get-to-know-the-dedicated-workers",
+   "earliest": "20190719000317"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-become-a-magnet-for-top-talent",
+   "earliest": "20190718235524"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-cisco-meraki-achieved-a-35-new-hire-referral-rate",
+   "earliest": "20190721091927"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiting-reporting-essentials-tips-from-greenhouse-and-rg-a",
+   "earliest": "20190723074827"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/talent-role-spotlight-talent-operations",
+   "earliest": "20190502235317"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/are-you-testing-candidates-for-emotional-intelligence",
+   "earliest": "20190723065739"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/4-great-recruiting-tools-for-finding-top-talent",
+   "earliest": "20220317183808"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/a-crash-course-in-inbound-marketing-for-recruiters",
+   "earliest": "20190718234913"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/listen-greenhouse-co-founder-jon-stross-on-drivethru-hr",
+   "earliest": "20190718233035"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/roadblock-3-hiring-managers-dont-prep-their-interviewing-teams",
+   "earliest": "20190420211833"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-recruitment-marketing-tactics",
+   "earliest": "20190819185025"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/guide-distributed-hiring-remote-working-2020",
+   "earliest": "20200516020652"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-being-named-a-glassdoor-best-place-to-work-means-for-greenhouse",
+   "earliest": "20190718233031"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-5-kpis-we-use-to-measure-recruiting-success-at-greenhouse-kpi-2",
+   "earliest": "20190719000321"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-adapt-your-global-hiring-strategies-for-2022",
+   "earliest": "20220516061829"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/unpacking-mongodbs-approach-to-de-i-insights-from-afrotech",
+   "earliest": "20200926064150"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/4-crucial-factors-for-employee-engagement-and-retention",
+   "earliest": "20220626013216"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/greenhouse-partnership-hr-open-source",
+   "earliest": "20190103090522"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/defining-your-ideal-candidate-a-personality-based-approach",
+   "earliest": "20190723072049"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-instacarts-tips-for-scaling-fast-with-a-lean-talent-operation",
+   "earliest": "20190723070130"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/organizational-fit",
+   "earliest": "20190524044828"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/reason-11-why-you-should-attend-greenhouse-open-2016-porchlight-storytelling",
+   "earliest": "20190718232831"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-programmatic-job-advertising-turns-the-entire-web-into-your-own-help-wanted-sign",
+   "earliest": "20190723070017"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-aline-lerner-co-founder-ceo-interviewing-io",
+   "earliest": "20190723065919"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/three-questions-to-ask-to-determine-if-your-pre-employment-assessment-is-d-i-friendly",
+   "earliest": "20190313040242"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-the-first-rule-of-culture-is-misguided",
+   "earliest": "20190718233439"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/jobber-crm-company-social-responsibility",
+   "earliest": "20200719235648"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/essential-tips-virtual-onboarding-program",
+   "earliest": "20200719235639"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/trayio-recruitment-analytics-data",
+   "earliest": "20200927143855"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/understanding-the-power-of-effective-messaging",
+   "earliest": "20190310085544"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2019-session-spotlight-next-level-onboarding-accounting-for-your-remote-distributed-workforce",
+   "earliest": "20190819183724"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/4-reasons-why-your-talent-brand-matters",
+   "earliest": "20190723072219"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-new-people-teams-why-every-company-needs-a-dedicated-onboarding-manager",
+   "earliest": "20190718232711"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/what-is-recruitment-marketing",
+   "earliest": "20190721085109"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-build-a-strong-employee-referral-program",
+   "earliest": "20190310125747"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/your-essential-guide-to-writing-an-employee-offer-letter",
+   "earliest": "20200929044849"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-we-hire-data-driven-decisions-at-delphic-digital",
+   "earliest": "20190719001910"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/glassdoor-best-places-to-work-the-common-elements-of-winning-companies",
+   "earliest": "20190819183316"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/helpful-lessons-from-greenhouse-for-reviving-and-motivating-employees",
+   "earliest": "20210126210736"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/recruiting-industry-trends-gartner-market-guide-for-talent-acquisition-recruiting-technologies",
+   "earliest": "20220626031117"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/structured-hiring-made-simple-with-these-useful-worksheets",
+   "earliest": "20190723065529"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-3-questions-to-ask-yourself-when-designing-a-structured-interview-process-workbook",
+   "earliest": "20190718233020"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-create-a-great-workplace-culture-that-will-attract-and-keep-top-talent",
+   "earliest": "20190721093226"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-open-2018-imagine-a-new-hiring-reality",
+   "earliest": "20190106194507"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/partner-spotlight-how-to-conduct-effective-video-interviews-with-hirevue",
+   "earliest": "20190719001103"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/beamery-greenhouse-diversity-report",
+   "earliest": "20190721083644"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/diversity-inclusion-deep-dive-with-culture-amps-head-of-d-i-steven-huang",
+   "earliest": "20190819181859"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-these-5-core-principles-help-the-muse-maintain-a-thriving-culture-through-hypergrowth",
+   "earliest": "20190721085606"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/orientation-new-hires-more-human",
+   "earliest": "20200926065504"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-video-interviewing-software-can-help-add-diversity-to-your-workforce",
+   "earliest": "20190707001651"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/become-a-recruiting-analytics-pro-with-the-new-greenhouse-report-builder",
+   "earliest": "20201101054131"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/how-to-include-skills-tests-in-your-interview-process",
+   "earliest": "20190715190813"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-pinterest-customized-greenhouse-to-scale-and-make-data-driven-decisions",
+   "earliest": "20190719000137"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/changing-the-perception-of-talent-acquisition-it-starts-with-our-behaviors",
+   "earliest": "20190120132629"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-investing-in-data-driven-hiring-paid-off-for-transferwise",
+   "earliest": "20201020030415"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/de-i-tips-from-the-new-york-times-affirm-hired-and-greenhouse",
+   "earliest": "20190718232809"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/recruitonomics-how-to-boost-your-recruiting-strategy-with-labor-market-data",
+   "earliest": "20220901200625"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/presenting-the-structured-sourcing-framework",
+   "earliest": "20190723072942"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/redefining-hr-a-must-read-for-forward-thinking-people-people",
+   "earliest": "20210127221021"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/talent-role-spotlight-candidate-experience-at-medallia",
+   "earliest": "20190524140647"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/mobile-recruiting-changing-the-way-companies-think",
+   "earliest": "20190718232838"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/7-ways-to-show-your-candidates-some-love-this-valentines-day",
+   "earliest": "20190723072217"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/addressing-challenges-with-ai-in-inclusive-hiring",
+   "earliest": "20200926055737"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-conduct-interview",
+   "earliest": "20200929033204"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/50-ways-to-be-a-talent-maker-insights-for-talent-leaders",
+   "earliest": "20201006234631"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-10-most-popular-pieces-of-greenhouse-content-from-2015",
+   "earliest": "20190719002018"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/why-you-should-invest-in-your-employer-brand",
+   "earliest": "20190718234551"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/from-good-to-great-entelos-tips-for-taking-your-candidate-experience-to-the-next-level",
+   "earliest": "20191210065318"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/greenhouse-open-2016-speaker-spotlight-kinh-demaree-director-of-talent-acquisition-axiom-zen",
+   "earliest": "20190718231801"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/fostering-a-vibrant-recruiting-culture-4-steps-to-building-a-partnership-between-recruiters-and-hiring-managers",
+   "earliest": "20190721093334"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/staying-inclusive-using-auto-advance-greenhouse",
+   "earliest": "20200810115954"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/the-role-of-onboarding-in-employee-lifetime-value-part-1",
+   "earliest": "20190310085422"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/video-a-look-inside-thumbtacks-employee-referral-strategy",
+   "earliest": "20190309025305"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/structured-hiring-recruiting-process",
+   "earliest": "20190719000443"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/growing-in-the-greenhouse-spotlight-on-data-scientist-andrew-zirm",
+   "earliest": "20190721084114"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/enhance-the-candidate-experience-with-the-new-candidate-self-scheduling-feature",
+   "earliest": "20211116194126"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/crafting-the-perfect-customized-cup-of-coffee-and-candidate-experience-at-philz-coffee",
+   "earliest": "20201020034838"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/taking-action-ways-business-leaders-can-show-up-and-support-the-aapi-community",
+   "earliest": "20210607193618"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/5-elements-of-a-winning-employee-onboarding-program-ebook",
+   "earliest": "20190718233941"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/new-recruiting-roles-the-college-recruiter",
+   "earliest": "20190721085200"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/how-to-attract-talent-in-an-extremely-competitive-market",
+   "earliest": "20220818095240"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/candidate-experience-at-greenhouse",
+   "earliest": "20190723065445"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/interview-training-101",
+   "earliest": "20190721083627"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/everything-you-wanted-to-know-about-candidate-code-challenges-but-were-afraid-to-ask",
+   "earliest": "20190203080354"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/announcing-greenhouse-s-integration-with-closeriq",
+   "earliest": "20190719000659"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-create-a-flexible-interview-scheduling-process-that-improves-candidate-experience",
+   "earliest": "20190919061530"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/competency-based-interview-questions",
+   "earliest": "20190714121420"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-ondecks-recruiting-process-helped-it-double-in-size-and-keep-the-bar-high",
+   "earliest": "20190721083530"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/re-engaging-past-prospects-candidates-crm-success-stories-part-1",
+   "earliest": "20191024074320"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/managing-unconscious-bias-in-the-hiring-process",
+   "earliest": "20190505040246"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/approaching-talent-ops-without-talent-ops-team",
+   "earliest": "20200929043529"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-implement-structured-hiring-step-1-role-kick-off-meeting",
+   "earliest": "20190721091919"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/discover-greenhouses-newest-integration-partners",
+   "earliest": "20201229202726"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/scaling-your-business-invest-in-hiring-early-on",
+   "earliest": "20210512192059"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/interview-with-our-new-chief-people-officer-donald-knight",
+   "earliest": "20220516053707"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/taking-action-elevating-black-startups-with-the-tech-for-black-founders-initiative",
+   "earliest": "20201020031311"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/company-catfishing-new-greenhouse-data",
+   "earliest": "20220925073100"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/ask-a-recruiter-how-do-i-get-better-at-sourcing-candidates",
+   "earliest": "20190721090132"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/consider-these-3-things-when-accessing-new-technology-to-recruit-top-talent",
+   "earliest": "20190721090342"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/retain-your-talent-and-increase-productivity-10-ways-to-make-employee-engagement-a-priority-at-your-company",
+   "earliest": "20190301113818"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/committing-to-diversity-equity-inclusion-get-started-here",
+   "earliest": "20210124164518"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/how-to-source-candidates-on-hacker-news-plus-your-new-favorite-sourcing-tool",
+   "earliest": "20190723070821"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/recruiter-profile-helen-laroche-data-driven-recruiter-at-disqus",
+   "earliest": "20190718234513"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/7-practical-ways-to-be-a-more-approachable-leader",
+   "earliest": "20190919061550"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/hubspots-inbound-recruiting-101-why-storytelling-is-critical-in-hiring-todays-top-talent",
+   "earliest": "20190723071048"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/demonstrate-inclusion-in-the-workplace-through-your-employer-branding-strategy",
+   "earliest": "20210506150949"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/exit-interview-questions",
+   "earliest": "20191002211709"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/the-role-of-onboarding-in-employee-lifetime-value-part-2",
+   "earliest": "20190721091850"
+  },
+  {
+   "url": "http://www.greenhouse.io:80/blog/we-created-an-award-winning-culture-at-greenhouse-heres-how",
+   "earliest": "20190413040855"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/take-your-new-hire-onboarding-to-the-next-level-with-infographics",
+   "earliest": "20190721094149"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/join-the-talent-makers-at-greenhouse-open-forum-to-learn-how-to-make-hiring-a-competitive-advantage",
+   "earliest": "20210329210935"
+  },
+  {
+   "url": "http://www.greenhouse.io/blog/have-remote-employees-heres-how-to-onboard-them-correctly",
+   "earliest": "20190723070949"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-sourcing-secrets-that-will-help-you-nurture-and-win-top-talent",
+   "earliest": "20191120201045"
+  },
+  {
+   "url": "https://www.greenhouse.io/blog/the-people-of-greenhouse-meet-meghan",
+   "earliest": "20220113211829"
+  }
+ ]
+}
