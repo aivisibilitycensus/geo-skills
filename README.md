@@ -16,6 +16,10 @@ Most GEO tools give you a score. These skills give you counts you can trace back
 | [content-shape-checker](content-shape-checker/) | Checks whether a draft is built like human writing or generated text (over-explanation, named specifics, scaffold variance, profundity inflation) and quotes every sentence to fix. Also available as a [free web tool](https://aivisibilitycensus.com/content-shape-checker/) | A draft with headings |
 | [geo-experiment-kit](geo-experiment-kit/) | Templates and a readout script for running one-change-at-a-time SEO and GEO experiments with control pages and recorded predictions | Nothing |
 
+## Templates
+
+Free spreadsheets in [templates/](templates/): an [SEO report template with AI visibility](https://aivisibilitycensus.com/templates/seo-report-template/) (95% ranges on every AI rate), a [GEO checklist graded by evidence](templates/geo-checklist.md), and an [AI Overview CTR loss finder](https://aivisibilitycensus.com/templates/ai-overview-ctr-loss/) for Search Console data.
+
 Every recommendation carries an evidence grade from [tactics/EVIDENCE.md](tactics/EVIDENCE.md): tested by the Census, published study, platform documentation, vendor claim, or untested.
 
 The scripts are Python 3 and use the standard library only (schema-parity-checker can optionally render pages with Playwright). Each skill with a script has a worked example built from synthetic data, with the real script output.
