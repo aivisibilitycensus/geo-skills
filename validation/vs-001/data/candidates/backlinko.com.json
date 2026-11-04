@@ -1,0 +1,1463 @@
+{
+ "blog": "backlinko.com",
+ "group": "Marketing and SEO",
+ "reserve": false,
+ "cdxRows": 1547,
+ "articleLike": 363,
+ "queriedAt": "2026-11-04T03:42:31.888Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://backlinko.com/introducing-content-marketing-hub-2-0",
+   "earliest": "20210810142319"
+  },
+  {
+   "url": "https://backlinko.com/google-search-console",
+   "earliest": "20190406040859"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/serp-features",
+   "earliest": "20200922014028"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/skyscraper-technique-case-study",
+   "earliest": "20190723054349"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/on-page-seo",
+   "earliest": "20201117203748"
+  },
+  {
+   "url": "https://backlinko.com/viral-marketing",
+   "earliest": "20190825030522"
+  },
+  {
+   "url": "https://backlinko.com/video-marketing-guide",
+   "earliest": "20190910174539"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/seo-report",
+   "earliest": "20201117203730"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-9",
+   "earliest": "20200611135218"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-19",
+   "earliest": "20200611140207"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/search-engine-positioning",
+   "earliest": "20200812004948"
+  },
+  {
+   "url": "https://backlinko.com/stripe-users",
+   "earliest": "20210303150758"
+  },
+  {
+   "url": "https://backlinko.com/link-building-strategies",
+   "earliest": "20190212174400"
+  },
+  {
+   "url": "https://backlinko.com/find-content-ideas",
+   "earliest": "20200908173219"
+  },
+  {
+   "url": "https://backlinko.com/seo-this-year",
+   "earliest": "20190116224353"
+  },
+  {
+   "url": "https://backlinko.com/shopify-seo",
+   "earliest": "20210103013811"
+  },
+  {
+   "url": "https://backlinko.com/snapchat-users",
+   "earliest": "20210303103234"
+  },
+  {
+   "url": "https://backlinko.com/technical-seo-guide",
+   "earliest": "20200414180407"
+  },
+  {
+   "url": "https://backlinko.com/google-keyword-planner",
+   "earliest": "20190331224103"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/crawl-budget",
+   "earliest": "20190331083447"
+  },
+  {
+   "url": "https://backlinko.com/seo-site-audit",
+   "earliest": "20190215114729"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/seo-audit",
+   "earliest": "20210324234413"
+  },
+  {
+   "url": "https://backlinko.com/page-speed-stats",
+   "earliest": "20191008171418"
+  },
+  {
+   "url": "https://backlinko.com/b2b-content-distribution",
+   "earliest": "20210103013820"
+  },
+  {
+   "url": "https://backlinko.com/introducing-the-content-marketing-hub",
+   "earliest": "20191217184843"
+  },
+  {
+   "url": "https://backlinko.com/search-engine-ranking/comment-page-2",
+   "earliest": "20190613090749"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-2",
+   "earliest": "20190528060401"
+  },
+  {
+   "url": "https://backlinko.com/shopify-stores",
+   "earliest": "20210504211000"
+  },
+  {
+   "url": "https://backlinko.com/how-to-rank-youtube-videos",
+   "earliest": "20190114004119"
+  },
+  {
+   "url": "https://backlinko.com/how-to-get-youtube-subscribers",
+   "earliest": "20190428233015"
+  },
+  {
+   "url": "https://backlinko.com/digital-marketing-stats",
+   "earliest": "20210103013825"
+  },
+  {
+   "url": "https://backlinko.com/content-marketing-case-study",
+   "earliest": "20201108090207"
+  },
+  {
+   "url": "https://backlinko.com/semrush-users",
+   "earliest": "20210408140709"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/content-audits",
+   "earliest": "20190331075958"
+  },
+  {
+   "url": "https://backlinko.com/how-to-rank-number-one-in-google",
+   "earliest": "20190723054735"
+  },
+  {
+   "url": "https://backlinko.com/sparktoro-review",
+   "earliest": "20200922003803"
+  },
+  {
+   "url": "https://backlinko.com/4-fatal-seo-mistakes",
+   "earliest": "20210727125343"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/link-building-seo",
+   "earliest": "20191114082446"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/channel-keywords",
+   "earliest": "20190403223630"
+  },
+  {
+   "url": "https://backlinko.com/upside-down-guest-post",
+   "earliest": "20190920040513"
+  },
+  {
+   "url": "https://backlinko.com/email-open-rate",
+   "earliest": "20210103013756"
+  },
+  {
+   "url": "https://backlinko.com/clubhouse-guide",
+   "earliest": "20210219165859"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/outreach-email",
+   "earliest": "20201117203733"
+  },
+  {
+   "url": "https://backlinko.com/linkedin-stats",
+   "earliest": "20210103013757"
+  },
+  {
+   "url": "https://backlinko.com/google-ctr-stats",
+   "earliest": "20190903090348"
+  },
+  {
+   "url": "https://backlinko.com/patreon-users",
+   "earliest": "20210316125057"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/keyword-research",
+   "earliest": "20201117203742"
+  },
+  {
+   "url": "https://backlinko.com/thank-you-stw-waiting-list",
+   "earliest": "20190329023355"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-8",
+   "earliest": "20200604205947"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/create-videos",
+   "earliest": "20190413163907"
+  },
+  {
+   "url": "https://backlinko.com/google-keyword-study",
+   "earliest": "20201201130643"
+  },
+  {
+   "url": "https://backlinko.com/email-marketing-stats",
+   "earliest": "20190825032138"
+  },
+  {
+   "url": "https://backlinko.com/visual-search-ranking-factors",
+   "earliest": "20200609180614"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors",
+   "earliest": "20190106064549"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/sky-bonus-section",
+   "earliest": "20190329023143"
+  },
+  {
+   "url": "https://backlinko.com/already-subscribed",
+   "earliest": "20200904152135"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-12",
+   "earliest": "20200611135526"
+  },
+  {
+   "url": "https://backlinko.com/how-to-rank-youtube-videos/comment-page-10",
+   "earliest": "20191207014938"
+  },
+  {
+   "url": "https://backlinko.com/best-content-marketing-tools",
+   "earliest": "20190330073138"
+  },
+  {
+   "url": "https://backlinko.com/youtube-marketing",
+   "earliest": "20200622174615"
+  },
+  {
+   "url": "https://backlinko.com/write-a-press-release",
+   "earliest": "20190924163614"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/content-marketing-plan",
+   "earliest": "20201117203719"
+  },
+  {
+   "url": "https://backlinko.com/promote-your-blog",
+   "earliest": "20191027082237"
+  },
+  {
+   "url": "https://backlinko.com/viral-content/comment-page-3",
+   "earliest": "20191207014547"
+  },
+  {
+   "url": "https://backlinko.com/write-a-blog-post",
+   "earliest": "20190619040252"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/journalist-pitch",
+   "earliest": "20201117203733"
+  },
+  {
+   "url": "https://backlinko.com/how-to-get-backlinks",
+   "earliest": "20190613094904"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/best-practices",
+   "earliest": "20190825021924"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/dwell-time",
+   "earliest": "20190215134026"
+  },
+  {
+   "url": "https://backlinko.com/airbnb-stats",
+   "earliest": "20211018045207"
+  },
+  {
+   "url": "https://backlinko.com/dropbox-users",
+   "earliest": "20210423114645"
+  },
+  {
+   "url": "https://backlinko.com/increase-website-traffic",
+   "earliest": "20190331214121"
+  },
+  {
+   "url": "https://backlinko.com/link-building",
+   "earliest": "20190217125013"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/video-description",
+   "earliest": "20190329023556"
+  },
+  {
+   "url": "https://backlinko.com/backlinks-guide",
+   "earliest": "20190331170525"
+  },
+  {
+   "url": "https://backlinko.com/roblox-users",
+   "earliest": "20210302032409"
+  },
+  {
+   "url": "https://backlinko.com/ad-blockers-users",
+   "earliest": "20210427175547"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-3",
+   "earliest": "20191207022657"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/seo-keywords",
+   "earliest": "20190920031013"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/keyword-research-strategies",
+   "earliest": "20191114082436"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/seo-results",
+   "earliest": "20190331044842"
+  },
+  {
+   "url": "https://backlinko.com/actionable-seo-tips",
+   "earliest": "20190326181038"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/robots-txt",
+   "earliest": "20190329023043"
+  },
+  {
+   "url": "https://backlinko.com/seo-strategy",
+   "earliest": "20190212183235"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-11",
+   "earliest": "20200611135423"
+  },
+  {
+   "url": "https://backlinko.com/peloton-users",
+   "earliest": "20210315111410"
+  },
+  {
+   "url": "https://backlinko.com/seo-for-b2b",
+   "earliest": "20201126103036"
+  },
+  {
+   "url": "https://backlinko.com/seo-campaign",
+   "earliest": "20190107180839"
+  },
+  {
+   "url": "https://backlinko.com/seo-certification-guide",
+   "earliest": "20201025131557"
+  },
+  {
+   "url": "https://backlinko.com/seo-services-statistics",
+   "earliest": "20190723051307"
+  },
+  {
+   "url": "https://backlinko.com/how-to-rank-for-any-keyword",
+   "earliest": "20190615035848"
+  },
+  {
+   "url": "https://backlinko.com/grow-youtube-channel",
+   "earliest": "20190406023117"
+  },
+  {
+   "url": "https://backlinko.com/reddit-users",
+   "earliest": "20210320095522"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/youtube-thumbnail",
+   "earliest": "20220119193129"
+  },
+  {
+   "url": "https://backlinko.com/reverse-outreach",
+   "earliest": "20220405114103"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/end-screen",
+   "earliest": "20190612074310"
+  },
+  {
+   "url": "https://backlinko.com/twitter-users",
+   "earliest": "20210411135101"
+  },
+  {
+   "url": "https://backlinko.com/disney-users",
+   "earliest": "20210320112155"
+  },
+  {
+   "url": "https://backlinko.com/saas-seo",
+   "earliest": "20201025143049"
+  },
+  {
+   "url": "https://backlinko.com/improve-your-seo",
+   "earliest": "20190825025341"
+  },
+  {
+   "url": "https://backlinko.com/doordash-users",
+   "earliest": "20210730204752"
+  },
+  {
+   "url": "https://backlinko.com/seo-tools",
+   "earliest": "20190301182631"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/content-strategy",
+   "earliest": "20200228222005"
+  },
+  {
+   "url": "https://backlinko.com/introducing-the-seo-marketing-hub",
+   "earliest": "20190222225946"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/keyword-difficulty",
+   "earliest": "20200605154451"
+  },
+  {
+   "url": "https://backlinko.com/etsy-users",
+   "earliest": "20210427122130"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/seo-friendly-design",
+   "earliest": "20190331053502"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-24",
+   "earliest": "20200725075043"
+  },
+  {
+   "url": "https://backlinko.com/telegram-users",
+   "earliest": "20210505012607"
+  },
+  {
+   "url": "https://backlinko.com/steam-users",
+   "earliest": "20210413143415"
+  },
+  {
+   "url": "https://backlinko.com/learn-seo-fast",
+   "earliest": "20190405064806"
+  },
+  {
+   "url": "https://backlinko.com/optimize-for-voice-search",
+   "earliest": "20190126214650"
+  },
+  {
+   "url": "https://backlinko.com/write-email-newsletter",
+   "earliest": "20210103013755"
+  },
+  {
+   "url": "https://backlinko.com/b2b-marketing-stats",
+   "earliest": "20201124000120"
+  },
+  {
+   "url": "https://backlinko.com/b2b-content-marketing-report",
+   "earliest": "20210105125252"
+  },
+  {
+   "url": "https://backlinko.com/influencer-marketing-stats",
+   "earliest": "20210103013749"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/seo-this-year-definitive-guide",
+   "earliest": "20200904161728"
+  },
+  {
+   "url": "https://backlinko.com/mobile-seo-guide",
+   "earliest": "20190331133058"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/seo-this-year-guide",
+   "earliest": "20190717102458"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/padlock-7-adv-content-promo-strategies",
+   "earliest": "20220119192154"
+  },
+  {
+   "url": "https://backlinko.com/ecommerce-seo",
+   "earliest": "20190220155556"
+  },
+  {
+   "url": "https://backlinko.com/increase-conversions/comment-page-2",
+   "earliest": "20191207014752"
+  },
+  {
+   "url": "https://backlinko.com/instagram-users",
+   "earliest": "20201228180046"
+  },
+  {
+   "url": "https://backlinko.com/google-rankbrain-seo",
+   "earliest": "20190330120834"
+  },
+  {
+   "url": "https://backlinko.com/advanced-seo",
+   "earliest": "20200817205153"
+  },
+  {
+   "url": "https://backlinko.com/tiktok-users",
+   "earliest": "20210103013750"
+  },
+  {
+   "url": "https://backlinko.com/keyword-competition",
+   "earliest": "20190104144746"
+  },
+  {
+   "url": "https://backlinko.com/terms-of-service",
+   "earliest": "20190104160917"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/bounce-rate",
+   "earliest": "20190920035157"
+  },
+  {
+   "url": "https://backlinko.com/salesforce-stats",
+   "earliest": "20210331153709"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-4",
+   "earliest": "20200604205328"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-16",
+   "earliest": "20200611135913"
+  },
+  {
+   "url": "https://backlinko.com/skyscraper-technique-2-0",
+   "earliest": "20190228002527"
+  },
+  {
+   "url": "https://backlinko.com/3-seo-case-studies-old",
+   "earliest": "20190920032024"
+  },
+  {
+   "url": "https://backlinko.com/seo-companies-chicago",
+   "earliest": "20190717164906"
+  },
+  {
+   "url": "https://backlinko.com/lemonade-customers",
+   "earliest": "20211013151545"
+  },
+  {
+   "url": "https://backlinko.com/tesla-stats",
+   "earliest": "20210416032652"
+  },
+  {
+   "url": "https://backlinko.com/ahrefs-review",
+   "earliest": "20200922023909"
+  },
+  {
+   "url": "https://backlinko.com/surfer-seo",
+   "earliest": "20200922015328"
+  },
+  {
+   "url": "https://backlinko.com/cloudflare-users",
+   "earliest": "20211203001419"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/email-outreach",
+   "earliest": "20200227004505"
+  },
+  {
+   "url": "https://backlinko.com/rank-high-on-google/comment-page-2",
+   "earliest": "20190723050837"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/create-channel",
+   "earliest": "20190413163906"
+  },
+  {
+   "url": "https://backlinko.com/how-to-get-backlinks/comment-page-2",
+   "earliest": "20191207014129"
+  },
+  {
+   "url": "https://backlinko.com/epic-games-users",
+   "earliest": "20210422114236"
+  },
+  {
+   "url": "https://backlinko.com/seo-checklist",
+   "earliest": "20190622015243"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/resource-pages",
+   "earliest": "20190331055708"
+  },
+  {
+   "url": "https://backlinko.com/search-engine-ranking",
+   "earliest": "20190101222737"
+  },
+  {
+   "url": "https://backlinko.com/introducing-seo-marketing-hub-2-0",
+   "earliest": "20200728191150"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-6",
+   "earliest": "20200604205643"
+  },
+  {
+   "url": "https://backlinko.com/voice-search-stats",
+   "earliest": "20191018035411"
+  },
+  {
+   "url": "https://backlinko.com/pinterest-users",
+   "earliest": "20210321205316"
+  },
+  {
+   "url": "https://backlinko.com/conversion-optimization",
+   "earliest": "20190825022139"
+  },
+  {
+   "url": "https://backlinko.com/upwork-users",
+   "earliest": "20210927041020"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/linkedin-summary",
+   "earliest": "20201117203752"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/padlock-how-to-rank-on-page-1-of-google-fast",
+   "earliest": "20200904152140"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/what-is-seo",
+   "earliest": "20190331061308"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/welcome-email",
+   "earliest": "20201117203723"
+  },
+  {
+   "url": "https://backlinko.com/seo-content",
+   "earliest": "20190107190850"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/internal-links",
+   "earliest": "20190331020445"
+  },
+  {
+   "url": "https://backlinko.com/viral-content/comment-page-2",
+   "earliest": "20190825023127"
+  },
+  {
+   "url": "https://backlinko.com/youtube-ranking-factors/comment-page-2",
+   "earliest": "20191207014252"
+  },
+  {
+   "url": "https://backlinko.com/skyscraper-technique/comment-page-2",
+   "earliest": "20190825025917"
+  },
+  {
+   "url": "https://backlinko.com/ahrefs-alternatives",
+   "earliest": "20201011022550"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/free-updates",
+   "earliest": "20200904152132"
+  },
+  {
+   "url": "https://backlinko.com/build-an-email-list",
+   "earliest": "20191114092942"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/search-intent",
+   "earliest": "20190825031558"
+  },
+  {
+   "url": "https://backlinko.com/email-marketing-guide",
+   "earliest": "20190716163612"
+  },
+  {
+   "url": "https://backlinko.com/build-awesome-backlinks",
+   "earliest": "20190723052650"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/email-newsletter",
+   "earliest": "20201117203821"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/blog-seo",
+   "earliest": "20200227205240"
+  },
+  {
+   "url": "https://backlinko.com/the-definitive-guide-to-guest-blogging",
+   "earliest": "20190201023853"
+  },
+  {
+   "url": "https://backlinko.com/content-promotion-case-study",
+   "earliest": "20201108135542"
+  },
+  {
+   "url": "https://backlinko.com/video-seo-guide/comment-page-4",
+   "earliest": "20190401184008"
+  },
+  {
+   "url": "https://backlinko.com/seo-copywriting",
+   "earliest": "20190406012402"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/padlock-how-to-build-awesome-backlinks",
+   "earliest": "20200904152148"
+  },
+  {
+   "url": "https://backlinko.com/copywriting-guide",
+   "earliest": "20190306043851"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-7",
+   "earliest": "20200604205807"
+  },
+  {
+   "url": "https://backlinko.com/search-engine-ranking/comment-page-3",
+   "earliest": "20191207014306"
+  },
+  {
+   "url": "https://backlinko.com/chatbot-stats",
+   "earliest": "20200812011237"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/google-analytics",
+   "earliest": "20200226175915"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/content-marketing-fundamentals",
+   "earliest": "20200228232619"
+  },
+  {
+   "url": "https://backlinko.com/whatsapp-users",
+   "earliest": "20210316042256"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/blog-post",
+   "earliest": "20201117203720"
+  },
+  {
+   "url": "https://backlinko.com/google-user-behavior",
+   "earliest": "20200825153015"
+  },
+  {
+   "url": "https://backlinko.com/seo-stats",
+   "earliest": "20200427191126"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/seo-writing",
+   "earliest": "20190331050652"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-5",
+   "earliest": "20200604205503"
+  },
+  {
+   "url": "https://backlinko.com/google-seo-guide",
+   "earliest": "20190723054110"
+  },
+  {
+   "url": "https://backlinko.com/serpstat-review",
+   "earliest": "20210103013844"
+  },
+  {
+   "url": "https://backlinko.com/best-free-seo-tools",
+   "earliest": "20190528060405"
+  },
+  {
+   "url": "https://backlinko.com/similarweb-users",
+   "earliest": "20210428112532"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/padlock-how-to-rank-number-one-in-google",
+   "earliest": "20220119192216"
+  },
+  {
+   "url": "https://backlinko.com/seo-expert",
+   "earliest": "20190814123003"
+  },
+  {
+   "url": "https://backlinko.com/seo-tutorial",
+   "earliest": "20200922161350"
+  },
+  {
+   "url": "https://backlinko.com/netflix-users",
+   "earliest": "20210316192606"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/case-study",
+   "earliest": "20201117203743"
+  },
+  {
+   "url": "https://backlinko.com/bumble-users",
+   "earliest": "20220425065756"
+  },
+  {
+   "url": "https://backlinko.com/introducing-the-digital-marketing-templates-library",
+   "earliest": "20201117120918"
+  },
+  {
+   "url": "https://backlinko.com/list-building",
+   "earliest": "20190124212804"
+  },
+  {
+   "url": "https://backlinko.com/seo-trends",
+   "earliest": "20200908173316"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/ranking-factors",
+   "earliest": "20190216133903"
+  },
+  {
+   "url": "https://backlinko.com/get-youtube-views",
+   "earliest": "20190524181434"
+  },
+  {
+   "url": "https://backlinko.com/keyword-research",
+   "earliest": "20190331151534"
+  },
+  {
+   "url": "https://backlinko.com/nofollow-link",
+   "earliest": "20190406110521"
+  },
+  {
+   "url": "https://backlinko.com/seo-techniques",
+   "earliest": "20190406051451"
+  },
+  {
+   "url": "https://backlinko.com/chrome-users",
+   "earliest": "20210308193333"
+  },
+  {
+   "url": "https://backlinko.com/landing-page-guide",
+   "earliest": "20201102124732"
+  },
+  {
+   "url": "https://backlinko.com/b2b-marketing-strategies",
+   "earliest": "20210103013751"
+  },
+  {
+   "url": "https://backlinko.com/white-hat-seo",
+   "earliest": "20190401073803"
+  },
+  {
+   "url": "https://backlinko.com/mangools-review",
+   "earliest": "20200417102916"
+  },
+  {
+   "url": "https://backlinko.com/duckduckgo-stats",
+   "earliest": "20210405140933"
+  },
+  {
+   "url": "https://backlinko.com/semrush-review",
+   "earliest": "20200730134648"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/facebook-ad",
+   "earliest": "20201117203723"
+  },
+  {
+   "url": "https://backlinko.com/twitch-users",
+   "earliest": "20210301101734"
+  },
+  {
+   "url": "https://backlinko.com/social-media-marketing-stats",
+   "earliest": "20200922014754"
+  },
+  {
+   "url": "https://backlinko.com/seo-jobs-report",
+   "earliest": "20200730070119"
+  },
+  {
+   "url": "https://backlinko.com/buzzstream-outreach",
+   "earliest": "20190825025308"
+  },
+  {
+   "url": "https://backlinko.com/discord-users",
+   "earliest": "20210322195839"
+  },
+  {
+   "url": "https://backlinko.com/content-strategy",
+   "earliest": "20190405120557"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/content-gap",
+   "earliest": "20190331002510"
+  },
+  {
+   "url": "https://backlinko.com/hulu-users",
+   "earliest": "20210319070400"
+  },
+  {
+   "url": "https://backlinko.com/amazon-prime-users",
+   "earliest": "20210304102751"
+  },
+  {
+   "url": "https://backlinko.com/content-marketing-stats",
+   "earliest": "20200812001108"
+  },
+  {
+   "url": "https://backlinko.com/content-link-building",
+   "earliest": "20190331175226"
+  },
+  {
+   "url": "https://backlinko.com/email-outreach-study",
+   "earliest": "20190416172914"
+  },
+  {
+   "url": "https://backlinko.com/clubhouse-users",
+   "earliest": "20210203130524"
+  },
+  {
+   "url": "https://backlinko.com/video-seo-guide/comment-page-2",
+   "earliest": "20191207014413"
+  },
+  {
+   "url": "https://backlinko.com/skyscraper-technique",
+   "earliest": "20190112214711"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/meta-descriptions",
+   "earliest": "20210103013446"
+  },
+  {
+   "url": "https://backlinko.com/scale-content",
+   "earliest": "20200512160236"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/link-building-techniques",
+   "earliest": "20190331052347"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/social-media-strategy",
+   "earliest": "20201117203719"
+  },
+  {
+   "url": "https://backlinko.com/lyft-users",
+   "earliest": "20210329122514"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-15",
+   "earliest": "20200611135806"
+  },
+  {
+   "url": "https://backlinko.com/viral-content",
+   "earliest": "20190602175536"
+  },
+  {
+   "url": "https://backlinko.com/local-seo-guide",
+   "earliest": "20191105232029"
+  },
+  {
+   "url": "https://backlinko.com/content-marketing-this-year",
+   "earliest": "20200102180829"
+  },
+  {
+   "url": "https://backlinko.com/high-quality-backlinks",
+   "earliest": "20190201104627"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/choosing-keywords",
+   "earliest": "20190331064339"
+  },
+  {
+   "url": "https://backlinko.com/buzzsumo-guide",
+   "earliest": "20190330072639"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/content-strategy",
+   "earliest": "20201117203804"
+  },
+  {
+   "url": "https://backlinko.com/get-traffic-from-youtube",
+   "earliest": "20221005063741"
+  },
+  {
+   "url": "https://backlinko.com/product-launch-checklist",
+   "earliest": "20191207015006"
+  },
+  {
+   "url": "https://backlinko.com/best-backlink-checker",
+   "earliest": "20190331192342"
+  },
+  {
+   "url": "https://backlinko.com/list-hygiene",
+   "earliest": "20210103013804"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-18",
+   "earliest": "20200611140114"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/sales-funnel",
+   "earliest": "20220119192926"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/semantic-seo",
+   "earliest": "20190331090037"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/core-web-vitals",
+   "earliest": "20200812010506"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/free-backlinks-checklist",
+   "earliest": "20190329022158"
+  },
+  {
+   "url": "https://backlinko.com/link-building-tools",
+   "earliest": "20190401041329"
+  },
+  {
+   "url": "https://backlinko.com/about-backlinko",
+   "earliest": "20190104140702"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/video-script",
+   "earliest": "20220119193112"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-23",
+   "earliest": "20200725074957"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/mobile-seo-guide",
+   "earliest": "20220119191937"
+  },
+  {
+   "url": "https://backlinko.com/seo-campaign/comment-page-2",
+   "earliest": "20190723045530"
+  },
+  {
+   "url": "https://backlinko.com/hubspot-users",
+   "earliest": "20220224094121"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/landing-page",
+   "earliest": "20201117203736"
+  },
+  {
+   "url": "https://backlinko.com/clearscope-review",
+   "earliest": "20200812012824"
+  },
+  {
+   "url": "https://backlinko.com/content-study",
+   "earliest": "20190221092952"
+  },
+  {
+   "url": "https://backlinko.com/keyword-research-tool-analysis",
+   "earliest": "20200226043532"
+  },
+  {
+   "url": "https://backlinko.com/video-marketing-stats",
+   "earliest": "20200906035024"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/google-trends",
+   "earliest": "20200102180857"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/featured-snippets",
+   "earliest": "20190920040323"
+  },
+  {
+   "url": "https://backlinko.com/11-advanced-seo-hacks",
+   "earliest": "20201111235843"
+  },
+  {
+   "url": "https://backlinko.com/youtube-users",
+   "earliest": "20210316043528"
+  },
+  {
+   "url": "https://backlinko.com/get-more-email-subscribers",
+   "earliest": "20210103013810"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/blog-post-templates",
+   "earliest": "20200229020104"
+  },
+  {
+   "url": "https://backlinko.com/facebook-ads-stats",
+   "earliest": "20200922014318"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-20",
+   "earliest": "20200611140310"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/optimizing-content",
+   "earliest": "20190331090404"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/content-calendar",
+   "earliest": "20201117203727"
+  },
+  {
+   "url": "https://backlinko.com/ahrefs-vs-semrush",
+   "earliest": "20190920030629"
+  },
+  {
+   "url": "https://backlinko.com/content-marketing-tips",
+   "earliest": "20200302043733"
+  },
+  {
+   "url": "https://backlinko.com/spotify-users",
+   "earliest": "20210416022500"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/topic-ideas",
+   "earliest": "20200304213110"
+  },
+  {
+   "url": "https://backlinko.com/9-seo-hacks",
+   "earliest": "20190723044518"
+  },
+  {
+   "url": "https://backlinko.com/fiverr-users",
+   "earliest": "20210420113155"
+  },
+  {
+   "url": "https://backlinko.com/conversion-rate-optimization",
+   "earliest": "20190309232706"
+  },
+  {
+   "url": "https://backlinko.com/promote-youtube-videos",
+   "earliest": "20191018032725"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-14",
+   "earliest": "20200611135718"
+  },
+  {
+   "url": "https://backlinko.com/social-media-users",
+   "earliest": "20201012211743"
+  },
+  {
+   "url": "https://backlinko.com/increase-conversions",
+   "earliest": "20190331020715"
+  },
+  {
+   "url": "https://backlinko.com/b2b-social-media",
+   "earliest": "20210226003703"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/raven-tools",
+   "earliest": "20190331041006"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/duplicate-content",
+   "earliest": "20190331082456"
+  },
+  {
+   "url": "https://backlinko.com/privacy-notice",
+   "earliest": "20190331070443"
+  },
+  {
+   "url": "https://backlinko.com/uber-users",
+   "earliest": "20210323171148"
+  },
+  {
+   "url": "https://backlinko.com/majestic-seo-review",
+   "earliest": "20200812010727"
+  },
+  {
+   "url": "https://backlinko.com/content-relaunch",
+   "earliest": "20190108081503"
+  },
+  {
+   "url": "https://backlinko.com/show-notes-seo",
+   "earliest": "20201106132533"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-10",
+   "earliest": "20200611135324"
+  },
+  {
+   "url": "https://backlinko.com/seo-content-marketing",
+   "earliest": "20191207020815"
+  },
+  {
+   "url": "https://backlinko.com/evergreen-content-study",
+   "earliest": "20210629173331"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/facebook-page",
+   "earliest": "20220119193203"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/organic-ctr",
+   "earliest": "20190215134732"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/what-is-content-marketing",
+   "earliest": "20200218200433"
+  },
+  {
+   "url": "https://backlinko.com/how-to-rank-on-page-1-of-google-fast",
+   "earliest": "20190818172518"
+  },
+  {
+   "url": "https://backlinko.com/voice-search-seo-study",
+   "earliest": "20190117201732"
+  },
+  {
+   "url": "https://backlinko.com/squeeze-page",
+   "earliest": "20190825025739"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/web-copywriting",
+   "earliest": "20200226154453"
+  },
+  {
+   "url": "https://backlinko.com/marketing-tactics",
+   "earliest": "20200922011807"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-13",
+   "earliest": "20200611135618"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/blog-design",
+   "earliest": "20200226222150"
+  },
+  {
+   "url": "https://backlinko.com/zoom-users",
+   "earliest": "20210310121753"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/channel-description",
+   "earliest": "20190626021759"
+  },
+  {
+   "url": "https://backlinko.com/skyscraper-technique/comment-page-3",
+   "earliest": "20191207022101"
+  },
+  {
+   "url": "https://backlinko.com/youtube-ranking-factors",
+   "earliest": "20190101071304"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/social-media-audit",
+   "earliest": "20201117203721"
+  },
+  {
+   "url": "https://backlinko.com/core-web-vitals-study",
+   "earliest": "20210511134932"
+  },
+  {
+   "url": "https://backlinko.com/7-advanced-content-promotion-strategies",
+   "earliest": "20190723053154"
+  },
+  {
+   "url": "https://backlinko.com/wish-users",
+   "earliest": "20210716182837"
+  },
+  {
+   "url": "https://backlinko.com/browser-market-share",
+   "earliest": "20210805115342"
+  },
+  {
+   "url": "https://backlinko.com/almost-done/padlock-9-seo-hacks",
+   "earliest": "20220119192252"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/lead-magnets",
+   "earliest": "20200218173436"
+  },
+  {
+   "url": "https://backlinko.com/seo-copywriting/comment-page-2",
+   "earliest": "20191207014809"
+  },
+  {
+   "url": "https://backlinko.com/commercial-intent",
+   "earliest": "20190509012923"
+  },
+  {
+   "url": "https://backlinko.com/keyword-research-tools",
+   "earliest": "20190104131440"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/long-tail-keywords",
+   "earliest": "20191114082606"
+  },
+  {
+   "url": "https://backlinko.com/bing-users",
+   "earliest": "20210305143750"
+  },
+  {
+   "url": "https://backlinko.com/seo-pricing",
+   "earliest": "20210103013749"
+  },
+  {
+   "url": "https://backlinko.com/squarespace-users",
+   "earliest": "20210506210319"
+  },
+  {
+   "url": "https://backlinko.com/secret-to-first-page-rankings",
+   "earliest": "20201025134230"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/written-content",
+   "earliest": "20200216185214"
+  },
+  {
+   "url": "https://backlinko.com/long-tail-keywords",
+   "earliest": "20190321063807"
+  },
+  {
+   "url": "https://backlinko.com/cpa-marketing",
+   "earliest": "20190723052641"
+  },
+  {
+   "url": "https://backlinko.com/iphone-users",
+   "earliest": "20210811130949"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/youtube-description",
+   "earliest": "20201117203744"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/seo-marketing-plan",
+   "earliest": "20201117203734"
+  },
+  {
+   "url": "https://backlinko.com/substack-users",
+   "earliest": "20210319174013"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/seo-proposal",
+   "earliest": "20201117203726"
+  },
+  {
+   "url": "https://backlinko.com/off-page-seo-guide",
+   "earliest": "20200607141658"
+  },
+  {
+   "url": "https://backlinko.com/clickflow-review",
+   "earliest": "20211018043444"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/watch-time",
+   "earliest": "20190413163909"
+  },
+  {
+   "url": "https://backlinko.com/hub/content/social-promotion",
+   "earliest": "20200229020107"
+  },
+  {
+   "url": "https://backlinko.com/introducing-the-youtube-marketing-hub",
+   "earliest": "20190626130604"
+  },
+  {
+   "url": "https://backlinko.com/rank-high-on-google",
+   "earliest": "20190713181714"
+  },
+  {
+   "url": "https://backlinko.com/ahrefs-guide",
+   "earliest": "20200630153910"
+  },
+  {
+   "url": "https://backlinko.com/facebook-users",
+   "earliest": "20201124234238"
+  },
+  {
+   "url": "https://backlinko.com/seo-copywriting/comment-page-34",
+   "earliest": "20190723055220"
+  },
+  {
+   "url": "https://backlinko.com/video-seo-guide",
+   "earliest": "20190404112444"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/original-research",
+   "earliest": "20190331102228"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-22",
+   "earliest": "20200725074909"
+  },
+  {
+   "url": "https://backlinko.com/on-page-seo",
+   "earliest": "20190130051814"
+  },
+  {
+   "url": "https://backlinko.com/blogger-outreach",
+   "earliest": "20190401082100"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/press-release",
+   "earliest": "20201117203726"
+  },
+  {
+   "url": "https://backlinko.com/sales-copy",
+   "earliest": "20210103013759"
+  },
+  {
+   "url": "https://backlinko.com/instagram-marketing-stats",
+   "earliest": "20200504024715"
+  },
+  {
+   "url": "https://backlinko.com/google-trustrank",
+   "earliest": "20190606144107"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-17",
+   "earliest": "20200611140020"
+  },
+  {
+   "url": "https://backlinko.com/coinbase-users",
+   "earliest": "20210415144541"
+  },
+  {
+   "url": "https://backlinko.com/hub/youtube/youtube-keyword-research",
+   "earliest": "20190413163911"
+  },
+  {
+   "url": "https://backlinko.com/spi-bonus-area",
+   "earliest": "20191018045557"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/seo-vs-sem",
+   "earliest": "20200812005849"
+  },
+  {
+   "url": "https://backlinko.com/more-blog-traffic",
+   "earliest": "20210103013803"
+  },
+  {
+   "url": "https://backlinko.com/hub/seo/broken-link-building",
+   "earliest": "20190331050726"
+  },
+  {
+   "url": "https://backlinko.com/google-ranking-factors/comment-page-21",
+   "earliest": "20200611140424"
+  },
+  {
+   "url": "https://backlinko.com/link-building-services",
+   "earliest": "20190825025834"
+  },
+  {
+   "url": "https://backlinko.com/seo-training",
+   "earliest": "20190520204412"
+  },
+  {
+   "url": "https://backlinko.com/templates/marketing/seo-strategy",
+   "earliest": "20201117203747"
+  },
+  {
+   "url": "https://backlinko.com/new-case-study",
+   "earliest": "20210116000659"
+  },
+  {
+   "url": "https://backlinko.com/fastly-users",
+   "earliest": "20210325114552"
+  }
+ ]
+}
