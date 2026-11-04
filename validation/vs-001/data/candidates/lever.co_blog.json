@@ -1,0 +1,3471 @@
+{
+ "blog": "lever.co/blog",
+ "group": "Recruitment and HR",
+ "reserve": false,
+ "cdxRows": 1890,
+ "articleLike": 865,
+ "queriedAt": "2026-11-04T03:27:19.996Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.lever.co/blog/3-considerations-when-evaluating-talent-acquisition-partners/",
+   "earliest": "20210518184930"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-optimize-your-career-pages-for-recruiting-success",
+   "earliest": "20190315145401"
+  },
+  {
+   "url": "https://www.lever.co/blog/unlock-the-analytics-behind-your-custom-job-sites/",
+   "earliest": "20190720205434"
+  },
+  {
+   "url": "https://www.lever.co/blog/transforming-the-talent-landscape-at-new-york-magazine/",
+   "earliest": "20191017175452"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-ways-to-sell-at-every-stage-of-the-tech-recruiting-process",
+   "earliest": "20190315151137"
+  },
+  {
+   "url": "https://www.lever.co/blog/unique-and-weird-interview-questions-to-ask-candidates",
+   "earliest": "20190315150525"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-levers-human-touch-processes-ensure-candidates-dont-feel-like-a-cog-in-the-wheel/",
+   "earliest": "20190716121418"
+  },
+  {
+   "url": "https://www.lever.co/blog/internal-mobility-good-for-employers-good-for-employees",
+   "earliest": "20190315145854"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-i-wish-i-had-known-on-my-first-day-as-a-recruiter",
+   "earliest": "20190315145231"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-and-docusign-integration/",
+   "earliest": "20190718203107"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-five-enterprise-companies-adapt-to-the-new-normal-with-talent-optimization/",
+   "earliest": "20200927201717"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-key-to-reducing-employee-turnover-is-to-begin-during-recruitment",
+   "earliest": "20190315145111"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-tips-for-nurturing-your-talent-pipeline",
+   "earliest": "20190315145307"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-automation-can-help-recruiting-teams-streamline-with-fewer-resources/",
+   "earliest": "20200804051709"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-essential-high-volume-hiring-strategies/",
+   "earliest": "20220125115100"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-engineering-leaders-who-are-the-ultimate-recruiting-partners",
+   "earliest": "20190315145720"
+  },
+  {
+   "url": "https://www.lever.co/blog/behavioral-based-interview-questions",
+   "earliest": "20190315145332"
+  },
+  {
+   "url": "https://www.lever.co/blog/employer-branding-qa-with-kathryn-minshew-and-lars-schmidt",
+   "earliest": "20190315151218"
+  },
+  {
+   "url": "https://www.lever.co/blog/effective-interview-training-should-include-these-4-things",
+   "earliest": "20190315145151"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-5-diversifying-your-pipeline",
+   "earliest": "20190315145226"
+  },
+  {
+   "url": "https://www.lever.co/blog/hr-metrics-that-matter/",
+   "earliest": "20220901130745"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-widen-your-talent-pool-by-fishing-in-the-gig-economy",
+   "earliest": "20190315150107"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-your-most-creative-email-subject-line",
+   "earliest": "20190315145153"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-challenges-of-small-business-recruiting-how-to-overcome-them/",
+   "earliest": "20190719141437"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-questions-you-should-ask-yourself-to-land-top-performers",
+   "earliest": "20190315150613"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-clear-out-recruiting-bottlenecks-in-tech/",
+   "earliest": "20210419133509"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-conduct-structured-interviews/",
+   "earliest": "20211112162349"
+  },
+  {
+   "url": "https://www.lever.co/blog/mock-interview-questions/",
+   "earliest": "20200810061038"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-in-the-workplace/",
+   "earliest": "20221020132750"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-get-the-most-out-of-employee-reviews",
+   "earliest": "20190315145946"
+  },
+  {
+   "url": "https://www.lever.co/blog/lou-adler-takes-on-your-toughest-recruiting-challenges",
+   "earliest": "20190315150637"
+  },
+  {
+   "url": "https://www.lever.co/blog/2019-talent-benchmarks-the-statistics-of-rediscovery/",
+   "earliest": "20191017173557"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-ways-to-master-the-presentation-interview",
+   "earliest": "20190315145505"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-hire-for-neurodiversity-4-simple-tips/",
+   "earliest": "20220303120901"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-top-articles-and-reports-for-talent-predictions-in-2017",
+   "earliest": "20190315150738"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-advocate-for-sourcing-resources",
+   "earliest": "20190315150615"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-2017-year-in-review",
+   "earliest": "20190315150049"
+  },
+  {
+   "url": "https://www.lever.co/blog/potential-illegal-interview-questions-you-should-never-ask",
+   "earliest": "20190315145519"
+  },
+  {
+   "url": "https://www.lever.co/blog/sql-developer-interview-questions/",
+   "earliest": "20200810050120"
+  },
+  {
+   "url": "https://www.lever.co/blog/dei-in-professional-services/",
+   "earliest": "20210902174321"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-steps-to-a-successful-ats-software-implementation",
+   "earliest": "20190315145522"
+  },
+  {
+   "url": "https://www.lever.co/blog/popular-interview-questions/",
+   "earliest": "20191206224210"
+  },
+  {
+   "url": "https://www.lever.co/blog/sorry-but-youre-buying-recruiting-software-all-wrong",
+   "earliest": "20190315150936"
+  },
+  {
+   "url": "https://www.lever.co/blog/culture-fit-isnt-a-bad-word-3-tips-to-hire-for-it",
+   "earliest": "20190315145422"
+  },
+  {
+   "url": "https://www.lever.co/blog/pros-of-automated-talent-acquisition-process/",
+   "earliest": "20211109151332"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-2019-a-year-in-review/",
+   "earliest": "20210726184950"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-wins-g2s-best-software-award-in-2020/",
+   "earliest": "20200810060659"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-top-diversity-inclusion-questions-answered",
+   "earliest": "20190315145017"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-ways-to-celebrate-global-talent-acquisition-day-at-your-office/",
+   "earliest": "20190917130832"
+  },
+  {
+   "url": "https://www.lever.co/blog/technical-recruiting-best-practices",
+   "earliest": "20190315145819"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-steps-towards-focusing-on-impact-in-your-job-descriptions",
+   "earliest": "20190315145101"
+  },
+  {
+   "url": "https://www.lever.co/blog/two-factors-shaping-the-future-of-recruiting/",
+   "earliest": "20200927185048"
+  },
+  {
+   "url": "https://www.lever.co/blog/supply-chain-interview-questions/",
+   "earliest": "20200810053226"
+  },
+  {
+   "url": "https://www.lever.co/blog/hiring-managers-its-time-to-build-your-dream-team",
+   "earliest": "20190315145710"
+  },
+  {
+   "url": "https://www.lever.co/blog/11-social-media-groups-to-join-for-recruiting-and-hr-in-2017",
+   "earliest": "20190315145144"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-create-the-perfect-semi-structured-interview",
+   "earliest": "20190315145229"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-30-million-series-c-financing-round-and-our-thanks",
+   "earliest": "20190315145404"
+  },
+  {
+   "url": "https://www.lever.co/blog/leveraging-data-to-engage-and-recognize-your-hiring-team",
+   "earliest": "20190315151653"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-management-strategy/",
+   "earliest": "20190509053259"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-for-growth-unplugged-chris-shaw-meteor",
+   "earliest": "20190315150629"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-step-motivations-based-approach-to-cold-outreach-content",
+   "earliest": "20190315150539"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-off-the-cuff-recruitment-strategies-to-add-to-your-arsenal",
+   "earliest": "20190315150732"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-for-diversity-and-inclusion",
+   "earliest": "20190315145711"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-summit-master-your-next-hr-tech-implementation",
+   "earliest": "20190315151118"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-software-engineers-on-sourcing.io",
+   "earliest": "20190315145313"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-does-a-high-turnover-rate-say-about-your-recruitment-program",
+   "earliest": "20190315145329"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-recruiting-challenges-2019",
+   "earliest": "20190315145040"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-one-recruiter-is-building-a-diverse-team-from-the-ground-up",
+   "earliest": "20190315145937"
+  },
+  {
+   "url": "https://www.lever.co/blog/reflections-on-levers-series-b-investment-round",
+   "earliest": "20190315150639"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-acquisition-leaders-why-you-need-to-talk-with-it-right-now",
+   "earliest": "20190315150737"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-fall-in-love-with-your-recruiting-software",
+   "earliest": "20190315145532"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-ways-to-overhaul-your-candidate-experience",
+   "earliest": "20190315145242"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-playbook-for-data-driven-recruiting",
+   "earliest": "20190315145155"
+  },
+  {
+   "url": "https://www.lever.co/blog/infographic-san-francisco-vs-nyc-hiring-showdown/",
+   "earliest": "20190721070546"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-goguardians-talent-squad-makes-recruiting-a-company-wide-priority",
+   "earliest": "20190315150722"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-power-in-letting-your-employees-recruit-for-you",
+   "earliest": "20190315150937"
+  },
+  {
+   "url": "https://www.lever.co/blog/g2-best-software-products-2022/",
+   "earliest": "20220407154756"
+  },
+  {
+   "url": "https://www.lever.co/blog/announcing...levers-talent-innovation-summit-contest",
+   "earliest": "20190315154744"
+  },
+  {
+   "url": "https://www.lever.co/blog/dos-and-donts-for-an-effective-coding-challenge",
+   "earliest": "20190315145725"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-hottopic-optimizes-high-volume-hiring-with-a-4-person-recruiting-team",
+   "earliest": "20190315145652"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-top-4-new-places-to-source-candidates-in-2017",
+   "earliest": "20190315145329"
+  },
+  {
+   "url": "https://www.lever.co/blog/software-engineer-interview-questions-to-ask/",
+   "earliest": "20191206233642"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-lean-into-hiring-with-lever",
+   "earliest": "20190315145800"
+  },
+  {
+   "url": "https://www.lever.co/blog/6-things-you-must-do-in-a-kickoff-meeting-with-your-hiring-manager",
+   "earliest": "20190315145037"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-fresh-and-innovative-approach-to-hiring-at-socialcops",
+   "earliest": "20190315145936"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-unlock-your-employees-as-recruiters",
+   "earliest": "20190315145837"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-interviewing-hacks-to-increase-your-hiring-efficiency-2018",
+   "earliest": "20190315145707"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruitment-messaging-tips/",
+   "earliest": "20210401200255"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-make-your-linkedin-investments-work",
+   "earliest": "20190315151651"
+  },
+  {
+   "url": "https://www.lever.co/blog/are-your-candidate-sourcing-efforts-ofccp-compliant",
+   "earliest": "20190315145356"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-in-ed-tech-6-key-learnings-from-seasoned-talent-leaders",
+   "earliest": "20190315145835"
+  },
+  {
+   "url": "https://www.lever.co/blog/cultivating-diversity-and-inclusion-in-the-workplace-blog-series-introduction",
+   "earliest": "20190315145115"
+  },
+  {
+   "url": "https://www.lever.co/blog/supercharge-your-candidate-sourcing-strategy-10-tips-from-a-pro",
+   "earliest": "20190315145407"
+  },
+  {
+   "url": "https://www.lever.co/blog/2019-talent-benchmarks/",
+   "earliest": "20190716124338"
+  },
+  {
+   "url": "https://www.lever.co/blog/infographic-data-shows-that-recruiting-slows-as-companies-grow",
+   "earliest": "20190315150903"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-7-step-startup-guide-to-recruiting-and-retaining-talent",
+   "earliest": "20190315145751"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-tips-evaluating-candidates",
+   "earliest": "20190315150744"
+  },
+  {
+   "url": "https://www.lever.co/blog/improve-recruitment-process/",
+   "earliest": "20220218213418"
+  },
+  {
+   "url": "https://www.lever.co/blog/engaging-your-talent-pool-with-intelligent-nurtures/",
+   "earliest": "20211103144752"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-expert-tips-to-measuring-recruiting-productivity/",
+   "earliest": "20190716120621"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-tips-for-a-winning-recruitment-process",
+   "earliest": "20190315145827"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-gmail-sync",
+   "earliest": "20190315145959"
+  },
+  {
+   "url": "https://www.lever.co/blog/measure-your-complete-diversity-and-inclusion-hiring-results",
+   "earliest": "20190315145207"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-recruitment-analytics-can-enhance-hiring/",
+   "earliest": "20220114141223"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-zenefits-launch",
+   "earliest": "20190315150908"
+  },
+  {
+   "url": "https://www.lever.co/blog/pre-screening-interview-questions",
+   "earliest": "20190315145924"
+  },
+  {
+   "url": "https://www.lever.co/blog/succession-planning-think-ahead-to-maximize-internal-recruiting",
+   "earliest": "20190315145620"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-spring-release-2022/",
+   "earliest": "20220524133739"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-tips-to-improving-global-communication-across-distributed-remote-teams/",
+   "earliest": "20200417085632"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-questions-for-managers/",
+   "earliest": "20190718200152"
+  },
+  {
+   "url": "https://www.lever.co/blog/candidate-persona-templates-that-work/",
+   "earliest": "20220704150633"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-your-biggest-sourcing-success-stories",
+   "earliest": "20190315145918"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-4-reducing-hiring-bias",
+   "earliest": "20190315145058"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-cheesy-holiday-puns-for-your-next-cold-recruiting-email",
+   "earliest": "20190315145514"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-software-engineers-on-sourcing-io/",
+   "earliest": "20190724010951"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-anniversary-of-our-first-webinar",
+   "earliest": "20190315145914"
+  },
+  {
+   "url": "https://www.lever.co/blog/tips-to-get-more-employee-referrals",
+   "earliest": "20190315145112"
+  },
+  {
+   "url": "https://www.lever.co/blog/twitter-recruiting-sourcing-candidates-in-140-characters",
+   "earliest": "20190315145433"
+  },
+  {
+   "url": "https://www.lever.co/blog/nyc-talent-metrics/",
+   "earliest": "20190720195923"
+  },
+  {
+   "url": "https://www.lever.co/blog/were-ready-for-the-talent-innovation-summit-and-so-are-you",
+   "earliest": "20190315154914"
+  },
+  {
+   "url": "https://www.lever.co/blog/typical-interview-questions/",
+   "earliest": "20191206235808"
+  },
+  {
+   "url": "https://www.lever.co/blog/designing-equitable-and-inclusive-hiring-practices/",
+   "earliest": "20211005191248"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-recruitment-marketing-strategies-you-should-be-using",
+   "earliest": "20190315145214"
+  },
+  {
+   "url": "https://www.lever.co/blog/reference-check-form-free-template",
+   "earliest": "20190315145638"
+  },
+  {
+   "url": "https://www.lever.co/blog/actionable-talent-analytics-key-to-better-hiring/",
+   "earliest": "20211207140613"
+  },
+  {
+   "url": "https://www.lever.co/blog/paid-time-off-diversity-and-inclusion",
+   "earliest": "20190315145428"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-things-your-candidates-are-seeking-other-than-salary/",
+   "earliest": "20190718194656"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-case-for-diversity-recruiting",
+   "earliest": "20190315145919"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiters-pump-up-your-productivity-in-2018-with-these-3-integrations",
+   "earliest": "20190315145913"
+  },
+  {
+   "url": "https://www.lever.co/blog/on-national-bosss-day-a-tribute-from-4-recruiters",
+   "earliest": "20190315150623"
+  },
+  {
+   "url": "https://www.lever.co/blog/here-are-the-top-3-predictors-of-satisfaction-for-women-at-work",
+   "earliest": "20190315145936"
+  },
+  {
+   "url": "https://www.lever.co/blog/university-recruiting-looking-towards-the-next-generation-of-workers",
+   "earliest": "20190315145902"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-tips-to-drive-your-diversity-recruitment-strategy/",
+   "earliest": "20211118121216"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-benefits-that-will-help-you-win-top-performers",
+   "earliest": "20190315145901"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-simplifying-the-tech-stack-helps-centro-boost-hiring-efficiency/",
+   "earliest": "20200426200822"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-fatigue/",
+   "earliest": "20211208121027"
+  },
+  {
+   "url": "https://www.lever.co/blog/dont-trust-comfortable/",
+   "earliest": "20200627122947"
+  },
+  {
+   "url": "https://www.lever.co/blog/transforming-your-talent-strategy/",
+   "earliest": "20211104181012"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-nurture-qualified-candidates/",
+   "earliest": "20220430140340"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-candidate-email-stats-that-will-make-you-think/",
+   "earliest": "20191112181308"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-lyft-recruits-for-diversity-and-inclusion",
+   "earliest": "20190315145741"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-sourcing-hacks-to-supercharge-your-hiring",
+   "earliest": "20190315145341"
+  },
+  {
+   "url": "https://www.lever.co/blog/12-important-recruiting-metrics/",
+   "earliest": "20211014171502"
+  },
+  {
+   "url": "https://www.lever.co/blog/busting-the-myths-around-workers-with-disabilities/",
+   "earliest": "20191017173653"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-source-on-linkedin-in-30-seconds-instead-of-30-minutes/",
+   "earliest": "20190716120236"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-things-employers-can-learn-from-oprahs-wellness-tour/",
+   "earliest": "20200810050322"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-talent-acquisition-metrics-to-create-a-data-driven-recruiting-process/",
+   "earliest": "20221005141151"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-leverage-design-thinking-to-enhance-your-candidate-experience",
+   "earliest": "20190315145632"
+  },
+  {
+   "url": "https://www.lever.co/blog/make-talent-acquisition-less-painful-in-down-market/",
+   "earliest": "20220922195934"
+  },
+  {
+   "url": "https://www.lever.co/blog/2-key-ways-mortgage-companies-are-adapting-their-recruiting-strategy-amid-explosive-growth/",
+   "earliest": "20200927195956"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-fall-release-2022/",
+   "earliest": "20221024132637"
+  },
+  {
+   "url": "https://www.lever.co/blog/proactive-recruitment",
+   "earliest": "20190315145218"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-unexpected-risk-of-your-employee-perks",
+   "earliest": "20190108034302"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-to-get-your-recruiting-team-the-recognition-it-deserves",
+   "earliest": "20190315150225"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-technology/",
+   "earliest": "20220823130914"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-summit-countdown-machine-learning-to-recruiting",
+   "earliest": "20190315150608"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-talent-acquisition-teams-leverage-visual-insights/",
+   "earliest": "20221005154753"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-developers-on-github-a-step-by-step-guide",
+   "earliest": "20190315145023"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-in-japan-vs-america-a-global-recruiters-perspective/",
+   "earliest": "20190724001825"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-maturity-levels-strategic/",
+   "earliest": "20220705155306"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-inclusive-cultures-power-championship-teams",
+   "earliest": "20190315145526"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-kpmg-new-zealand-is-reinventing-candidate-experience-at-scale",
+   "earliest": "20190315145654"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-delivers-summer-2019-product-release/",
+   "earliest": "20190819120439"
+  },
+  {
+   "url": "https://www.lever.co/blog/hiring-for-neurodiversity-what-you-need-to-know/",
+   "earliest": "20220314135155"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-expert-tips-for-creating-a-talent-strategy/",
+   "earliest": "20190819122151"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-referrals-reign-supreme-until-this-key-stage-of-your-recruiting-process",
+   "earliest": "20190315145905"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-wisdom-for-the-modern-recruiter",
+   "earliest": "20190315145855"
+  },
+  {
+   "url": "https://www.lever.co/blog/strategic-workforce-planning/",
+   "earliest": "20221005144950"
+  },
+  {
+   "url": "https://www.lever.co/blog/developing-high-touch-candidate-experience-at-scale/",
+   "earliest": "20211202171610"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-summit-countdown-new-strategies-to-score-recruiting-resources",
+   "earliest": "20190315151117"
+  },
+  {
+   "url": "https://www.lever.co/blog/start-2018-off-right-with-strategic-workforce-planning",
+   "earliest": "20190315145846"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-in-app-document-viewer",
+   "earliest": "20190315151115"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-where-to-find-great-sourcing-advice",
+   "earliest": "20190315150734"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-personal-growth-can-lead-to-professional-success/",
+   "earliest": "20210929170354"
+  },
+  {
+   "url": "https://www.lever.co/blog/50-ideas-for-cultivating-diversity-and-inclusion-in-the-workplace",
+   "earliest": "20190315145012"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-retention-strategies/",
+   "earliest": "20210419133342"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-spring-release-introducing-automation-workflows-candidate-surveys-and-talent-ecosystem-enhancements/",
+   "earliest": "20200516181134"
+  },
+  {
+   "url": "https://www.lever.co/blog/modernizing-your-talent-pipeline-management-strategy/",
+   "earliest": "20211122191106"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-recruiting-technologies-that-every-early-adopter-should-have-on-their-holiday-wish-list",
+   "earliest": "20190315150123"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-best-practices-for-winning-your-unfair-share-of-top-technical-talent",
+   "earliest": "20190315150842"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-shortcuts-recruiters-can-leverage-to-speed-up-results/",
+   "earliest": "20191206223247"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-job-boards-to-fill-your-recruiting-pipeline-with-quality-talent",
+   "earliest": "20190315145708"
+  },
+  {
+   "url": "https://www.lever.co/blog/phone-interview-questions",
+   "earliest": "20190315145209"
+  },
+  {
+   "url": "https://www.lever.co/blog/hr-analytics-make-better-hiring-decisions/",
+   "earliest": "20220419140759"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-in-london",
+   "earliest": "20190315150827"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-top-headcount-planning-reads-for-recruiters/",
+   "earliest": "20191112180019"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-rsvp-status-right-where-you-need-it",
+   "earliest": "20190315145713"
+  },
+  {
+   "url": "https://www.lever.co/blog/mastering-the-art-of-differentiation-6-keys-to-recruiting-in-the-professional-services-industry",
+   "earliest": "20190315145743"
+  },
+  {
+   "url": "https://www.lever.co/blog/sleeker-simpler-and-faster-than-ever",
+   "earliest": "20190315151525"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-simple-interview-tips-that-deliver-strong-results-for-employers",
+   "earliest": "20190315150844"
+  },
+  {
+   "url": "https://www.lever.co/blog/zoom-integration/",
+   "earliest": "20191206223017"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-talend-prioritizes-silver-medalist-candidates/",
+   "earliest": "20211013141029"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-in-poland-how-the-tooploox-team-is-navigating-a-shifting-market",
+   "earliest": "20190315145840"
+  },
+  {
+   "url": "https://www.lever.co/blog/startup-recruiting-scaling-a-people-function-for-explosive-growth",
+   "earliest": "20190315145150"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-medallia-crushed-their-hr-tech-implementation",
+   "earliest": "20190315145745"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-scale-your-social-media-recruiting-program",
+   "earliest": "20190315150228"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-customers-and-candidates-are-transforming-the-industries-you-hire-in/",
+   "earliest": "20190720194519"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-not-all-recruitment-database-software-is-the-same/",
+   "earliest": "20221025155338"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-mistakes-that-hurt-the-candidate-experience/",
+   "earliest": "20190719151405"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-a-billion-dollar-retail-company-hires-for-heart-and-resume-and-you-should-too/",
+   "earliest": "20190721072847"
+  },
+  {
+   "url": "https://www.lever.co/blog/digital-body-language-creating-a-culture-of-clarity/",
+   "earliest": "20211007141440"
+  },
+  {
+   "url": "https://www.lever.co/blog/hiring-remote-workforce/",
+   "earliest": "20220216165542"
+  },
+  {
+   "url": "https://www.lever.co/blog/great-resignation-fuels-rise-of-boomerang-employees/",
+   "earliest": "20220222121044"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-critical-compliance-requirements-every-recruiter-should-know/",
+   "earliest": "20220703211449"
+  },
+  {
+   "url": "https://www.lever.co/blog/in-between-interviews-dei-video-series/",
+   "earliest": "20221006162420"
+  },
+  {
+   "url": "https://www.lever.co/blog/tips-for-holistic-effective-employee-onboarding",
+   "earliest": "20190315150114"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-tips-on-recruiting-from-michelle-obama",
+   "earliest": "20190315145236"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-textnow-streamlined-hiring-process/",
+   "earliest": "20211203141111"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-report-how-500-companies-plan-to-recruit-under-gdpr",
+   "earliest": "20190315145352"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-quick-tricks-for-a-stellar-candidate-experience",
+   "earliest": "20190315150031"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-preparation-checklists-for-hiring-stakeholders",
+   "earliest": "20190315145359"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-unsung-heroes-and-heroines-of-the-recruiting-world",
+   "earliest": "20190315150526"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-things-candidates-want-from-employers-in-2020/",
+   "earliest": "20200810043556"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-win-over-candidates-with-effective-interview-follow-up",
+   "earliest": "20190315145520"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-benefits-of-internal-mobility/",
+   "earliest": "20211020134316"
+  },
+  {
+   "url": "https://www.lever.co/blog/headcount-heroes-affirm-doubles-engineering-offer-acceptance",
+   "earliest": "20190315145616"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-most-personalized-recruiting-process-wins-heres-why/",
+   "earliest": "20210305181304"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-product-updates-driven-by-customer-feedback",
+   "earliest": "20190315150814"
+  },
+  {
+   "url": "https://www.lever.co/blog/is-your-paid-time-off-policy-costing-you-candidates",
+   "earliest": "20190315145709"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-strategies-to-shore-up-your-new-grad-recruiting-strategy/",
+   "earliest": "20190819123956"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-and-built-in",
+   "earliest": "20190315150559"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-analytics-made-simple-5-useful-reports-you-should-pull-from-your-ats-right-now",
+   "earliest": "20190315145114"
+  },
+  {
+   "url": "https://www.lever.co/blog/simplify-your-interview-schedule-with-these-7-tips",
+   "earliest": "20190315145254"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-lessons-i-learned-as-a-first-time-recruiter",
+   "earliest": "20190315145534"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-unforgettable-quotes-from-day-1-of-our-talent-innovation-summit",
+   "earliest": "20190315150628"
+  },
+  {
+   "url": "https://www.lever.co/blog/announcing-lever-nurture-recommendations-to-kickstart-your-hiring",
+   "earliest": "20190315145439"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-create-an-organizational-chart/",
+   "earliest": "20190724000441"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-levers-smooth-apply-process-elevates-the-candidate-experience/",
+   "earliest": "20220704155801"
+  },
+  {
+   "url": "https://www.lever.co/blog/affordable-ideas-to-jump-start-small-business-recruiting/",
+   "earliest": "20220523002026"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-tips-for-a-faster-talent-pipeline-speed",
+   "earliest": "20190315145404"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-we-hire-the-wrong-people",
+   "earliest": "20190315145730"
+  },
+  {
+   "url": "https://www.lever.co/blog/small-business-recruitment/",
+   "earliest": "20211123221429"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-is-internal-mobility-why-do-you-need-it/",
+   "earliest": "20211018145919"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-it-takes-to-be-a-recruiting-army-of-one",
+   "earliest": "20190315151345"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-eye-opening-tech-recruiting-stats-from-matt-charney",
+   "earliest": "20190315145533"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-questions-that-will-level-up-your-phone-screen",
+   "earliest": "20190315145425"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-coach-your-team-to-a-recruiting-touchdown",
+   "earliest": "20190315150633"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-make-recruiting-your-companys-top-strategic-priority-in-2016-with-quiz",
+   "earliest": "20190315145941"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-get-the-most-out-of-your-interview-evaluation-form",
+   "earliest": "20190315145055"
+  },
+  {
+   "url": "https://www.lever.co/blog/applicant-tracking-system-myths-debunked/",
+   "earliest": "20211202142200"
+  },
+  {
+   "url": "https://www.lever.co/blog/summer-of-sourcing-elevating-you-career",
+   "earliest": "20190315145839"
+  },
+  {
+   "url": "https://www.lever.co/blog/prioritizing-inclusion-during-covid-19-with-dean-delpeache/",
+   "earliest": "20200417085714"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-startup-accelerator-cogo-labs-is-scaling-several-teams-at-once",
+   "earliest": "20190315145420"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-in-the-workplace-part-10-the-next-level",
+   "earliest": "20190315145446"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-releases-2020-state-of-recruiting-report/",
+   "earliest": "20210514183842"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-things-all-companies-need-to-hear-about-prioritizing-people-from-atlassian/",
+   "earliest": "20200417085830"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-named-overall-remote-team-hiring-platform-of-the-year-in-2021-remotetech-breakthrough-awards-program/",
+   "earliest": "20210712180059"
+  },
+  {
+   "url": "https://www.lever.co/blog/adobesign-launch",
+   "earliest": "20190315150037"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-top-questions-on-the-evolution-of-the-workforce-answered/",
+   "earliest": "20200210014546"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-great-rehire-and-candidate-expectations-in-2022/",
+   "earliest": "20220105121127"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-interview-questions-for-employers",
+   "earliest": "20190315145638"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-automated-assessments-allow-teams-to-do-more-with-less-resources/",
+   "earliest": "20200804051910"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-sourcing-integrations",
+   "earliest": "20190315150532"
+  },
+  {
+   "url": "https://www.lever.co/blog/data-engineer-interview-questions/",
+   "earliest": "20210618213244"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-essentials-of-successful-onboarding-team-building-activities",
+   "earliest": "20190315145445"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-you-shouldnt-ask-for-a-candidates-salary-history",
+   "earliest": "20190315150041"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-reasons-to-double-down-on-internal-recruitment",
+   "earliest": "20190315145904"
+  },
+  {
+   "url": "https://www.lever.co/blog/competency-based-interview-questions",
+   "earliest": "20190315145402"
+  },
+  {
+   "url": "https://www.lever.co/blog/leaders-that-candidates-want-to-work-for/",
+   "earliest": "20191017174354"
+  },
+  {
+   "url": "https://www.lever.co/blog/internal-interview-questions",
+   "earliest": "20190315145704"
+  },
+  {
+   "url": "https://www.lever.co/blog/executive-recruiting-how-to-source-nurture-and-close-executive-candidates",
+   "earliest": "20190315145306"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-ways-high-growth-recruitment-teams-can-scale-quickly-in-2021/",
+   "earliest": "20210202145608"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-phone-interview-questions-to-axe",
+   "earliest": "20190315150843"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-to-include-on-a-standout-career-website",
+   "earliest": "20190315151304"
+  },
+  {
+   "url": "https://www.lever.co/blog/building-a-world-class-candidate-experience-define-your-values",
+   "earliest": "20190315145845"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-march-madness-catch-us-in-chicago-san-francisco-or-online",
+   "earliest": "20190315154823"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-expert-tips-for-recruiting-for-a-hybrid-workplace/",
+   "earliest": "20220426130724"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-craft-a-stand-out-employer-brand-for-millennials",
+   "earliest": "20190315145724"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-webinars-3-ways-to-boost-your-talent-acquisition-in-2016",
+   "earliest": "20190315150636"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-lever-nurture",
+   "earliest": "20190315145557"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-ebook-the-definitive-no-frills-guide-to-sourcing-and-nurturing-candidates",
+   "earliest": "20190315150638"
+  },
+  {
+   "url": "https://www.lever.co/blog/best-talent-acquisition-strategies-2021/",
+   "earliest": "20211021140543"
+  },
+  {
+   "url": "https://www.lever.co/blog/service-level-agreements-to-implement-with-hiring-managers/",
+   "earliest": "20190819125056"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-reasons-to-build-an-entry-level-talent-pipeline",
+   "earliest": "20190315145801"
+  },
+  {
+   "url": "https://www.lever.co/blog/kick-off-sourcing-for-every-new-job-opening-with-this-intake-form",
+   "earliest": "20190315145355"
+  },
+  {
+   "url": "https://www.lever.co/blog/building-a-best-place-to-work-starts-with-inclusion",
+   "earliest": "20190315145731"
+  },
+  {
+   "url": "https://www.lever.co/blog/applicant-tracking-system",
+   "earliest": "20190315150530"
+  },
+  {
+   "url": "https://www.lever.co/blog/using-candidate-and-employee-feedback-to-drive-dei/",
+   "earliest": "20211220121325"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-ways-to-achieve-a-transformative-hiring-strategy/",
+   "earliest": "20200212101440"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-announces-soc-2-compliance-to-provide-enterprise-level-security",
+   "earliest": "20190315145522"
+  },
+  {
+   "url": "https://www.lever.co/blog/working-remotely-makes-employees-happier-and-more-productive",
+   "earliest": "20190315150234"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-importance-of-collecting-and-acting-upon-interview-feedback",
+   "earliest": "20190315145239"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-an-employee-performance-evaluation-can-help-you-measure-quality-of-hire",
+   "earliest": "20190315145717"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-pull-out-all-the-stops-for-top-technical-talent",
+   "earliest": "20190315151652"
+  },
+  {
+   "url": "https://www.lever.co/blog/dont-make-these-common-behavioral-interviewing-mistakes",
+   "earliest": "20190315145333"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-interview-questions-healthcare/",
+   "earliest": "20200608004932"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-conversations-you-should-initiate-with-every-hiring-manager",
+   "earliest": "20190315145511"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-develop-an-internal-mobility-strategy-for-2022/",
+   "earliest": "20211022141155"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-and-goodtime-enhance-their-integration-to-further-improve-candidate-experience/",
+   "earliest": "20190917124120"
+  },
+  {
+   "url": "https://www.lever.co/blog/creating-a-culture-of-accountability/",
+   "earliest": "20190718191410"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-top-talent-attraction-questions-answered-by-andrew-levy/",
+   "earliest": "20191112184137"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-recruit-with-super-bowl-swagger/",
+   "earliest": "20220210141406"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-recruiters-should-care-about-employee-satisfaction",
+   "earliest": "20190315154915"
+  },
+  {
+   "url": "https://www.lever.co/blog/democratizing-recruiting-analytics/",
+   "earliest": "20211213141235"
+  },
+  {
+   "url": "https://www.lever.co/blog/working-from-home-benefits-everyone",
+   "earliest": "20190315145438"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-2-setting-diversity-goals-that-resonate",
+   "earliest": "20190315145028"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-mary-meekers-internet-trends-report-tells-us-about-recruiting",
+   "earliest": "20190315145702"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruitment-dashboard-role-in-hiring-success/",
+   "earliest": "20220228140453"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-operations-for-recruiting-success/",
+   "earliest": "20220623131026"
+  },
+  {
+   "url": "https://www.lever.co/blog/refreshing-levers-logo",
+   "earliest": "20190315145709"
+  },
+  {
+   "url": "https://www.lever.co/blog/vettery-lever",
+   "earliest": "20190315150046"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-steps-to-reaching-your-diverse-hiring-goals/",
+   "earliest": "20200927203148"
+  },
+  {
+   "url": "https://www.lever.co/blog/15-ways-to-build-a-more-diverse-talent-pipeline/",
+   "earliest": "20201125135608"
+  },
+  {
+   "url": "https://www.lever.co/blog/bigfoot-biomedicals-secret-to-stellar-employer-branding",
+   "earliest": "20190315145455"
+  },
+  {
+   "url": "https://www.lever.co/blog/age-diversity-and-the-workplace-busting-myths-around-older-workers/",
+   "earliest": "20190819122357"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-tips-for-female-leaders-this-international-womens-day/",
+   "earliest": "20220308181022"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-questions-for-recruiters",
+   "earliest": "20190315145408"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-spotlight-katee-van-horn-on-building-diversity-inclusion-for-your-company/",
+   "earliest": "20191112182149"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-top-tips-to-attracting-and-retaining-veteran-talent/",
+   "earliest": "20211111172659"
+  },
+  {
+   "url": "https://www.lever.co/blog/speed-up-time-to-fill/",
+   "earliest": "20220223141237"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-essential-takeaways-from-our-sourcing-soiree-in-san-francisco",
+   "earliest": "20190315150540"
+  },
+  {
+   "url": "https://www.lever.co/blog/expert-tips-on-scaling-recruiting-from-the-next-billion-dollar-companies/",
+   "earliest": "20190819114827"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-data-for-dei-initiative/",
+   "earliest": "20220327032321"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-retention-4-tips-to-keep-top-talent-at-your-organization",
+   "earliest": "20190315145826"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-questions-for-developing-others-and-teams",
+   "earliest": "20190315150242"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-famous-proverbs-every-recruiter-can-learn-from",
+   "earliest": "20190315150036"
+  },
+  {
+   "url": "https://www.lever.co/blog/hackerrank-and-lever-partner",
+   "earliest": "20190315145931"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-and-abacus-team-up",
+   "earliest": "20190315151045"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-reasons-to-switch-your-applicant-tracking-system",
+   "earliest": "20190315145412"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-in-anz",
+   "earliest": "20190315151524"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-launches-enhanced-integration-with-leading-hris-provider-namely/",
+   "earliest": "20191112184325"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-to-strengthen-the-pre-candidate-experience",
+   "earliest": "20190315151328"
+  },
+  {
+   "url": "https://www.lever.co/blog/infographic-candidate-sourcing-dos-and-donts",
+   "earliest": "20190315145838"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-and-linkedin-team-up-to-provide-seamless-recruiting-experience",
+   "earliest": "20190315145910"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-is-sales-marketing-and-customer-success",
+   "earliest": "20190315150108"
+  },
+  {
+   "url": "https://www.lever.co/blog/internal-recruitment/",
+   "earliest": "20220726152532"
+  },
+  {
+   "url": "https://www.lever.co/blog/interviewers-you-matter-more-than-you-know",
+   "earliest": "20190315151219"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-ways-pointclickcare-made-their-candidate-experience-feel-like-fine-dining/",
+   "earliest": "20200502045933"
+  },
+  {
+   "url": "https://www.lever.co/blog/101-recruiting-hacks-to-accelerate-your-hiring-in-2018",
+   "earliest": "20190315145228"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-customer-love-day-2018",
+   "earliest": "20190315145406"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-hire-top-performers-offer-them-a-career-path",
+   "earliest": "20190315145556"
+  },
+  {
+   "url": "https://www.lever.co/blog/innovative-ways-to-improve-high-volume-hiring/",
+   "earliest": "20210819005156"
+  },
+  {
+   "url": "https://www.lever.co/blog/quick-guide-what-are-structured-interviews/",
+   "earliest": "20211110121038"
+  },
+  {
+   "url": "https://www.lever.co/blog/recognizing-the-value-of-internal-talent-development/",
+   "earliest": "20211006141147"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-trends-ive-seen-after-hundreds-of-calls-with-talent-leaders",
+   "earliest": "20190315145328"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-elevate-the-success-of-your-sourcing-team",
+   "earliest": "20190315145423"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-achieve-data-driven-hiring/",
+   "earliest": "20190916070617"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-relationship-management/",
+   "earliest": "20211117120916"
+  },
+  {
+   "url": "https://www.lever.co/blog/ceo-perspective-google-hire-announcement/",
+   "earliest": "20190917121526"
+  },
+  {
+   "url": "https://www.lever.co/blog/people-companies-that-care-top-100/",
+   "earliest": "20220919130706"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-ultimate-interview-checklist-for-employers",
+   "earliest": "20190315145039"
+  },
+  {
+   "url": "https://www.lever.co/blog/revamping-recruitment-strategy/",
+   "earliest": "20220120214847"
+  },
+  {
+   "url": "https://www.lever.co/blog/https-www-lever-co-blog-innovative-ways-to-improve-high-volume-hiring/",
+   "earliest": "20210812161201"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-onboarding-101-a-sample-one-week-program",
+   "earliest": "20190315145115"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-benchmarks-2016-see-how-you-stack-up",
+   "earliest": "20190212004813"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-fatal-flaw-in-employer-branding-and-how-to-fix-it",
+   "earliest": "20190315150648"
+  },
+  {
+   "url": "https://www.lever.co/blog/2021-report-highlights-the-state-of-diversity-equity-and-inclusion-efforts/",
+   "earliest": "20210825034159"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-winter-release-upgrades-to-candidate-opportunities-and-reporting/",
+   "earliest": "20210126210339"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-lever-talent-intelligence-powered-by-tableau-making-talent-analytics-approachable",
+   "earliest": "20190315145128"
+  },
+  {
+   "url": "https://www.lever.co/blog/2019-talent-benchmarks-nurturing-by-the-numbers/",
+   "earliest": "20190917124300"
+  },
+  {
+   "url": "https://www.lever.co/blog/bad-better-and-best-types-of-behavioral-interview-questions",
+   "earliest": "20190315145238"
+  },
+  {
+   "url": "https://www.lever.co/blog/is-the-ats-dead/",
+   "earliest": "20210125204952"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-signs-youre-ready-for-a-recruiting-crm",
+   "earliest": "20190315145523"
+  },
+  {
+   "url": "https://www.lever.co/blog/slack-interview-alerts",
+   "earliest": "20190315150107"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-track-your-employee-turnover-rate-and-when-to-take-action",
+   "earliest": "20190315145128"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-write-an-offer-letter-that-will-win-over-your-top-choice-candidate",
+   "earliest": "20190315145152"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-bolsters-executive-team-to-support-expansion-and-growth/",
+   "earliest": "20190719143226"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-following-candidates-and-following-job-postings",
+   "earliest": "20190315145832"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-work-toward-gender-diversity-in-the-workplace",
+   "earliest": "20190315145029"
+  },
+  {
+   "url": "https://www.lever.co/blog/www-lever-co-blog-attracting-top-talent-core-company-values/",
+   "earliest": "20210722161845"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-data-on-dei-at-work/",
+   "earliest": "20210918194709"
+  },
+  {
+   "url": "https://www.lever.co/blog/interviewing-strategies-your-burning-questions-answered",
+   "earliest": "20190315150743"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-recruitment-teams-are-in-it-together/",
+   "earliest": "20201020204812"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-leverage-design-thinking-in-talent-acquisition-introduction",
+   "earliest": "20190315145304"
+  },
+  {
+   "url": "https://www.lever.co/blog/adapting-to-distance-lever-doing-its-part/",
+   "earliest": "20200417085520"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-cost-of-not-having-a-modern-hiring-practice/",
+   "earliest": "20190724002457"
+  },
+  {
+   "url": "https://www.lever.co/blog/renewal-by-andersen-uses-data-driven-recruiting-to-decrease-time-to-hire-45/",
+   "earliest": "20200212175403"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-increase-diversity-through-your-recruitment-practices/",
+   "earliest": "20211119121134"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-hire-155-people-in-45-days-with-high-impact-teams",
+   "earliest": "20190315145841"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-be-known-as-one-of-the-best-places-to-work",
+   "earliest": "20190315150045"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-key-ways-to-foster-transgender-inclusion",
+   "earliest": "20190315145813"
+  },
+  {
+   "url": "https://www.lever.co/blog/traits-of-killer-startup-employees",
+   "earliest": "20190315145815"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-its-time-to-banish-the-term-ats",
+   "earliest": "20190315151147"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-roman-mars-taught-us-about-design-thinking-in-recruiting",
+   "earliest": "20190315145828"
+  },
+  {
+   "url": "https://www.lever.co/blog/source-the-best-talent/",
+   "earliest": "20190916062613"
+  },
+  {
+   "url": "https://www.lever.co/blog/make-your-mark-7-tips-for-sourcing-millennials",
+   "earliest": "20190315150645"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-useful-rules-for-optimizing-your-high-volume-hiring/",
+   "earliest": "20220131121119"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-what-people-get-wrong-about-sourcing",
+   "earliest": "20190315150531"
+  },
+  {
+   "url": "https://www.lever.co/blog/scaling-your-hiring-during-rapid-growth-4-tips/",
+   "earliest": "20220207121753"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-ways-to-increase-your-offer-acceptance-rate",
+   "earliest": "20190315145236"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-dos-and-donts-of-mobile-recruiting",
+   "earliest": "20190315150227"
+  },
+  {
+   "url": "https://www.lever.co/blog/6-exit-interview-questions-to-aid-recruiting",
+   "earliest": "20190315145510"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-most-effective-college-recruiting-strategies",
+   "earliest": "20190315145038"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-sales-interview-questions-to-find-your-next-revenue-generating-star",
+   "earliest": "20190315145727"
+  },
+  {
+   "url": "https://www.lever.co/blog/master-selling-in-recruiting-with-our-new-cheat-sheet",
+   "earliest": "20190315150039"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-lunch-learn-seattle-creating-a-talent-strategy-for-success-in-2020/",
+   "earliest": "20191017173730"
+  },
+  {
+   "url": "https://www.lever.co/blog/bots-big-data-and-chicken-little-why-fundamentals-always-win-in-recruiting",
+   "earliest": "20190315151523"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-you-can-use-linkedin-to-nurture-candidates",
+   "earliest": "20190315145531"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-9-when-things-go-wrong",
+   "earliest": "20190315145331"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-maturity-levels-foundational/",
+   "earliest": "20220705151742"
+  },
+  {
+   "url": "https://www.lever.co/blog/creative-employee-perks-that-attract-culture-fit-candidates",
+   "earliest": "20190315145824"
+  },
+  {
+   "url": "https://www.lever.co/blog/employ-quarterly-report-q3-2022/",
+   "earliest": "20220823155150"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-cultivating-and-growing-your-companys-internal-talent-is-important/",
+   "earliest": "20200810055705"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-tech-industry-recruiters-are-preparing-for-whats-next/",
+   "earliest": "20201020201444"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-successfully-transition-recruiting-and-hr-software-a-crash-course-in-change-management",
+   "earliest": "20190315151114"
+  },
+  {
+   "url": "https://www.lever.co/blog/g2s-summer-report-names-lever-the-momentum-leader-again-heres-why/",
+   "earliest": "20190716121437"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-performance-review-questions",
+   "earliest": "20190315145337"
+  },
+  {
+   "url": "https://www.lever.co/blog/two-startup-founders-on-why-its-never-too-early-to-implement-a-smart-recruiting-system/",
+   "earliest": "20190819121123"
+  },
+  {
+   "url": "https://www.lever.co/blog/playing-for-keeps-how-5-lever-gaming-customers-keep-momentum-in-recruiting/",
+   "earliest": "20200804051656"
+  },
+  {
+   "url": "https://www.lever.co/blog/dei-in-fnancial-services/",
+   "earliest": "20210923012855"
+  },
+  {
+   "url": "https://www.lever.co/blog/great-recruiting-emails-that-convert/",
+   "earliest": "20211115120826"
+  },
+  {
+   "url": "https://www.lever.co/blog/announcing-levers-second-talent-innovation-summit",
+   "earliest": "20190315145942"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-takeaways-from-our-future-of-ats-panel",
+   "earliest": "20190315150521"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-is-an-ats-and-why-do-you-need-one",
+   "earliest": "20190315145411"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-3-quick-tricks-for-cold-recruiting-emails",
+   "earliest": "20190315145403"
+  },
+  {
+   "url": "https://www.lever.co/blog/netflix-culture-shapes-their-recruiting",
+   "earliest": "20190315145217"
+  },
+  {
+   "url": "https://www.lever.co/blog/let-everyone-refer-candidates-with-the-lever-extension",
+   "earliest": "20190315145923"
+  },
+  {
+   "url": "https://www.lever.co/blog/dont-discount-soft-skills-how-leading-with-empathy-helps-companies-survive-hardship/",
+   "earliest": "20200426201132"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-ucsf-created-a-candidate-experience-that-feels-like-the-ritz/",
+   "earliest": "20190720194530"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-future-of-recruiting",
+   "earliest": "20190315151047"
+  },
+  {
+   "url": "https://www.lever.co/blog/next-level-insights-and-efficiency-with-interview-kits",
+   "earliest": "20190315145155"
+  },
+  {
+   "url": "https://www.lever.co/blog/here-s-how-much-time-predictive-analytics-can-save-you-in-hiring",
+   "earliest": "20190315150225"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-hillary-for-americas-director-of-talent-acquisition-innovated-campaign-recruiting",
+   "earliest": "20190315150743"
+  },
+  {
+   "url": "https://www.lever.co/blog/announcing-6-new-sourcing-integrations",
+   "earliest": "20190315150614"
+  },
+  {
+   "url": "https://www.lever.co/blog/job-offer-approval-process/",
+   "earliest": "20220203212401"
+  },
+  {
+   "url": "https://www.lever.co/blog/candidate-experience-7-ways-to-surprise-and-delight-candidates",
+   "earliest": "20190315145127"
+  },
+  {
+   "url": "https://www.lever.co/blog/data-driven-recruiting/",
+   "earliest": "20220309172603"
+  },
+  {
+   "url": "https://www.lever.co/blog/2-critical-dos-and-donts-of-startup-hiring-in-2017",
+   "earliest": "20190315151215"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-1-fixing-your-culture",
+   "earliest": "20190315145239"
+  },
+  {
+   "url": "https://www.lever.co/blog/should-your-organization-offer-retirement-benefits",
+   "earliest": "20190315145437"
+  },
+  {
+   "url": "https://www.lever.co/blog/video-interview-tips-for-employers",
+   "earliest": "20190315145642"
+  },
+  {
+   "url": "https://www.lever.co/blog/spotlighting-4-teams-international-recruiters-day",
+   "earliest": "20190315145300"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-lever-nurture-reports-to-optimize-your-sourcing-strategy",
+   "earliest": "20190315145835"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-your-top-3-favorite-places-to-source",
+   "earliest": "20190315150117"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruitment-marketing-5-easy-tips/",
+   "earliest": "20211004140530"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-stats-to-convince-your-team-of-the-importance-of-candidate-experience",
+   "earliest": "20190315145056"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-most-important-forgotten-step-in-recruiting",
+   "earliest": "20190315145118"
+  },
+  {
+   "url": "https://www.lever.co/blog/evaluating-applicant-tracking-systems",
+   "earliest": "20190315145456"
+  },
+  {
+   "url": "https://www.lever.co/blog/meet-our-headcount-heroes-recruiting-teams-that-crushed-their-2017-goals",
+   "earliest": "20190315145913"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-questions-answered-to-build-a-robust-recruiting-organization-and-refined-process/",
+   "earliest": "20200730094424"
+  },
+  {
+   "url": "https://www.lever.co/blog/2-recruiting-leadership-challenges-lou-adler-taught-us-to-master",
+   "earliest": "20190315150233"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-address-work-inequality-with-data-intelligence/",
+   "earliest": "20210413210158"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-guide-for-recruiters-seeking-work/",
+   "earliest": "20200703101308"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-worst-part-of-buying-recruiting-software",
+   "earliest": "20190315150206"
+  },
+  {
+   "url": "https://www.lever.co/blog/leveraging-recruiting-performance-data-to-give-executives-what-they-want/",
+   "earliest": "20201115200023"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-hr-and-recruiting-events-to-attend-in-2019",
+   "earliest": "20190315145157"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-use-social-media-for-employer-branding",
+   "earliest": "20190315145135"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-write-human-rejection-letters",
+   "earliest": "20190315144906"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-top-biotech-and-life-sciences-interview-questions/",
+   "earliest": "20191017182457"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-prescreen-soft-skills-interview-questions-to-ask/",
+   "earliest": "20201228181327"
+  },
+  {
+   "url": "https://www.lever.co/blog/chicago-talent-strategy-lunch-learn/",
+   "earliest": "20190819122716"
+  },
+  {
+   "url": "https://www.lever.co/blog/olympic-gold-medalist-joe-jacobi-shares-talent-identification-strategies-to-help-you-build-high-performance-teams/",
+   "earliest": "20190819125840"
+  },
+  {
+   "url": "https://www.lever.co/blog/offer-approval-workflows",
+   "earliest": "20190315150527"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-acquisition-versus-talent-development",
+   "earliest": "20190315145211"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-easy-ways-to-find-the-best-candidates-on-linkedin/",
+   "earliest": "20210721161401"
+  },
+  {
+   "url": "https://www.lever.co/blog/preventing-ghosting-with-smart-candidate-nurturing/",
+   "earliest": "20220503021436"
+  },
+  {
+   "url": "https://www.lever.co/blog/winter-release/",
+   "earliest": "20200426202232"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-brains-behind-our-customer-success-teams-transformation",
+   "earliest": "20190315150659"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-recruit-the-best-content-marketers/",
+   "earliest": "20190917125505"
+  },
+  {
+   "url": "https://www.lever.co/blog/hit-the-jackpot-at-unleash-vegas-2018",
+   "earliest": "20190315145924"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-our-recruitment-technology-helps-wefunder-scale/",
+   "earliest": "20211025204920"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-use-problem-solving-questions-in-a-technical-interview",
+   "earliest": "20190315145212"
+  },
+  {
+   "url": "https://www.lever.co/blog/hr-tech-awards/",
+   "earliest": "20220518210340"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-competency-based-interview-questions-to-make-a-solid-skills-assessment",
+   "earliest": "20190315145326"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-phone-interview-tips-for-employers",
+   "earliest": "20190315145131"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-mobility-program/",
+   "earliest": "20220906134110"
+  },
+  {
+   "url": "https://www.lever.co/blog/writing-effective-job-descriptions-impact-descriptions/",
+   "earliest": "20211105173105"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-diversity-and-inclusion-handbook",
+   "earliest": "20190315145237"
+  },
+  {
+   "url": "https://www.lever.co/blog/13-ways-you-know-its-time-for-an-applicant-tracking-system",
+   "earliest": "20190315150214"
+  },
+  {
+   "url": "https://www.lever.co/blog/boost-your-teams-recruiting-efficiency",
+   "earliest": "20190315150656"
+  },
+  {
+   "url": "https://www.lever.co/blog/cirque-du-soleil-unveils-candidate-experience-tricks",
+   "earliest": "20190315150124"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-tips-for-creating-more-diverse-interview-panels/",
+   "earliest": "20220328213105"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-important-things-missing-from-career-sites",
+   "earliest": "20190315145436"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-hr-talent-metrics-you-should-start-tracking-today",
+   "earliest": "20190315150058"
+  },
+  {
+   "url": "https://www.lever.co/blog/career-mobility-attract-retain-talent/",
+   "earliest": "20220728130734"
+  },
+  {
+   "url": "https://www.lever.co/blog/tip-sheet-15-fresh-ideas-for-sourcing-candidates",
+   "earliest": "20190315145606"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-to-z-employee-nicknames",
+   "earliest": "20190315145102"
+  },
+  {
+   "url": "https://www.lever.co/blog/it-interview-questions-to-ask",
+   "earliest": "20190315150017"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-surprising-stats-in-celebration-of-international-womens-day/",
+   "earliest": "20190721070743"
+  },
+  {
+   "url": "https://www.lever.co/blog/ultimate-hiring-dashboard-for-talent-team/",
+   "earliest": "20211218151758"
+  },
+  {
+   "url": "https://www.lever.co/blog/cold-outreach-for-recruiters/",
+   "earliest": "20220414120518"
+  },
+  {
+   "url": "https://www.lever.co/blog/summer-of-sourcing-recruitment-and-retention/",
+   "earliest": "20190916063731"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-everything-we-know-about-employee-engagement-is-wrong/",
+   "earliest": "20190819115033"
+  },
+  {
+   "url": "https://www.lever.co/blog/training-interviewers-to-identify-and-engage-top-tier-talent",
+   "earliest": "20190315145201"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-build-an-interview-process-that-will-leave-a-lasting-impression-on-candidates",
+   "earliest": "20190315145615"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-earns-2021-great-place-to-work-certification/",
+   "earliest": "20210503131956"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-strategies-to-differentiate-your-team-and-win-over-technical-talent",
+   "earliest": "20190315145817"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-new-questions-you-can-answer-with-lever-talent-intelligence-today",
+   "earliest": "20190315150148"
+  },
+  {
+   "url": "https://www.lever.co/blog/6-game-changing-ideas-to-differentiate-your-candidate-experience",
+   "earliest": "20190315145120"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-diversity-equity-and-inclusion-best-practices/",
+   "earliest": "20210824101301"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-recruitment-blogs-you-absolutely-have-to-read",
+   "earliest": "20190315145345"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-quick-tricks-to-level-up-your-cold-recruiting-emails",
+   "earliest": "20190315145259"
+  },
+  {
+   "url": "https://www.lever.co/blog/combat-the-talent-shortage",
+   "earliest": "20190315145307"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-workplaces-are-pivoting-to-achieve-world-class-cultures-for-hiring-for-2021/",
+   "earliest": "20201110141119"
+  },
+  {
+   "url": "https://www.lever.co/blog/companies-doing-their-part-lever-and-docusign-customers-hard-at-work-during-covid-19/",
+   "earliest": "20200810055351"
+  },
+  {
+   "url": "https://www.lever.co/blog/implement-a-40-40-20-sourcing-plan-to-reach-the",
+   "earliest": "20190315145750"
+  },
+  {
+   "url": "https://www.lever.co/blog/using-employee-retention-data-creating-new-roles/",
+   "earliest": "20210929001326"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-build-the-internal-case-to-buy-a-new-ats",
+   "earliest": "20190315145707"
+  },
+  {
+   "url": "https://www.lever.co/blog/customer-spotlight-talent-optimization-in-the-time-of-covid-19/",
+   "earliest": "20200909142606"
+  },
+  {
+   "url": "https://www.lever.co/blog/its-official-lever-is-opening-in-toronto",
+   "earliest": "20190315145606"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruitment-funnel-optimization/",
+   "earliest": "20220208162944"
+  },
+  {
+   "url": "https://www.lever.co/blog/heres-how-to-incentivize-hiring-managers-to-prioritize-talent",
+   "earliest": "20190315145521"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-steps-to-becoming-a-networking-beast/",
+   "earliest": "20200810055939"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-summer-release-2022/",
+   "earliest": "20220812131010"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-next-chapter",
+   "earliest": "20190315151526"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-recruit-millennials-in-2016-with-quiz",
+   "earliest": "20190315150825"
+  },
+  {
+   "url": "https://www.lever.co/blog/headcount-heroes-how-siteminder-reduced-time-to-hire-by-20-percent",
+   "earliest": "20190315150100"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-spring-release-2021/",
+   "earliest": "20210429225745"
+  },
+  {
+   "url": "https://www.lever.co/blog/hiring-trends-to-know/",
+   "earliest": "20220620200309"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-questions-for-executive-leaders",
+   "earliest": "20190315145351"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-make-every-candidate-touchpoint-count",
+   "earliest": "20190315145454"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-netflixs-recruiting-researchers-make-sourcing-strategic",
+   "earliest": "20190315145156"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-culture-fit-interview-questions-to-ensure-a-great-hire",
+   "earliest": "20190315145025"
+  },
+  {
+   "url": "https://www.lever.co/blog/trevor-noah-and-lattice-drop-17-cant-miss-best-practices-on-inclusion/",
+   "earliest": "20201020194334"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-delivers-on-promise-of-data-driven-hr-with-talent-cloud-connect/",
+   "earliest": "20190718193803"
+  },
+  {
+   "url": "https://www.lever.co/blog/an-unforgettable-welcome-for-your-new-hire",
+   "earliest": "20190315145006"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-you-need-an-ats-when-youre-not-hiring",
+   "earliest": "20190315145757"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-reasons-to-pay-more-attention-to-your-employee-compensation-strategy",
+   "earliest": "20190315145100"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-lever-integrations-that-help-you-hire-faster/",
+   "earliest": "20190723173824"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-metrics-to-focus-on-in-your-2018-headcount-planning",
+   "earliest": "20190315145202"
+  },
+  {
+   "url": "https://www.lever.co/blog/designer-recruitment-sourcing-candidates-on-dribbble",
+   "earliest": "20190315145232"
+  },
+  {
+   "url": "https://www.lever.co/blog/11-mindfulness-hacks-for-recruiters/",
+   "earliest": "20220505140903"
+  },
+  {
+   "url": "https://www.lever.co/blog/empowering-talent-teams-with-lever-and-linkedin/",
+   "earliest": "20200810054042"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-relationship-managament-dei/",
+   "earliest": "20211215121816"
+  },
+  {
+   "url": "https://www.lever.co/blog/support-recruiting-hr-and-finance-with-flexible-job-postings-and-requisitions-in-lever",
+   "earliest": "20190315150135"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-proactive-ways-to-attract-and-hire-diverse-candidates-in-2022/",
+   "earliest": "20220202121052"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-steps-to-launch-an-effective-diversity-and-inclusion-council",
+   "earliest": "20190315145104"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-best-recruiting-tool-for-your-arsenal/",
+   "earliest": "20191017175616"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-shopify-revolutionized-proactive-sourcing",
+   "earliest": "20190315145557"
+  },
+  {
+   "url": "https://www.lever.co/blog/whats-new-in-lever-this-summer-job-posting-dashboards",
+   "earliest": "20190315145806"
+  },
+  {
+   "url": "https://www.lever.co/blog/dont-stop-at-the-signed-offer-retaining-millennials-in-2016",
+   "earliest": "20190315150118"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-internal-mobility-best-practices-you-should-implement/",
+   "earliest": "20220405120942"
+  },
+  {
+   "url": "https://www.lever.co/blog/heres-how-to-turn-your-job-descriptions-into-viral-hits",
+   "earliest": "20190315151142"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-leverage-design-thinking-to-zero-in-on-recruiting-metrics",
+   "earliest": "20190315145853"
+  },
+  {
+   "url": "https://www.lever.co/blog/headcount-meeting",
+   "earliest": "20190315145444"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-win-levers-talent-innovation-summit-contest",
+   "earliest": "20190315151254"
+  },
+  {
+   "url": "https://www.lever.co/blog/whats-new-in-lever-april/may-2016",
+   "earliest": "20190315152103"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-recruiters-can-outwit-the-next-recession/",
+   "earliest": "20210302140435"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-hiring-is-the-most-important-to-get-right-at-tint",
+   "earliest": "20190315150019"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-new-ways-to-use-email-in-lever",
+   "earliest": "20190315145617"
+  },
+  {
+   "url": "https://www.lever.co/blog/fun-team-bonding-activities/",
+   "earliest": "20190819122322"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-tips-closing-and-onboarding",
+   "earliest": "20190315150206"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-stats-that-show-working-from-home-actually-boosts-productivity/",
+   "earliest": "20200426201739"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-structure-your-sourcing-team",
+   "earliest": "20190315145227"
+  },
+  {
+   "url": "https://www.lever.co/blog/email-address-search-here-are-the-7-best-ways-to-find-anybodys-email",
+   "earliest": "20190315145121"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-leverage-events-to-fill-your-recruiting-pipeline",
+   "earliest": "20190315145641"
+  },
+  {
+   "url": "https://www.lever.co/blog/join-this-years-summer-of-sourcing-virtual-slam",
+   "earliest": "20190315145634"
+  },
+  {
+   "url": "https://www.lever.co/blog/were-ready-for-our-talent-innovation-summit",
+   "earliest": "20190315152448"
+  },
+  {
+   "url": "https://www.lever.co/blog/your-company-culture-is-your-competitive-advantage-show-it-off",
+   "earliest": "20190315145512"
+  },
+  {
+   "url": "https://www.lever.co/blog/and-the-2016-talent-acquisition-brand-velocity-award-goes-to",
+   "earliest": "20190315151329"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-summit-countdown-discover-new-talent-pools-with-paired-sourcing",
+   "earliest": "20190315150758"
+  },
+  {
+   "url": "https://www.lever.co/blog/6-cringe-worthy-recruiting-horror-stories",
+   "earliest": "20190315145134"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-things-top-talent-expect-from-your-employee-onboarding-process/",
+   "earliest": "20211108120851"
+  },
+  {
+   "url": "https://www.lever.co/blog/headcount-talent-planning-best-practices/",
+   "earliest": "20220111141348"
+  },
+  {
+   "url": "https://www.lever.co/blog/12-recruiting-life-hacks-from-stacy-donovan-zapar",
+   "earliest": "20190315145240"
+  },
+  {
+   "url": "https://www.lever.co/blog/whats-new-in-lever-march-2016",
+   "earliest": "20190315152448"
+  },
+  {
+   "url": "https://www.lever.co/blog/pervasive-interview-tactics-employers-need-to-stop-using",
+   "earliest": "20190315150646"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-new-hire-onboarding-mistakes-to-avoid/",
+   "earliest": "20211101132513"
+  },
+  {
+   "url": "https://www.lever.co/blog/power-of-leveraging-design-thinking-to-build-better-recruiting-processes",
+   "earliest": "20190315151004"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-best-practices-to-create-an-adaptable-hiring-model-for-healthcare/",
+   "earliest": "20200807041923"
+  },
+  {
+   "url": "https://www.lever.co/blog/hiring-for-culture-add/",
+   "earliest": "20211116145307"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-raises-50-million-series-d-funding/",
+   "earliest": "20211101191826"
+  },
+  {
+   "url": "https://www.lever.co/blog/scaling-with-speed-without-compromising-candidate-quality/",
+   "earliest": "20190716122139"
+  },
+  {
+   "url": "https://www.lever.co/blog/jump-on-board-with-these-recruiting-trends-in-2018",
+   "earliest": "20190315145502"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-skills-fits-place-in-your-interview-process",
+   "earliest": "20190315145430"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-biotech-interview-questions-to-ask-by-role/",
+   "earliest": "20191112184439"
+  },
+  {
+   "url": "https://www.lever.co/blog/angellist-integration",
+   "earliest": "20190315145637"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-new-candidate-profile",
+   "earliest": "20190315145325"
+  },
+  {
+   "url": "https://www.lever.co/blog/improving-the-hiring-manager-experience",
+   "earliest": "20190315145429"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-video-series-your-2018-hiring-toolkit",
+   "earliest": "20190315150753"
+  },
+  {
+   "url": "https://www.lever.co/blog/five-mistakes-founders-early-employees-and-internal-recruiters-make-when-hiring",
+   "earliest": "20190315150616"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-ways-to-jazz-up-your-linkedin-company-page-for-recruitment",
+   "earliest": "20190315145233"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-hire-checklist-to-build-employee-engagement",
+   "earliest": "20190315145657"
+  },
+  {
+   "url": "https://www.lever.co/blog/to-become-a-better-recruiter-talk-to-your-sales-team",
+   "earliest": "20190315150804"
+  },
+  {
+   "url": "https://www.lever.co/blog/exit-interview-questions",
+   "earliest": "20190315150628"
+  },
+  {
+   "url": "https://www.lever.co/blog/finding-the-perfect-match-a-female-engineers-story-to-finding-lever/",
+   "earliest": "20210212185859"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-hit-your-diversity-goals-with-lever/",
+   "earliest": "20190917130612"
+  },
+  {
+   "url": "https://www.lever.co/blog/6-tips-to-attract-tech-talent-from-veon",
+   "earliest": "20190315150222"
+  },
+  {
+   "url": "https://www.lever.co/blog/best-talent-acquisition-strategies/",
+   "earliest": "20221005155454"
+  },
+  {
+   "url": "https://www.lever.co/blog/beyond-rejection-letter-soften-job-rejection-over-the-phone",
+   "earliest": "20190315145014"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-make-the-most-of-your-lunch-interview",
+   "earliest": "20190315145228"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-hire-remote-talent-quickly/",
+   "earliest": "20201020193636"
+  },
+  {
+   "url": "https://www.lever.co/blog/whats-new-in-lever-april-may-2016/",
+   "earliest": "20190718201207"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-leader-spotlight-raising-the-bar-on-headcount-planning",
+   "earliest": "20190315150640"
+  },
+  {
+   "url": "https://www.lever.co/blog/moving-beyond-features-a-guide-to-evaluating-applicant-tracking-systems",
+   "earliest": "20190315145715"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-training-101/",
+   "earliest": "20220325081800"
+  },
+  {
+   "url": "https://www.lever.co/blog/summer-of-sourcing-attracting-talent-that-stays/",
+   "earliest": "20190819115041"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-sales-and-marketing-steps-to-unlock-recruiting-success",
+   "earliest": "20190315153018"
+  },
+  {
+   "url": "https://www.lever.co/blog/summer-of-sourcing-diversifying-your-talent-pipeline",
+   "earliest": "20190315145633"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-easy-book-for-interview-scheduling",
+   "earliest": "20190315145105"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-use-a-phone-interview-to-sell-candidates-instead-of-screen-them",
+   "earliest": "20190315145925"
+  },
+  {
+   "url": "https://www.lever.co/blog/gdpr-compliance-toolkit-recruiting",
+   "earliest": "20190315145123"
+  },
+  {
+   "url": "https://www.lever.co/blog/four-design-principles-that-built-lever-reports",
+   "earliest": "20190315145916"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-sourcing-untapped-talent-on-angellist",
+   "earliest": "20190315145130"
+  },
+  {
+   "url": "https://www.lever.co/blog/petwell-partners-tips-to-nurturing-top-talent-as-an-essential-business/",
+   "earliest": "20200709211816"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-hiring-team-makes-most-of-levertrm/",
+   "earliest": "20220119154207"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-vital-interview-tips-for-every-new-recruiter",
+   "earliest": "20190315145210"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-show-employee-appreciation-all-year-round/",
+   "earliest": "20210302163615"
+  },
+  {
+   "url": "https://www.lever.co/blog/lou-adler-tackles-your-recruiting-challenges-round-two",
+   "earliest": "20190315152431"
+  },
+  {
+   "url": "https://www.lever.co/blog/goodhire-lever",
+   "earliest": "20190315145726"
+  },
+  {
+   "url": "https://www.lever.co/blog/employer-branding-strategy-5-lessons-from-the-muse",
+   "earliest": "20190315145415"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-quick-and-easy-onboarding-tips",
+   "earliest": "20190315150000"
+  },
+  {
+   "url": "https://www.lever.co/blog/13-hacks-to-hire-for-scale",
+   "earliest": "20190315145941"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-10-moments-you-missed-at-levers-talent-innovation-summit",
+   "earliest": "20190315150738"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-optimization-insights/",
+   "earliest": "20220421141307"
+  },
+  {
+   "url": "https://www.lever.co/blog/evaluating-applicant-tracking-systems-do-this-one-thing",
+   "earliest": "20190315150059"
+  },
+  {
+   "url": "https://www.lever.co/blog/accelerate-event-future-of-recruiting/",
+   "earliest": "20220929150332"
+  },
+  {
+   "url": "https://www.lever.co/blog/reducing-reliance-on-outsourced-recruitment/",
+   "earliest": "20220201182121"
+  },
+  {
+   "url": "https://www.lever.co/blog/program-manager-interview-questions/",
+   "earliest": "20201020195722"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-key-areas-of-background-check-compliance-employers-need-to-know/",
+   "earliest": "20190917121642"
+  },
+  {
+   "url": "https://www.lever.co/blog/first-key-positions-and-roles-you-need-to-hire-for-a-startup/",
+   "earliest": "20190719142924"
+  },
+  {
+   "url": "https://www.lever.co/blog/network-engineer-interview-questions/",
+   "earliest": "20220522223136"
+  },
+  {
+   "url": "https://www.lever.co/blog/your-biggest-sourcing-snafu",
+   "earliest": "20190315150229"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-diversity-efforts-can-backfire",
+   "earliest": "20190315145636"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-unexpected-recruiting-use-cases-of-lever",
+   "earliest": "20190315145922"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-top-questions-on-headcount-planning-answered/",
+   "earliest": "20200516052116"
+  },
+  {
+   "url": "https://www.lever.co/blog/build-employee-engagement-from-day-1-with-a-new-hire-orientation",
+   "earliest": "20190315145433"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-winter-release-2022/",
+   "earliest": "20220128143839"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-to-include-in-an-interview-confirmation-email",
+   "earliest": "20190315145110"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-ugly-truth-about-your-unstructured-interview-process",
+   "earliest": "20190315145247"
+  },
+  {
+   "url": "https://www.lever.co/blog/2021-state-of-diversity-equity-and-inclusion-report-insights/",
+   "earliest": "20210821023957"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-problem-solving-questions-that-assess-skill-fit",
+   "earliest": "20190315145341"
+  },
+  {
+   "url": "https://www.lever.co/blog/11-top-hiring-manager-collaboration-questions-answered/",
+   "earliest": "20210417001004"
+  },
+  {
+   "url": "https://www.lever.co/blog/modern-applicant-tracking-system-requirements",
+   "earliest": "20190315145258"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-strategically-hire-for-senior-executive-roles/",
+   "earliest": "20220517120426"
+  },
+  {
+   "url": "https://www.lever.co/blog/winning-recruiting-buy-in-and-budget-from-the-c-suite",
+   "earliest": "20190315150154"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-strategies-for-building-company-buy-in-for-diversity-equality-and-inclusion-in-2021/",
+   "earliest": "20210211150049"
+  },
+  {
+   "url": "https://www.lever.co/blog/2019-talent-benchmarks-interviewing-statistics/",
+   "earliest": "20190916064812"
+  },
+  {
+   "url": "https://www.lever.co/blog/topgrading-interview-guide/",
+   "earliest": "20190819114750"
+  },
+  {
+   "url": "https://www.lever.co/blog/star-interview-questions/",
+   "earliest": "20200810055247"
+  },
+  {
+   "url": "https://www.lever.co/blog/does-lou-adler-have-the-worst-handwriting-in-talent-acquisition",
+   "earliest": "20190315153050"
+  },
+  {
+   "url": "https://www.lever.co/blog/launch-scale-talent-highlights",
+   "earliest": "20190315151653"
+  },
+  {
+   "url": "https://www.lever.co/blog/predicting-the-future-of-talent-for-your-workforce/",
+   "earliest": "20190819125527"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-candidate-experience-that-emphasizes-the-people-culture-not-the-perks",
+   "earliest": "20190315145806"
+  },
+  {
+   "url": "https://www.lever.co/blog/improving-hiring-processes-with-unified-pipeline/",
+   "earliest": "20220106144756"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-ways-to-decrease-your-time-to-hire",
+   "earliest": "20190315145246"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-strategies-that-have-powered-shopifys-stunning-growth",
+   "earliest": "20190315145759"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-recruiting-pivots-that-you-can-adopt-too/",
+   "earliest": "20210227184038"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-recruitment-strategies-to-attract-talent-in-2021/",
+   "earliest": "20210617192424"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-key-to-writing-a-compelling-job-description",
+   "earliest": "20190315145303"
+  },
+  {
+   "url": "https://www.lever.co/blog/9-tricks-to-put-your-employee-referral-program-into-overdrive",
+   "earliest": "20190315145037"
+  },
+  {
+   "url": "https://www.lever.co/blog/infographic-inside-levers-job-posting-dashboards",
+   "earliest": "20190315145305"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-increase-your-candidate-engagement-rate",
+   "earliest": "20190315145420"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-9-onboarding-questions-answered",
+   "earliest": "20190315145325"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-must-read-articles-for-sourcers/",
+   "earliest": "20190917131210"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-are-the-best-ways-to-address-ai-bias-in-recruiting/",
+   "earliest": "20200927210037"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-must-have-recruiting-metrics-to-help-you-optimize-your-recruiting-funnel",
+   "earliest": "20190315145426"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-lyft-hired-for-hypergrowth-19-key-insights",
+   "earliest": "20190315145504"
+  },
+  {
+   "url": "https://www.lever.co/blog/checking-in-on-the-mental-health-of-your-talent-team/",
+   "earliest": "20210518184917"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-launches-adp-workforce-now-connector",
+   "earliest": "20190315145532"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-to-do-if-your-top-choice-candidates-gets-a-counter-offer",
+   "earliest": "20190315145724"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-companies-can-do-more-with-less/",
+   "earliest": "20200927202928"
+  },
+  {
+   "url": "https://www.lever.co/blog/supporting-diversity-with-inclusive-employee-benefits-and-perks",
+   "earliest": "20190315145256"
+  },
+  {
+   "url": "https://www.lever.co/blog/hr-manager-interview-questions/",
+   "earliest": "20191206225944"
+  },
+  {
+   "url": "https://www.lever.co/blog/dont-let-your-erp-employee-referral-program-turn-into-derp",
+   "earliest": "20190315145639"
+  },
+  {
+   "url": "https://www.lever.co/blog/candidate-relationship-management-strategies/",
+   "earliest": "20190716124456"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-process-for-candidates-hiring-managers/",
+   "earliest": "20220715220452"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-glassdoor",
+   "earliest": "20190315150826"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-product-updates-to-kick-off-2017",
+   "earliest": "20190315150814"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-top-talent-leaders-reveal-their-excruciating-mistakes",
+   "earliest": "20190315150529"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-marketing-interview-questions-to-find-your-next-great-hire",
+   "earliest": "20190315145841"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-creative-talent-7-top-tips-from-digital-marketing-and-advertising-agencies",
+   "earliest": "20190315145415"
+  },
+  {
+   "url": "https://www.lever.co/blog/four-reasons-why-lou-adler-still-rules-the-recruiting-roost",
+   "earliest": "20190315150016"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-summit-countdown-inside-godaddys-diversity-transformation-story",
+   "earliest": "20190315150909"
+  },
+  {
+   "url": "https://www.lever.co/blog/sample-interview-questions-for-behavioral-interviews",
+   "earliest": "20190315145214"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-summer-release-fast-resume-review-block-repeat-applicants-and-multiple-diversity-surveys/",
+   "earliest": "20200927201451"
+  },
+  {
+   "url": "https://www.lever.co/blog/target-top-job-boards",
+   "earliest": "20190315150647"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-equity-and-inclusion-in-manufacturing/",
+   "earliest": "20210914224826"
+  },
+  {
+   "url": "https://www.lever.co/blog/announcing-new-native-microsoft-integration-to-power-collaborative-recruiting",
+   "earliest": "20190315145746"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-expert-tips-for-building-a-remote-workforce-from-welocalize/",
+   "earliest": "20200518141320"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-grand-rounds-effectively-competes-for-healthcare-tech-talent",
+   "earliest": "20190315145908"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-make-a-killer-recruitment-video",
+   "earliest": "20190315145243"
+  },
+  {
+   "url": "https://www.lever.co/blog/startup-hiring-bootcamp-recruiting-for-series-a-through-d",
+   "earliest": "20190315150018"
+  },
+  {
+   "url": "https://www.lever.co/blog/career-advice-every-woman-should-hear",
+   "earliest": "20190315150825"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-recruiting-strategies/",
+   "earliest": "20220817130852"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-reasons-to-attend-levers-talent-innovation-summit-may-17/",
+   "earliest": "20190718191709"
+  },
+  {
+   "url": "https://www.lever.co/blog/where-unconscious-bias-creeps-into-the-recruitment-process",
+   "earliest": "20190315145207"
+  },
+  {
+   "url": "https://www.lever.co/blog/collaborating-with-hiring-agencies-has-never-been-easier",
+   "earliest": "20190315145555"
+  },
+  {
+   "url": "https://www.lever.co/blog/rise-awards-finalists/",
+   "earliest": "20210910151019"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-candidate-ghosting-horror-stories/",
+   "earliest": "20191112185546"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-good-reads-for-talent-leaders-navigating-a-changing-world/",
+   "earliest": "20200927194958"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-tools-for-talent-acquisition/",
+   "earliest": "20220923135907"
+  },
+  {
+   "url": "https://www.lever.co/blog/interview-questions-to-discover-commitment-and-motivation",
+   "earliest": "20190315145737"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-quotes-that-show-how-much-successful-startup-founders-care-about-hiring",
+   "earliest": "20190315151252"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-to-forecast-for-executives",
+   "earliest": "20190315145905"
+  },
+  {
+   "url": "https://www.lever.co/blog/hr-tech-conference-takeaways/",
+   "earliest": "20221014171446"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-top-recruiting-blog-posts-2018",
+   "earliest": "20190315145411"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-fall-release-visual-insights-preview-and-expanding-partner-ecosystem/",
+   "earliest": "20201020195833"
+  },
+  {
+   "url": "https://www.lever.co/blog/test-engineer-interview-questions/",
+   "earliest": "20200810061201"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-one-teacher-overhauled-her-schools-recruitment-process",
+   "earliest": "20190315145544"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-you-shouldnt-use-free-job-posting-sites",
+   "earliest": "20190315145829"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-in-japan-vs.-america-a-global-recruiters-perspective",
+   "earliest": "20190315145100"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-is-the-top-momentum-leader-in-the-ats-category-for-the-second-time-in-a-row",
+   "earliest": "20190315145629"
+  },
+  {
+   "url": "https://www.lever.co/blog/is-an-ats-enough-heres-why-big-recruiting-teams-are-upgrading-to-a-trm/",
+   "earliest": "20210311182856"
+  },
+  {
+   "url": "https://www.lever.co/blog/see-whats-new-in-the-premium-lever-and-linkedin-integration",
+   "earliest": "20190315145226"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-covid-has-changed-work-for-women-around-the-world/",
+   "earliest": "20210309035419"
+  },
+  {
+   "url": "https://www.lever.co/blog/employee-advocacy-improve-your-recruiting",
+   "earliest": "20190315145245"
+  },
+  {
+   "url": "https://www.lever.co/blog/best-practices-for-email-nurture/",
+   "earliest": "20220531123908"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-maintain-talent-relationships-during-uncertain-times/",
+   "earliest": "20200417085822"
+  },
+  {
+   "url": "https://www.lever.co/blog/8-applicant-tracking-system-features-recruiting-2022/",
+   "earliest": "20211012141735"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-in-tech-closing-the-gap-with-culture-and-leadership-plus-new-data/",
+   "earliest": "20220307120604"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-write-a-great-job-description/",
+   "earliest": "20190718191252"
+  },
+  {
+   "url": "https://www.lever.co/blog/aligning-hiring-management-for-success-amid-ambiguity/",
+   "earliest": "20200810052211"
+  },
+  {
+   "url": "https://www.lever.co/blog/were-sharing-three-real-candidate-sourcing-emails",
+   "earliest": "20190315151051"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-things-you-need-to-do-to-overcome-hiring-challenges-in-2020/",
+   "earliest": "20200420223544"
+  },
+  {
+   "url": "https://www.lever.co/blog/fighting-anti-asian-racism/",
+   "earliest": "20210416233156"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-get-your-summer-intern-to-accept-your-offer",
+   "earliest": "20190315145844"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-steps-to-building-a-marketing-machine-for-your-employer-brand",
+   "earliest": "20190315150117"
+  },
+  {
+   "url": "https://www.lever.co/blog/t-minus-157-days-until-gdpr-is-your-recruiting-ready",
+   "earliest": "20190315145324"
+  },
+  {
+   "url": "https://www.lever.co/blog/worst-interview-questions-to-ask",
+   "earliest": "20190315151227"
+  },
+  {
+   "url": "https://www.lever.co/blog/an-ode-to-recruiters-in-puppy-gifs",
+   "earliest": "20190315150522"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-women-in-leadership-are-changing-the-landscape-of-work-in-2022/",
+   "earliest": "20220113120920"
+  },
+  {
+   "url": "https://www.lever.co/blog/6-questions-every-leader-should-ask-to-promote-collaboration-and-prevent-team-silos/",
+   "earliest": "20200417085536"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-top-10-places-to-find-startup-talent-in-2018",
+   "earliest": "20190315145158"
+  },
+  {
+   "url": "https://www.lever.co/blog/proven-ways-to-eliminate-hiring-bias/",
+   "earliest": "20200714070319"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-most-essential-recruiting-tool",
+   "earliest": "20190315151143"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-to-catch-lever-in-london-next-week",
+   "earliest": "20190315145833"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-relationship-management-software/",
+   "earliest": "20211201135816"
+  },
+  {
+   "url": "https://www.lever.co/blog/headcount-heroes-how-revzilla-boosted-employee-referrals-to-47-percent-of-hires",
+   "earliest": "20190315145829"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-tips-to-improve-mental-health-employees/",
+   "earliest": "20220516020114"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-powerful-search-capabilities-to-find-top-candidates",
+   "earliest": "20190315145657"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-maturity-levels-dynamic/",
+   "earliest": "20220705152119"
+  },
+  {
+   "url": "https://www.lever.co/blog/eliminate-gender-bias-from-your-recruitment-process-infographic",
+   "earliest": "20190315145347"
+  },
+  {
+   "url": "https://www.lever.co/blog/candidate-experience-a-must-track-recruiting-metric/",
+   "earliest": "20211001150823"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-tips-sourcing-candidates",
+   "earliest": "20190315150040"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-recruiting-automation-enables-smarter-hiring/",
+   "earliest": "20211125050527"
+  },
+  {
+   "url": "https://www.lever.co/blog/announcing-levers-talent-innovation-summit-contest/",
+   "earliest": "20190724000852"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-summit-countdown-ubers-bernard-coleman-reframes-the-di-discussion",
+   "earliest": "20190315150745"
+  },
+  {
+   "url": "https://www.lever.co/blog/suddenly-remote-toptals-tips-for-sustaining-an-enterprise-grade-remote-work-environment/",
+   "earliest": "20200810060619"
+  },
+  {
+   "url": "https://www.lever.co/blog/sourcing-metrics-3-kpis-to-track",
+   "earliest": "20190315145159"
+  },
+  {
+   "url": "https://www.lever.co/blog/real-time-reports-that-put-your-data-to-work",
+   "earliest": "20190315145714"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-best-practices-creating-an-inclusive-employee-event",
+   "earliest": "20190315145635"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-leaders-weigh-in-on-how-companies-can-better-support-women-in-the-workplace/",
+   "earliest": "20201127105253"
+  },
+  {
+   "url": "https://www.lever.co/blog/state-of-dei-in-tech/",
+   "earliest": "20210826184438"
+  },
+  {
+   "url": "https://www.lever.co/blog/sourcing-candidates-7-places-to-uncover-hidden-talent",
+   "earliest": "20190315145030"
+  },
+  {
+   "url": "https://www.lever.co/blog/21-questions-to-ask-when-choosing-the-best-ats",
+   "earliest": "20190315145355"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-report-reveals-essential-recruiting-benchmarks-for-startups-and-smbs",
+   "earliest": "20190315145244"
+  },
+  {
+   "url": "https://www.lever.co/blog/ats-buyers-guide/",
+   "earliest": "20220511135808"
+  },
+  {
+   "url": "https://www.lever.co/blog/remote-work-an-almost-effortless-way-to-attract-more-diverse-talent",
+   "earliest": "20190315145424"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-gender-pay-gap-in-tech",
+   "earliest": "20190315145926"
+  },
+  {
+   "url": "https://www.lever.co/blog/unconscious-gender-bias/",
+   "earliest": "20191017173428"
+  },
+  {
+   "url": "https://www.lever.co/blog/quality-of-hire-is-the-recruiting-benchmark-to-use-in-2022/",
+   "earliest": "20220224224101"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-acquisition-partner/",
+   "earliest": "20220709113911"
+  },
+  {
+   "url": "https://www.lever.co/blog/10-places-to-find-lever-this-fall",
+   "earliest": "20190315151041"
+  },
+  {
+   "url": "https://www.lever.co/blog/improve-your-quality-of-hire-with-candidate-reference-checks",
+   "earliest": "20190315145955"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-rfp-template-how-to-evaluate-an-ats-with-crm-solution/",
+   "earliest": "20200810052134"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-write-an-inclusive-job-description/",
+   "earliest": "20211103103124"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-reasons-why-joe-mascardo-refers-every-company-hes-worked-with-to-lever",
+   "earliest": "20190315145427"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-awarded-on-the-forbes-americas-best-startup-employers-2021-list/",
+   "earliest": "20210309190416"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-build-a-remarkable-candidate-experience-for-millennials",
+   "earliest": "20190315145742"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-keys-to-staying-ahead-of-employee-turnover/",
+   "earliest": "20190720200925"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-leadership-interview-questions-to-hire-the-best-managers-for-your-team",
+   "earliest": "20190315145153"
+  },
+  {
+   "url": "https://www.lever.co/blog/facebook-recruitment-how-to-source-candidates-on-the-largest-social-network",
+   "earliest": "20190315145044"
+  },
+  {
+   "url": "https://www.lever.co/blog/candidate-experience-and-employee-engagement-best-practices",
+   "earliest": "20190315145135"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruitment-goals-for-your-talent-team/",
+   "earliest": "20220607130912"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-ats-or-the-talent-cloud-that-is-the-question/",
+   "earliest": "20190718200641"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-and-checkr-background-checks",
+   "earliest": "20190315145641"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-your-favorite-sourcing-tools",
+   "earliest": "20190315145511"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-interview-questions-for-leadership-positions",
+   "earliest": "20190315145148"
+  },
+  {
+   "url": "https://www.lever.co/blog/fall-2019-product-release/",
+   "earliest": "20191112184559"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-offer-generation-workflows",
+   "earliest": "20190315145434"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-enterprise-recruiting-challenges-and-how-to-solve-them/",
+   "earliest": "20191112182408"
+  },
+  {
+   "url": "https://www.lever.co/blog/infographic-san-francisco-vs.-nyc-hiring-showdown",
+   "earliest": "20190315151021"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-benchmarks-report-discover-the-keys-to-sourcing-success",
+   "earliest": "20190315145327"
+  },
+  {
+   "url": "https://www.lever.co/blog/bamboohr-lever",
+   "earliest": "20190315145348"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruitment-strategies-to-hire-top-talent/",
+   "earliest": "20220616131243"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-we-turned-valentines-day-into-customer-love-day",
+   "earliest": "20190315145933"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-recruiters-can-easily-improve-candidate-experience-with-onboarding/",
+   "earliest": "20210726203350"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-8-after-the-hire",
+   "earliest": "20190315145137"
+  },
+  {
+   "url": "https://www.lever.co/blog/the-5-most-common-recruiting-ailments-for-smbs-and-startups",
+   "earliest": "20190315150600"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-great-reasons-to-engage-top-talent-through-sourcing",
+   "earliest": "20190315151112"
+  },
+  {
+   "url": "https://www.lever.co/blog/cold-outreach-basics-foundational-guidelines-for-engaging-passive-talent",
+   "earliest": "20190315145712"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruit-on-social-media",
+   "earliest": "20190315145440"
+  },
+  {
+   "url": "https://www.lever.co/blog/reference-check-questions",
+   "earliest": "20190315145059"
+  },
+  {
+   "url": "https://www.lever.co/blog/save-the-date-lever-talent-innovation-summit-may-17",
+   "earliest": "20190315152439"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-netflix-creates-a-workplace-of-stunning-colleagues",
+   "earliest": "20190315145351"
+  },
+  {
+   "url": "https://www.lever.co/blog/accelerate-hiring-with-levers-mobile-enhancements",
+   "earliest": "20190315150139"
+  },
+  {
+   "url": "https://www.lever.co/blog/top-15-moments-from-our-talent-innovation-summit-2017",
+   "earliest": "20190315150600"
+  },
+  {
+   "url": "https://www.lever.co/blog/digital-com-chooses-lever-as-the-best-applicant-tracking-software-of-2020/",
+   "earliest": "20201214160510"
+  },
+  {
+   "url": "https://www.lever.co/blog/crush-planning-season-recruiter-style",
+   "earliest": "20190315151436"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-employee-onboarding-process/",
+   "earliest": "20220516005816"
+  },
+  {
+   "url": "https://www.lever.co/blog/21-talent-leaders-to-inspire-your-hiring-of-the-next-decade-of-talent/",
+   "earliest": "20191230143933"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-design-your-interview-process",
+   "earliest": "20190315145336"
+  },
+  {
+   "url": "https://www.lever.co/blog/five-reasons-candidate-sourcing-sucks-and-what-to-do-about-it",
+   "earliest": "20190315150228"
+  },
+  {
+   "url": "https://www.lever.co/blog/future-proof-hiring-process-with-trm-software/",
+   "earliest": "20211202071748"
+  },
+  {
+   "url": "https://www.lever.co/blog/our-qa-with-google-dave-how-to-attract-top-talent-by-thinking-like-a-marketer",
+   "earliest": "20190315150012"
+  },
+  {
+   "url": "https://www.lever.co/blog/hr-data-actionable-insights-talent-team/",
+   "earliest": "20220703201338"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-diversity-equity-inclusion-influence-healthcare/",
+   "earliest": "20210902023739"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-ways-cirque-du-soleil-recruiters-drive-employee-engagement",
+   "earliest": "20190315145426"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-relationships-rule-in-recruiting-now-more-than-ever",
+   "earliest": "20190315145427"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-maturity-levels-transformational/",
+   "earliest": "20220716001246"
+  },
+  {
+   "url": "https://www.lever.co/blog/happy-fathers-day-building-an-inclusive-workplace-for-dads",
+   "earliest": "20190315145706"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-joins-forces-with-employ/",
+   "earliest": "20220810024503"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-new-expectations-placed-on-talent-leaders-in-2019/",
+   "earliest": "20190819123858"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-internal-mobility-is-key-to-a-more-diverse-workforce/",
+   "earliest": "20211206121237"
+  },
+  {
+   "url": "https://www.lever.co/blog/work-from-home-4-ways-to-make-it-work-at-your-company",
+   "earliest": "20190315150624"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-intelligence-platform/",
+   "earliest": "20220715161140"
+  },
+  {
+   "url": "https://www.lever.co/blog/why-candidate-experience-is-your-employer-branding-weapon",
+   "earliest": "20190315145504"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-feats-you-didnt-know-your-hr-tech-could-accomplish",
+   "earliest": "20190315150733"
+  },
+  {
+   "url": "https://www.lever.co/blog/full-life-cycle-recruiting-process/",
+   "earliest": "20220602134040"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-committing-to-fair-compensation",
+   "earliest": "20190315145503"
+  },
+  {
+   "url": "https://www.lever.co/blog/moving-beyond-the-eu-us-privacy-shield/",
+   "earliest": "20200810042954"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-encourage-employees-to-vote/",
+   "earliest": "20201109170216"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-hire-talent-successfully-in-the-entertainment-industry",
+   "earliest": "20190315145418"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-build-company-culture/",
+   "earliest": "20190916060537"
+  },
+  {
+   "url": "https://www.lever.co/blog/source-a-diverse-candidate-pipeline/",
+   "earliest": "20190723183016"
+  },
+  {
+   "url": "https://www.lever.co/blog/strategic-workforce-planning-a-blueprint-for-success/",
+   "earliest": "20220830130758"
+  },
+  {
+   "url": "https://www.lever.co/blog/levers-talent-innovation-summit-2017-what-to-expect",
+   "earliest": "20190315150243"
+  },
+  {
+   "url": "https://www.lever.co/blog/experts-steve-levy-and-jer-langhans-share-their-biggest-piece-of-sourcing-advice",
+   "earliest": "20190315145958"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-lyft-nails-hypergrowth-without-compromising-culture",
+   "earliest": "20190315145350"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-stress-test-your-2019-hiring-plan",
+   "earliest": "20190315145342"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-winter-release-2021/",
+   "earliest": "20220223203110"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-stats-that-prove-why-a-strong-employer-brand-is-critical",
+   "earliest": "20190315145640"
+  },
+  {
+   "url": "https://www.lever.co/blog/heres-what-engineers-hate-about-your-recruiting-emails",
+   "earliest": "20190315145618"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-become-the-company-millennials-choose",
+   "earliest": "20190315151001"
+  },
+  {
+   "url": "https://www.lever.co/blog/recruiting-on-a-startup-budget",
+   "earliest": "20190315145802"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-things-to-include-in-a-startup-recruiters-job-description/",
+   "earliest": "20191112191408"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-flexible-hiring-is-key-to-building-cutting-edge-technology-at-rotor-studios",
+   "earliest": "20190315150657"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-engaged-employees-improve-your-recruitment-program",
+   "earliest": "20190315150020"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-support-lgbtq-inclusion-in-the-workplace/",
+   "earliest": "20210621201009"
+  },
+  {
+   "url": "https://www.lever.co/blog/its-time-to-re-evaluate-your-application-process",
+   "earliest": "20190315150101"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-ceo-sarah-nahm-looks-forward-at-the-next-decade-of-talent/",
+   "earliest": "20200810055538"
+  },
+  {
+   "url": "https://www.lever.co/blog-subscription-confirmed",
+   "earliest": "20190315145712"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-drive-company-culture-through-recruiting",
+   "earliest": "20190315150011"
+  },
+  {
+   "url": "https://www.lever.co/blog/overcoming-recruiter-burnout-5-tips/",
+   "earliest": "20220110121544"
+  },
+  {
+   "url": "https://www.lever.co/blog/when-and-how-to-use-different-interview-techniques",
+   "earliest": "20190315145803"
+  },
+  {
+   "url": "https://www.lever.co/blog/methods-to-boost-employee-morale/",
+   "earliest": "20220209121634"
+  },
+  {
+   "url": "https://www.lever.co/blog/working-remotely-ideal-work-environment-or-threat-to-culture-and-employee-productivity",
+   "earliest": "20190315150913"
+  },
+  {
+   "url": "https://www.lever.co/blog/nurturing-candidates-over-the-long-haul",
+   "earliest": "20190315145717"
+  },
+  {
+   "url": "https://www.lever.co/blog/emojis-in-lever-take-candidate-feedback-to-expressive-heights",
+   "earliest": "20190315151141"
+  },
+  {
+   "url": "https://www.lever.co/blog/introducing-lever-hire-for-the-best",
+   "earliest": "20190315145507"
+  },
+  {
+   "url": "https://www.lever.co/blog/headcount-heroes-funnel-metrics-to-boost-efficiency",
+   "earliest": "20190315150043"
+  },
+  {
+   "url": "https://www.lever.co/blog/my-biggest-recruiting-mistakes-our-poolside-chat-with-stacy-donovan-zapar",
+   "earliest": "20190315150125"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-to-reimagine-recruiting-for-success-in-manufacturing/",
+   "earliest": "20200927190242"
+  },
+  {
+   "url": "https://www.lever.co/blog/diversity-inclusion-imperative-in-retail/",
+   "earliest": "20210830173004"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-acquisition-trends-to-know/",
+   "earliest": "20211027140526"
+  },
+  {
+   "url": "https://www.lever.co/blog/xing-recruiting-how-to-source-candidates-on-europes-largest-professional-network",
+   "earliest": "20190315145416"
+  },
+  {
+   "url": "https://www.lever.co/blog/blog-best-practices-in-recruiting-win-talent/",
+   "earliest": "20210802190547"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-social-recruiting-can-help-you-win-top-talent",
+   "earliest": "20190315151523"
+  },
+  {
+   "url": "https://www.lever.co/blog/data-protection-laws-101-the-recruiters-role-in-californias-new-privacy-law/",
+   "earliest": "20200426201530"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-chances-to-catch-lever-this-fall",
+   "earliest": "20190315151328"
+  },
+  {
+   "url": "https://www.lever.co/blog/legacy-ats-systems/",
+   "earliest": "20211209141320"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-to-leverage-design-thinking-to-build-sustainable-talent-pipelines",
+   "earliest": "20190315145909"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-slack-launch",
+   "earliest": "20190315145703"
+  },
+  {
+   "url": "https://www.lever.co/blog/2022-saas-awards/",
+   "earliest": "20220726130830"
+  },
+  {
+   "url": "https://www.lever.co/blog/goodbye-job-descriptions-hello-impact-descriptions/",
+   "earliest": "20190716120244"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-innovation-countdown-your-chance-to-stump-lou-adler",
+   "earliest": "20190315151844"
+  },
+  {
+   "url": "https://www.lever.co/blog/7-must-reads-for-every-recruiters-bookshelf",
+   "earliest": "20190315145857"
+  },
+  {
+   "url": "https://www.lever.co/blog/talent-maturity-levels-accelerating/",
+   "earliest": "20220716002748"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-innovative-takeaways-from-the-covid-19-experience/",
+   "earliest": "20200804051658"
+  },
+  {
+   "url": "https://www.lever.co/blog/heres-what-we-know-about-gdpr-right-now/",
+   "earliest": "20201202235826"
+  },
+  {
+   "url": "https://www.lever.co/blog/lever-sapling",
+   "earliest": "20190315145613"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-remote-work-varies-for-recruiting-by-industry/",
+   "earliest": "20201105173138"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-cfo-and-vp-of-engineering/",
+   "earliest": "20190917125255"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-ways-you-should-be-using-glassdoor",
+   "earliest": "20190315145124"
+  },
+  {
+   "url": "https://www.lever.co/blog/2019-talent-benchmarks-the-metrics-of-sourcing/",
+   "earliest": "20190819130005"
+  },
+  {
+   "url": "https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-3-getting-buy-in",
+   "earliest": "20190315145215"
+  },
+  {
+   "url": "https://www.lever.co/blog/4-mistakes-youre-making-when-you-recruit-passive-candidates",
+   "earliest": "20190315150222"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-15five-tackles-explosive-growth-while-maintaining-a-lean-hiring-team/",
+   "earliest": "20210728125834"
+  },
+  {
+   "url": "https://www.lever.co/blog/summer-of-sourcing-mastering-analytics-of-sourcing",
+   "earliest": "20190315145738"
+  },
+  {
+   "url": "https://www.lever.co/blog/hopper-schedules-interviews-2x-faster-to-win-critical-tech-talent/",
+   "earliest": "20200810055437"
+  },
+  {
+   "url": "https://www.lever.co/blog/hired-and-lever",
+   "earliest": "20190315150542"
+  },
+  {
+   "url": "https://www.lever.co/blog/bad-interview-experience",
+   "earliest": "20190315145213"
+  },
+  {
+   "url": "https://www.lever.co/blog/attracting-passive-candidates/",
+   "earliest": "20220316222041"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-steps-building-truly-inclusive-workplaces/",
+   "earliest": "20210922215847"
+  },
+  {
+   "url": "https://www.lever.co/blog/3-benefits-of-utilizing-text-to-engage-candidates-and-employees/",
+   "earliest": "20200426201014"
+  },
+  {
+   "url": "https://www.lever.co/blog/5-prescriptions-for-recruiting-success-in-health-tech",
+   "earliest": "20190315145849"
+  },
+  {
+   "url": "https://www.lever.co/blog/closing-top-tier-talent-with-a-great-candidate-experience",
+   "earliest": "20190315150037"
+  },
+  {
+   "url": "https://www.lever.co/blog/different-types-of-internal-mobility-everything-you-need-to-know/",
+   "earliest": "20220411162203"
+  },
+  {
+   "url": "https://www.lever.co/blog/user-reviews-lever-top-applicant-tracking-system",
+   "earliest": "20190315145255"
+  },
+  {
+   "url": "https://www.lever.co/blog/how-foodstuffs-saved-over-1m-in-agency-fees",
+   "earliest": "20190315145600"
+  },
+  {
+   "url": "https://www.lever.co/blog/tip-sheet-hiring-for-startups",
+   "earliest": "20190315151527"
+  },
+  {
+   "url": "https://www.lever.co/blog/what-is-career-agility/",
+   "earliest": "20220526121952"
+  },
+  {
+   "url": "https://www.lever.co/blog/new-access-controls-all-you-need-and-nothing-more",
+   "earliest": "20190315145628"
+  },
+  {
+   "url": "https://www.lever.co/blog/ask-the-sourcing-squad-how-to-measure-your-sourcing-success",
+   "earliest": "20190315145357"
+  }
+ ]
+}
