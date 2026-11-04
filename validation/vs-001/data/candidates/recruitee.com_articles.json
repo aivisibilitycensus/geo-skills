@@ -1,0 +1,2051 @@
+{
+ "blog": "recruitee.com/articles",
+ "group": "Recruitment and HR",
+ "reserve": false,
+ "cdxRows": 551,
+ "articleLike": 510,
+ "queriedAt": "2026-11-04T03:27:44.860Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://recruitee.com/articles/careers-page",
+   "earliest": "20220118200041"
+  },
+  {
+   "url": "https://recruitee.com/articles/gdpr-compliance-recruitment",
+   "earliest": "20211127180926"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-methods",
+   "earliest": "20211128051733"
+  },
+  {
+   "url": "https://recruitee.com/articles/importance-of-recruitment",
+   "earliest": "20220117001533"
+  },
+  {
+   "url": "https://recruitee.com/articles/ats-users",
+   "earliest": "20211127174437"
+  },
+  {
+   "url": "https://recruitee.com/articles/start-up-surviving-pandemic",
+   "earliest": "20211127170217"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-acquisition-lessons",
+   "earliest": "20211127164850"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-efficiency",
+   "earliest": "20220126045932"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-process-steps",
+   "earliest": "20220118184042"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-onboarding",
+   "earliest": "20220126042925"
+  },
+  {
+   "url": "https://recruitee.com/articles/equal-opportunity-employer-statement",
+   "earliest": "20220116103545"
+  },
+  {
+   "url": "https://recruitee.com/articles/tainnovators-recruitment-growth",
+   "earliest": "20220116101322"
+  },
+  {
+   "url": "https://recruitee.com/articles/psychological-safety-at-work",
+   "earliest": "20211130100246"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-strategy-for-startups",
+   "earliest": "20211128055701"
+  },
+  {
+   "url": "https://recruitee.com/articles/pay-transparency",
+   "earliest": "20220119075644"
+  },
+  {
+   "url": "https://recruitee.com/articles/disability-inclusion-in-the-workplace",
+   "earliest": "20211127180111"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-twitter-chats",
+   "earliest": "20220116100122"
+  },
+  {
+   "url": "https://recruitee.com/articles/develop-recruitment-marketing",
+   "earliest": "20211128050611"
+  },
+  {
+   "url": "https://recruitee.com/articles/boolean-search-in-recruitment",
+   "earliest": "20220126050113"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-manager",
+   "earliest": "20220126043654"
+  },
+  {
+   "url": "https://recruitee.com/articles/offer-email-formal-job-offer",
+   "earliest": "20211128055210"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-culture-fit",
+   "earliest": "20220118192620"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-tech-conferences",
+   "earliest": "20220119132527"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-process-steps",
+   "earliest": "20220118190257"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-evaluations",
+   "earliest": "20220119132607"
+  },
+  {
+   "url": "https://recruitee.com/articles/digital-candidate-experience",
+   "earliest": "20220116100150"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-scorecards",
+   "earliest": "20211130100647"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-stats-you-need-to-know",
+   "earliest": "20220119144612"
+  },
+  {
+   "url": "https://recruitee.com/articles/custom-recruitment-dashboard",
+   "earliest": "20211127172857"
+  },
+  {
+   "url": "https://recruitee.com/articles/positive-work-cultures",
+   "earliest": "20220126053406"
+  },
+  {
+   "url": "https://recruitee.com/articles/tips-to-avoid-10-recruitment-mistakes-mean-girls-edition",
+   "earliest": "20221003130552"
+  },
+  {
+   "url": "https://recruitee.com/articles/poaching-employees",
+   "earliest": "20220117002655"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-description-templates",
+   "earliest": "20220126054554"
+  },
+  {
+   "url": "https://recruitee.com/articles/referral-bonus",
+   "earliest": "20211128052028"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-hiring-and-working",
+   "earliest": "20220121223937"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-metrics-guide",
+   "earliest": "20220118192546"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-hiring",
+   "earliest": "20211128060911"
+  },
+  {
+   "url": "https://recruitee.com/articles/multigenerational-talent-pool",
+   "earliest": "20220127154004"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-recruiter",
+   "earliest": "20220126042612"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-referrals",
+   "earliest": "20211128060819"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-freelancers",
+   "earliest": "20220119135909"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-millennials-easier",
+   "earliest": "20220116103827"
+  },
+  {
+   "url": "https://recruitee.com/articles/salary-negotiation-mistakes",
+   "earliest": "20220119142014"
+  },
+  {
+   "url": "https://recruitee.com/articles/human-resource-planning-process",
+   "earliest": "20220121231113"
+  },
+  {
+   "url": "https://recruitee.com/articles/assessing-talent",
+   "earliest": "20220121231651"
+  },
+  {
+   "url": "https://recruitee.com/articles/equity-in-workplace",
+   "earliest": "20211130083847"
+  },
+  {
+   "url": "https://recruitee.com/articles/efficient-hiring-process-recruitment",
+   "earliest": "20211128052249"
+  },
+  {
+   "url": "https://recruitee.com/articles/linkedin-sales-navigator",
+   "earliest": "20211128053637"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-resignation-reasons",
+   "earliest": "20220119135204"
+  },
+  {
+   "url": "https://recruitee.com/articles/global-talent",
+   "earliest": "20220116105225"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-email-templates",
+   "earliest": "20211128053441"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-marketing",
+   "earliest": "20220118184934"
+  },
+  {
+   "url": "https://recruitee.com/articles/calculating-cost-per-hire",
+   "earliest": "20220126043501"
+  },
+  {
+   "url": "https://recruitee.com/articles/free-job-advertising",
+   "earliest": "20211128054915"
+  },
+  {
+   "url": "https://recruitee.com/articles/toxic-employees-in-the-workplace",
+   "earliest": "20211201144107"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-biases",
+   "earliest": "20211127164400"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-analytics",
+   "earliest": "20211127174147"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-raises",
+   "earliest": "20220119130207"
+  },
+  {
+   "url": "https://recruitee.com/articles/education-in-recruiting",
+   "earliest": "20220119084228"
+  },
+  {
+   "url": "https://recruitee.com/articles/psychology-to-hire",
+   "earliest": "20220626182527"
+  },
+  {
+   "url": "https://recruitee.com/articles/ux-recruitment-software",
+   "earliest": "20211128044351"
+  },
+  {
+   "url": "https://recruitee.com/articles/gender-inequality",
+   "earliest": "20211127174511"
+  },
+  {
+   "url": "https://recruitee.com/articles/reinforce-company-values-during-onboarding",
+   "earliest": "20220119133409"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-engagement",
+   "earliest": "20211128053200"
+  },
+  {
+   "url": "https://recruitee.com/articles/top-interview-questions",
+   "earliest": "20220118201751"
+  },
+  {
+   "url": "https://recruitee.com/articles/true-cost-per-hire",
+   "earliest": "20220119130502"
+  },
+  {
+   "url": "https://recruitee.com/articles/50-things-working-remotely",
+   "earliest": "20220119144429"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-trends",
+   "earliest": "20211128060629"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-chatbots",
+   "earliest": "20220118194514"
+  },
+  {
+   "url": "https://recruitee.com/articles/diversity-recruiting-strategy",
+   "earliest": "20211127182315"
+  },
+  {
+   "url": "https://recruitee.com/articles/upskill-your-workforce",
+   "earliest": "20220118201118"
+  },
+  {
+   "url": "https://recruitee.com/articles/salary-questions",
+   "earliest": "20220119130419"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-team-communication-tips",
+   "earliest": "20211127182832"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-process-costs",
+   "earliest": "20220118191246"
+  },
+  {
+   "url": "https://recruitee.com/articles/diversity-metrics",
+   "earliest": "20220925041550"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-skills-testing",
+   "earliest": "20220116104918"
+  },
+  {
+   "url": "https://recruitee.com/articles/retail-recruitment",
+   "earliest": "20220807213327"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-loyalty",
+   "earliest": "20220117002539"
+  },
+  {
+   "url": "https://recruitee.com/articles/culture-change",
+   "earliest": "20220118183911"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-system",
+   "earliest": "20220121235240"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-scorecard",
+   "earliest": "20220122210921"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-mobile-app",
+   "earliest": "20220119125406"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-recognition-program",
+   "earliest": "20220126045030"
+  },
+  {
+   "url": "https://recruitee.com/articles/simulations-recruitment",
+   "earliest": "20211130093049"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-tests",
+   "earliest": "20220121223405"
+  },
+  {
+   "url": "https://recruitee.com/articles/video-recruitment",
+   "earliest": "20220121224745"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-manager-relationship",
+   "earliest": "20211127165430"
+  },
+  {
+   "url": "https://recruitee.com/articles/data-driven-recruitment",
+   "earliest": "20220118190832"
+  },
+  {
+   "url": "https://recruitee.com/articles/common-hr-problems",
+   "earliest": "20220126042810"
+  },
+  {
+   "url": "https://recruitee.com/articles/greatest-leadership-lessons",
+   "earliest": "20211127170546"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-build-your-employee-value-proposition",
+   "earliest": "20220817093604"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-use-tags",
+   "earliest": "20211127164120"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-job-boards-2019",
+   "earliest": "20211128052911"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-innovation",
+   "earliest": "20220121233801"
+  },
+  {
+   "url": "https://recruitee.com/articles/antiwork-movement",
+   "earliest": "20220406145723"
+  },
+  {
+   "url": "https://recruitee.com/articles/employees-financial-wellbeing",
+   "earliest": "20220510201723"
+  },
+  {
+   "url": "https://recruitee.com/articles/company-culture-in-virtual-world",
+   "earliest": "20220118193423"
+  },
+  {
+   "url": "https://recruitee.com/articles/manual-tasks-in-recruitment",
+   "earliest": "20211128053707"
+  },
+  {
+   "url": "https://recruitee.com/articles/presenteeism-in-the-workplace",
+   "earliest": "20220626172323"
+  },
+  {
+   "url": "https://recruitee.com/articles/innovative-recruitment",
+   "earliest": "20220118192437"
+  },
+  {
+   "url": "https://recruitee.com/articles/ideal-strategies-for-creating-a-collaborative-culture",
+   "earliest": "20220117012419"
+  },
+  {
+   "url": "https://recruitee.com/articles/effective-remote-meetings",
+   "earliest": "20220119130337"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-email-templates",
+   "earliest": "20220116105414"
+  },
+  {
+   "url": "https://recruitee.com/articles/campus-recruiting-ideas",
+   "earliest": "20220118191851"
+  },
+  {
+   "url": "https://recruitee.com/articles/quality-of-hire",
+   "earliest": "20211128054512"
+  },
+  {
+   "url": "https://recruitee.com/articles/challenges-of-recruiting-millennials",
+   "earliest": "20220119143558"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-recruit-on-twitter",
+   "earliest": "20220122001357"
+  },
+  {
+   "url": "https://recruitee.com/articles/conduct-a-second-interview",
+   "earliest": "20220117015452"
+  },
+  {
+   "url": "https://recruitee.com/articles/social-recruiting-platforms",
+   "earliest": "20220118184738"
+  },
+  {
+   "url": "https://recruitee.com/articles/invest-in-our-planet",
+   "earliest": "20220422084019"
+  },
+  {
+   "url": "https://recruitee.com/articles/hybrid-workplace-culture",
+   "earliest": "20211128054241"
+  },
+  {
+   "url": "https://recruitee.com/articles/implementing-ai",
+   "earliest": "20220119143222"
+  },
+  {
+   "url": "https://recruitee.com/articles/inclusive-job-descriptions",
+   "earliest": "20221027140333"
+  },
+  {
+   "url": "https://recruitee.com/articles/creative-liberty-in-the-workplace",
+   "earliest": "20220626163409"
+  },
+  {
+   "url": "https://recruitee.com/articles/keyword-research-job-postings",
+   "earliest": "20220126050402"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-feedback",
+   "earliest": "20211130085942"
+  },
+  {
+   "url": "https://recruitee.com/articles/negative-feedback",
+   "earliest": "20211209010144"
+  },
+  {
+   "url": "https://recruitee.com/articles/new-employee-checklist-candidate-experience",
+   "earliest": "20220119073814"
+  },
+  {
+   "url": "https://recruitee.com/articles/inbound-marketing-for-recruiters",
+   "earliest": "20220116095305"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-work-etiquette",
+   "earliest": "20220126042536"
+  },
+  {
+   "url": "https://recruitee.com/articles/slack-recruiting",
+   "earliest": "20220121230222"
+  },
+  {
+   "url": "https://recruitee.com/articles/it-recruiting-trends",
+   "earliest": "20220117012018"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-write-employee-referrals",
+   "earliest": "20220126054819"
+  },
+  {
+   "url": "https://recruitee.com/articles/positive-feedback-to-employees",
+   "earliest": "20220118201630"
+  },
+  {
+   "url": "https://recruitee.com/articles/non-managerial-environment",
+   "earliest": "20211127182729"
+  },
+  {
+   "url": "https://recruitee.com/articles/misconduct-in-the-workplace",
+   "earliest": "20220116103025"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-body-language",
+   "earliest": "20211209010517"
+  },
+  {
+   "url": "https://recruitee.com/articles/structured-interview",
+   "earliest": "20220126055406"
+  },
+  {
+   "url": "https://recruitee.com/articles/conduct-a-job-analysis",
+   "earliest": "20220122002807"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruit-remote-workforce",
+   "earliest": "20211128053607"
+  },
+  {
+   "url": "https://recruitee.com/articles/mobile-recruiting-strategy",
+   "earliest": "20220121232749"
+  },
+  {
+   "url": "https://recruitee.com/articles/generation-z-recruitment",
+   "earliest": "20220117012241"
+  },
+  {
+   "url": "https://recruitee.com/articles/single-parents",
+   "earliest": "20220122211712"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-policy",
+   "earliest": "20220126043425"
+  },
+  {
+   "url": "https://recruitee.com/articles/careers-site-performance-metrics",
+   "earliest": "20220913094710"
+  },
+  {
+   "url": "https://recruitee.com/articles/finding-a-job",
+   "earliest": "20220116105508"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-layoffs",
+   "earliest": "20220121233313"
+  },
+  {
+   "url": "https://recruitee.com/articles/avoid-hiring-mistakes",
+   "earliest": "20211209012723"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-manage-change-in-your-organization",
+   "earliest": "20220118200947"
+  },
+  {
+   "url": "https://recruitee.com/articles/why-calling-candidates-is-better",
+   "earliest": "20220121225937"
+  },
+  {
+   "url": "https://recruitee.com/articles/campus-recruiter",
+   "earliest": "20220119083350"
+  },
+  {
+   "url": "https://recruitee.com/articles/great-candidate-experience",
+   "earliest": "20211128054034"
+  },
+  {
+   "url": "https://recruitee.com/articles/behaviorally-anchored-rating-scales",
+   "earliest": "20220116095826"
+  },
+  {
+   "url": "https://recruitee.com/articles/hybrid-hiring",
+   "earliest": "20211130100822"
+  },
+  {
+   "url": "https://recruitee.com/articles/sales-hiring",
+   "earliest": "20220118194136"
+  },
+  {
+   "url": "https://recruitee.com/articles/hire-the-right-person",
+   "earliest": "20220117015428"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-managers-and-collaborative-hiring",
+   "earliest": "20211127172108"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-automation-hiring-technology",
+   "earliest": "20211128052325"
+  },
+  {
+   "url": "https://recruitee.com/articles/improve-cost-effective-hiring",
+   "earliest": "20220119082436"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-tech-hiring",
+   "earliest": "20211127172543"
+  },
+  {
+   "url": "https://recruitee.com/articles/prevent-employee-resignations",
+   "earliest": "20220121224426"
+  },
+  {
+   "url": "https://recruitee.com/articles/voice-technology-in-recruitment",
+   "earliest": "20220117003347"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-online",
+   "earliest": "20220126052701"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-handbook",
+   "earliest": "20220126050823"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-techniques-for-employers",
+   "earliest": "20211209013840"
+  },
+  {
+   "url": "https://recruitee.com/articles/tech-recruiting",
+   "earliest": "20211127172344"
+  },
+  {
+   "url": "https://recruitee.com/articles/unconventional-interview-questions",
+   "earliest": "20220117001151"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-sources",
+   "earliest": "20220121233051"
+  },
+  {
+   "url": "https://recruitee.com/articles/hybrid-working-model",
+   "earliest": "20211130095510"
+  },
+  {
+   "url": "https://recruitee.com/articles/skills-based-hiring",
+   "earliest": "20211128045409"
+  },
+  {
+   "url": "https://recruitee.com/articles/multiple-job-boards",
+   "earliest": "20220116101926"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-burnout",
+   "earliest": "20220126054015"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-leaders",
+   "earliest": "20211127182213"
+  },
+  {
+   "url": "https://recruitee.com/articles/behavioral-questions",
+   "earliest": "20220119144402"
+  },
+  {
+   "url": "https://recruitee.com/articles/employer-branding-strategy",
+   "earliest": "20220118192037"
+  },
+  {
+   "url": "https://recruitee.com/articles/want-to-know-how-to-hire-people-faster",
+   "earliest": "20220116101011"
+  },
+  {
+   "url": "https://recruitee.com/articles/ats-tracking",
+   "earliest": "20220126044956"
+  },
+  {
+   "url": "https://recruitee.com/articles/lean-recruitment",
+   "earliest": "20220116102714"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-offers",
+   "earliest": "20211130092817"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-agencies",
+   "earliest": "20220126045502"
+  },
+  {
+   "url": "https://recruitee.com/articles/automated-recruitment-system",
+   "earliest": "20211128055950"
+  },
+  {
+   "url": "https://recruitee.com/articles/hire-a-customer-experience-specialist",
+   "earliest": "20220622085556"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-engagement-survey-questions",
+   "earliest": "20220118185209"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-practices-after-pandemic",
+   "earliest": "20220514173251"
+  },
+  {
+   "url": "https://recruitee.com/articles/gdpr-6-months-in",
+   "earliest": "20220117014822"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-metrics-optimization",
+   "earliest": "20220118192804"
+  },
+  {
+   "url": "https://recruitee.com/articles/video-recruitment-software",
+   "earliest": "20220121230613"
+  },
+  {
+   "url": "https://recruitee.com/articles/facebook-jobs",
+   "earliest": "20220116104629"
+  },
+  {
+   "url": "https://recruitee.com/articles/culture-innovation",
+   "earliest": "20211130084334"
+  },
+  {
+   "url": "https://recruitee.com/articles/guide-to-exit-interviews",
+   "earliest": "20220118192512"
+  },
+  {
+   "url": "https://recruitee.com/articles/exit-interview-questions",
+   "earliest": "20211209011824"
+  },
+  {
+   "url": "https://recruitee.com/articles/full-cycle-recruiting",
+   "earliest": "20220118202055"
+  },
+  {
+   "url": "https://recruitee.com/articles/become-an-equal-opportunity-employer-with-recruitee",
+   "earliest": "20220122204742"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-strategies",
+   "earliest": "20220118192404"
+  },
+  {
+   "url": "https://recruitee.com/articles/role-of-hr",
+   "earliest": "20220118184415"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-data-silos",
+   "earliest": "20220118192330"
+  },
+  {
+   "url": "https://recruitee.com/articles/marie-kondo-ats",
+   "earliest": "20220118202122"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-experience-survey",
+   "earliest": "20220119140954"
+  },
+  {
+   "url": "https://recruitee.com/articles/hybrid-workplace",
+   "earliest": "20211209013113"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-onboarding",
+   "earliest": "20220119130121"
+  },
+  {
+   "url": "https://recruitee.com/articles/pre-interview",
+   "earliest": "20220126042337"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-recruitment-process",
+   "earliest": "20220118193131"
+  },
+  {
+   "url": "https://recruitee.com/articles/inclusive-recruitment-campaigns",
+   "earliest": "20220520134512"
+  },
+  {
+   "url": "https://recruitee.com/articles/instagram-recruiting",
+   "earliest": "20220121225545"
+  },
+  {
+   "url": "https://recruitee.com/articles/gdpr-in-recruitment",
+   "earliest": "20220520131532"
+  },
+  {
+   "url": "https://recruitee.com/articles/open-door-policy",
+   "earliest": "20211130102103"
+  },
+  {
+   "url": "https://recruitee.com/articles/sources-of-recruitment",
+   "earliest": "20211128045018"
+  },
+  {
+   "url": "https://recruitee.com/articles/employer-brand-audit",
+   "earliest": "20220117005427"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-application-process",
+   "earliest": "20211128060538"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-assessments",
+   "earliest": "20220126060341"
+  },
+  {
+   "url": "https://recruitee.com/articles/easy-applications",
+   "earliest": "20220119134759"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-red-flags",
+   "earliest": "20211209005855"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-communication",
+   "earliest": "20211128053054"
+  },
+  {
+   "url": "https://recruitee.com/articles/resume-screening",
+   "earliest": "20220118184856"
+  },
+  {
+   "url": "https://recruitee.com/articles/worst-interview-questions",
+   "earliest": "20220126055457"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-phone-interview-questions",
+   "earliest": "20220121234117"
+  },
+  {
+   "url": "https://recruitee.com/articles/agile-hr",
+   "earliest": "20220116103519"
+  },
+  {
+   "url": "https://recruitee.com/articles/teamwork-recognition",
+   "earliest": "20220116102903"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-relationship-management",
+   "earliest": "20211127145305"
+  },
+  {
+   "url": "https://recruitee.com/articles/shortlist-candidates",
+   "earliest": "20220118200637"
+  },
+  {
+   "url": "https://recruitee.com/articles/elements-employer-branding",
+   "earliest": "20220106093951"
+  },
+  {
+   "url": "https://recruitee.com/articles/time-to-hire-hiring-metric",
+   "earliest": "20220118193347"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-sourcing-automation",
+   "earliest": "20211128052728"
+  },
+  {
+   "url": "https://recruitee.com/articles/inclusive-workplace-culture",
+   "earliest": "20220925043748"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-podcasts",
+   "earliest": "20220119134308"
+  },
+  {
+   "url": "https://recruitee.com/articles/skills-gap-analysis",
+   "earliest": "20220118171428"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-resources-talent-shortage",
+   "earliest": "20220126041836"
+  },
+  {
+   "url": "https://recruitee.com/articles/hire-a-recruiter",
+   "earliest": "20220116104723"
+  },
+  {
+   "url": "https://recruitee.com/articles/sourcing-strategies",
+   "earliest": "20211128054844"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-acquisition-strategies",
+   "earliest": "20211128053234"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-interviewing-process",
+   "earliest": "20220118195424"
+  },
+  {
+   "url": "https://recruitee.com/articles/sustainable-employer-branding",
+   "earliest": "20220403151121"
+  },
+  {
+   "url": "https://recruitee.com/articles/display-salary",
+   "earliest": "20220119142936"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-fit-interview-questions",
+   "earliest": "20220118195243"
+  },
+  {
+   "url": "https://recruitee.com/articles/working-in-recruitment",
+   "earliest": "20220126050716"
+  },
+  {
+   "url": "https://recruitee.com/articles/increasing-employee-engagement",
+   "earliest": "20220118201016"
+  },
+  {
+   "url": "https://recruitee.com/articles/event-recruitment",
+   "earliest": "20211128051843"
+  },
+  {
+   "url": "https://recruitee.com/articles/pandemic-employee-benefits",
+   "earliest": "20220126055519"
+  },
+  {
+   "url": "https://recruitee.com/articles/staff-engagement",
+   "earliest": "20220119081300"
+  },
+  {
+   "url": "https://recruitee.com/articles/implementing-agile-recruiting",
+   "earliest": "20220126045857"
+  },
+  {
+   "url": "https://recruitee.com/articles/facebook-groups-recruiters",
+   "earliest": "20220118202212"
+  },
+  {
+   "url": "https://recruitee.com/articles/team-calendar",
+   "earliest": "20211127181057"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-talent-experience",
+   "earliest": "20211127173710"
+  },
+  {
+   "url": "https://recruitee.com/articles/staff-augmentation",
+   "earliest": "20220119133858"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-employee-engagement",
+   "earliest": "20211130095917"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-questionnaires",
+   "earliest": "20220126052528"
+  },
+  {
+   "url": "https://recruitee.com/articles/cracking-the-corporate-recruiting-code",
+   "earliest": "20220116095855"
+  },
+  {
+   "url": "https://recruitee.com/articles/pandemic-recruitment",
+   "earliest": "20220118191439"
+  },
+  {
+   "url": "https://recruitee.com/articles/build-company-culture-with-social-media",
+   "earliest": "20220118183413"
+  },
+  {
+   "url": "https://recruitee.com/articles/more-candidate-applications",
+   "earliest": "20220119131753"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-use-virtual-assistant-to-improve-recruitment",
+   "earliest": "20220126043001"
+  },
+  {
+   "url": "https://recruitee.com/articles/reading-candidate-body-language-in-a-virtual-job-interview",
+   "earliest": "20211209004656"
+  },
+  {
+   "url": "https://recruitee.com/articles/seasonal-employees",
+   "earliest": "20220119141823"
+  },
+  {
+   "url": "https://recruitee.com/articles/linkedin-profile-tips",
+   "earliest": "20220116103238"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-experience-employer-branding",
+   "earliest": "20220121232825"
+  },
+  {
+   "url": "https://recruitee.com/articles/build-great-career-sites",
+   "earliest": "20220118192839"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiter-burnout",
+   "earliest": "20220516171233"
+  },
+  {
+   "url": "https://recruitee.com/articles/optimize-candidate-emails",
+   "earliest": "20211128054207"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-instagram-stories-can-promote-brand",
+   "earliest": "20220116100913"
+  },
+  {
+   "url": "https://recruitee.com/articles/ai-in-recruiting",
+   "earliest": "20220117013316"
+  },
+  {
+   "url": "https://recruitee.com/articles/why-offboarding-isnt-a-waste-of-time",
+   "earliest": "20211209005416"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-assessment",
+   "earliest": "20220122002903"
+  },
+  {
+   "url": "https://recruitee.com/articles/onboarding-mistakes",
+   "earliest": "20220925060410"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-productivity",
+   "earliest": "20220118183742"
+  },
+  {
+   "url": "https://recruitee.com/articles/resignation-exit-interviews",
+   "earliest": "20220118200222"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-thank-you-email",
+   "earliest": "20220126051809"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidates-personal-brands",
+   "earliest": "20220626173124"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-mentoring-program",
+   "earliest": "20211130094507"
+  },
+  {
+   "url": "https://recruitee.com/articles/reduce-cost-per-hire",
+   "earliest": "20220121223803"
+  },
+  {
+   "url": "https://recruitee.com/articles/creative-job-offers",
+   "earliest": "20220119142235"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-certifications",
+   "earliest": "20211126153741"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-a-diverse-team-remotely",
+   "earliest": "20211127172221"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-acquisition",
+   "earliest": "20211127182003"
+  },
+  {
+   "url": "https://recruitee.com/articles/team-recruitment",
+   "earliest": "20211127175055"
+  },
+  {
+   "url": "https://recruitee.com/articles/intake-meetings",
+   "earliest": "20211127173134"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-career-pages",
+   "earliest": "20211128051554"
+  },
+  {
+   "url": "https://recruitee.com/articles/ai-recruitment-myths",
+   "earliest": "20220117005536"
+  },
+  {
+   "url": "https://recruitee.com/articles/diversity-inclusion-post-covid",
+   "earliest": "20211130102034"
+  },
+  {
+   "url": "https://recruitee.com/articles/reference-checks",
+   "earliest": "20220119125950"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-budget",
+   "earliest": "20220119072619"
+  },
+  {
+   "url": "https://recruitee.com/articles/pto-policy",
+   "earliest": "20220228195222"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-rejection-email",
+   "earliest": "20220126050930"
+  },
+  {
+   "url": "https://recruitee.com/articles/inbound-recruiting",
+   "earliest": "20211128050504"
+  },
+  {
+   "url": "https://recruitee.com/articles/lgbtq-inclusive-workplace",
+   "earliest": "20220626162630"
+  },
+  {
+   "url": "https://recruitee.com/articles/sourcing-candidates",
+   "earliest": "20211128051917"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-recruitee-keeps-your-data-protected",
+   "earliest": "20220122212131"
+  },
+  {
+   "url": "https://recruitee.com/articles/thank-you-notes",
+   "earliest": "20220118185447"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-influencers-tiktok",
+   "earliest": "20220826151210"
+  },
+  {
+   "url": "https://recruitee.com/articles/transitioning-to-remote-work",
+   "earliest": "20211209004035"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-resignation",
+   "earliest": "20211209014943"
+  },
+  {
+   "url": "https://recruitee.com/articles/auditing-recruitment-process",
+   "earliest": "20211128045558"
+  },
+  {
+   "url": "https://recruitee.com/articles/internal-mobility",
+   "earliest": "20211128061004"
+  },
+  {
+   "url": "https://recruitee.com/articles/why-we-need-unbiased-hiring-right-now",
+   "earliest": "20220725114708"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-requisition",
+   "earliest": "20220118201601"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-tools-for-hr-managers",
+   "earliest": "20220126041651"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-we-make-product-roadmap-decisions-at-recruitee",
+   "earliest": "20220807225100"
+  },
+  {
+   "url": "https://recruitee.com/articles/handling-resignations",
+   "earliest": "20220121225505"
+  },
+  {
+   "url": "https://recruitee.com/articles/team-communication-tools-and-software",
+   "earliest": "20211128050239"
+  },
+  {
+   "url": "https://recruitee.com/articles/your-candidate-experience",
+   "earliest": "20220116102741"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-management-lessons-from-baby-yoda",
+   "earliest": "20220504092247"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-at-nmbrs",
+   "earliest": "20211127174403"
+  },
+  {
+   "url": "https://recruitee.com/articles/critical-thinking-interview-questions",
+   "earliest": "20220119134913"
+  },
+  {
+   "url": "https://recruitee.com/articles/growth-mindset-recruitment",
+   "earliest": "20220117002007"
+  },
+  {
+   "url": "https://recruitee.com/articles/startup-hiring",
+   "earliest": "20220121234900"
+  },
+  {
+   "url": "https://recruitee.com/articles/emotional-intelligence-questions",
+   "earliest": "20220117010845"
+  },
+  {
+   "url": "https://recruitee.com/articles/internal-recruitment",
+   "earliest": "20220118202718"
+  },
+  {
+   "url": "https://recruitee.com/articles/gender-bias-in-the-workplace",
+   "earliest": "20211127164448"
+  },
+  {
+   "url": "https://recruitee.com/articles/optimizing-your-recruitment",
+   "earliest": "20220117003915"
+  },
+  {
+   "url": "https://recruitee.com/articles/transferable-skills",
+   "earliest": "20220118201841"
+  },
+  {
+   "url": "https://recruitee.com/articles/feedback-unsuccessful-candidates",
+   "earliest": "20220119130548"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-contributes-business-development",
+   "earliest": "20220126054326"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruit-interns",
+   "earliest": "20220520132055"
+  },
+  {
+   "url": "https://recruitee.com/articles/analytics-in-recruitment",
+   "earliest": "20211128045636"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-attrition",
+   "earliest": "20211209014015"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-methods-2",
+   "earliest": "20220119070614"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-tech-trends",
+   "earliest": "20211128055534"
+  },
+  {
+   "url": "https://recruitee.com/articles/tips-for-conducting-interviews",
+   "earliest": "20220122213658"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-job-boards-software-engineers",
+   "earliest": "20220122203216"
+  },
+  {
+   "url": "https://recruitee.com/articles/work-personality",
+   "earliest": "20211128052834"
+  },
+  {
+   "url": "https://recruitee.com/articles/collaborative-hiring-team",
+   "earliest": "20211127181027"
+  },
+  {
+   "url": "https://recruitee.com/articles/letter-of-recommendation",
+   "earliest": "20220119135245"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-benefits",
+   "earliest": "20220118193057"
+  },
+  {
+   "url": "https://recruitee.com/articles/unsuccessful-candidates-phone",
+   "earliest": "20220119143749"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-acquisition-management",
+   "earliest": "20220118192730"
+  },
+  {
+   "url": "https://recruitee.com/articles/flexible-work-schedule",
+   "earliest": "20220803213224"
+  },
+  {
+   "url": "https://recruitee.com/articles/what-is-evp-employer-value-proposition",
+   "earliest": "20220118192254"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-application-process-2",
+   "earliest": "20220119135950"
+  },
+  {
+   "url": "https://recruitee.com/articles/giving-employee-feedback",
+   "earliest": "20220126051212"
+  },
+  {
+   "url": "https://recruitee.com/articles/purple-squirrels-and-unicorns",
+   "earliest": "20220116105535"
+  },
+  {
+   "url": "https://recruitee.com/articles/pipeline-recruitment-candidate-engagement",
+   "earliest": "20220126043802"
+  },
+  {
+   "url": "https://recruitee.com/articles/gen-z-and-millennials",
+   "earliest": "20220119074716"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-pool",
+   "earliest": "20220118195055"
+  },
+  {
+   "url": "https://recruitee.com/articles/employer-branding-mistakes",
+   "earliest": "20220626165929"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-absenteeism",
+   "earliest": "20220117001445"
+  },
+  {
+   "url": "https://recruitee.com/articles/implement-collaborative-hiring",
+   "earliest": "20211127180620"
+  },
+  {
+   "url": "https://recruitee.com/articles/cost-per-hire",
+   "earliest": "20220126052239"
+  },
+  {
+   "url": "https://recruitee.com/articles/pre-employment-assessment-tool",
+   "earliest": "20220126050748"
+  },
+  {
+   "url": "https://recruitee.com/articles/inexpensive-recruiting-ideas",
+   "earliest": "20220119143149"
+  },
+  {
+   "url": "https://recruitee.com/articles/phone-screen-interview",
+   "earliest": "20220126044405"
+  },
+  {
+   "url": "https://recruitee.com/articles/video-interviewing-candidate-experience",
+   "earliest": "20220122214816"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitee-robbert-flipsen",
+   "earliest": "20211127173014"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-trends-and-predictions",
+   "earliest": "20220626174453"
+  },
+  {
+   "url": "https://recruitee.com/articles/seo-for-job-posting",
+   "earliest": "20211128060216"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-roi",
+   "earliest": "20220118195019"
+  },
+  {
+   "url": "https://recruitee.com/articles/reject-unsuccessful-candidates",
+   "earliest": "20220121231456"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-recruitment-tools",
+   "earliest": "20211128060246"
+  },
+  {
+   "url": "https://recruitee.com/articles/linkedin-voice-messaging",
+   "earliest": "20211128051154"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-turnover",
+   "earliest": "20220118191359"
+  },
+  {
+   "url": "https://recruitee.com/articles/international-job-boards",
+   "earliest": "20220119140727"
+  },
+  {
+   "url": "https://recruitee.com/articles/cultural-fit-questions",
+   "earliest": "20220122202447"
+  },
+  {
+   "url": "https://recruitee.com/articles/human-resource-accounting",
+   "earliest": "20220119142608"
+  },
+  {
+   "url": "https://recruitee.com/articles/self-managed-teams",
+   "earliest": "20211130100853"
+  },
+  {
+   "url": "https://recruitee.com/articles/building-a-winning-candidate-pipeline",
+   "earliest": "20220116101133"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-hr-practices",
+   "earliest": "20220126054526"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-metrics",
+   "earliest": "20220118194912"
+  },
+  {
+   "url": "https://recruitee.com/articles/effective-teams",
+   "earliest": "20220126053943"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-profile",
+   "earliest": "20220118200709"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-job-description-templates",
+   "earliest": "20220121234824"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-recruit-on-facebook",
+   "earliest": "20220116100753"
+  },
+  {
+   "url": "https://recruitee.com/articles/selection-process",
+   "earliest": "20220117010011"
+  },
+  {
+   "url": "https://recruitee.com/articles/screening-questions",
+   "earliest": "20220119081001"
+  },
+  {
+   "url": "https://recruitee.com/articles/gamification-in-hr",
+   "earliest": "20220116093709"
+  },
+  {
+   "url": "https://recruitee.com/articles/ai-unconscious-bias",
+   "earliest": "20220429155315"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-industry",
+   "earliest": "20211128061153"
+  },
+  {
+   "url": "https://recruitee.com/articles/building-successful-global-team",
+   "earliest": "20220116101200"
+  },
+  {
+   "url": "https://recruitee.com/articles/fun-employee-recognition-ideas",
+   "earliest": "20211128061546"
+  },
+  {
+   "url": "https://recruitee.com/articles/perfect-recruitment-ad",
+   "earliest": "20220126054426"
+  },
+  {
+   "url": "https://recruitee.com/articles/welcome-new-employees",
+   "earliest": "20220121235206"
+  },
+  {
+   "url": "https://recruitee.com/articles/find-great-candidates",
+   "earliest": "20220116105631"
+  },
+  {
+   "url": "https://recruitee.com/articles/startup-hiring-tips",
+   "earliest": "20220121231304"
+  },
+  {
+   "url": "https://recruitee.com/articles/second-interview-questions",
+   "earliest": "20220121230101"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-testimonials",
+   "earliest": "20220203112720"
+  },
+  {
+   "url": "https://recruitee.com/articles/digital-recruitment",
+   "earliest": "20211130082316"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-professionals-to-read",
+   "earliest": "20220126043912"
+  },
+  {
+   "url": "https://recruitee.com/articles/ai-recruitment",
+   "earliest": "20211128060844"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-plan",
+   "earliest": "20220118185248"
+  },
+  {
+   "url": "https://recruitee.com/articles/personal-user-manual",
+   "earliest": "20211122160258"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-terms",
+   "earliest": "20211128055851"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-driven-market-trends",
+   "earliest": "20220126053513"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-requirement",
+   "earliest": "20220121224626"
+  },
+  {
+   "url": "https://recruitee.com/articles/reduce-bias-with-fair-evaluations",
+   "earliest": "20220626165850"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-pipeline",
+   "earliest": "20211128052212"
+  },
+  {
+   "url": "https://recruitee.com/articles/culture-add",
+   "earliest": "20220715112733"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-improve-cybersecurity-in-recruitment",
+   "earliest": "20220126050254"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-acquisition-vs-recruitment",
+   "earliest": "20211128050427"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-analysis",
+   "earliest": "20220119125521"
+  },
+  {
+   "url": "https://recruitee.com/articles/linkedin-inmail-tips",
+   "earliest": "20220118200606"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-strategies-for-successful-hiring",
+   "earliest": "20220122205147"
+  },
+  {
+   "url": "https://recruitee.com/articles/optimize-your-recruitment",
+   "earliest": "20211128055142"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-important-is-cost-per-hire",
+   "earliest": "20211130094426"
+  },
+  {
+   "url": "https://recruitee.com/articles/social-recruiting",
+   "earliest": "20211128061743"
+  },
+  {
+   "url": "https://recruitee.com/articles/groupthink-in-the-workplace",
+   "earliest": "20220807211802"
+  },
+  {
+   "url": "https://recruitee.com/articles/retain-and-develop-employees",
+   "earliest": "20220126053334"
+  },
+  {
+   "url": "https://recruitee.com/articles/let-down-unsuccessful-candidates",
+   "earliest": "20220119132258"
+  },
+  {
+   "url": "https://recruitee.com/articles/hosting-a-virtual-job-fair",
+   "earliest": "20220118190638"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-journey-explained",
+   "earliest": "20211128054944"
+  },
+  {
+   "url": "https://recruitee.com/articles/4-experts-share-their-social-recruiting-secrets",
+   "earliest": "20220117011029"
+  },
+  {
+   "url": "https://recruitee.com/articles/boomerang-employee",
+   "earliest": "20220118201222"
+  },
+  {
+   "url": "https://recruitee.com/articles/cybersecurity-for-hr-teams",
+   "earliest": "20220119080845"
+  },
+  {
+   "url": "https://recruitee.com/articles/invite-candidates-second-interview",
+   "earliest": "20220119071014"
+  },
+  {
+   "url": "https://recruitee.com/articles/social-recruiting-tips",
+   "earliest": "20220121225737"
+  },
+  {
+   "url": "https://recruitee.com/articles/performance-review",
+   "earliest": "20211209001610"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-retention",
+   "earliest": "20211209014259"
+  },
+  {
+   "url": "https://recruitee.com/articles/resume-parsing",
+   "earliest": "20220122000714"
+  },
+  {
+   "url": "https://recruitee.com/articles/resume-parsing-2",
+   "earliest": "20220118183829"
+  },
+  {
+   "url": "https://recruitee.com/articles/advice-for-millennials-in-the-workplace",
+   "earliest": "20220117013348"
+  },
+  {
+   "url": "https://recruitee.com/articles/work-anniversary-gifts",
+   "earliest": "20220121233202"
+  },
+  {
+   "url": "https://recruitee.com/articles/team-building-activities",
+   "earliest": "20220118202028"
+  },
+  {
+   "url": "https://recruitee.com/articles/employer-branding-storytelling",
+   "earliest": "20220117005828"
+  },
+  {
+   "url": "https://recruitee.com/articles/promote-free-job-advertising-online",
+   "earliest": "20220118190910"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-experience-survey",
+   "earliest": "20220118192144"
+  },
+  {
+   "url": "https://recruitee.com/articles/hire-employees-in-netherlands",
+   "earliest": "20220116094510"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-satisfaction-surveys",
+   "earliest": "20220116103425"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-evaluation",
+   "earliest": "20220522112406"
+  },
+  {
+   "url": "https://recruitee.com/articles/adapting-recruitment",
+   "earliest": "20220126045747"
+  },
+  {
+   "url": "https://recruitee.com/articles/pandemic-hiring-interview",
+   "earliest": "20220119131113"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-with-recruitee",
+   "earliest": "20211127170342"
+  },
+  {
+   "url": "https://recruitee.com/articles/interview-questions-to-ask",
+   "earliest": "20211209005015"
+  },
+  {
+   "url": "https://recruitee.com/articles/reactive-recruitment",
+   "earliest": "20220118194547"
+  },
+  {
+   "url": "https://recruitee.com/articles/develop-diversity-training-program-in-workplace",
+   "earliest": "20211127181826"
+  },
+  {
+   "url": "https://recruitee.com/articles/collaborative-hiring-benefits",
+   "earliest": "20211127174801"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitee-update",
+   "earliest": "20211127171551"
+  },
+  {
+   "url": "https://recruitee.com/articles/lateral-hiring",
+   "earliest": "20220116094929"
+  },
+  {
+   "url": "https://recruitee.com/articles/great-remote-work-policies",
+   "earliest": "20220116105157"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-tech-influencers",
+   "earliest": "20220118194803"
+  },
+  {
+   "url": "https://recruitee.com/articles/finding-and-retaining-talent",
+   "earliest": "20220117012853"
+  },
+  {
+   "url": "https://recruitee.com/articles/psychometric-tests-for-recruitment",
+   "earliest": "20220116104820"
+  },
+  {
+   "url": "https://recruitee.com/articles/diversity-questions",
+   "earliest": "20220925042310"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-millennials",
+   "earliest": "20220117010123"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-automation",
+   "earliest": "20220118200147"
+  },
+  {
+   "url": "https://recruitee.com/articles/working-with-founders",
+   "earliest": "20211127172423"
+  },
+  {
+   "url": "https://recruitee.com/articles/online-employee-training-programs",
+   "earliest": "20211130101344"
+  },
+  {
+   "url": "https://recruitee.com/articles/new-employee-fears",
+   "earliest": "20220520143652"
+  },
+  {
+   "url": "https://recruitee.com/articles/top-talent",
+   "earliest": "20220117002219"
+  },
+  {
+   "url": "https://recruitee.com/articles/unbiased-hiring-process",
+   "earliest": "20211130083354"
+  },
+  {
+   "url": "https://recruitee.com/articles/writing-good-job-descriptions",
+   "earliest": "20220118190602"
+  },
+  {
+   "url": "https://recruitee.com/articles/strong-company-values",
+   "earliest": "20220119131714"
+  },
+  {
+   "url": "https://recruitee.com/articles/evil-hr-lady-interview",
+   "earliest": "20220117011345"
+  },
+  {
+   "url": "https://recruitee.com/articles/labor-shortage",
+   "earliest": "20220520134431"
+  },
+  {
+   "url": "https://recruitee.com/articles/successful-workforce-planning",
+   "earliest": "20220126050327"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-funnel",
+   "earliest": "20211128061248"
+  },
+  {
+   "url": "https://recruitee.com/articles/prevent-workplace-discrimination",
+   "earliest": "20211127174835"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-job-boards",
+   "earliest": "20220118190333"
+  },
+  {
+   "url": "https://recruitee.com/articles/high-volume-hiring",
+   "earliest": "20220405142516"
+  },
+  {
+   "url": "https://recruitee.com/articles/promote-leadership-development",
+   "earliest": "20220925053602"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-pipeline",
+   "earliest": "20220118200006"
+  },
+  {
+   "url": "https://recruitee.com/articles/how-to-recruit-on-linkedin",
+   "earliest": "20211128050049"
+  },
+  {
+   "url": "https://recruitee.com/articles/diversity-certification-program",
+   "earliest": "20211127175455"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-description-examples",
+   "earliest": "20220118193859"
+  },
+  {
+   "url": "https://recruitee.com/articles/experts-to-follow-on-linkedin",
+   "earliest": "20220626180921"
+  },
+  {
+   "url": "https://recruitee.com/articles/productivity-hacks-for-recruiters",
+   "earliest": "20220118193641"
+  },
+  {
+   "url": "https://recruitee.com/articles/unusual-interviews",
+   "earliest": "20220122203250"
+  },
+  {
+   "url": "https://recruitee.com/articles/benefits-over-salary-growth",
+   "earliest": "20220119142457"
+  },
+  {
+   "url": "https://recruitee.com/articles/build-remote-working-culture",
+   "earliest": "20211128051011"
+  },
+  {
+   "url": "https://recruitee.com/articles/new-talent-acquisition-strategies",
+   "earliest": "20220119133332"
+  },
+  {
+   "url": "https://recruitee.com/articles/succession-planning",
+   "earliest": "20211209012251"
+  },
+  {
+   "url": "https://recruitee.com/articles/headhunting-and-recruitment",
+   "earliest": "20211128044256"
+  },
+  {
+   "url": "https://recruitee.com/articles/seo-keyword-for-jobs",
+   "earliest": "20211130085708"
+  },
+  {
+   "url": "https://recruitee.com/articles/understanding-pay-transparency",
+   "earliest": "20220807215916"
+  },
+  {
+   "url": "https://recruitee.com/articles/remote-work-policy",
+   "earliest": "20220118183303"
+  },
+  {
+   "url": "https://recruitee.com/articles/realistic-job-previews",
+   "earliest": "20220116104945"
+  },
+  {
+   "url": "https://recruitee.com/articles/people-process-tech",
+   "earliest": "20211127172657"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-email",
+   "earliest": "20211128053020"
+  },
+  {
+   "url": "https://recruitee.com/articles/topgrading-interviews",
+   "earliest": "20220117005716"
+  },
+  {
+   "url": "https://recruitee.com/articles/online-events-to-expand-recruitment",
+   "earliest": "20220118190024"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-wellbeing-activities",
+   "earliest": "20211130085759"
+  },
+  {
+   "url": "https://recruitee.com/articles/social-recruitment-ads",
+   "earliest": "20220116103211"
+  },
+  {
+   "url": "https://recruitee.com/articles/ats-for-collaborative-hiring",
+   "earliest": "20211127173328"
+  },
+  {
+   "url": "https://recruitee.com/articles/employer-vs-employee-branding",
+   "earliest": "20211128054739"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-well-being",
+   "earliest": "20220516204904"
+  },
+  {
+   "url": "https://recruitee.com/articles/2019-hr-trends",
+   "earliest": "20220121232335"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-cycle",
+   "earliest": "20220116104055"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-techniques",
+   "earliest": "20220126055542"
+  },
+  {
+   "url": "https://recruitee.com/articles/cost-per-hire-onboarding",
+   "earliest": "20220116104437"
+  },
+  {
+   "url": "https://recruitee.com/articles/win-the-war-for-talent-with-full-cycle-recruiting",
+   "earliest": "20220117011943"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-recruitment-videos",
+   "earliest": "20220116102427"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-trial",
+   "earliest": "20220118185907"
+  },
+  {
+   "url": "https://recruitee.com/articles/hr-events-2019",
+   "earliest": "20220116100412"
+  },
+  {
+   "url": "https://recruitee.com/articles/diversity-in-the-workplace",
+   "earliest": "20211127180219"
+  },
+  {
+   "url": "https://recruitee.com/articles/mental-health-wellbeing",
+   "earliest": "20220118190107"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-on-culture-fit",
+   "earliest": "20211128053539"
+  },
+  {
+   "url": "https://recruitee.com/articles/methods-of-interview",
+   "earliest": "20220122000503"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-for-ngos-recruiting-for-the-greater-good",
+   "earliest": "20220116100659"
+  },
+  {
+   "url": "https://recruitee.com/articles/proactive-recruitment-strategies",
+   "earliest": "20220126052457"
+  },
+  {
+   "url": "https://recruitee.com/articles/creative-recruiting-efforts",
+   "earliest": "20220325151209"
+  },
+  {
+   "url": "https://recruitee.com/articles/best-job-boards-all-time",
+   "earliest": "20220118202737"
+  },
+  {
+   "url": "https://recruitee.com/articles/negotiate-salary",
+   "earliest": "20220118191627"
+  },
+  {
+   "url": "https://recruitee.com/articles/hire-graphic-designer",
+   "earliest": "20220121231810"
+  },
+  {
+   "url": "https://recruitee.com/articles/neurodiversity-in-the-workplace",
+   "earliest": "20220520134825"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-sourcing-strategy",
+   "earliest": "20211128061841"
+  },
+  {
+   "url": "https://recruitee.com/articles/hire-remote-workers",
+   "earliest": "20211127170702"
+  },
+  {
+   "url": "https://recruitee.com/articles/age-discrimination",
+   "earliest": "20211127170624"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-on-reddit",
+   "earliest": "20220121225143"
+  },
+  {
+   "url": "https://recruitee.com/articles/passive-candidates",
+   "earliest": "20211230164136"
+  },
+  {
+   "url": "https://recruitee.com/articles/what-is-talent-management",
+   "earliest": "20211128055730"
+  },
+  {
+   "url": "https://recruitee.com/articles/blind-hiring-program",
+   "earliest": "20211127164538"
+  },
+  {
+   "url": "https://recruitee.com/articles/cost-per-hire-optimize-recruiting",
+   "earliest": "20220117013558"
+  },
+  {
+   "url": "https://recruitee.com/articles/modern-job-description-template-chat",
+   "earliest": "20220116105038"
+  },
+  {
+   "url": "https://recruitee.com/articles/5-leadership-lessons-from-celebrities",
+   "earliest": "20211127164628"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-an-api-developer",
+   "earliest": "20220626175444"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-analytics",
+   "earliest": "20220118190716"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruiting-internationally",
+   "earliest": "20221009093001"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-people-with-disabilities",
+   "earliest": "20211127182800"
+  },
+  {
+   "url": "https://recruitee.com/articles/boosting-employee-morale",
+   "earliest": "20220925044519"
+  },
+  {
+   "url": "https://recruitee.com/articles/candidate-pool",
+   "earliest": "20220118191058"
+  },
+  {
+   "url": "https://recruitee.com/articles/creative-recruitment-strategies",
+   "earliest": "20211128060051"
+  },
+  {
+   "url": "https://recruitee.com/articles/misperception-about-teams",
+   "earliest": "20211127180826"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-contingent-workers",
+   "earliest": "20220126043315"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-development-plans",
+   "earliest": "20220126052841"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-promotion",
+   "earliest": "20211209004743"
+  },
+  {
+   "url": "https://recruitee.com/articles/employee-experience-top-priority",
+   "earliest": "20220126041747"
+  },
+  {
+   "url": "https://recruitee.com/articles/job-requirements",
+   "earliest": "20211209015012"
+  },
+  {
+   "url": "https://recruitee.com/articles/hiring-at-impraise",
+   "earliest": "20220119140305"
+  },
+  {
+   "url": "https://recruitee.com/articles/ats-solutions",
+   "earliest": "20220121234234"
+  },
+  {
+   "url": "https://recruitee.com/articles/conduct-an-employee-evaluation",
+   "earliest": "20220118193500"
+  },
+  {
+   "url": "https://recruitee.com/articles/internal-interview-questions",
+   "earliest": "20220122000643"
+  },
+  {
+   "url": "https://recruitee.com/articles/video-interviewing",
+   "earliest": "20211209013422"
+  },
+  {
+   "url": "https://recruitee.com/articles/talent-gaps",
+   "earliest": "20211130083553"
+  },
+  {
+   "url": "https://recruitee.com/articles/generational-differences",
+   "earliest": "20220116104601"
+  },
+  {
+   "url": "https://recruitee.com/articles/recruitment-skills",
+   "earliest": "20211128060510"
+  }
+ ]
+}
