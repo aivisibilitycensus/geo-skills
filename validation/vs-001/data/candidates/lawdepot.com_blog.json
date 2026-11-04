@@ -1,0 +1,1915 @@
+{
+ "blog": "lawdepot.com/blog",
+ "group": "Legal",
+ "reserve": false,
+ "cdxRows": 1919,
+ "articleLike": 476,
+ "queriedAt": "2026-11-04T04:04:44.160Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.lawdepot.com/blog/succession-plans-the-future-of-your-family-business/",
+   "earliest": "20191215043050"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-organize-your-job-search/",
+   "earliest": "20190819085259"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-must-have-clauses-for-your-roommate-agreement/",
+   "earliest": "20190822075511"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/from-retiree-to-entrepreneur-the-growing-trend/",
+   "earliest": "20190716190806"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-basics-of-donating-your-body-to-science/",
+   "earliest": "20190822081244"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-ways-to-save-when-hosting-your-first-thanksgiving/",
+   "earliest": "20190820124654"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-ways-to-ask-for-a-job-reference/",
+   "earliest": "20190818201113"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-trends-to-look-for-when-investing-in-real-estate/",
+   "earliest": "20190820125358"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-basic-guide-to-payroll-taxes/",
+   "earliest": "20190716010110"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/wellness-in-the-workplace/",
+   "earliest": "20191014092748"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-to-look-for-in-a-real-estate-agent/",
+   "earliest": "20190716010247"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-overcome-new-job-jitters/",
+   "earliest": "20190921054716"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-things-you-cant-include-in-your-prenup/",
+   "earliest": "20190920212718"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/advance-care-planning-where-do-i-begin/",
+   "earliest": "20190819232116"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-ways-to-file-your-taxes/",
+   "earliest": "20190722143129"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/preventing-workplace-bullying-a-managers-duty/",
+   "earliest": "20210801100927"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-tips-for-selling-items-in-a-divorce-sale/",
+   "earliest": "20191014085930"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/off-the-record-vs-a-non-disclosure-agreement/",
+   "earliest": "20190722013928"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/startup-founders-5-steps-for-success/",
+   "earliest": "20190820124730"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-productivity-tips-for-new-freelancers/",
+   "earliest": "20190916232153"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-home-facts-you-didnt-know-infographic/",
+   "earliest": "20191119181500"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-basics-of-disability-accommodation-in-the-workplace/",
+   "earliest": "20190822074947"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/holiday-travel-tips-for-homeowners/",
+   "earliest": "20190920205837"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-ways-to-buy-a-home-without-a-mortgage/",
+   "earliest": "20190820113605"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-impeach-a-president/",
+   "earliest": "20190921073035"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-owner-financing-in-real-estate/",
+   "earliest": "20190820122456"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/common-questions-about-estates/",
+   "earliest": "20190819090030"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-financial-must-dos-for-the-new-year/",
+   "earliest": "20190920205957"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-to-consider-when-applying-for-jobs-over-the-holidays/",
+   "earliest": "20190825205817"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-does-incorporated-mean-in-business/",
+   "earliest": "20190822080826"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/finance-tips-tricks-trends-for-the-holiday-season/",
+   "earliest": "20191014091412"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/do-i-need-an-obituary/",
+   "earliest": "20190822080909"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-pros-and-cons-of-working-for-a-startup/",
+   "earliest": "20191014091543"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-you-need-to-know-about-intangible-assets/",
+   "earliest": "20200421223024"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/remote-work-pros-and-cons/",
+   "earliest": "20190818195052"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-ways-to-save-your-down-payment/",
+   "earliest": "20190822075436"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-things-you-can-do-if-you-cant-pay-rent-on-time/",
+   "earliest": "20200529112615"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/why-freelancers-need-a-freelance-contract/",
+   "earliest": "20190819084301"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-legal-questions-business-owners-should-ask-themselves/",
+   "earliest": "20190820122011"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/ending-a-contract-when-no-one-is-at-fault/",
+   "earliest": "20190820122542"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/child-medical-consent-basics/",
+   "earliest": "20190403064855"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-ways-rental-inspection-reports-can-protect-landlords/",
+   "earliest": "20190825210135"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/avoiding-hr-mistakes-that-can-short-circuit-growth/",
+   "earliest": "20190820120957"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-frequently-asked-crowdfunding-questions/",
+   "earliest": "20190825033330"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-ramp-up-your-freelance-business/",
+   "earliest": "20190820120148"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/engaged-entrepreneurs-how-to-protect-your-business/",
+   "earliest": "20200421222946"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-things-to-do-if-you-cant-pay-rent-on-time/",
+   "earliest": "20190722061757"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-frequently-asked-questions-about-crowdfunding/",
+   "earliest": "20190822035125"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-ways-to-quit-your-job-on-good-terms/",
+   "earliest": "20191014090113"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-5-personal-finance-apps-for-2017/",
+   "earliest": "20190819123519"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/must-have-upgrades-for-your-vacation-property/",
+   "earliest": "20190916074054"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-write-a-resume-for-a-career-change/",
+   "earliest": "20190722150204"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/homeowners-guide-to-boundary-disputes/",
+   "earliest": "20190716010511"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/understanding-fixed-and-automatic-renewal-lease-terms/",
+   "earliest": "20200717094143"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-household-items-for-winter-emergencies/",
+   "earliest": "20191020120105"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-questions-every-first-time-homebuyer-should-ask-infographic/",
+   "earliest": "20190920212518"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-does-indemnity-mean/",
+   "earliest": "20190822081330"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/festive-finance-how-to-save-money-during-the-holidays-infographic/",
+   "earliest": "20191020115419"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-type-of-property-deed-do-you-need/",
+   "earliest": "20190825205406"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-common-cover-letter-mistakes/",
+   "earliest": "20190820113620"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-legally-get-married-in-bahamas-italy-mexico/",
+   "earliest": "20190722144434"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/an-interview-with-maggie-degennaro-the-real-estate-lady/",
+   "earliest": "20220701085750"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/choosing-the-best-neighborhood-to-purchase-real-estate/",
+   "earliest": "20190820115250"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/buyers-and-sellers-markets-the-basics/",
+   "earliest": "20190819085834"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/investing-101-how-to-invest-in-gold/",
+   "earliest": "20190822033502"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-do-tenants-want-in-a-rental-property/",
+   "earliest": "20190629052429"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-prepare-your-home-for-a-baby/",
+   "earliest": "20190722144016"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/about-us/",
+   "earliest": "20190722060508"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/do-i-have-to-disclose-my-sexual-orientation-to-my-boss/",
+   "earliest": "20190819231044"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/should-you-file-your-own-taxes/",
+   "earliest": "20190716005520"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-you-should-know-about-digital-signatures/",
+   "earliest": "20190818194839"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/frequently-asked-questions-about-taking-vacation-from-work/",
+   "earliest": "20190820125111"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-new-years-resolutions-for-your-small-business/",
+   "earliest": "20190722142723"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-real-estate-agents-cant-can-talk-about/",
+   "earliest": "20190820113756"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/renting-to-own-a-guide-for-landlords-and-tenants/",
+   "earliest": "20190703215534"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-a-domestic-partnership/",
+   "earliest": "20190920210337"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/avoiding-online-rental-scams-tips-for-landlords-tenants/",
+   "earliest": "20191020122011"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-my-legal-relationship-status/",
+   "earliest": "20190819125158"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-jumpstart-your-career-after-college/",
+   "earliest": "20191020201249"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/are-dnr-tattoos-legally-binding/",
+   "earliest": "20190916225204"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/financial-aid-101-a-guide-for-students/",
+   "earliest": "20191014091349"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/homeowners-insurance-basics/",
+   "earliest": "20190820114748"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/branding-your-business-trademarks-vs-trade-names/",
+   "earliest": "20190820120500"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/real-estate-advice-tips-trends/",
+   "earliest": "20190819124038"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tax-season-tips-6-helpful-tax-resources/",
+   "earliest": "20190825210146"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-your-legal-relationship-status-infographic/",
+   "earliest": "20190819090324"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/who-pays-for-repairs-in-a-rental-property/",
+   "earliest": "20190716183539"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/letters-of-the-law-letter-of-intent-demand-letter-and-cease-and-desist-letter/",
+   "earliest": "20190818195556"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-you-cant-have-in-residential-leases/",
+   "earliest": "20190920210606"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-tax-day/",
+   "earliest": "20190820121455"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/where-can-you-find-free-online-business-courses/",
+   "earliest": "20191014091423"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-to-include-in-a-part-time-job-posting/",
+   "earliest": "20190825205901"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/when-and-why-to-downsize-your-home/",
+   "earliest": "20190703221218"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/landlords-should-you-incorporate-or-form-an-llc/",
+   "earliest": "20190822032005"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-landlords-guide-to-reference-checks/",
+   "earliest": "20190722014923"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-things-you-should-include-in-a-residential-lease/",
+   "earliest": "20190716003456"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/turning-down-a-client-how-and-why/",
+   "earliest": "20190820113616"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-unconventional-additions-for-your-last-will/",
+   "earliest": "20190818092931"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-documents-every-parent-needs-when-traveling-with-children/",
+   "earliest": "20190722060004"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-withdraw-from-a-general-partnership/",
+   "earliest": "20190920171008"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-questions-to-ask-before-starting-a-business-with-your-spouse/",
+   "earliest": "20190820113535"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-save-money-when-hosting-thanksgiving/",
+   "earliest": "20191215060011"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-avoid-breaching-your-residential-lease/",
+   "earliest": "20190825032904"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-create-a-personal-asset-inventory/",
+   "earliest": "20190920210044"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/15-end-of-year-tasks-for-freelancers/",
+   "earliest": "20190820120558"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-dos-and-donts-of-non-disclosure-agreements/",
+   "earliest": "20190920165938"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-things-you-need-before-getting-into-house-flipping/",
+   "earliest": "20190822080307"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/signing-legal-contracts-does-a-signature-need-to-be-in-cursive/",
+   "earliest": "20190825204626"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-outsourcing-can-and-cant-do-for-your-business/",
+   "earliest": "20190821234623"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/setting-up-a-secondary-suite-in-your-basement/",
+   "earliest": "20190825034046"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/mortgage-basics-4-things-every-buyer-should-know/",
+   "earliest": "20190920210751"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/winterizing-your-rental-property-a-guide-for-landlords/",
+   "earliest": "20190825031749"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-qualities-investors-look-for-in-a-startup-business/",
+   "earliest": "20190825034347"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-modern-workplace-how-offices-employers-are-changing/",
+   "earliest": "20191014084927"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-write-an-effective-job-post/",
+   "earliest": "20190819085355"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/binding-vs-non-binding-contracts/",
+   "earliest": "20190822075402"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/relocation-is-it-right-for-you/",
+   "earliest": "20191014091151"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-you-should-know-about-gifting-real-estate/",
+   "earliest": "20190722060636"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/finding-an-angel-investor-for-your-business/",
+   "earliest": "20190819085716"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/commercial-real-estate-101/",
+   "earliest": "20190920165612"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/throw-a-holiday-party-without-getting-evicted/",
+   "earliest": "20191230130712"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/can-you-be-forced-into-signing-a-contract/",
+   "earliest": "20190819085215"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/helping-entrepreneurs-achieve-success-an-interview-with-tamara-monosoff-part-2/",
+   "earliest": "20190820115159"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/should-employers-look-at-social-media-when-hiring/",
+   "earliest": "20190822074636"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/9-thanksgiving-laws/",
+   "earliest": "20191020200610"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-get-your-invoicing-under-control-so-you-can-stay-cash-positive/",
+   "earliest": "20191021132148"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/revocable-living-trust-vs-last-will/",
+   "earliest": "20190825210556"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-important-details-to-address-in-your-cover-letter/",
+   "earliest": "20190819085608"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/helping-entrepreneurs-achieve-success-an-interview-with-tamara-monosoff-part-1/",
+   "earliest": "20190821235320"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-a-living-trust-and-pour-over-will-work-together/",
+   "earliest": "20190921222231"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-marriage-affects-your-legal-and-financial-status/",
+   "earliest": "20190213035353"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-happens-if-you-die-without-a-will/",
+   "earliest": "20190819084433"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/setting-up-a-month-to-month-rental/",
+   "earliest": "20190819083118"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/things-to-consider-before-cosigning-loans/",
+   "earliest": "20190820121635"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/setting-up-shop-5-location-factors-that-impact-your-business/",
+   "earliest": "20190818195906"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-to-do-when-you-inherit-real-estate/",
+   "earliest": "20190819230550"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/legal-protection-for-couples-who-arent-legally-married/",
+   "earliest": "20190825204053"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-classify-workers-in-a-small-business/",
+   "earliest": "20190722145227"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-reasons-to-start-estate-planning-in-the-new-year/",
+   "earliest": "20191020195352"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-employment-at-will/",
+   "earliest": "20190820122400"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-landlords-deduct-from-security-deposit/",
+   "earliest": "20190716230135"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-things-every-homeseller-needs-to-know/",
+   "earliest": "20190818095239"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-write-an-eviction-notice/",
+   "earliest": "20190819084239"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-avoid-liabilities-as-a-landlord/",
+   "earliest": "20190722144641"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-ways-to-improve-your-finances-in-2017/",
+   "earliest": "20191020121630"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-types-of-digital-property-you-can-sell/",
+   "earliest": "20190722144400"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/things-your-executor-can-and-cant-do/",
+   "earliest": "20190822074453"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/holiday-decorating-tips-for-renters/",
+   "earliest": "20190722150927"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-an-estate-sale/",
+   "earliest": "20190921064022"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-attract-winter-tenants/",
+   "earliest": "20190822075619"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-things-millennials-care-about-when-renting/",
+   "earliest": "20190716004308"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/four-changes-small-businesses-should-plan-for-in-2016/",
+   "earliest": "20191014092651"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-bankruptcy/",
+   "earliest": "20190822081255"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/types-of-lease-notices/",
+   "earliest": "20190825033353"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/shareholders-versus-directors-in-a-corporation/",
+   "earliest": "20201024153038"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/contact-us/",
+   "earliest": "20190722060935"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/swot-is-your-business-worth-starting/",
+   "earliest": "20191014091918"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-tips-for-getting-your-startup-off-the-ground/",
+   "earliest": "20190820124634"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-things-no-one-told-you-about-becoming-a-homeowner/",
+   "earliest": "20190822075805"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-create-your-parenting-schedule/",
+   "earliest": "20190822080458"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-benefits-to-buying-investment-property-near-a-university/",
+   "earliest": "20191020123154"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-does-bequeath-mean/",
+   "earliest": "20190825210429"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-find-and-collect-unclaimed-inheritances/",
+   "earliest": "20190722150752"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/8-secrets-to-happy-long-term-tenants/",
+   "earliest": "20190921073405"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/organizational-hacks-for-landlords/",
+   "earliest": "20190920210716"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-to-do-with-your-tax-refund/",
+   "earliest": "20190921065210"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tenants-how-to-end-your-lease-early/",
+   "earliest": "20190916231144"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/storing-your-power-of-attorney-in-a-safety-deposit-box/",
+   "earliest": "20190722014240"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/15-questions-you-cant-ask-employees/",
+   "earliest": "20190823160356"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-revoke-power-of-attorney-your-easiest-guide-yet/",
+   "earliest": "20190916014146"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-use-envelope-budgeting/",
+   "earliest": "20190825075207"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-do-you-need-to-get-a-marriage-license/",
+   "earliest": "20190722143755"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-ways-to-give-your-small-business-a-professional-edge/",
+   "earliest": "20190820115458"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-ways-to-stay-relevant-during-a-job-search/",
+   "earliest": "20210123110648"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/understanding-the-roles-of-officers-in-a-corporation/",
+   "earliest": "20190920210519"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-a-credit-score/",
+   "earliest": "20190921063822"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/subletting-vs-assigning-a-commercial-lease/",
+   "earliest": "20190629215354"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-complete-your-estate-plan-with-a-new-document/",
+   "earliest": "20190825203715"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-ace-your-next-presentation/",
+   "earliest": "20200809213320"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/steering-clear-of-online-fraud-tips-for-buyers-and-sellers/",
+   "earliest": "20190716225720"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/temporary-housing-your-home-away-from-home/",
+   "earliest": "20190821101004"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/minor-travel-preparing-your-child-for-a-solo-trip/",
+   "earliest": "20190824184117"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/impressing-investors-how-to-pitch-your-startup/",
+   "earliest": "20190820115942"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/when-renting-is-the-right-choice-for-you/",
+   "earliest": "20190921073417"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/home-sellers-what-do-i-need-to-disclose/",
+   "earliest": "20190821101509"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-role-of-a-homeowners-association/",
+   "earliest": "20190819083055"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/college-students-6-ways-to-stay-on-track-this-summer/",
+   "earliest": "20191119184231"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-the-fair-housing-act/",
+   "earliest": "20190716004642"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-bankruptcy-affects-inheritances-and-estate-plans/",
+   "earliest": "20190722143249"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-to-know-before-assigning-a-lease/",
+   "earliest": "20190819085846"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-legal-structure-is-right-for-your-business/",
+   "earliest": "20190821233731"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-an-accountant-can-help-you-plan-your-startup/",
+   "earliest": "20190819083856"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/getting-serious-about-startups-interview-with-business-attorney-brian-rogers/",
+   "earliest": "20190916013430"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/property-perks-pitfalls-condo-townhouse-mobile-single-family/",
+   "earliest": "20190921054040"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-technology-has-changed-personal-finance/",
+   "earliest": "20190916074859"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/home-appraisals-buyer-seller-basics/",
+   "earliest": "20190722014634"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/should-you-join-the-family-business/",
+   "earliest": "20190818200933"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/business-on-a-budget-tips-on-how-to-start-a-business-for-little-or-no-money/",
+   "earliest": "20190825210502"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/purchasing-a-business-in-2014-from-offer-to-agreement/",
+   "earliest": "20190822074822"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/8-ways-to-celebrate-the-holidays-at-work/",
+   "earliest": "20191021120802"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/employees-what-types-of-leave-are-you-entitled-to/",
+   "earliest": "20190818194202"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-reasons-you-need-tenant-insurance/",
+   "earliest": "20190722062226"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/october-resource-roundup/",
+   "earliest": "20191020193803"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/planning-for-progress-small-business-promos/",
+   "earliest": "20190921055957"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/faq-5-tax-questions-newlyweds-ask/",
+   "earliest": "20190716005434"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-survive-your-college-roommate/",
+   "earliest": "20190822074143"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/ink-for-legal-documents/",
+   "earliest": "20190722055424"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-hire-a-housekeeping-service/",
+   "earliest": "20220629102315"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-deal-with-dementia-in-a-parent/",
+   "earliest": "20190916014303"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/financing-your-first-home/",
+   "earliest": "20190822033406"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/new-year-new-home-becoming-a-homeowner-in-2016/",
+   "earliest": "20190819085032"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-prepare-your-home-for-every-season-infographic/",
+   "earliest": "20191112172942"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/safety-tips-for-hosting-an-open-house/",
+   "earliest": "20190920211339"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-common-estate-planning-mistakes/",
+   "earliest": "20190722150743"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/employment-tips-resource-roundup-for-new-grads/",
+   "earliest": "20190820113550"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-costly-recruiting-mistakes/",
+   "earliest": "20191020194451"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-tips-for-renting-to-someone-with-bad-credit/",
+   "earliest": "20190819130334"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/landlords-guide-to-dealing-with-tenant-conflict/",
+   "earliest": "20190822031646"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-do-i-need-to-sign-a-contract/",
+   "earliest": "20190722144617"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/first-time-buyers-guide-to-property-tax/",
+   "earliest": "20190722144605"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/love-contracts-how-to-handle-romance-in-the-workplace/",
+   "earliest": "20190921065839"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-things-to-do-with-your-tax-refund/",
+   "earliest": "20190824185223"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/leasing-property-to-family-members-dos-and-donts/",
+   "earliest": "20190822081003"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/finding-the-best-freelancer-for-your-project/",
+   "earliest": "20190916230923"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/24-must-reads-for-the-first-time-landlord/",
+   "earliest": "20191212095722"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-pros-of-pre-owned-businesses/",
+   "earliest": "20200927090012"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-frequently-asked-questions-about-subleasing-residential-property/",
+   "earliest": "20190916014504"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-cover-letter-mistakes-to-avoid/",
+   "earliest": "20190825210910"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/acing-the-interview-from-start-to-finish/",
+   "earliest": "20190819230122"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-a-notary-public/",
+   "earliest": "20190822075534"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/making-the-move-to-mobile-is-your-business-ready/",
+   "earliest": "20190921055735"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/consulting-contracts-tips-for-first-time-freelancers/",
+   "earliest": "20190920170742"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/no-contest-clauses-in-last-will/",
+   "earliest": "20190822034150"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/seasonal-challenges-for-landlords-and-how-to-overcome-them/",
+   "earliest": "20191020115247"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-makes-a-contract-invalid/",
+   "earliest": "20190722150900"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-people-dont-know-about-separation/",
+   "earliest": "20190722015511"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-pros-and-cons-of-patenting-your-invention/",
+   "earliest": "20190916073856"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/unmasking-7-freelancing-myths/",
+   "earliest": "20190825033628"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-times-every-vote-mattered/",
+   "earliest": "20191021123245"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-ways-to-accommodate-employees-with-disabilities/",
+   "earliest": "20190822034537"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/five-things-you-should-do-if-your-home-is-robbed/",
+   "earliest": "20190920171210"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-things-to-consider-before-signing-an-employment-contract/",
+   "earliest": "20190820113608"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-key-factors-to-consider-when-outsourcing/",
+   "earliest": "20190916073003"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/refinancing-a-mortgage-think-before-you-act/",
+   "earliest": "20190921054534"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/laws-and-lore-of-american-thanksgiving/",
+   "earliest": "20191215050255"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-conduct-a-successful-employee-evaluation/",
+   "earliest": "20191020122939"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/get-your-legal-life-in-order-before-the-baby-arrives-infographic/",
+   "earliest": "20190916014821"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/be-prepared-for-flu-season-with-child-medical-consent-form/",
+   "earliest": "20190825031529"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/international-travel-common-passport-questions/",
+   "earliest": "20190820123813"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/legal-names-vs-trade-names-in-business/",
+   "earliest": "20190722144310"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/calling-it-quits-ending-a-contract-with-a-freelancer/",
+   "earliest": "20190921063755"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-common-myths-about-filing-personal-taxes/",
+   "earliest": "20190722150310"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-execute-a-will/",
+   "earliest": "20190716010023"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-a-green-burial/",
+   "earliest": "20190822073736"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-beginners-guide-to-condo-fees/",
+   "earliest": "20190822075839"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/boilerplate-clauses-in-a-legal-document/",
+   "earliest": "20190722014817"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/cryptocurrency-and-taxes-a-guide/",
+   "earliest": "20190722145141"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/your-guide-to-signing-legal-contracts/",
+   "earliest": "20190131165153"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-discuss-money-with-your-partner/",
+   "earliest": "20190821232002"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/investing-101-what-is-a-bond/",
+   "earliest": "20190822033342"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/do-you-need-a-vin-for-a-bill-of-sale/",
+   "earliest": "20190716182047"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/20-tips-to-make-your-resume-stand-out/",
+   "earliest": "20190716182210"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/are-verbal-agreements-legally-binding/",
+   "earliest": "20190722060240"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-pet-insurance/",
+   "earliest": "20190820123025"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-state-of-startups-in-the-us/",
+   "earliest": "20190820124646"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/8-pointers-all-tenants-should-know-to-protect-themselves/",
+   "earliest": "20190818194336"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-small-business-owners-guide-to-customer-service/",
+   "earliest": "20190824184848"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/9-money-saving-remodel-tips-for-the-diy-landlord/",
+   "earliest": "20190716181025"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-personal-information-should-you-include-in-your-resume-and-cover-letter/",
+   "earliest": "20190820124656"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-6-tips-for-writing-a-business-plan/",
+   "earliest": "20190819232858"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/are-payroll-services-right-for-your-small-business/",
+   "earliest": "20191020115211"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-defamation/",
+   "earliest": "20190722020953"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-every-employer-should-know-about-workplace-safety/www.sba.gov/content/workplace-safety-health",
+   "earliest": "20200808204959"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/guest-post-guidelines/",
+   "earliest": "20200928232334"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-tips-for-spring-home-sellers/",
+   "earliest": "20190825074055"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-funeral-faux-pas-you-shouldnt-forget/",
+   "earliest": "20190920211612"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/office-personalities-introverts-and-extroverts-in-the-workplace/",
+   "earliest": "20191020114910"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/protecting-your-digital-assets/",
+   "earliest": "20190629204809"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/new-year-new-you-goals-for-2017/",
+   "earliest": "20190820124503"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-advertise-your-small-business/",
+   "earliest": "20190819084336"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-an-executive-order/",
+   "earliest": "20190822075315"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-3-workplace-security-options-for-small-businesses/",
+   "earliest": "20190825034150"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/legal-resource-roundup-for-small-biz-owners/",
+   "earliest": "20190825210018"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/millennials-and-the-evolving-office/",
+   "earliest": "20191014091140"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/should-i-hire-a-property-manager/",
+   "earliest": "20200923022823"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-basics-of-end-of-life-planning/",
+   "earliest": "20190822075522"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/creating-a-positive-post-interview-experience-as-an-employer/",
+   "earliest": "20190916012004"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-spring-preparations-landlords-should-make/",
+   "earliest": "20190820113526"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/incubators-hatching-your-startup/",
+   "earliest": "20191020200403"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-hire-a-wedding-dj/",
+   "earliest": "20190820124645"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-support-encourage-and-maintain-elderly-independence/",
+   "earliest": "20190824182554"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/positive-offboarding-in-the-workplace/",
+   "earliest": "20190820124011"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/retirement-saving-tips-for-millennials/",
+   "earliest": "20191020115258"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/homeowners-outdoor-renovations-to-do-this-summer/",
+   "earliest": "20190722061808"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-uses-for-a-letter-of-intent/",
+   "earliest": "20190822074154"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/interview-with-modest-moneys-jeremy-biberdorf/",
+   "earliest": "20190825210816"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-questions-to-ask-your-childs-temporary-guardian/",
+   "earliest": "20190722144222"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/preparing-for-the-end-of-a-terminal-degree/",
+   "earliest": "20190920210802"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/signing-legal-contracts-infographic/",
+   "earliest": "20190825032938"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/weird-halloween-laws/",
+   "earliest": "20191112173046"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/protection-for-the-self-employed-during-an-emergency/",
+   "earliest": "20200809211651"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-you-should-do-before-getting-remarried/",
+   "earliest": "20190820120712"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-ways-to-save-on-your-big-day/",
+   "earliest": "20190822081341"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-are-good-samaritan-laws/",
+   "earliest": "20190916013535"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/renting-with-roommates-what-are-your-lease-options/",
+   "earliest": "20190722013804"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-every-employer-should-know-about-workplace-safety/",
+   "earliest": "20190821101906"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/dispute-resolution-101-negotiate-mediate-arbitrate-litigate/",
+   "earliest": "20190825033121"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tips-for-making-a-good-impression-on-your-business-trip/",
+   "earliest": "20191207204808"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-treat-mold-in-your-home/",
+   "earliest": "20191014084514"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/first-time-buyers-should-you-buy-new/",
+   "earliest": "20190916074604"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/returning-to-school-education-after-25/",
+   "earliest": "20200919182449"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-reasons-why-your-used-car-isnt-selling/",
+   "earliest": "20190716230546"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-green-tips-for-keeping-your-house-warm/",
+   "earliest": "20190920211351"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-secrets-to-balancing-a-side-project-with-a-day-job/",
+   "earliest": "20191207203401"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-important-things-to-include-in-a-prenup/",
+   "earliest": "20190820122419"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-questions-every-first-time-homebuyer-should-ask/",
+   "earliest": "20190722014646"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/youre-married-should-you-change-your-name/",
+   "earliest": "20190722145012"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/24-questions-every-engaged-couple-should-ask/",
+   "earliest": "20190820114756"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/common-questions-about-notaries-and-witnesses/",
+   "earliest": "20190820113531"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-sell-your-small-business/",
+   "earliest": "20190825210827"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-10-safety-tips-that-often-get-ignored-in-the-workplace/",
+   "earliest": "20190916011755"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-best-times-for-landlords-to-increase-rent/",
+   "earliest": "20190716190751"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/conflict-of-interest-in-the-workplace/",
+   "earliest": "20191015222143"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-are-your-rights-as-a-photographer/",
+   "earliest": "20211028050746"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/loans-and-family-what-82-percent-of-americans-would-do-for-their-relatives/",
+   "earliest": "20190822075926"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/company-culture-for-the-modern-employee/",
+   "earliest": "20191020120939"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tough-talks-3-hard-conversations-to-have-with-aging-parents/",
+   "earliest": "20190819084201"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/can-children-fly-alone/",
+   "earliest": "20190820121106"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/startups-7-early-symptoms-of-failure/",
+   "earliest": "20190716183201"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-questions-every-hopeful-freelancer-should-ask/",
+   "earliest": "20190819225942"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/curious-about-cohousing/",
+   "earliest": "20190822033106"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-first-time-buyers-guide-to-home-security/",
+   "earliest": "20190825072123"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-big-problems-with-us-real-estate-law/",
+   "earliest": "20190820122252"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-safe-secondary-income-opportunities-for-retirees/",
+   "earliest": "20190820115324"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-critical-tips-every-real-estate-investor-should-know/",
+   "earliest": "20190818200558"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/frequently-asked-questions-about-registered-agents/",
+   "earliest": "20190825210701"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/selling-your-home-tips-for-a-faster-better-offer/",
+   "earliest": "20190916014420"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-back-to-school-housing-options/",
+   "earliest": "20191020193540"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/8-hard-to-believe-halloween-laws/",
+   "earliest": "20191021123917"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-you-should-include-in-your-business-plan/",
+   "earliest": "20190822073907"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-deal-breakers-for-first-time-buyers/",
+   "earliest": "20191020120754"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-laws-every-employee-should-know/",
+   "earliest": "20191021123712"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/millennial-homeownership-looking-ahead/",
+   "earliest": "20190820123221"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/business-basics-an-interview-with-mycorporation-ceo-deborah-sweeney/",
+   "earliest": "20190920171221"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-freelancers-should-know-about-copyright-infringement/",
+   "earliest": "20190916014453"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/greening-your-office-products-practices-and-positives/",
+   "earliest": "20190916073332"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-to-do-with-your-remains/",
+   "earliest": "20190820120749"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/funding-your-startup-making-your-idea-a-reality/",
+   "earliest": "20190916013123"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-dos-and-donts-of-formatting-your-resume/",
+   "earliest": "20190722143032"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-does-effective-date-mean-in-a-contract/",
+   "earliest": "20190819085450"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/building-the-best-business-name/",
+   "earliest": "20201101015023"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-things-you-cant-include-in-a-non-compete-agreement/",
+   "earliest": "20190820115801"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-write-an-affidavit/",
+   "earliest": "20190825074203"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-best-and-worst-ways-to-accept-rent-payments/",
+   "earliest": "20201212223606"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/presidential-debates-memorable-moments-from-the-past/",
+   "earliest": "20190921070752"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-real-cost-of-renting-how-much-can-you-afford/",
+   "earliest": "20190825031936"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/choosing-an-attorney-10-things-to-consider/",
+   "earliest": "20190722143302"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-avoid-discrimination-during-hiring/",
+   "earliest": "20190722062106"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-perks-of-pet-friendly-properties/",
+   "earliest": "20190820122708"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/bridging-the-gap-how-reverse-mentoring-affects-millennial-retention/",
+   "earliest": "20190820120311"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-3-it-resources-you-should-outsource/",
+   "earliest": "20191014092824"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-most-pet-owners-forget-to-plan-for/",
+   "earliest": "20190825033257"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/job-application-mistakes-to-avoid/",
+   "earliest": "20190820120110"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/from-mind-to-market-bringing-your-product-to-life/",
+   "earliest": "20191020123205"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/first-time-homeowners-making-the-season-bright/",
+   "earliest": "20190920212413"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-screen-tenants-in-3-easy-steps/",
+   "earliest": "20190916225602"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-do-successful-partnerships-have-in-common/www.lawdepot.com/contracts/business-plan/",
+   "earliest": "20191014091714"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/employee-benefits-what-do-you-have-to-offer/",
+   "earliest": "20200723124755"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-questions-to-ask-yourself-before-switching-careers/",
+   "earliest": "20190818200911"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/are-divorce-records-public/",
+   "earliest": "20190820120321"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-ways-to-reduce-your-mortgage-costs/",
+   "earliest": "20190820121251"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-get-hired-after-being-fired/",
+   "earliest": "20190820124355"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/write-executive-summary-for-business-plan/",
+   "earliest": "20190820121527"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-a-lien/",
+   "earliest": "20190825203955"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/pivoting-setting-a-new-course-for-your-business/",
+   "earliest": "20190820115012"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/small-business-recruitment-tips-and-tactics/",
+   "earliest": "20190819130118"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/surviving-tax-season-your-top-resources/",
+   "earliest": "20190716181113"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-store-your-estate-planning-documents/",
+   "earliest": "20191020114832"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/alternative-executor-last-will/",
+   "earliest": "20190825210953"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-an-index-fund/",
+   "earliest": "20190916013757"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/long-term-travel-a-guide-to-getting-organized-before-your-trip/",
+   "earliest": "20190820124117"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/who-gets-the-pets-in-a-divorce/",
+   "earliest": "20190722144704"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-signs-that-a-guest-has-become-a-tenant/",
+   "earliest": "20190820124733"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/branding-101-building-your-business/",
+   "earliest": "20190819123757"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/7-things-you-should-check-before-renting-a-property/",
+   "earliest": "20190822033514"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-much-should-small-business-owners-pay-themselves/",
+   "earliest": "20190825203359"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-conversations-to-have-with-a-potential-roommate/",
+   "earliest": "20190916013304"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-things-tenants-dont-tell-their-landlords/",
+   "earliest": "20190819230049"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tenants-in-common-vs-joint-tenants/",
+   "earliest": "20190819083249"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/bootstrapping-basics-how-to-self-fund-your-startup/",
+   "earliest": "20191215052610"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-elements-of-a-valid-contract/",
+   "earliest": "20190722060721"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/quick-tips-for-hiring-a-building-contractor/",
+   "earliest": "20190820122329"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/freelancers-how-to-protect-your-intellectual-property/",
+   "earliest": "20190820122559"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/getting-married-8-things-to-talk-about-first/",
+   "earliest": "20190824184859"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/small-business-models-scaling-for-success/",
+   "earliest": "20190820113546"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-non-compete-clause-is-it-enforceable/",
+   "earliest": "20190921053709"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/6-digital-marketing-tips-for-startups/",
+   "earliest": "20190821095053"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-prepare-your-investment-property-for-tenants/",
+   "earliest": "20190916231627"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/hr-outsourcing-for-your-small-business/",
+   "earliest": "20200927092600"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-rent-a-room-in-your-house/",
+   "earliest": "20190722142944"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-probate/",
+   "earliest": "20190722143455"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-purchase-a-cemetery-plot/",
+   "earliest": "20190722143743"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-situations-to-use-a-child-travel-consent-form/",
+   "earliest": "20190916013452"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/pros-and-cons-of-hiring-a-new-graduate/",
+   "earliest": "20190821234501"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/which-business-documents-to-review-in-the-new-year/",
+   "earliest": "20190722014133"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-freelance-musicians-guide-to-getting-paid/",
+   "earliest": "20191215120223"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/your-last-words-live-forever-choose-wisely/",
+   "earliest": "20190822031920"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-secrets-to-building-new-client-relationships/",
+   "earliest": "20191014092629"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-do-successful-partnerships-have-in-common/",
+   "earliest": "20190822080848"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/frequently-asked-freelance-questions/",
+   "earliest": "20190916075716"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-last-minute-gift-ideas-for-entrepreneurs/",
+   "earliest": "20190821095848"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/welcome-aboard-5-ways-to-help-new-hires-settle-in/",
+   "earliest": "20200717094209"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-an-llc/",
+   "earliest": "20190722144717"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/from-staff-to-founder-what-every-startup-hopeful-should-know/",
+   "earliest": "20200717093450"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/dos-and-donts-of-hiring-an-independent-contractor/",
+   "earliest": "20190819230516"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-end-a-seasonal-contract-on-a-good-note/",
+   "earliest": "20191014092110"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/5-reasons-your-will-could-be-contested/",
+   "earliest": "20190820121616"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/3-ways-employers-can-protect-confidentiality-in-the-workplace/",
+   "earliest": "20190822073939"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/interesting-facts-about-the-us-constitution/",
+   "earliest": "20190821095104"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-pros-and-cons-of-building-or-buying-a-new-house/",
+   "earliest": "20190819083747"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/winterizing-your-rental-property-a-guide-for-landlords-infographic/",
+   "earliest": "20190920212540"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/guest-post-submissions/",
+   "earliest": "20190825205343"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/types-of-temporary-employment/",
+   "earliest": "20190822080319"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/real-estate-investment-analyze-before-you-buy/",
+   "earliest": "20190716225136"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/applying-for-jobs-online-common-problems-and-solutions/",
+   "earliest": "20190819084746"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/top-moving-tips-tricks/",
+   "earliest": "20190722014408"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/15-questions-you-cant-ask-employees-infographic/",
+   "earliest": "20190722151055"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/when-to-use-a-power-of-attorney/",
+   "earliest": "20190819083957"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-legal-reasons-you-shouldnt-lie-in-your-resume/",
+   "earliest": "20190722145034"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/summer-vacation-ideas-for-the-budget-conscious-family/",
+   "earliest": "20190820120629"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/home-inspections-why-every-buyer-should-have-one/",
+   "earliest": "20190820121002"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/interview-with-amy-ohm-from-treatment-diaries/",
+   "earliest": "20190916225731"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tips-for-applying-for-jobs-online/",
+   "earliest": "20190716192058"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-common-questions-about-organ-donation/",
+   "earliest": "20190921053843"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/resource-roundup-for-new-homeowners/",
+   "earliest": "20190722144125"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-initial-a-contract/",
+   "earliest": "20190716231739"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/who-is-the-trustee-in-a-deed-of-trust/",
+   "earliest": "20190825210535"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/8-screening-questions-for-potential-tenants/",
+   "earliest": "20190819082822"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-brief-guide-to-surety-bonds/",
+   "earliest": "20190921053550"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-roles-of-a-startup-founder/",
+   "earliest": "20190820120341"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-ways-to-retain-talent-in-the-workplace/",
+   "earliest": "20190822074254"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/witnesses-in-a-legal-document/",
+   "earliest": "20190722060659"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-ways-to-keep-your-small-business-competitive/",
+   "earliest": "20190820113523"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/five-entrepreneurial-archetypes/",
+   "earliest": "20190819233026"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/using-your-rental-property-to-host-on-airbnb/",
+   "earliest": "20190820123608"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/entrepreneurship-what-28-small-business-owners-love-most/",
+   "earliest": "20190820113957"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/long-distance-moves-getting-from-a-to-b/",
+   "earliest": "20190916014937"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-tips-for-the-long-distance-landlord/",
+   "earliest": "20190716004804"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-an-easement/",
+   "earliest": "20190820124125"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/should-you-try-swedish-death-cleaning/",
+   "earliest": "20190716003718"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/are-you-ready-to-move/",
+   "earliest": "20190920205848"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-basics-of-independent-legal-advice/",
+   "earliest": "20190819085750"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/strange-requests-in-last-wills/",
+   "earliest": "20190921071750"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/due-diligence-crunching-the-numbers/",
+   "earliest": "20190716004234"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tax-deductions-for-your-rental-property/",
+   "earliest": "20190822075206"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/negotiating-a-salary-tips-for-new-employees/",
+   "earliest": "20190820114447"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-signs-you-should-update-your-lease/",
+   "earliest": "20190916225308"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/when-can-a-landlord-enter-the-premises/",
+   "earliest": "20190722060218"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/10-ways-to-earn-money-on-the-side/",
+   "earliest": "20190820113542"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-retail-business-owners-guide-to-year-end-planning/",
+   "earliest": "20191211124828"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/a-quick-tax-guide-for-freelancers/",
+   "earliest": "20190716230309"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/moving-in-with-a-partner-in-6-steps/",
+   "earliest": "20190920211855"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-hidden-costs-of-buying-your-first-home/",
+   "earliest": "20190819084517"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/tough-talks-4-premarital-conversations-to-have/",
+   "earliest": "20190820122702"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-new-homeowners-can-organize-and-plan-home-maintenance/",
+   "earliest": "20190825203638"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/the-freedom-of-freelancing-how-to-get-started/",
+   "earliest": "20190822033029"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/does-your-small-business-need-social-media/",
+   "earliest": "20190921073324"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/8-common-mistakes-landlords-make/",
+   "earliest": "20190920212150"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/going-green-upgrades-that-add-value-to-your-property/",
+   "earliest": "20190825205235"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/4-things-to-consider-before-signing-an-employment-contract-part-2/",
+   "earliest": "20190722150958"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-is-a-holographic-will/",
+   "earliest": "20190722144234"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/how-to-deal-with-caregiver-stress/",
+   "earliest": "20190916013746"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/resignation-letter-etiquette-dos-and-donts/",
+   "earliest": "20191112174903"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/9-expert-legal-tips-for-new-landlords/",
+   "earliest": "20191020194157"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/what-not-to-include-in-your-website-disclaimer/",
+   "earliest": "20190822074528"
+  },
+  {
+   "url": "https://www.lawdepot.com/blog/franchise-101-what-you-should-know-before-you-buy/",
+   "earliest": "20190822032621"
+  }
+ ]
+}
