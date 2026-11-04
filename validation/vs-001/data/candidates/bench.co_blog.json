@@ -1,0 +1,3047 @@
+{
+ "blog": "bench.co/blog",
+ "group": "Accounting and finance",
+ "reserve": false,
+ "cdxRows": 1211,
+ "articleLike": 759,
+ "queriedAt": "2026-11-04T04:02:43.496Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://bench.co/blog/operations/small-business-automation/",
+   "earliest": "20190722043327"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/separate-business-personal-finances/",
+   "earliest": "20190716151410"
+  },
+  {
+   "url": "https://bench.co/blog/operations/forming-a-business-strategy/",
+   "earliest": "20220128082252"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-form-1120s/",
+   "earliest": "20190824035713"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/tax-resolution-bookkeeping/",
+   "earliest": "20190824040105"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-quickbooks-amazon-sellers/",
+   "earliest": "20220520103529"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/quicken-alternatives/",
+   "earliest": "20191006181847"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/fixed-vs-variable-costs/",
+   "earliest": "20191220142033"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-is-hr/",
+   "earliest": "20190915231539"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/grow-accounting-firm/",
+   "earliest": "20190716151802"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/lifo-last-in-first-out/",
+   "earliest": "20210116085010"
+  },
+  {
+   "url": "https://bench.co/blog/operations/documents-required-ppp-forgiveness/",
+   "earliest": "20210116091255"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/general-ledger/",
+   "earliest": "20190608104008"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/samuel-hulick/",
+   "earliest": "20191006181811"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/outsource-accounting/",
+   "earliest": "20210917133102"
+  },
+  {
+   "url": "https://bench.co/blog/operations/automate-business-process/",
+   "earliest": "20220520112119"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/pay-yourself-from-llc/",
+   "earliest": "20210323222152"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/ucc-filing/",
+   "earliest": "20191006181255"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/balance-sheet/",
+   "earliest": "20190718042603"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/law-firm-accounting/",
+   "earliest": "20191220142343"
+  },
+  {
+   "url": "https://bench.co/blog/operations/covid19-shut-down-business/",
+   "earliest": "20200514202800"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-941/",
+   "earliest": "20191006181515"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/square-integration/",
+   "earliest": "20190716151902"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/double-declining-balance/",
+   "earliest": "20191006181933"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/gross-margin/",
+   "earliest": "20190722043314"
+  },
+  {
+   "url": "https://bench.co/blog/operations/should-you-buy-a-franchise/",
+   "earliest": "20190716151614"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/best-ecommerce-accounting-software/",
+   "earliest": "20220422220133"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/statement-retained-earnings/",
+   "earliest": "20211129032728"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/pre-revenue-bookkeeping/",
+   "earliest": "20210515201921"
+  },
+  {
+   "url": "https://bench.co/blog/resources/canadian-small-business-tax-checklist/",
+   "earliest": "20190717124539"
+  },
+  {
+   "url": "https://bench.co/blog/operations/paycheck-protection-program-health-care-enhancement-act/",
+   "earliest": "20200511174501"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-file-state-income-tax-extension/",
+   "earliest": "20190824035819"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-bluevine-ppp/",
+   "earliest": "20201101131928"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/business-financial-health-check-questions/",
+   "earliest": "20190716151536"
+  },
+  {
+   "url": "https://bench.co/blog/resources/brex-qtc/",
+   "earliest": "20210116082216"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/fake-irs-letter/",
+   "earliest": "20220509224638"
+  },
+  {
+   "url": "https://bench.co/blog/resources/remote-financial-management/",
+   "earliest": "20200812003304"
+  },
+  {
+   "url": "https://bench.co/blog/operations/severance-pay/",
+   "earliest": "20200423034154"
+  },
+  {
+   "url": "https://bench.co/blog/operations/defer-2020-tax-payments/",
+   "earliest": "20200812011526"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-spend-eidl-loan/",
+   "earliest": "20200812012301"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/ash-ambirge/",
+   "earliest": "20190716151527"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/quickbooks-amazon-sellers/",
+   "earliest": "20221004012322"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/mcclures-pickles/",
+   "earliest": "20191006182333"
+  },
+  {
+   "url": "https://bench.co/blog/operations/start-a-consulting-business/",
+   "earliest": "20191220142424"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/do-you-need-a-business-license-to-sell-online/",
+   "earliest": "20220128092810"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/forensic-accounting-q-a/",
+   "earliest": "20220701233349"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/reduce-your-small-business-tax-bill/",
+   "earliest": "20190824040119"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/c-corporation/",
+   "earliest": "20210417113732"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/herschel-supply-co/",
+   "earliest": "20190824035857"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/sole-prop-scorp-transition/",
+   "earliest": "20191220141742"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-preparation-for-business/",
+   "earliest": "20211129014624"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-for-partnerships/",
+   "earliest": "20200806164343"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/proforma-invoice/",
+   "earliest": "20221004002927"
+  },
+  {
+   "url": "https://bench.co/blog/banking/how-to-open-a-business-bank-account/",
+   "earliest": "20210515213235"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/straight-line-depreciation/",
+   "earliest": "20191006181937"
+  },
+  {
+   "url": "https://bench.co/blog/operations/s-corporation/",
+   "earliest": "20190722043541"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-flexibility-act/",
+   "earliest": "20200928054242"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/virtual-bookkeeping/",
+   "earliest": "20191207063304"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/property-management-accounting-taxes/",
+   "earliest": "20191006180922"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/canada-corporate-tax/",
+   "earliest": "20190716151608"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-rehiring-employees/",
+   "earliest": "20200509221757"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-implications-foreign-owned-business-us/",
+   "earliest": "20221003233619"
+  },
+  {
+   "url": "https://bench.co/blog/operations/rent-for-ppp/",
+   "earliest": "20210624034736"
+  },
+  {
+   "url": "https://bench.co/blog/operations/office-lease/",
+   "earliest": "20190716151853"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/what-happens-dont-do-bookkeeping/",
+   "earliest": "20190716151348"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ecommerce-business-hacks/",
+   "earliest": "20220408194945"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-solutions/",
+   "earliest": "20191019015202"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-1120s-k1/",
+   "earliest": "20220128080724"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-start-online-business/",
+   "earliest": "20210917124320"
+  },
+  {
+   "url": "https://bench.co/blog/operations/best-business-line-of-credit/",
+   "earliest": "20191220142211"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/xero-vs-bench/",
+   "earliest": "20220817191128"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/expense-tracking/",
+   "earliest": "20190525190637"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/business-travel/",
+   "earliest": "20190525190638"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-are-partnerships-taxed/",
+   "earliest": "20220128085610"
+  },
+  {
+   "url": "https://bench.co/blog/banking/business-bank-account/",
+   "earliest": "20210515211234"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-1120w-estimated-tax-corporations/",
+   "earliest": "20221004003032"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/income-statement/",
+   "earliest": "20190717132546"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/real-business-decisions-bench-financial-statements/",
+   "earliest": "20190824035802"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/file-2018-small-business-tax-return/",
+   "earliest": "20190722043532"
+  },
+  {
+   "url": "https://bench.co/blog/operations/merchant-cash-advances/",
+   "earliest": "20200806164206"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/financial-statements/",
+   "earliest": "20190626154540"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/limited-liability-company/",
+   "earliest": "20210417103741"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-form-1120/",
+   "earliest": "20190824035615"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/stripe-app-marketplace-launch/",
+   "earliest": "20220524164840"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/andrew-wilkinson/",
+   "earliest": "20190715013750"
+  },
+  {
+   "url": "https://bench.co/blog/operations/hire-a-business-coach/",
+   "earliest": "20220520094912"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-form-2553/",
+   "earliest": "20210116083627"
+  },
+  {
+   "url": "https://bench.co/blog/operations/when-to-hire-business-consultant/",
+   "earliest": "20200812010021"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/calculate-gross-income/",
+   "earliest": "20210309201520"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/amazon-seller-taxes/",
+   "earliest": "20220520111254"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/converting-cash-basis-to-accrual/",
+   "earliest": "20220128083708"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/break-even-point/",
+   "earliest": "20210116093933"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/deducting-employee-benefits/",
+   "earliest": "20190722043242"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/business-plan-cover-page/",
+   "earliest": "20221004005246"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-does-per-diem-mean/",
+   "earliest": "20210705170221"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/business-entity-types/",
+   "earliest": "20210515212455"
+  },
+  {
+   "url": "https://bench.co/blog/resources/eidl-handbook/",
+   "earliest": "20200812011703"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/dog-and-co/",
+   "earliest": "20191006182410"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/double-taxation/",
+   "earliest": "20220520102807"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/afford-a-bookkeeper/",
+   "earliest": "20191006180847"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/standard-deduction/",
+   "earliest": "20191220134014"
+  },
+  {
+   "url": "https://bench.co/blog/operations/professional-liability-insurance/",
+   "earliest": "20201101044316"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/boutique-japan/",
+   "earliest": "20191006182351"
+  },
+  {
+   "url": "https://bench.co/blog/operations/sui-rate/",
+   "earliest": "20191113080333"
+  },
+  {
+   "url": "https://bench.co/blog/resources/profit-and-loss-statement-template/",
+   "earliest": "20220927161043"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/nonprofit-accounting/",
+   "earliest": "20191006181349"
+  },
+  {
+   "url": "https://bench.co/blog/operations/small-business-grants-for-women/",
+   "earliest": "20210225193323"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/ecommerce-accounting/",
+   "earliest": "20190824040055"
+  },
+  {
+   "url": "https://bench.co/blog/operations/cares-act/",
+   "earliest": "20200511155357"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-partnerships-program/",
+   "earliest": "20201024174915"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeper-definition/",
+   "earliest": "20190716151905"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/file-amended-return-form-1040x/",
+   "earliest": "20220504050358"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/s-corp-reasonable-salary/",
+   "earliest": "20220128081159"
+  },
+  {
+   "url": "https://bench.co/blog/operations/business-line-of-credit/",
+   "earliest": "20191220142216"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-spend-tax-refund/",
+   "earliest": "20190716151420"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-loan-forgiveness/",
+   "earliest": "20200421041253"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/receivables-turnover-ratio/",
+   "earliest": "20220520110900"
+  },
+  {
+   "url": "https://bench.co/blog/banking/startup-business-loans/",
+   "earliest": "20210414010754"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-start-a-business-in-california/",
+   "earliest": "20220128084513"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/online-services-tools-apps/",
+   "earliest": "20190824035522"
+  },
+  {
+   "url": "https://bench.co/blog/operations/best-small-business-loans/",
+   "earliest": "20200511171242"
+  },
+  {
+   "url": "https://bench.co/blog/banking/ach-payment-wire-transfer-or-check/",
+   "earliest": "20220701233939"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/llc-tax-filing-deadline/",
+   "earliest": "20221004002020"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/categorize-business-transactions/",
+   "earliest": "20190716151452"
+  },
+  {
+   "url": "https://bench.co/blog/resources/tax-deduction-list/",
+   "earliest": "20190824035653"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/jean-philippe-durrios-appointed-ceo/",
+   "earliest": "20220826160538"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/hire-small-business-accountant/",
+   "earliest": "20220520113135"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/alternative-minimum-tax/",
+   "earliest": "20191220142133"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/hire-smb-accountant/",
+   "earliest": "20221003235358"
+  },
+  {
+   "url": "https://bench.co/blog/operations/short-term-financing/",
+   "earliest": "20190824035418"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/when-can-you-file-taxes/",
+   "earliest": "20220128092154"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeping-and-tax-debt/",
+   "earliest": "20220817190157"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/bench-freshbooks-client-story/",
+   "earliest": "20191019015244"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-small-business-credit-card/",
+   "earliest": "20210417115915"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/club-pilates-bookkeeping/",
+   "earliest": "20191006181929"
+  },
+  {
+   "url": "https://bench.co/blog/operations/international-hiring/",
+   "earliest": "20220415173102"
+  },
+  {
+   "url": "https://bench.co/blog/operations/business-liability-insurance/",
+   "earliest": "20201024183835"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/california-state-taxes/",
+   "earliest": "20210215183214"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/free-small-business-accounting-software/",
+   "earliest": "20210917133020"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-loan-new-businesses-2020/",
+   "earliest": "20201029173048"
+  },
+  {
+   "url": "https://bench.co/blog/banking/types-of-bank-accounts/",
+   "earliest": "20210917140659"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-lenders/",
+   "earliest": "20200421223309"
+  },
+  {
+   "url": "https://bench.co/blog/operations/small-business-loans/",
+   "earliest": "20190716151824"
+  },
+  {
+   "url": "https://bench.co/blog/operations/cash-flow-forecasting/",
+   "earliest": "20190722043456"
+  },
+  {
+   "url": "https://bench.co/blog/resources/sba-disaster-loan-application/",
+   "earliest": "20210226182140"
+  },
+  {
+   "url": "https://bench.co/blog/resources/balance-sheet-template/",
+   "earliest": "20191220143657"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-open-a-small-business-bank-account/",
+   "earliest": "20190824040017"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/trump-tax-plan/",
+   "earliest": "20191006173337"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-forgiveness-contractors-sole-props/",
+   "earliest": "20200505142917"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/clothing-tax-deduction/",
+   "earliest": "20191006173303"
+  },
+  {
+   "url": "https://bench.co/blog/banking/minority-business-loans/",
+   "earliest": "20220520102847"
+  },
+  {
+   "url": "https://bench.co/blog/operations/general-partnerships/",
+   "earliest": "20191019011423"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-is-apr/",
+   "earliest": "20191006181303"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/operating-expenses/",
+   "earliest": "20191220142411"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/merchant-fees-form-1099k/",
+   "earliest": "20190722043620"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/how-to-hire-the-right-bookkeeper/",
+   "earliest": "20190603062418"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/welcoming-dan-weckend-vice-president-partnerships/",
+   "earliest": "20220327013307"
+  },
+  {
+   "url": "https://bench.co/blog/operations/growing-with-mobile-payments/",
+   "earliest": "20190722043258"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-management/outsourcing-guide/",
+   "earliest": "20220520113720"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/what-happens-if-you-dont-file-taxes/",
+   "earliest": "20211022183608"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-advisor/",
+   "earliest": "20211129031351"
+  },
+  {
+   "url": "https://bench.co/blog/operations/technology-tools-for-business/",
+   "earliest": "20220714010838"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/dei-at-bench-pride/",
+   "earliest": "20210601173134"
+  },
+  {
+   "url": "https://bench.co/blog/operations/board-of-directors/",
+   "earliest": "20190716151743"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/inflation-reduction-act-small-business-owners/",
+   "earliest": "20220907161637"
+  },
+  {
+   "url": "https://bench.co/blog/operations/set-up-optimize-accounts-receivable/",
+   "earliest": "20190722043255"
+  },
+  {
+   "url": "https://bench.co/blog/operations/qualify-ppp-loan/",
+   "earliest": "20200514234503"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-far-back-can-the-irs-audit/",
+   "earliest": "20211129031508"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/what-is-a-tax-levy/",
+   "earliest": "20210917123126"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-1127-irs-payment-extension/",
+   "earliest": "20220817194251"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/bench-income-statement-stripe-dashboard/",
+   "earliest": "20220701233031"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/how-to-keep-track-of-business-expenses/",
+   "earliest": "20210917135738"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-online-business-checking-account/",
+   "earliest": "20210805113118"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/salary-vs-owners-draw/",
+   "earliest": "20190716151533"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/startup-resource-guide/",
+   "earliest": "20210515213125"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/business-budget/",
+   "earliest": "20191006173329"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/common-bookkeeping-mistakes/",
+   "earliest": "20191006181946"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/pro-forma-financial-statements/",
+   "earliest": "20191220142506"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-direct-forgiveness-portal/",
+   "earliest": "20210802191826"
+  },
+  {
+   "url": "https://bench.co/blog/operations/owning-vs-leasing-equipment/",
+   "earliest": "20191006174230"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/net-income-definition/",
+   "earliest": "20210227121619"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/sole-proprietorship-taxes/",
+   "earliest": "20191207063602"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-do-accounting-for-small-business/",
+   "earliest": "20210719170302"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/",
+   "earliest": "20210515212127"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/small-business-recordkeeping/",
+   "earliest": "20190525190637"
+  },
+  {
+   "url": "https://bench.co/blog/resources/tax-mistakes-webinar/",
+   "earliest": "20220303180634"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/travel-expenses-deductible/",
+   "earliest": "20191006173229"
+  },
+  {
+   "url": "https://bench.co/blog/operations/sba-eidl-grant/",
+   "earliest": "20200422021356"
+  },
+  {
+   "url": "https://bench.co/blog/operations/student-debt-relief/",
+   "earliest": "20221003232502"
+  },
+  {
+   "url": "https://bench.co/blog/operations/track-ppp-eidl/",
+   "earliest": "20220701230002"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-pay-small-business-tax/",
+   "earliest": "20191220141913"
+  },
+  {
+   "url": "https://bench.co/blog/banking/how-to-get-a-business-loan/",
+   "earliest": "20210917141848"
+  },
+  {
+   "url": "https://bench.co/blog/resources/bookkeeping-basics-entrepreneurs/",
+   "earliest": "20190824035547"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-vs-unemployment-benefits/",
+   "earliest": "20200511160646"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-accountable-plan/",
+   "earliest": "20220430063725"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/1099-reporting-requirements/",
+   "earliest": "20220817202359"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eligible-passive-company-ppp/",
+   "earliest": "20200928044428"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-phone-numbers/",
+   "earliest": "20220429185819"
+  },
+  {
+   "url": "https://bench.co/blog/resources/united-states-personal-tax-return-checklist-self-employed/",
+   "earliest": "20210227125018"
+  },
+  {
+   "url": "https://bench.co/blog/banking/business-credit-scores/",
+   "earliest": "20211018160226"
+  },
+  {
+   "url": "https://bench.co/blog/operations/black-friday-cyber-monday/",
+   "earliest": "20211105140032"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-find-best-cpa-startup/",
+   "earliest": "20220701224437"
+  },
+  {
+   "url": "https://bench.co/blog/banking/whats-needed-to-open-business-bank-account/",
+   "earliest": "20210515214314"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-is-payroll/",
+   "earliest": "20221004002132"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/priya-malani/",
+   "earliest": "20190818193438"
+  },
+  {
+   "url": "https://bench.co/blog/operations/resources-black-owned-business/",
+   "earliest": "20200812001032"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/business-valuation/",
+   "earliest": "20190915231142"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/profit-margin/",
+   "earliest": "20190722043154"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/5-reasons-why-i-joined-bench/",
+   "earliest": "20220520102609"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/canadas-top-performing-tech-companies/",
+   "earliest": "20221017163407"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/deduct-meals-entertainment-2019/",
+   "earliest": "20191006173411"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-is-invoice-factoring/",
+   "earliest": "20220728170258"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/timber-tax-interview/",
+   "earliest": "20191006181652"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-firstbase-partnership/",
+   "earliest": "20220511174054"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-bookkeeping-canada-launch/",
+   "earliest": "20190716151508"
+  },
+  {
+   "url": "https://bench.co/blog/operations/payroll-tax-deferral-update/",
+   "earliest": "20210116090220"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eidl-grant-closed/",
+   "earliest": "20220520103333"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/new-tax-deadlines-2020/",
+   "earliest": "20200812005939"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-find-tax-advisor/",
+   "earliest": "20221004005334"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/self-employed-taxes-canada/",
+   "earliest": "20190716151247"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-4562/",
+   "earliest": "20191006182114"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/profit-and-loss-statement/",
+   "earliest": "20201109190905"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-stories/",
+   "earliest": "20191006181951"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/excise-tax/",
+   "earliest": "20220817185338"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/what-is-accounting/",
+   "earliest": "20190722043425"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/excel-bookkeeping/",
+   "earliest": "20190716151558"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/foreign-currency-small-business-accounting/",
+   "earliest": "20191006182256"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/section-179-deduction/",
+   "earliest": "20191019015349"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-wrong-amount/",
+   "earliest": "20200806164008"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-online-business-bank-accounts/",
+   "earliest": "20210805121539"
+  },
+  {
+   "url": "https://bench.co/blog/banking/is-online-banking-safe/",
+   "earliest": "20210806170420"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/james-clear/",
+   "earliest": "20191006182105"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-brackets/",
+   "earliest": "20191019015511"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/budgeting-on-a-variable-income/",
+   "earliest": "20191006182146"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/debits-credits/",
+   "earliest": "20190526202027"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/transition-to-llc/",
+   "earliest": "20210417104414"
+  },
+  {
+   "url": "https://bench.co/blog/operations/sole-proprietorship/",
+   "earliest": "20190722043214"
+  },
+  {
+   "url": "https://bench.co/blog/operations/mileage-trackers/",
+   "earliest": "20191220142306"
+  },
+  {
+   "url": "https://bench.co/blog/operations/detox-your-finances/",
+   "earliest": "20191019015531"
+  },
+  {
+   "url": "https://bench.co/blog/resources/business-entity-guide/",
+   "earliest": "20220520114957"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/self-employment-tax-deductions/",
+   "earliest": "20191006173832"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/common-quickbooks-mistakes/",
+   "earliest": "20190824035604"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/clothing-uniforms/",
+   "earliest": "20190722043554"
+  },
+  {
+   "url": "https://bench.co/blog/operations/transition-to-llc/",
+   "earliest": "20190824035636"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/business-budget-categories/",
+   "earliest": "20210917131325"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/penalty-for-filing-taxes-late/",
+   "earliest": "20220310213804"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-choose-small-business-entity-type/",
+   "earliest": "20190716151238"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/llc-license/",
+   "earliest": "20220520114922"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-write-a-business-plan/",
+   "earliest": "20210515201024"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-apply-first-ppp-loan/",
+   "earliest": "20210126200131"
+  },
+  {
+   "url": "https://bench.co/blog/operations/veteran-business-grants/",
+   "earliest": "20211129023837"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-forgiveness-application-form/",
+   "earliest": "20200615125021"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-eidl-together/",
+   "earliest": "20200806161301"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accumulated-depreciation/",
+   "earliest": "20210803100334"
+  },
+  {
+   "url": "https://bench.co/blog/banking/credit-card-processing/",
+   "earliest": "20210917135624"
+  },
+  {
+   "url": "https://bench.co/blog/operations/survive-a-recession/",
+   "earliest": "20200514172617"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-affects-taxes/",
+   "earliest": "20210116094132"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/retained-earnings/",
+   "earliest": "20190712020836"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/age-of-the-entrepreneur-data-report/",
+   "earliest": "20190716151702"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/new-employee-forms/",
+   "earliest": "20220128092956"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/irs-receipts-requirements/",
+   "earliest": "20210917121702"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-request-increase-ppp-amount/",
+   "earliest": "20210127230104"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-start-a-business-in-california/",
+   "earliest": "20191220142529"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-8832/",
+   "earliest": "20220817204154"
+  },
+  {
+   "url": "https://bench.co/blog/operations/covid19-relief-beyond-ppp-eidl/",
+   "earliest": "20200928051828"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/llc-tax-benefits/",
+   "earliest": "20220701230555"
+  },
+  {
+   "url": "https://bench.co/blog/operations/paycheck-protection-program-self-employed/",
+   "earliest": "20200406181843"
+  },
+  {
+   "url": "https://bench.co/blog/operations/sba-disaster-loan/",
+   "earliest": "20200403214155"
+  },
+  {
+   "url": "https://bench.co/blog/banking/merchant-cash-advances/",
+   "earliest": "20210917141628"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-audit-triggers/",
+   "earliest": "20211029164505"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/year-end-tax-moves/",
+   "earliest": "20191213163255"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/calculate-sales-tax/",
+   "earliest": "20191006181012"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/expense-reports-templates/",
+   "earliest": "20191220141757"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-long-without-filing-taxes/",
+   "earliest": "20220701225819"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/small-business-taxes/",
+   "earliest": "20191006181123"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounting-101/",
+   "earliest": "20191019015303"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/executive-leadership-transition-update/",
+   "earliest": "20220128081800"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-much-does-a-cpa-cost/",
+   "earliest": "20211127232057"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-start-a-business/",
+   "earliest": "20210515203801"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/qbi-deduction/",
+   "earliest": "20191019015258"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/s-corp-tax-filing-deadline/",
+   "earliest": "20221004004144"
+  },
+  {
+   "url": "https://bench.co/blog/resources/ask-an-accounting-expert/",
+   "earliest": "20220915143040"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/questions-to-ask-accountant/",
+   "earliest": "20220214220153"
+  },
+  {
+   "url": "https://bench.co/blog/operations/cash-flow-tools/",
+   "earliest": "20190716151445"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-deloitte-2018/",
+   "earliest": "20190824035356"
+  },
+  {
+   "url": "https://bench.co/blog/operations/express-bridge-loan-pilot-program/",
+   "earliest": "20200511163841"
+  },
+  {
+   "url": "https://bench.co/blog/banking/peer-to-peer-lending-for-business/",
+   "earliest": "20210515212608"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eidl-reconsideration/",
+   "earliest": "20200926190608"
+  },
+  {
+   "url": "https://bench.co/blog/banking/cd-vs-savings-account/",
+   "earliest": "20210813170320"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/business-advice-david-cohen-for-bench-clients/",
+   "earliest": "20191019015547"
+  },
+  {
+   "url": "https://bench.co/blog/operations/second-ppp-loan/",
+   "earliest": "20201222214402"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-pay-yourself-s-corp/",
+   "earliest": "20220817191921"
+  },
+  {
+   "url": "https://bench.co/blog/operations/when-to-apply-ppp-forgiveness/",
+   "earliest": "20201023113852"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-incorporate/",
+   "earliest": "20210917135312"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/s-corporation/",
+   "earliest": "20210417111257"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-find-good-accountant/",
+   "earliest": "20210917142145"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-hack-priceline/",
+   "earliest": "20190716151637"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/sales-tax-basics/",
+   "earliest": "20190716151737"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/propel-clean-energy-partners/",
+   "earliest": "20210515213159"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-and-clearbanc/",
+   "earliest": "20200930015531"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-one-time-forgiveness/",
+   "earliest": "20220520112656"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounting-software/",
+   "earliest": "20210227124440"
+  },
+  {
+   "url": "https://bench.co/blog/operations/choose-and-use-small-business-credit-card/",
+   "earliest": "20190722043252"
+  },
+  {
+   "url": "https://bench.co/blog/operations/apply-for-eidl-loan/",
+   "earliest": "20220701235027"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/prepare-tax-season/",
+   "earliest": "20190716151401"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/best-receipt-apps/",
+   "earliest": "20210227133547"
+  },
+  {
+   "url": "https://bench.co/blog/operations/car-insurance-covid19/",
+   "earliest": "20200421222550"
+  },
+  {
+   "url": "https://bench.co/blog/operations/loan-principal/",
+   "earliest": "20191006181433"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/up-to-date-bookkeeping/",
+   "earliest": "20191006180913"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/cash-flow/",
+   "earliest": "20190831052225"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/joint-venture/",
+   "earliest": "20221004004924"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-return-pua-self-employed/",
+   "earliest": "20201023103259"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/new-business-grants/",
+   "earliest": "20220329120814"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-go-paperless/",
+   "earliest": "20190722043658"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/home-office-deduction/",
+   "earliest": "20190716151815"
+  },
+  {
+   "url": "https://bench.co/blog/resources/learn-about-bench-webinar/",
+   "earliest": "20210116093518"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/standard-deduction-2018/",
+   "earliest": "20190722043613"
+  },
+  {
+   "url": "https://bench.co/blog/operations/calculate-fte-ppp/",
+   "earliest": "20200513210748"
+  },
+  {
+   "url": "https://bench.co/blog/operations/passive-income-ideas/",
+   "earliest": "20210624021249"
+  },
+  {
+   "url": "https://bench.co/blog/resources/roi-hiring-a-bookkeeper/",
+   "earliest": "20191019020849"
+  },
+  {
+   "url": "https://bench.co/blog/operations/home-office-deductions-ppp/",
+   "earliest": "20200615125024"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/small-business-tax-deductions/",
+   "earliest": "20190404004908"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/challenges-ecommerce-accounting/",
+   "earliest": "20210917124407"
+  },
+  {
+   "url": "https://bench.co/blog/operations/quote-vs-estimate/",
+   "earliest": "20220818170136"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-eidl-pua/",
+   "earliest": "20200928060148"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/articles-of-organization/",
+   "earliest": "20220520111451"
+  },
+  {
+   "url": "https://bench.co/blog/banking/online-business-bank-accounts/",
+   "earliest": "20210630173156"
+  },
+  {
+   "url": "https://bench.co/blog/operations/professional-employer-organization/",
+   "earliest": "20210805103033"
+  },
+  {
+   "url": "https://bench.co/blog/operations/selling-your-business/",
+   "earliest": "20201024182642"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/stimulus-check-owe-taxes/",
+   "earliest": "20200511184618"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/find-smb-cpa/",
+   "earliest": "20221004005900"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/how-effective-was-the-ppp-study/",
+   "earliest": "20210407200157"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/start-a-consulting-business/",
+   "earliest": "20210414012648"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-vs-diy/",
+   "earliest": "20190722043645"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-llc-business-bank-accounts/",
+   "earliest": "20220505170223"
+  },
+  {
+   "url": "https://bench.co/blog/operations/c-corporation/",
+   "earliest": "20190824035854"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/s-corp-taxes/",
+   "earliest": "20191207063607"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/low-effort-bookkeeping/",
+   "earliest": "20191006181902"
+  },
+  {
+   "url": "https://bench.co/blog/operations/micro-loans/",
+   "earliest": "20191006181228"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/easiest-small-business-accounting-software/",
+   "earliest": "20220520110735"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/modified-cash-basis/",
+   "earliest": "20191006182001"
+  },
+  {
+   "url": "https://bench.co/blog/operations/covid19-small-business/",
+   "earliest": "20200514200851"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-start-online-business/",
+   "earliest": "20191220142007"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/sidjae-price/",
+   "earliest": "20210528165927"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/w2-vs-w4/",
+   "earliest": "20191006181111"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/good-profit-margin/",
+   "earliest": "20220329060447"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/cost-of-debt/",
+   "earliest": "20220520104108"
+  },
+  {
+   "url": "https://bench.co/blog/operations/self-employed-ppp-forgiveness-application/",
+   "earliest": "20200928062528"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/celebrate-small-business-week/",
+   "earliest": "20210917122801"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/catch-up-bookkeeping-guide/",
+   "earliest": "20190716151759"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/sales-tax-nexus/",
+   "earliest": "20190722043406"
+  },
+  {
+   "url": "https://bench.co/blog/operations/black-business-networks/",
+   "earliest": "20220520100920"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/double-entry-accounting/",
+   "earliest": "20190603053300"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-apply-sba-disaster-loan/",
+   "earliest": "20200413165929"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/small-business-tax-rate/",
+   "earliest": "20191220141908"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/invoice-template/",
+   "earliest": "20191006182028"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/drop-shipping-sales-tax/",
+   "earliest": "20190722043421"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/working-capital/",
+   "earliest": "20210116084049"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-for-tax-professionals/",
+   "earliest": "20210116093300"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeping-tips/",
+   "earliest": "20210610020545"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-start-a-dropshipping-business/",
+   "earliest": "20211109040641"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/startup-costs-deduction/",
+   "earliest": "20191006173213"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/work-related-education-classes-workshops/",
+   "earliest": "20190722043157"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-fill-out-irs-form-433b/",
+   "earliest": "20220701224946"
+  },
+  {
+   "url": "https://bench.co/blog/operations/limited-partnership/",
+   "earliest": "20191019015432"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/revenue-recognition/",
+   "earliest": "20190722043528"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/file-back-taxes-without-records/",
+   "earliest": "20220817191210"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/owners-draw/",
+   "earliest": "20191006173401"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/",
+   "earliest": "20190716151721"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/switching-from-quickbooks-to-bench/",
+   "earliest": "20191006182138"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/independent-contractor-vs-employee/",
+   "earliest": "20190716151530"
+  },
+  {
+   "url": "https://bench.co/blog/operations/payroll-solutions/",
+   "earliest": "20191019015248"
+  },
+  {
+   "url": "https://bench.co/blog/operations/utilities-costs-ppp/",
+   "earliest": "20200928045208"
+  },
+  {
+   "url": "https://bench.co/blog/operations/calculate-ppp-loan-amount/",
+   "earliest": "20200422023909"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/mejuri-ceo/",
+   "earliest": "20190716151652"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/missed-tax-deadline/",
+   "earliest": "20191006182304"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/executive-hires-accelerate-growth/",
+   "earliest": "20190716151821"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-id-number/",
+   "earliest": "20191006181147"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-is-a-recession/",
+   "earliest": "20221003232342"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-eidl-pua-overview/",
+   "earliest": "20201018090819"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/bookkeeping-for-my-agency/",
+   "earliest": "20191006181115"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/pre-revenue-bookkeeping/",
+   "earliest": "20201104183501"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounting-dictionary/",
+   "earliest": "20191006180357"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/cost-of-goods-sold/",
+   "earliest": "20190711020727"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-small-business-loans/",
+   "earliest": "20210417120603"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/transaction-tagging/",
+   "earliest": "20190716151746"
+  },
+  {
+   "url": "https://bench.co/blog/operations/shipping-policy-template/",
+   "earliest": "20220817200609"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/ecommerce-tax-deductions/",
+   "earliest": "20191006173419"
+  },
+  {
+   "url": "https://bench.co/blog/operations/best-small-business-credit-card/",
+   "earliest": "20191006181250"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-bank-for-small-business/",
+   "earliest": "20210515212902"
+  },
+  {
+   "url": "https://bench.co/blog/operations/heroes-act/",
+   "earliest": "20200928061758"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/s-corp-vs-llc/",
+   "earliest": "20191220142238"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/penalty-not-filing-llc-taxes/",
+   "earliest": "20221004001736"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/financial-forecasting/",
+   "earliest": "20190824035724"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-cut-costs/",
+   "earliest": "20190722043440"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeping-for-amazon-sellers/",
+   "earliest": "20211018171710"
+  },
+  {
+   "url": "https://bench.co/blog/operations/payroll-guide/",
+   "earliest": "20190722043418"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/best-bookkeeping-software/",
+   "earliest": "20210917132940"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/supreme-court-online-sales-tax/",
+   "earliest": "20190722043729"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eidl-is-back/",
+   "earliest": "20200812002659"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/adjusted-gross-income/",
+   "earliest": "20190722043044"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/1099-nec-2020/",
+   "earliest": "20201102194459"
+  },
+  {
+   "url": "https://bench.co/blog/operations/build-sellable-business/",
+   "earliest": "20190716151646"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/general-partnerships/",
+   "earliest": "20210515211158"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-start-a-dropshipping-business/",
+   "earliest": "20191207063547"
+  },
+  {
+   "url": "https://bench.co/blog/operations/cash-flow-pulse/",
+   "earliest": "20190716151727"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/dear-brendah-new-baby/",
+   "earliest": "20220225051435"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/sole-proprietorship/",
+   "earliest": "20210414024520"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/best-accounting-software-for-consultants/",
+   "earliest": "20220817202235"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/social-security-tax/",
+   "earliest": "20220520114054"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/schedule-a/",
+   "earliest": "20190722043132"
+  },
+  {
+   "url": "https://bench.co/blog/operations/invoice-factoring/",
+   "earliest": "20190722043736"
+  },
+  {
+   "url": "https://bench.co/blog/operations/heals-vs-heroes-acts/",
+   "earliest": "20200927025709"
+  },
+  {
+   "url": "https://bench.co/blog/resources/tax-reminder-emails/",
+   "earliest": "20190824035956"
+  },
+  {
+   "url": "https://bench.co/blog/operations/community-advantage-recovery-loan/",
+   "earliest": "20211129015130"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-open-a-business-bank-account/",
+   "earliest": "20191006173221"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-sell-a-business/",
+   "earliest": "20191006173311"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/mileage-rates/",
+   "earliest": "20191220141829"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/what-is-an-invoice/",
+   "earliest": "20190722043226"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/fiscal-year/",
+   "earliest": "20210129081334"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/maximize-bookkeeping-solution/",
+   "earliest": "20201105183150"
+  },
+  {
+   "url": "https://bench.co/blog/banking/prepare-to-apply-business-loan/",
+   "earliest": "20210917123311"
+  },
+  {
+   "url": "https://bench.co/blog/operations/profitable-fitness-studio/",
+   "earliest": "20191113075039"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/assess-business-health-bench-app/",
+   "earliest": "20220701233910"
+  },
+  {
+   "url": "https://bench.co/blog/operations/apply-for-second-ppp-loan/",
+   "earliest": "20210114002429"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/small-business-budget/",
+   "earliest": "20190716151358"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-file-federal-tax-extension/",
+   "earliest": "20190824035622"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/back-taxes/",
+   "earliest": "20220817203313"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-read-a-balance-sheet/",
+   "earliest": "20191220142301"
+  },
+  {
+   "url": "https://bench.co/blog/operations/self-employed-disability-insurance/",
+   "earliest": "20201024180752"
+  },
+  {
+   "url": "https://bench.co/blog/operations/time-tracking/",
+   "earliest": "20191006182227"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/fixed-costs/",
+   "earliest": "20191203161036"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounting-solutions/",
+   "earliest": "20191019015207"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-4868/",
+   "earliest": "20210624020805"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/limited-partnership/",
+   "earliest": "20210917135700"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/net-income-formula/",
+   "earliest": "20210105161550"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/cash-flow-statements/",
+   "earliest": "20190722043459"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/estimated-tax-payments/",
+   "earliest": "20190722043551"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-audits/",
+   "earliest": "20200511162727"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/2019-tax-deadlines/",
+   "earliest": "20190824035847"
+  },
+  {
+   "url": "https://bench.co/blog/resources/building-capital-reserves-webinar/",
+   "earliest": "20220902190118"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/what-is-form-1065/",
+   "earliest": "20190722043629"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/ally-lozano/",
+   "earliest": "20190824035928"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/unearned-revenue/",
+   "earliest": "20201024180225"
+  },
+  {
+   "url": "https://bench.co/blog/operations/inventory-management/",
+   "earliest": "20190716151511"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/2020-taxes-ppp-eidl-pua/",
+   "earliest": "20201011120304"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/dei-at-bench-indigenous-history/",
+   "earliest": "20210601163111"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/subscription-box-business/",
+   "earliest": "20190716151621"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-bookkeeping-recession/",
+   "earliest": "20221003235525"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/chip-wilson/",
+   "earliest": "20190330174800"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/mark-manson/",
+   "earliest": "20191006181857"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/1099-nec-guide/",
+   "earliest": "20211129024214"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/inside-look-bench-bookkeeping/",
+   "earliest": "20190716151552"
+  },
+  {
+   "url": "https://bench.co/blog/operations/sba-loans/",
+   "earliest": "20191006181224"
+  },
+  {
+   "url": "https://bench.co/blog/resources/small-business-accounting-guide/",
+   "earliest": "20190606132303"
+  },
+  {
+   "url": "https://bench.co/blog/banking/what-is-apr/",
+   "earliest": "20210515202016"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eidl-sole-props-self-employed/",
+   "earliest": "20200812000051"
+  },
+  {
+   "url": "https://bench.co/blog/operations/credit-card-processing/",
+   "earliest": "20190722043600"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/deduct-meals-entertainment/",
+   "earliest": "20191207065021"
+  },
+  {
+   "url": "https://bench.co/blog/resources/ppp-loan-forgiveness-checklist/",
+   "earliest": "20200616165929"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-read-and-analyze-financial-statements/",
+   "earliest": "20200928061325"
+  },
+  {
+   "url": "https://bench.co/blog/operations/limited-liability-company/",
+   "earliest": "20190722043409"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-8995-qbi-deduction/",
+   "earliest": "20220817190319"
+  },
+  {
+   "url": "https://bench.co/blog/operations/closing-a-business/",
+   "earliest": "20210311213136"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/small-business-cpa/",
+   "earliest": "20220817204012"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/web-development/",
+   "earliest": "20190411015252"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-set-aside-business-taxes/",
+   "earliest": "20190824040030"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-register-business-name/",
+   "earliest": "20220302232929"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/i-met-my-bench-bookkeeper/",
+   "earliest": "20191006182428"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/charles-chang-vega/",
+   "earliest": "20190330203218"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/c-corp-vs-llc/",
+   "earliest": "20220701224549"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/burn-rate/",
+   "earliest": "20211129031704"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-is-a-registered-agent/",
+   "earliest": "20220520113015"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/small-business-accounting/",
+   "earliest": "20201122001157"
+  },
+  {
+   "url": "https://bench.co/blog/operations/alternative-funding/",
+   "earliest": "20191006181205"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/",
+   "earliest": "20190716151756"
+  },
+  {
+   "url": "https://bench.co/blog/banking/loan-principal/",
+   "earliest": "20210417120724"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/audit-without-receipts/",
+   "earliest": "20220413183103"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-start-a-business-in-texas/",
+   "earliest": "20191220142525"
+  },
+  {
+   "url": "https://bench.co/blog/operations/restaurant-revitalization-fund-grant/",
+   "earliest": "20210428080157"
+  },
+  {
+   "url": "https://bench.co/blog/operations/required-documents-ppp/",
+   "earliest": "20200422020105"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/schedule-se/",
+   "earliest": "20191006181236"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/fifo-first-in-first-out/",
+   "earliest": "20201107010246"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/tennessee-performance-case-study/",
+   "earliest": "20220520095148"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/chart-of-accounts/",
+   "earliest": "20190716151656"
+  },
+  {
+   "url": "https://bench.co/blog/operations/401k-ira-covid19/",
+   "earliest": "20200806161646"
+  },
+  {
+   "url": "https://bench.co/blog/banking/small-business-loans/",
+   "earliest": "20210423182143"
+  },
+  {
+   "url": "https://bench.co/blog/operations/1099-vs-w2/",
+   "earliest": "20190824035428"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/first-nations-technology-council-partnership/",
+   "earliest": "20210917141703"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/brian-scudamore/",
+   "earliest": "20190330181533"
+  },
+  {
+   "url": "https://bench.co/blog/banking/business-financial-health-check-questions/",
+   "earliest": "20210417110605"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-many-years-can-you-file-back-taxes/",
+   "earliest": "20221004012525"
+  },
+  {
+   "url": "https://bench.co/blog/operations/unemployment-benefits-by-state/",
+   "earliest": "20200930034301"
+  },
+  {
+   "url": "https://bench.co/blog/operations/covid19-state-guide/",
+   "earliest": "20200422013222"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accrued-expenses/",
+   "earliest": "20210917130651"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-vs-quickbooks/",
+   "earliest": "20220520111333"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/outsourced-bookkeeping/",
+   "earliest": "20211129025133"
+  },
+  {
+   "url": "https://bench.co/blog/operations/five-questions-before-hiring/",
+   "earliest": "20191006182242"
+  },
+  {
+   "url": "https://bench.co/blog/resources/automate-accounting-admin/",
+   "earliest": "20190722043302"
+  },
+  {
+   "url": "https://bench.co/blog/banking/what-is-a-merchant-account/",
+   "earliest": "20210828041108"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/gross-profit-vs-net-profit/",
+   "earliest": "20210120153900"
+  },
+  {
+   "url": "https://bench.co/blog/operations/small-business-outsourcing/",
+   "earliest": "20191006181138"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/patrick-mckenzie/",
+   "earliest": "20190824040116"
+  },
+  {
+   "url": "https://bench.co/blog/operations/owner-draws-ppp/",
+   "earliest": "20200422063921"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-and-freshbooks/",
+   "earliest": "20190915231231"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/invest-in-accounts-payable-software/",
+   "earliest": "20220701223213"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-write-a-business-plan/",
+   "earliest": "20191006181317"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/deduct-vacation-expense/",
+   "earliest": "20190525190634"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-long-does-it-take-business-to-be-profitable/",
+   "earliest": "20220318170813"
+  },
+  {
+   "url": "https://bench.co/blog/operations/choose-small-business-bank/",
+   "earliest": "20190716151605"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/freelance-taxes/",
+   "earliest": "20210917121454"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eidl-vs-ppp/",
+   "earliest": "20200812001654"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/business-startup-expenses/",
+   "earliest": "20190722042933"
+  },
+  {
+   "url": "https://bench.co/blog/operations/buy-existing-business/",
+   "earliest": "20190716151300"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/self-employment-tax/",
+   "earliest": "20210116083212"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/single-member-llc/",
+   "earliest": "20201012010127"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/gross-profit/",
+   "earliest": "20190722043642"
+  },
+  {
+   "url": "https://bench.co/blog/operations/business-vs-personal-loan/",
+   "earliest": "20190716151718"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/revenue-vs-profit/",
+   "earliest": "20220520105423"
+  },
+  {
+   "url": "https://bench.co/blog/resources/do-i-need-1099-forms-quiz/",
+   "earliest": "20220106211440"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-vs-cpa/",
+   "earliest": "20210116094250"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/recordkeeping-eidl-loan/",
+   "earliest": "20200930060633"
+  },
+  {
+   "url": "https://bench.co/blog/operations/guaranteed-payments-llc/",
+   "earliest": "20211129015436"
+  },
+  {
+   "url": "https://bench.co/blog/operations/unemployment-benefits-cares-act/",
+   "earliest": "20200422061729"
+  },
+  {
+   "url": "https://bench.co/blog/banking/micro-loans/",
+   "earliest": "20210515200817"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-find-a-mentor/",
+   "earliest": "20220128083816"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-safe-harbor-rules/",
+   "earliest": "20201215164949"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bench-vs-traditional-bookkeeper/",
+   "earliest": "20190722043324"
+  },
+  {
+   "url": "https://bench.co/blog/operations/website-management/",
+   "earliest": "20191019015927"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-audit/",
+   "earliest": "20190722043229"
+  },
+  {
+   "url": "https://bench.co/blog/operations/deal-with-inflation/",
+   "earliest": "20221004000622"
+  },
+  {
+   "url": "https://bench.co/blog/operations/inflation-reduction-act/",
+   "earliest": "20221004002608"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-write-a-business-plan-for-bench-clients/",
+   "earliest": "20191019015542"
+  },
+  {
+   "url": "https://bench.co/blog/operations/save-on-business-travel/",
+   "earliest": "20191006182315"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/paul-jarvis/",
+   "earliest": "20191006182414"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/maison-miru/",
+   "earliest": "20191006181641"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-much-does-an-accountant-cost/",
+   "earliest": "20210917131854"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounting-cycle/",
+   "earliest": "20190522105514"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/calculate-payroll-tax/",
+   "earliest": "20190722042922"
+  },
+  {
+   "url": "https://bench.co/blog/operations/25-reduction-ppp/",
+   "earliest": "20210112220201"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/what-is-franchise-tax/",
+   "earliest": "20220520114622"
+  },
+  {
+   "url": "https://bench.co/blog/resources/platform-tour/",
+   "earliest": "20190824035850"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-are-payroll-deductions/",
+   "earliest": "20221004000424"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/taxable-income/",
+   "earliest": "20190716151724"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/standard-deduction-2019/",
+   "earliest": "20191006173354"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/maximize-small-business-tax-return/",
+   "earliest": "20190824040102"
+  },
+  {
+   "url": "https://bench.co/blog/operations/best-small-business-insurance/",
+   "earliest": "20210917133142"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/yoy-growth-formula/",
+   "earliest": "20220520105955"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/wayfair-law/",
+   "earliest": "20201024174214"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/trump-tax-plan-small-business/",
+   "earliest": "20190716151439"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-form-7004/",
+   "earliest": "20210310160419"
+  },
+  {
+   "url": "https://bench.co/blog/operations/virtual-assistant-services/",
+   "earliest": "20191006173612"
+  },
+  {
+   "url": "https://bench.co/blog/resources/ask-a-tax-advisor/",
+   "earliest": "20220725191150"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-forms/",
+   "earliest": "20190722043141"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/adjusting-entries/",
+   "earliest": "20190824035720"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-hire-employees/",
+   "earliest": "20220128085931"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/age-of-the-entrepreneur-press-release/",
+   "earliest": "20190716151649"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/file-small-business-tax-return/",
+   "earliest": "20191220133917"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/sole-proprietorship-vs-llc/",
+   "earliest": "20211129034816"
+  },
+  {
+   "url": "https://bench.co/blog/operations/states-offering-new-unemployment-benefit/",
+   "earliest": "20201003130107"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/dba-vs-llc/",
+   "earliest": "20220520104849"
+  },
+  {
+   "url": "https://bench.co/blog/banking/business-line-of-credit/",
+   "earliest": "20210515202605"
+  },
+  {
+   "url": "https://bench.co/blog/resources/quarterly-tax-calculator/",
+   "earliest": "20190824040151"
+  },
+  {
+   "url": "https://bench.co/blog/banking/best-business-line-of-credit/",
+   "earliest": "20210417114815"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-refund-status/",
+   "earliest": "20190722043704"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-skillshare-class/",
+   "earliest": "20190824035543"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/owners-equity/",
+   "earliest": "20200515015322"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-start-a-catering-business/",
+   "earliest": "20191220142228"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/fix-your-tax-problem/",
+   "earliest": "20220817190444"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/1099-nec-vs-misc/",
+   "earliest": "20201207224357"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/buy-existing-business/",
+   "earliest": "20210417102955"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/bonus-depreciation/",
+   "earliest": "20191207065858"
+  },
+  {
+   "url": "https://bench.co/blog/operations/business-credit-scores/",
+   "earliest": "20191006173245"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-season-webinar/",
+   "earliest": "20220520104627"
+  },
+  {
+   "url": "https://bench.co/blog/operations/partial-unemployment-benefits/",
+   "earliest": "20201024184359"
+  },
+  {
+   "url": "https://bench.co/blog/resources/legal-accounting-101/",
+   "earliest": "20190717124527"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-file-taxes-late/",
+   "earliest": "20220701224658"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-start-a-catering-business/",
+   "earliest": "20210814090017"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/check-tax-return-mistakes/",
+   "earliest": "20201024180729"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-season-benchtax/",
+   "earliest": "20210917130126"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/year-end-tax-moves-2018/",
+   "earliest": "20190824040027"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/cost-to-file-taxes/",
+   "earliest": "20211129022654"
+  },
+  {
+   "url": "https://bench.co/blog/resources/cutting-costs-checklist/",
+   "earliest": "20190722043726"
+  },
+  {
+   "url": "https://bench.co/blog/operations/paycheck-protection-program/",
+   "earliest": "20200328032602"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/taxes-not-filed-five-years/",
+   "earliest": "20220817204455"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/faq-for-tax-professionals/",
+   "earliest": "20210116092545"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/pilot-vs-bench/",
+   "earliest": "20220701223533"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/cryptocurrency-accounting/",
+   "earliest": "20191006181815"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-season-with-bench/",
+   "earliest": "20190716151407"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/postmark-brewing/",
+   "earliest": "20190716151711"
+  },
+  {
+   "url": "https://bench.co/blog/operations/second-stimulus-guide-small-business/",
+   "earliest": "20201228161605"
+  },
+  {
+   "url": "https://bench.co/blog/operations/what-i-spend-on-being-efficient/",
+   "earliest": "20191006182320"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/financial-literacy-small-business-owners/",
+   "earliest": "20220411220618"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/amazon-seller-fees/",
+   "earliest": "20191006181156"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/what-is-a-purchase-order/",
+   "earliest": "20190716151449"
+  },
+  {
+   "url": "https://bench.co/blog/resources/what-happens-if-you-dont-file-taxes/",
+   "earliest": "20211129030933"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeping-vs-accounting/",
+   "earliest": "20190722043340"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/trial-balance/",
+   "earliest": "20191006181457"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/employee-retention-credits/",
+   "earliest": "20200511160404"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/llc-taxes/",
+   "earliest": "20191207063552"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeping-basics/",
+   "earliest": "20220517102821"
+  },
+  {
+   "url": "https://bench.co/blog/resources/automate-small-business/",
+   "earliest": "20190716151812"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/estimated-tax-payments-due-dates/",
+   "earliest": "20220128080521"
+  },
+  {
+   "url": "https://bench.co/blog/resources/covid19-financial-relief-faq/",
+   "earliest": "20221004013109"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bookkeeping-for-etsy-sellers/",
+   "earliest": "20220701230249"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/schedule-c/",
+   "earliest": "20190716151432"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/articles-of-incorporation/",
+   "earliest": "20210923020659"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-finance-small-business/",
+   "earliest": "20190716151426"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/supreme-court-internet-sales-tax/",
+   "earliest": "20191006181842"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/automate-bookkeeping/",
+   "earliest": "20220701230207"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/announcing-new-president-cfo-jp-durrios/",
+   "earliest": "20220128203744"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/corporate-tax-deadlines/",
+   "earliest": "20220830142936"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/payal-kadakia-classpass/",
+   "earliest": "20190330191835"
+  },
+  {
+   "url": "https://bench.co/blog/operations/rejected-from-ppp-alternatives/",
+   "earliest": "20200514213438"
+  },
+  {
+   "url": "https://bench.co/blog/operations/7a-loans-guide/",
+   "earliest": "20210624025340"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/variable-costs/",
+   "earliest": "20191203161042"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/enrolled-agent/",
+   "earliest": "20191006181322"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/ebitda-definition-and-formula/",
+   "earliest": "20201114003722"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/business-startup-checklist/",
+   "earliest": "20220520095058"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/outsource-bookkeeping/",
+   "earliest": "20190722043308"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/uber-driver-taxes/",
+   "earliest": "20200515011902"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/business-vs-personal-bookkeeping/",
+   "earliest": "20191006181836"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-deadlines/",
+   "earliest": "20191117022834"
+  },
+  {
+   "url": "https://bench.co/blog/resources/tax-season-webinar/",
+   "earliest": "20220120044816"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/profit-first/",
+   "earliest": "20190824040112"
+  },
+  {
+   "url": "https://bench.co/blog/operations/owner-compensation-replacement/",
+   "earliest": "20200902124045"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-resolution/",
+   "earliest": "20191220141819"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-calculate-retained-earnings/",
+   "earliest": "20221021232025"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/coronavirus-relief-bill/",
+   "earliest": "20200403215606"
+  },
+  {
+   "url": "https://bench.co/blog/operations/grants-resources-minority-owned-businesses/",
+   "earliest": "20211018163935"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/find-hire-work-accountant/",
+   "earliest": "20190525190637"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/rd-tax-credit/",
+   "earliest": "20191220142251"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-calculate-profit-margin/",
+   "earliest": "20201024175017"
+  },
+  {
+   "url": "https://bench.co/blog/operations/prepare-to-apply-business-loan/",
+   "earliest": "20201101060056"
+  },
+  {
+   "url": "https://bench.co/blog/operations/business-owners-policy/",
+   "earliest": "20191220142223"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/company-milestones/",
+   "earliest": "20220326010815"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/calculate-tax-liability/",
+   "earliest": "20190716151843"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/shantell-martin/",
+   "earliest": "20191006182356"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-pay-yourself/",
+   "earliest": "20220817203348"
+  },
+  {
+   "url": "https://bench.co/blog/operations/small-business-insurance/",
+   "earliest": "20190824035656"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/above-the-line-deductions/",
+   "earliest": "20191006180855"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounting-outsourcing/",
+   "earliest": "20191006181142"
+  },
+  {
+   "url": "https://bench.co/blog/operations/joint-venture/",
+   "earliest": "20191006181657"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/suta-tax/",
+   "earliest": "20200812005246"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-8829/",
+   "earliest": "20191220141834"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-credits/",
+   "earliest": "20190716151659"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/cash-receipts/",
+   "earliest": "20220228181504"
+  },
+  {
+   "url": "https://bench.co/blog/operations/executive-orders-pua-payrolltax/",
+   "earliest": "20201024175837"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/independent-contractor-tax-guide/",
+   "earliest": "20190716151517"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/startup-accounting/",
+   "earliest": "20190722043509"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/ryoko-iwata/",
+   "earliest": "20191006182342"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/better-off-without-investors/",
+   "earliest": "20191006181241"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/millo-preston-lee/",
+   "earliest": "20190716151849"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/most-important-financial-ratios/",
+   "earliest": "20220516193731"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-incorporate/",
+   "earliest": "20190722043544"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/afford-hire-employee/",
+   "earliest": "20191006181824"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/construction-accounting/",
+   "earliest": "20211129020540"
+  },
+  {
+   "url": "https://bench.co/blog/operations/main-street-lending-program/",
+   "earliest": "20201005142127"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/petty-cash/",
+   "earliest": "20191006181533"
+  },
+  {
+   "url": "https://bench.co/blog/operations/remote-control/",
+   "earliest": "20191006182347"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-start-a-business/",
+   "earliest": "20191220142510"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-reduce-shipping-costs/",
+   "earliest": "20190824040003"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/choosing-a-business-structure/",
+   "earliest": "20210515213739"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/deferred-revenue/",
+   "earliest": "20191006181007"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/bench-in-2019/",
+   "earliest": "20190716151730"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/new-york-state-tax-business-guide/",
+   "earliest": "20210329155931"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/w9-vs-1099/",
+   "earliest": "20191006181133"
+  },
+  {
+   "url": "https://bench.co/blog/download-article/",
+   "earliest": "20220817203907"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/how-to-file-previous-year-taxes/",
+   "earliest": "20220316161526"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/defer-social-security-tax/",
+   "earliest": "20200812003105"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/mikael-cho/",
+   "earliest": "20191006182406"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-1096/",
+   "earliest": "20190824035741"
+  },
+  {
+   "url": "https://bench.co/blog/operations/employee-benefits/",
+   "earliest": "20190716151753"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/director-x/",
+   "earliest": "20190722043249"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-eligibility-criminal-history/",
+   "earliest": "20201029120838"
+  },
+  {
+   "url": "https://bench.co/blog/resources/cash-flow-statement-template/",
+   "earliest": "20191006182447"
+  },
+  {
+   "url": "https://bench.co/blog/operations/best-bank-for-small-business/",
+   "earliest": "20191113070342"
+  },
+  {
+   "url": "https://bench.co/blog/resources/federal-tax-prep-calendar/",
+   "earliest": "20220701223650"
+  },
+  {
+   "url": "https://bench.co/blog/resources/ppp-loan-calculator/",
+   "earliest": "20200514203254"
+  },
+  {
+   "url": "https://bench.co/blog/operations/independent-contractor/",
+   "earliest": "20191220142333"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/current-ratio/",
+   "earliest": "20191220142442"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/month-end-close-process/",
+   "earliest": "20220315182819"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/personal-appearance/",
+   "earliest": "20190824035914"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/cost-to-start-business/",
+   "earliest": "20220128080438"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/liabilities-in-accounting/",
+   "earliest": "20201024183823"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/cash-vs-accrual-accounting/",
+   "earliest": "20190425022001"
+  },
+  {
+   "url": "https://bench.co/blog/operations/american-rescue-plan/",
+   "earliest": "20210323214742"
+  },
+  {
+   "url": "https://bench.co/blog/operations/next-steps-after-ppp/",
+   "earliest": "20200422021358"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/bad-debt-expense/",
+   "earliest": "20191220142433"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/ein-number/",
+   "earliest": "20190722043350"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/filing-back-taxes/",
+   "earliest": "20211129032917"
+  },
+  {
+   "url": "https://bench.co/blog/operations/small-business-grants/",
+   "earliest": "20191006181232"
+  },
+  {
+   "url": "https://bench.co/blog/resources/cash-flow-forecast-template/",
+   "earliest": "20191006182456"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounts-payable/",
+   "earliest": "20190915231346"
+  },
+  {
+   "url": "https://bench.co/blog/operations/use-downtime-effectively/",
+   "earliest": "20200930013648"
+  },
+  {
+   "url": "https://bench.co/blog/operations/sba-loan-payment-coverage/",
+   "earliest": "20211129031312"
+  },
+  {
+   "url": "https://bench.co/blog/operations/virtual-office/",
+   "earliest": "20201024171715"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/hire-a-bookkeeper/",
+   "earliest": "20190716151253"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/bank-reconciliation/",
+   "earliest": "20190716151918"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/balance-sheet-vs-income-statement/",
+   "earliest": "20190602032615"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/manage-employee-expenses/",
+   "earliest": "20190716151846"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/what-is-a-w9/",
+   "earliest": "20190824035823"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/irs-fresh-start/",
+   "earliest": "20211112220318"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/nadia-ackerman/",
+   "earliest": "20190716151414"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-forgiveness-24-8-weeks/",
+   "earliest": "20200812000240"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/k1-tax-form/",
+   "earliest": "20191006181335"
+  },
+  {
+   "url": "https://bench.co/blog/operations/apply-ppp-twice/",
+   "earliest": "20200511161414"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/llc-tax-rate/",
+   "earliest": "20220701233731"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-1040/",
+   "earliest": "20190824035639"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/most-successful-small-businesses/",
+   "earliest": "20220330110047"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/announcing-new-product-lineup/",
+   "earliest": "20210613123345"
+  },
+  {
+   "url": "https://bench.co/blog/resources/excel-income-statement-template/",
+   "earliest": "20190824040109"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-spend-ppp-funds/",
+   "earliest": "20200812003620"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-reduce-small-business-debt/",
+   "earliest": "20190716151633"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/1099-form/",
+   "earliest": "20190716151501"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/quickbooks-alternatives/",
+   "earliest": "20191006181647"
+  },
+  {
+   "url": "https://bench.co/blog/operations/eidl-collateral/",
+   "earliest": "20210628162313"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/assets-liabilities-equity/",
+   "earliest": "20190824035939"
+  },
+  {
+   "url": "https://bench.co/blog/operations/business-entity-types/",
+   "earliest": "20191006173237"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/",
+   "earliest": "20190716151337"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/monika-rose/",
+   "earliest": "20210317180207"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/business-license/",
+   "earliest": "20220520105630"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/business-advice-david-cohen/",
+   "earliest": "20190824035707"
+  },
+  {
+   "url": "https://bench.co/blog/operations/workers-compensation-insurance/",
+   "earliest": "20191006181506"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-misconceptions/",
+   "earliest": "20200531055732"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/business-bank-account/",
+   "earliest": "20201101010832"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/law-firm-bookkeeping/",
+   "earliest": "20220817191723"
+  },
+  {
+   "url": "https://bench.co/blog/operations/small-business-employee-benefits/",
+   "earliest": "20191006182214"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/s-corp-vs-c-corp/",
+   "earliest": "20191019015320"
+  },
+  {
+   "url": "https://bench.co/blog/starting-a-business/how-to-start-a-business-in-texas/",
+   "earliest": "20210805100919"
+  },
+  {
+   "url": "https://bench.co/blog/bench-news/guest-post-guidelines/",
+   "earliest": "20190722043056"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/accounts-receivable/",
+   "earliest": "20190915231734"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/shopify-accounting/",
+   "earliest": "20210921224916"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/s-corp-election/",
+   "earliest": "20211129035027"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-closed-next-steps/",
+   "earliest": "20200422003723"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/form-940/",
+   "earliest": "20221004011511"
+  },
+  {
+   "url": "https://bench.co/blog/bookkeeping/journal-entries/",
+   "earliest": "20190824035925"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/deduct-meals-entertainment-2018/",
+   "earliest": "20190525190638"
+  },
+  {
+   "url": "https://bench.co/blog/resources/automate-tax-profit-planning-webinar/",
+   "earliest": "20220426163119"
+  },
+  {
+   "url": "https://bench.co/blog/operations/how-to-sell-your-small-business/",
+   "earliest": "20190824040024"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/1099-nec/",
+   "earliest": "20211018180749"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/museum-hack/",
+   "earliest": "20191006182233"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-relief-programs/",
+   "earliest": "20220223180634"
+  },
+  {
+   "url": "https://bench.co/blog/resources/bench-vs-quickbooks/",
+   "earliest": "20190716151318"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/david-cohen-techstars/",
+   "earliest": "20190330200422"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/texas-beard-company/",
+   "earliest": "20190716151555"
+  },
+  {
+   "url": "https://bench.co/blog/operations/appeal-ppp-loan-review/",
+   "earliest": "20201023115223"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/client-gifts/",
+   "earliest": "20191006182443"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-advisor-cost/",
+   "earliest": "20220701231915"
+  },
+  {
+   "url": "https://bench.co/blog/operations/ppp-loan-forgiveness-form-3508s/",
+   "earliest": "20201024175143"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/tax-credit-vs-deduction/",
+   "earliest": "20210414011411"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/ultimate-guide-small-business-taxes/",
+   "earliest": "20190716151520"
+  },
+  {
+   "url": "https://bench.co/blog/resources/small-business-tax-checklist/",
+   "earliest": "20190525190638"
+  },
+  {
+   "url": "https://bench.co/blog/accounting/how-to-read-income-statement/",
+   "earliest": "20191220141922"
+  },
+  {
+   "url": "https://bench.co/blog/small-business-stories/dave-gerhardt/",
+   "earliest": "20190330054821"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/canada-sales-tax/",
+   "earliest": "20191006174111"
+  },
+  {
+   "url": "https://bench.co/blog/resources/webinar-bookkeeping-for-businesses/",
+   "earliest": "20191006182641"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/itemized-deductions/",
+   "earliest": "20190716151808"
+  },
+  {
+   "url": "https://bench.co/blog/tax-tips/fica-tax/",
+   "earliest": "20201101062551"
+  }
+ ]
+}
