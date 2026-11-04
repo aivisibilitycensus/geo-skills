@@ -1,0 +1,4355 @@
+{
+ "blog": "gusto.com/blog",
+ "group": "Accounting and finance",
+ "reserve": false,
+ "cdxRows": 3308,
+ "articleLike": 1086,
+ "queriedAt": "2026-11-04T02:48:36.157Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://gusto.com/blog/taxes/march-2022-compliance-tax-deadlines",
+   "earliest": "20220523132705"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-training-secrets-from-retailers",
+   "earliest": "20201021170012"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/create-parental-leave-policy",
+   "earliest": "20190721031958"
+  },
+  {
+   "url": "https://gusto.com/blog/starting-a-business",
+   "earliest": "20190721031900"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-forgiveness-when-to-apply",
+   "earliest": "20200813123338"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/file-taxes-late-smart-strategy",
+   "earliest": "20210725061225"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/disaster-plan",
+   "earliest": "20190719003859"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/labor-cost-calculations",
+   "earliest": "20201020150546"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/back-office-apps-to-boost-productivity",
+   "earliest": "20220123100151"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/business-owners-marriage",
+   "earliest": "20191018120850"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/free-online-business-classes",
+   "earliest": "20190824081322"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid19-unemployment-benefits",
+   "earliest": "20210102180045"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-calculate-fte-employee-number",
+   "earliest": "20190824080558"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/remote-interview",
+   "earliest": "20200701200018"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/working-on-vs-in-your-business",
+   "earliest": "20191118050417"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/florida-employee-benefits",
+   "earliest": "20200602230332"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/choose-business-name",
+   "earliest": "20190824101423"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/california-guidelines-for-safe-reopening-during-covid-19",
+   "earliest": "20200921055158"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/laws-on-firing-an-employee",
+   "earliest": "20191118050105"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-updates-week-of-june-15",
+   "earliest": "20200622213219"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/4-ways-to-avoid-tax-season-stress",
+   "earliest": "20191118050411"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/business-tax-credits",
+   "earliest": "20200621155116"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/business-qualify-20-pass-through-deduction",
+   "earliest": "20190824081403"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/employment-law-changes-2020",
+   "earliest": "20200514122216"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/starting-a-nonprofit",
+   "earliest": "20220520112150"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/h1b-visa-guide",
+   "earliest": "20201021160321"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/avoiding-the-effort-trap-working-smarter-not-harder",
+   "earliest": "20191119012119"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cares-act",
+   "earliest": "20200415034814"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/tax-gross-up",
+   "earliest": "20220630095422"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/best-interview-questions",
+   "earliest": "20190824100620"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/building-community-at-work",
+   "earliest": "20201021171009"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/new-business-tax-questions",
+   "earliest": "20190824080802"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/7-ways-to-exercise-at-your-desk",
+   "earliest": "20210926155713"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/everything-accountant-needs-business-tax-returns",
+   "earliest": "20190824081445"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/update-employee-handbook-covid19-guidelines",
+   "earliest": "20200720084739"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/covid-19-wellness-entrepreneur-webinar",
+   "earliest": "20200429023551"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/emerging-trend-modern-back-office-service-provider",
+   "earliest": "20220127115322"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-504-loan",
+   "earliest": "20211024224554"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/what-is-an-ipo",
+   "earliest": "20220117105906"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-recognition-excitement",
+   "earliest": "20190917153122"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/exit-interview-questions",
+   "earliest": "20191215103614"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/five-guys-customer-growth",
+   "earliest": "20190824080549"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/legal-pay-employees-under-table",
+   "earliest": "20201026163931"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/employee-retention-credit-faqs",
+   "earliest": "20210517132719"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation",
+   "earliest": "20190721031702"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deadline-2020",
+   "earliest": "20200426200321"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/business-entity-tax-reform",
+   "earliest": "20200921065452"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/paws-stripes-nonprofit",
+   "earliest": "20190824100913"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-8832-instructions",
+   "earliest": "20190721031634"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-health-insurance-broker-does",
+   "earliest": "20201124071953"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/owners-draw",
+   "earliest": "20190721031713"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/guide-create-company-pto-leave-policy",
+   "earliest": "20191016054041"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pregnancy-discrimination-act",
+   "earliest": "20220630112635"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/new-w4-withholding",
+   "earliest": "20201128114034"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/report-millennial-business-owners-redefine-hr",
+   "earliest": "20200918115228"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/august-2022-compliance-tax-deadlines",
+   "earliest": "20220814060516"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/coinsurance-explained",
+   "earliest": "20210305171016"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/local-taxes",
+   "earliest": "20190915210750"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-round-2",
+   "earliest": "20201228224303"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/january-2021-compliance-tax-deadlines",
+   "earliest": "20220525004710"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-empowerment-defined",
+   "earliest": "20191118050312"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/introverted-leaders",
+   "earliest": "20201027010203"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/productivity-tips",
+   "earliest": "20201020150718"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-06042021",
+   "earliest": "20211024102332"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/cost-hire-employee-new-york",
+   "earliest": "20201021163049"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/sexual-harassment-small-business",
+   "earliest": "20201020153342"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-much-pay-best-employees",
+   "earliest": "20190917152845"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/irs-form-945",
+   "earliest": "20210928100326"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/outplacement-services",
+   "earliest": "20220630102140"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/overlooked-small-business-tax-deductions",
+   "earliest": "20190721031033"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/irs-free-file-program",
+   "earliest": "20210129174501"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cash-flow-101",
+   "earliest": "20201020153239"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/what-is-an-llc",
+   "earliest": "20190824101309"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/family-business-secrets",
+   "earliest": "20200607103629"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/protect-business-idea",
+   "earliest": "20190824231126"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/sick-performance-reviews",
+   "earliest": "20211130175022"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/cobra-subsidy-arp",
+   "earliest": "20210320102449"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/sharing-salary-information",
+   "earliest": "20190917153159"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/business-plan-guide",
+   "earliest": "20211024205258"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cash-flow-projection-planning",
+   "earliest": "20200921063254"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/a-small-business-owners-guide-to-creating-an-employee-handbook",
+   "earliest": "20200603215251"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/holiday-pay",
+   "earliest": "20210928104156"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-01072022",
+   "earliest": "20220526040952"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/small-business-retirement-plans",
+   "earliest": "20191118045702"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-productivity-tools",
+   "earliest": "20200813121214"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-absenteeism",
+   "earliest": "20191215112440"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/long-covid-disability",
+   "earliest": "20220526053819"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/employer-guide-irs-form-5500",
+   "earliest": "20201021162652"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managing-part-time-employees",
+   "earliest": "20201026152010"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/difference-cash-tips-credit-card-tips",
+   "earliest": "20201020150459"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-loans",
+   "earliest": "20210622134808"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/severance-package",
+   "earliest": "20201128081356"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/covid-19-smb-tips",
+   "earliest": "20200430025018"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/difference-between-short-long-term-disability",
+   "earliest": "20190824080651"
+  },
+  {
+   "url": "https://gusto.com/blog/team-management/mandate-covid-19-vaccine",
+   "earliest": "20210622141752"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/talking-about-raising-prices",
+   "earliest": "20220625112407"
+  },
+  {
+   "url": "https://gusto.com/blog/ask-gusto",
+   "earliest": "20190718155715"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/california-secure-choice-retirement-savings-program",
+   "earliest": "20201020142618"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/onboarding-plan-new-hire-first-day",
+   "earliest": "20191016055627"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/mileage-reimbursement",
+   "earliest": "20190824081626"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/give-away-work-for-free",
+   "earliest": "20210227095101"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/infrastructure-bill-affects-employers-business",
+   "earliest": "20220123083005"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/business-growth-plan",
+   "earliest": "20220523142645"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/what-i-9",
+   "earliest": "20190824100350"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/how-to-hire-your-first-5-employees",
+   "earliest": "20201020145553"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/b-corp-certification",
+   "earliest": "20191117221055"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/set-qsehra-budget",
+   "earliest": "20200921055755"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/what-is-general-ledger",
+   "earliest": "20220625113946"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/401k-tax-benefits-credits",
+   "earliest": "20190721030940"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-additional-funding",
+   "earliest": "20200426192540"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/minimum-age-hiring-employee",
+   "earliest": "20190824081412"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/health-insurance-premium-definition",
+   "earliest": "20210622143740"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/set-up-internship-program",
+   "earliest": "20191018121136"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pto-rollover",
+   "earliest": "20200807124356"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/discussing-salary-work",
+   "earliest": "20201027014005"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/open-enrollment-dates",
+   "earliest": "20191118045840"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/bronze-silver-gold-platinum-insurance",
+   "earliest": "20201128115855"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/dependent-care-fsa",
+   "earliest": "20200621081846"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/copay-explanation",
+   "earliest": "20210409183744"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-to-get-your-employees-ready-for-end-of-year",
+   "earliest": "20190824082023"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/give-feedback-coworker",
+   "earliest": "20191018120255"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/recruitment-compliance",
+   "earliest": "20220523151113"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-to-outsmart-winter-with-your-health-benefits",
+   "earliest": "20210118200926"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-03122021",
+   "earliest": "20210414173432"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/guide-1094-c-1095-c-forms",
+   "earliest": "20200426193748"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/covid-19-relocation-employer-tax-considerations",
+   "earliest": "20200710041023"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/tip-pooling-work",
+   "earliest": "20190824100342"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/delfina-restaurant-group",
+   "earliest": "20191118045735"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/fsa-flexible-spending-account",
+   "earliest": "20190824100334"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/paid-holidays",
+   "earliest": "20191119012013"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/retain-new-parents",
+   "earliest": "20200921073702"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid-state-unemployment-insurance-benefits",
+   "earliest": "20200415035202"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/primary-secondary-health-insurance",
+   "earliest": "20190824082005"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-forgiveness-application",
+   "earliest": "20200609175409"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/february-2022-compliance-tax-deadlines",
+   "earliest": "20220523154724"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/certificate-good-standing",
+   "earliest": "20190619052218"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-much-pay-myself",
+   "earliest": "20200807131157"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/5-ways-to-create-a-values-driven-company-culture",
+   "earliest": "20200921064853"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/maven-small-business-mistakes",
+   "earliest": "20200921073950"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/apples-secret-sauce-small-business-lessons-worlds-largest-company",
+   "earliest": "20200921063637"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-06112021",
+   "earliest": "20211016141825"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/when-fire-employee",
+   "earliest": "20200921155858"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/1099-employee-paperwork-checklist",
+   "earliest": "20200804000436"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/crash-course-offering-equity-employees",
+   "earliest": "20190719004009"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/make-new-years-resolutions-business",
+   "earliest": "20200921160611"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/great-company-culture-definition",
+   "earliest": "20190824100956"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/out-of-pocket-maximum",
+   "earliest": "20210301003859"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/what-include-employee-handbook",
+   "earliest": "20190824100408"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/nini-gueco-avant-barre",
+   "earliest": "20201021170835"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/look-good-payroll-service-company",
+   "earliest": "20190628230512"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/give-feedback-boss",
+   "earliest": "20191018120336"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/trump-tariffs-business-impact",
+   "earliest": "20190721031532"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-health-insurance-questions-are-my-employees-likely-to-ask-me",
+   "earliest": "20201026160524"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/calculating-basis",
+   "earliest": "20210622143109"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/lima-peruvian-food",
+   "earliest": "20220123081744"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/coolhaus-whole-foods",
+   "earliest": "20220625134158"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/small-business-management-tips",
+   "earliest": "20190824080709"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-overtime",
+   "earliest": "20191118051055"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/should-i-offer-health-insurance-to-employees",
+   "earliest": "20191118051124"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-tipped-employees",
+   "earliest": "20191215100637"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/eftps-electronic-federal-tax-payment-system",
+   "earliest": "20191018120506"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/what-is-gdpr",
+   "earliest": "20200608022758"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/cyber-liability-insurance",
+   "earliest": "20220927134637"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-08192022",
+   "earliest": "20221003051358"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/internal-marketing",
+   "earliest": "20220927140912"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managing-independent-contractors-tips",
+   "earliest": "20201120141203"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/food-beverage-tips-covid-19",
+   "earliest": "20200426195929"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid-19-recall-employees-tips",
+   "earliest": "20200622213256"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/selling-your-business",
+   "earliest": "20211118141007"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/35-interview-questions-you-should-never-ask-candidate",
+   "earliest": "20201020153258"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/form-w-4",
+   "earliest": "20190721031128"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/profit-margin-formula",
+   "earliest": "20190719004106"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-to-read-your-pay-stub",
+   "earliest": "20200807124831"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/business-financing",
+   "earliest": "20220524123911"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/3-unexpected-things-about-parental-leave",
+   "earliest": "20190721031136"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hiring-first-employee-tips",
+   "earliest": "20190721031646"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/hra-hsa-same-time",
+   "earliest": "20201021161629"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/best-personal-finance-moves-2018",
+   "earliest": "20211024100819"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employment-termination",
+   "earliest": "20220810205939"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/biggest-small-business-hr-mistakes",
+   "earliest": "20200213182054"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-943",
+   "earliest": "20220523150101"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/529-college-savings-plan-employee-benefit",
+   "earliest": "20200813123938"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/7-tips-for-writing-successful-marketing-emails",
+   "earliest": "20201128111347"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/minimum-wage-workers",
+   "earliest": "20190719003954"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/ycombinator-companies-small-business",
+   "earliest": "20201020142659"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pratfall-effect",
+   "earliest": "20201027003953"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/coronavirus-employers-guide",
+   "earliest": "20200311172550"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/improv-comedy-lessons-that-will-change-the-way-you-work",
+   "earliest": "20190721031811"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/read-profit-loss-statement",
+   "earliest": "20190719003553"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-alternatives",
+   "earliest": "20200525061102"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/product-manager-prioritization-framework",
+   "earliest": "20190721031353"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/salary-history-ban-map",
+   "earliest": "20190824081145"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-to-become-a-better-leader",
+   "earliest": "20220814062857"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/inflation-and-your-business",
+   "earliest": "20221003040606"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/mistake-employee-handbook",
+   "earliest": "20200921073919"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pto-paid-time-off",
+   "earliest": "20190824230245"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/get-candidate-accept-offer",
+   "earliest": "20200807125819"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/building-a-team-of-owners",
+   "earliest": "20190915210342"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/customer-review-guide",
+   "earliest": "20190915205833"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/most-common-payroll-mistakes",
+   "earliest": "20191208090415"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pregnant-employees",
+   "earliest": "20201020153059"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/best-recruiters",
+   "earliest": "20201020142740"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/how-deliver-deal-bad-news",
+   "earliest": "20191208074424"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/california-covid-19-employee-financial-relief-guide",
+   "earliest": "20200918094318"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/529-college-savings-plan",
+   "earliest": "20191118050916"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/prepare-for-tax-audit",
+   "earliest": "20220523145736"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/sunday-scaries",
+   "earliest": "20200518080529"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/bereavement-leave",
+   "earliest": "20201124070451"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/amazon-prime-day-deals-small-business",
+   "earliest": "20200807125123"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-1065",
+   "earliest": "20210813005444"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/free-small-business-tools",
+   "earliest": "20190824081253"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/business-survive-recession-tips",
+   "earliest": "20190721030711"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/when-file-form-1099-misc",
+   "earliest": "20190824100950"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/a-quick-guide-to-the-new-2016-overtime-rule",
+   "earliest": "20201026171441"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/sexual-harassment-complaint",
+   "earliest": "20201124072006"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-recognition-tips-trevor-noah",
+   "earliest": "20190721030841"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/why-you-should-consider-paying-your-employees-every-week",
+   "earliest": "20201124071809"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/contractor-self-employed-ppp",
+   "earliest": "20200503020413"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/california-paid-sick-leave-law",
+   "earliest": "20191118045615"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/ab5-small-businesses",
+   "earliest": "20191018120017"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/seismic-bbq-smb-story",
+   "earliest": "20200622213302"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-forgiveness",
+   "earliest": "20200502122923"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/why-employees-leave",
+   "earliest": "20191018121059"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-cuts-jobs-act",
+   "earliest": "20201021164432"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-calculator",
+   "earliest": "20210202193325"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/self-employed-taxes",
+   "earliest": "20190824081011"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/inbound-vs-outbound-marketing",
+   "earliest": "20220927131443"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/give-team-bonus",
+   "earliest": "20200807115036"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/labor-law-posters-requirements",
+   "earliest": "20201021170726"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/tapping-into-an-entrepreneurial-ecosystem",
+   "earliest": "20210118211320"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/self-employed-covid-19-financial-resources",
+   "earliest": "20201015173738"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/jury-duty-guide-for-employers-employees",
+   "earliest": "20190824081613"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managing-remote-teams",
+   "earliest": "20190619052219"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/firing-employee-script",
+   "earliest": "20190824080901"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/tipping-increase-retention",
+   "earliest": "20200807124810"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes",
+   "earliest": "20190721031152"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/difference-hmo-ppo-plan",
+   "earliest": "20190817231144"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-benefits-hiring-children",
+   "earliest": "20190824080935"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/andrew-luck-hard-decisions",
+   "earliest": "20191018115009"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/2018-fed-rate-hikes",
+   "earliest": "20191018115919"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes/form-720",
+   "earliest": "20220814072438"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/calculate-health-insurance-premiums",
+   "earliest": "20201020151205"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/notifying-employees-qsehra",
+   "earliest": "20200921073648"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-get-started-with-social-media-marketing",
+   "earliest": "20200921062808"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/marketing-methods",
+   "earliest": "20221003050849"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-outsourcing",
+   "earliest": "20210329180209"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/4-signs-its-time-to-offer-health-insurance",
+   "earliest": "20190824081638"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/winnie-antistartup-mentality",
+   "earliest": "20201026160649"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/4-ways-to-use-positive-psychology-at-work",
+   "earliest": "20200609141109"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/doing-your-own-payroll-small-business",
+   "earliest": "20200813123827"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation/california-workers-compensation-insurance-requirements",
+   "earliest": "20190824081855"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/what-should-your-business-card-actually-say",
+   "earliest": "20210414172652"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/solo-401k",
+   "earliest": "20201021170648"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/required-offer-severance-package",
+   "earliest": "20200813123129"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/delaware-llc-advantages-disadvantages",
+   "earliest": "20190915205630"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/reinvest-profit",
+   "earliest": "20190824231009"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-buy-health-insurance",
+   "earliest": "20210725071659"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/bloomthat-startup-tools",
+   "earliest": "20201020144640"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/10-of-the-most-common-employee-401k-questions",
+   "earliest": "20190824081536"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/give-feedback-clients",
+   "earliest": "20200921072319"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-facebook-groups-entrepreneurs",
+   "earliest": "20190917152855"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-deal-rejection-entrepreneur",
+   "earliest": "20190721031642"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/small-team-recruiting",
+   "earliest": "20190719003843"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/paycheck-protection-program-smb-guide",
+   "earliest": "20200417014506"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/workplace-weed",
+   "earliest": "20190917153104"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/sba-selecting-your-company-health-care-plan",
+   "earliest": "20200807125042"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-timesheet",
+   "earliest": "20191215102057"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/difference-part-time-full-time-employee",
+   "earliest": "20190719004040"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/communicating-layoffs-employees",
+   "earliest": "20200622213242"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/client-sexual-harassment-small-business",
+   "earliest": "20191118050958"
+  },
+  {
+   "url": "https://gusto.com/blog/small-business-newsletter",
+   "earliest": "20210926150913"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deductions-online-sellers",
+   "earliest": "20190721031744"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-community-advantage-loans",
+   "earliest": "20210203205905"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deadlines-benefits-compliance-deadlines-december-2021",
+   "earliest": "20220123094042"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-1099-independent-contractor",
+   "earliest": "20191215103018"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pay-grade",
+   "earliest": "20200807125543"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/lgbt-business-loans",
+   "earliest": "20190721031942"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/form-1094-c",
+   "earliest": "20220927151345"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/taxable-income",
+   "earliest": "20190917153025"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/need-payroll-software",
+   "earliest": "20190824081907"
+  },
+  {
+   "url": "https://gusto.com/blog/covid-articles",
+   "earliest": "20201020150001"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/understanding-1099-k",
+   "earliest": "20210301015925"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/ppo-hmo-epo-pos",
+   "earliest": "20191215112015"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-cuts-jobs-act-small-businesses",
+   "earliest": "20211130182811"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/shark-tank-judge-advice",
+   "earliest": "20190824081215"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/allowances-claim-w-4",
+   "earliest": "20190824231016"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/glassdoor-small-business-guide",
+   "earliest": "20190824231003"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deductions-tech-startups",
+   "earliest": "20190824081441"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/sexual-harassment-training-new-york",
+   "earliest": "20190721031953"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-network-when-hate-networking",
+   "earliest": "20190824081837"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/eeo-equal-employment-opportunity-requirements",
+   "earliest": "20190824230952"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/watch-ted-talks",
+   "earliest": "20201026170331"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/paid-vacation-time-how-do-you-stack-up",
+   "earliest": "20190719003629"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/the-rise-of-the-1099-economy-infographic",
+   "earliest": "20190821094036"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-separation-agreement",
+   "earliest": "20191018120902"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/best-payroll-schedule-small-business",
+   "earliest": "20201021170429"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/covid-eidl-loan-cap-increase",
+   "earliest": "20211016140828"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/create-independent-contractor-agreement",
+   "earliest": "20200807132200"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/per-diem-rates",
+   "earliest": "20191215101650"
+  },
+  {
+   "url": "https://gusto.com/blog/starting-a-business/office-inventory-management",
+   "earliest": "20220810211836"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes/irs-payment-plans",
+   "earliest": "20220811234111"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/most-creative-employee-handbooks",
+   "earliest": "20201020152056"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/instagram-playbook",
+   "earliest": "20201021165322"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-forgiveness-updates",
+   "earliest": "20201020151604"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/qsehra-business-eligibility",
+   "earliest": "20200921072251"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/startup-business-plan-template",
+   "earliest": "20190619052218"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hire-first-independent-contractor",
+   "earliest": "20190824100704"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/section-125-pop-premium-only-plan",
+   "earliest": "20200921074240"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/hire-ex-felons",
+   "earliest": "20191119011914"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/datanyze-cold-emailing-growth",
+   "earliest": "20200918113513"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/sba-hiring-your-first-employee",
+   "earliest": "20191018115751"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/c-corporation",
+   "earliest": "20191018115348"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/second-draw-ppp-application-process",
+   "earliest": "20210201233017"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/build-business-credit-score",
+   "earliest": "20200921074330"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/preferred-common-stock",
+   "earliest": "20201026161420"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/low-cost-benefits-unlimited-vacation",
+   "earliest": "20200813123613"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/osha-occupational-safety-health-administration-requirements",
+   "earliest": "20191215135037"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/forming-llc-texas",
+   "earliest": "20190721032014"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/texas-employee-benefits",
+   "earliest": "20200813123554"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/small-business-owner-salary-calculator",
+   "earliest": "20190619052218"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pay-accrued-vacation-sick-time-terminated-employees",
+   "earliest": "20191018115745"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-2553-instructions",
+   "earliest": "20191118050440"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/which-business-structure",
+   "earliest": "20190824081524"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/federal-income-tax-brackets-tax-rates",
+   "earliest": "20200608024851"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/paid-in-arrears",
+   "earliest": "20191118051136"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/reasons-fire-employee",
+   "earliest": "20201128103847"
+  },
+  {
+   "url": "https://gusto.com/blog/paying-yourself",
+   "earliest": "20201021115006"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cash-flow-forecast-excel-template",
+   "earliest": "20200921073811"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/stop-tracking-hours-flexible",
+   "earliest": "20200607123946"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/new-california-laws",
+   "earliest": "20201113171840"
+  },
+  {
+   "url": "https://gusto.com/blog/team-management/family-responsibilities-discrimination",
+   "earliest": "20220625140828"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04162021",
+   "earliest": "20210622131608"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/effective-employee-performance-review",
+   "earliest": "20190824081800"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/introduction-to-employee-equity",
+   "earliest": "20200921054819"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pandemic-preparedness-plan",
+   "earliest": "20200516070029"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-express-bridge-loan",
+   "earliest": "20200813124005"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/overtime-salaried-non-exempt-employees",
+   "earliest": "20200813121045"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/federal-reopening-guidelines",
+   "earliest": "20200622213254"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-myself-owner-multiple-member-llc",
+   "earliest": "20201026161454"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/take-pto-required",
+   "earliest": "20201128085739"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/9-80-work-schedule",
+   "earliest": "20191215100106"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/september-2022-compliance-tax-deadlines",
+   "earliest": "20220927133316"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/small-business-blogs",
+   "earliest": "20191022043032"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/entrepreneur-wake-early-bird",
+   "earliest": "20220526045823"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/best-pay-period",
+   "earliest": "20200807124146"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/debt-or-equity-financing-heres-how-to-make-the-decision-easy",
+   "earliest": "20200921065306"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/new-york-covid-19-employee-financial-relief-guide",
+   "earliest": "20200918102125"
+  },
+  {
+   "url": "http://gusto.com/blog/start-business/7-legal-to-dos-for-small-businesses-on-day-one",
+   "earliest": "20191119011851"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-to-value-small-business",
+   "earliest": "20201109222417"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/ada-website-compliance",
+   "earliest": "20220630105950"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/small-business-no-employees",
+   "earliest": "20190425152120"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-casdi",
+   "earliest": "20200426193008"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-is-a-health-insurance-broker",
+   "earliest": "20191018115703"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-deductions",
+   "earliest": "20190824231219"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/latched-mama-smb-story",
+   "earliest": "20200514122223"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-promote-employees",
+   "earliest": "20190824100440"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/should-i-test-my-employees-for-covid-19",
+   "earliest": "20200710041108"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/erc-eligibility",
+   "earliest": "20210814185640"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/disregarded-entity-tax",
+   "earliest": "20190824081334"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hiring-business-consultant",
+   "earliest": "20220523145829"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/headspace-goal-setting",
+   "earliest": "20200807122521"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/5-non-equity-ways-to-get-business-funding",
+   "earliest": "20200807123444"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/minority-owned-business-grants-loans-support",
+   "earliest": "20200813114744"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-lenders",
+   "earliest": "20210109004945"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/up-employee-retention-by-offering-benefits",
+   "earliest": "20201021170233"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/inboard-startup-company-culture",
+   "earliest": "20210725062554"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-covid-19-developments-affect-taxes",
+   "earliest": "20200710041103"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-employee-development-can-grow-your-company",
+   "earliest": "20190917153145"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/facebook-messenger-marketing",
+   "earliest": "20200921071734"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/headspace-productivity",
+   "earliest": "20201021165845"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/your-4-biggest-w4-questions-answered",
+   "earliest": "20200921074034"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/why-employee-time-tracking",
+   "earliest": "20191016053924"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/starting-llc-florida-guide",
+   "earliest": "20190721031140"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/what-should-i-do-before-my-new-hire-starts",
+   "earliest": "20200804000709"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/social-security-tax-increase-2022",
+   "earliest": "20220123101319"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/ban-the-box-states",
+   "earliest": "20190915210317"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/restocks-teen-entrepreneur",
+   "earliest": "20201026163647"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/cybersecurity-tips-fraud-protection",
+   "earliest": "20210212174204"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deadlines-benefits-compliance-deadlines-january-2021",
+   "earliest": "20210104234907"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-financial-forecast-company",
+   "earliest": "20201128115257"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/difference-between-net-pay-gross-pay",
+   "earliest": "20190915205617"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/s-corp-vs-c-corp-shareholders",
+   "earliest": "20220810195852"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-commission",
+   "earliest": "20191018121148"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hire-interns-legally",
+   "earliest": "20190721030918"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-1120s-instructions",
+   "earliest": "20190721031618"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/minimum-essential-coverage",
+   "earliest": "20201124070849"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pixar-storytelling-rules-employee-handbook",
+   "earliest": "20211024212850"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/do-i-need-a-broker-for-health-insurance",
+   "earliest": "20201026165313"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/one400-legal-marketing",
+   "earliest": "20190824100749"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deductions-shop-owners",
+   "earliest": "20190824080738"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/owners-draw-overview",
+   "earliest": "20190619052218"
+  },
+  {
+   "url": "https://gusto.com/blog/team-management",
+   "earliest": "20190721032021"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-motivation",
+   "earliest": "20191118045821"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-shutdown",
+   "earliest": "20211203223311"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/irs-form-w8ben-instructions",
+   "earliest": "20210622141113"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/furlough-vs-layoff",
+   "earliest": "20200405225814"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/earned-income-tax-credit",
+   "earliest": "20200813123918"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/legally-fire-employee",
+   "earliest": "20191118051422"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/pricing-products",
+   "earliest": "20190824081920"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-06182021",
+   "earliest": "20211016141534"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/what-is-payroll-and-how-can-i-get-it-right",
+   "earliest": "20190628235004"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/farmgirl-flowers-small-business-advice",
+   "earliest": "20201026170236"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/hazard-pay",
+   "earliest": "20210622145111"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/self-employed-employee",
+   "earliest": "20210622144009"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-03042022",
+   "earliest": "20220523133710"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/workers-compensation-remote-jobs",
+   "earliest": "20220814062821"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/how-to-write-a-vision-statement-for-your-company",
+   "earliest": "20200807124304"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/choose-payroll-provider",
+   "earliest": "20201021153503"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/s-corp-tax-savings-calculator",
+   "earliest": "20190824081743"
+  },
+  {
+   "url": "http://gusto.com/blog/business-finance/best-accounting-software",
+   "earliest": "20190824081932"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid19-hr-webinar",
+   "earliest": "20200813122445"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/top-5-reasons-to-consider-group-health-insurance",
+   "earliest": "20191118045604"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/business-elevator-pitch-template",
+   "earliest": "20191018121219"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/business-success-tips",
+   "earliest": "20191118045423"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-07222020",
+   "earliest": "20220819225547"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/fmla-family-medical-leave-requirements",
+   "earliest": "20190721031524"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/collaboration-overload",
+   "earliest": "20211123170202"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/irs-form-7004-tax-extension",
+   "earliest": "20210725071958"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/qualifying-life-event-qle",
+   "earliest": "20200813123703"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/comparison-anxiety",
+   "earliest": "20201020152950"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/erc-calculator",
+   "earliest": "20210814194510"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-fire-a-client",
+   "earliest": "20190721031415"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/difference-between-roth-401k-ira",
+   "earliest": "20190824231102"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/unemployment-insurance",
+   "earliest": "20191118050422"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/small-business-bank-accounts",
+   "earliest": "20200804000800"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/employees-two-health-insurance-plans",
+   "earliest": "20190721030846"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/new-colorado-laws",
+   "earliest": "20201117201155"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/calsavers-retirement-savings",
+   "earliest": "20190824080507"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/health-reimbursement-account-hra",
+   "earliest": "20190817231707"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/stems-brooklyn-smb-story",
+   "earliest": "20200918115723"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/self-employed-health-insurance-deduction",
+   "earliest": "20201128084948"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-02052021",
+   "earliest": "20220815180857"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/difference-vacation-sick-leave",
+   "earliest": "20200804000727"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/illinois-employee-benefits",
+   "earliest": "20200921070227"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/ohio-employee-benefits",
+   "earliest": "20200921060543"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/pay-equity-laws-by-state",
+   "earliest": "20220523135546"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ca-covid-notification-law",
+   "earliest": "20201020153317"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/creative-employee-benefits",
+   "earliest": "20190824100136"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-mistakes",
+   "earliest": "20201128083238"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/sound-art-nonprofit-business-tips",
+   "earliest": "20220526050311"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-to-support-small-businesses-during-covid-19",
+   "earliest": "20210304233304"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/healthy-sf",
+   "earliest": "20190824081752"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-deadlines-benefits-compliance-deadlines-february-2021",
+   "earliest": "20210208214900"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid19-lawsuit",
+   "earliest": "20200921073906"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-forgiveness-spending-guide",
+   "earliest": "20200606115937"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/ss-4-form",
+   "earliest": "20220630103903"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/minimum-participation-requirements-health-insurance",
+   "earliest": "20200807122427"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/families-first-coronavirus-response-act",
+   "earliest": "20200403081701"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/2019-overtime-laws",
+   "earliest": "20190824080849"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/pre-post-tax-disability-premium",
+   "earliest": "20190719003853"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/net-neutrality-effects",
+   "earliest": "20201128113725"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/compensation-definition",
+   "earliest": "20200807132304"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/1099-vs-w2",
+   "earliest": "20201124065510"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-terms",
+   "earliest": "20201128080917"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/get-your-employees-ready-for-the-new-year",
+   "earliest": "20190922022736"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-stub-requirements",
+   "earliest": "20210118190122"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/best-business-plan-investors",
+   "earliest": "20190619052219"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-android-apps",
+   "earliest": "20201124060626"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/california-paid-family-leave",
+   "earliest": "20201111223329"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/when-employees-quit",
+   "earliest": "20220523132227"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/customer-reviews-growth-tuft-needle",
+   "earliest": "20211130181640"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/difference-large-employer-small-employer",
+   "earliest": "20201020143902"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/spring-cleaning-of-your-payroll-records",
+   "earliest": "20201124071959"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/franchise-businesses",
+   "earliest": "20190824080845"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/capital-account",
+   "earliest": "20220127120439"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/tax-reform-paychecks",
+   "earliest": "20211016155911"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/clever-ways-to-recognize-your-team",
+   "earliest": "20190719004026"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/undermining-authority-work",
+   "earliest": "20200921070653"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-09252020",
+   "earliest": "20211016142633"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-take-a-summer-vacation-while-running-a-business",
+   "earliest": "20190721031559"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-work-schedule",
+   "earliest": "20190824101132"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/hsa-account",
+   "earliest": "20200921052848"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/how-to-recruit-when-you-cant-beat-google-on-salary",
+   "earliest": "20201026154909"
+  },
+  {
+   "url": "http://gusto.com/blog/comment-subscriptions/",
+   "earliest": "20190915205532"
+  },
+  {
+   "url": "http://gusto.com:80/blog/payroll/what-is-pay-stub",
+   "earliest": "20190421011132"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/4-hr-must-dos-for-first-time-entrepreneurs",
+   "earliest": "20191118050117"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-tax-forms",
+   "earliest": "20201124054312"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-944",
+   "earliest": "20211203225422"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/groundhog-day-lessons-that-will-help-you-get-out-of-your-small-business-rut",
+   "earliest": "20190719003830"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/5-entrepreneurial-lessons-elon-musk-real-life-iron-man",
+   "earliest": "20201020153130"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/secure-act",
+   "earliest": "20201027005153"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/maslow-hierarchy-needs-employee-onboarding",
+   "earliest": "20190922022733"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/use-lose-vacation-policies",
+   "earliest": "20200807130754"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-calculate-paycheck",
+   "earliest": "20190719004021"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/yc-startup-advice",
+   "earliest": "20191118051714"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/subculture-corsets-family-business",
+   "earliest": "20190824101008"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation/new-york-workers-compensation-law",
+   "earliest": "20190721031116"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/build-stronger-teams",
+   "earliest": "20201020150221"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-10012021",
+   "earliest": "20220123100431"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/top-qualities-mentors",
+   "earliest": "20200813121624"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/qsehra-vs-group-health",
+   "earliest": "20190721031258"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-file-w-3-form",
+   "earliest": "20200921073159"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/small-vs-large-group-health-insurance",
+   "earliest": "20201021170944"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-pick-best-health-insurance-plan",
+   "earliest": "20200803234514"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-payday",
+   "earliest": "20191118050728"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/business-partnership-definition",
+   "earliest": "20191018115809"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/list-startup-competitions-hackathons",
+   "earliest": "20200921073900"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/bookkeeping-tricks-that-will-save-your-summer-vacation",
+   "earliest": "20210928103358"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/inexperienced-candidate-best-employee",
+   "earliest": "20200807120328"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/how-form-llc-colorado",
+   "earliest": "20190824100056"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/401k-loan",
+   "earliest": "20210416153504"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/july-2022-compliance-tax-deadlines",
+   "earliest": "20220630112656"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/excel-templates",
+   "earliest": "20190721031442"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-iphone-apps",
+   "earliest": "20200813122253"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-burnout",
+   "earliest": "20201021170321"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/irs-penalty-relief",
+   "earliest": "20220927150942"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/organize-small-business-finances",
+   "earliest": "20191118050852"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/startup-interview-questions",
+   "earliest": "20191118050538"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/operating-budget-template",
+   "earliest": "20190824100856"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/sole-proprietorship-taxes",
+   "earliest": "20190719003907"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/handle-employee-unemployment-claim",
+   "earliest": "20191215100416"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-disability-awareness",
+   "earliest": "20190824230759"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/involuntary-deductions",
+   "earliest": "20201128090007"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/expense-revenue-spreadsheet",
+   "earliest": "20200519013806"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-recognition-best-practices",
+   "earliest": "20220523133107"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/reasons-why-offer-health-insurance",
+   "earliest": "20190721030925"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/employee-retention-credit",
+   "earliest": "20210309211523"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/retain-female-talent",
+   "earliest": "20211203223203"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-1099-nec",
+   "earliest": "20201128112807"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/humblebrag-promote-yourself",
+   "earliest": "20200807132612"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/small-group-health-insurance-eligibility",
+   "earliest": "20220523144610"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/jury-duty-leave-pay",
+   "earliest": "20190721031923"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/calculate-overtime",
+   "earliest": "20191215100655"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/score-small-business-education-mentorship",
+   "earliest": "20220127113917"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/startups-rd-tax-credit",
+   "earliest": "20220810193054"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/hr-tech-stack",
+   "earliest": "20220219011358"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/individual-coverage-hra-ichra",
+   "earliest": "20191018115050"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/elder-care-dcfsa",
+   "earliest": "20210814151005"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/sexual-harassment-training-california",
+   "earliest": "20190721031041"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/non-compete-agreement",
+   "earliest": "20211016145829"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/write-job-description",
+   "earliest": "20191016055524"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/convertible-notes",
+   "earliest": "20210915131006"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/small-business-health-insurance-changes",
+   "earliest": "20201128114852"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/dividends-s-corp-c-corp",
+   "earliest": "20210406161557"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/american-rescue-plan",
+   "earliest": "20210320145815"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/voluntary-benefits",
+   "earliest": "20201020150306"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/snapbar-smb-story",
+   "earliest": "20200530123338"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-03192021",
+   "earliest": "20210414173237"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/peo-pros-cons",
+   "earliest": "20190719004045"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/customer-engagement-ideas",
+   "earliest": "20220625132053"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/small-businesses-start-offering-retirement-plans-2017",
+   "earliest": "20191118051153"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/termination-employment-letter",
+   "earliest": "20211026151743"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/accepting-payments",
+   "earliest": "20220523145236"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/asset-depreciation",
+   "earliest": "20220523134152"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employees-eligible-unemployment-insurance",
+   "earliest": "20200804000008"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/forming-llc-california-guide",
+   "earliest": "20190824081236"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/best-employee-onboarding-experience-tips",
+   "earliest": "20191018115056"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/top-tax-forms",
+   "earliest": "20201027012558"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance",
+   "earliest": "20190721031819"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/startup-costs",
+   "earliest": "20190721032034"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/guide-when-to-slack-conversation",
+   "earliest": "20201021153142"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-07252022",
+   "earliest": "20220810200808"
+  },
+  {
+   "url": "https://gusto.com/blog/financial-relief",
+   "earliest": "20210622130834"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/advantages-paperless-business",
+   "earliest": "20201021165436"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/covid-19-business-pivot-examples",
+   "earliest": "20200816194341"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-to-delegate-better",
+   "earliest": "20200807130656"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/the-ultimate-employee-handbook",
+   "earliest": "20191016055342"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cash-flow-positive",
+   "earliest": "20190824231033"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-crm-software",
+   "earliest": "20201021164137"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04202022",
+   "earliest": "20220523154826"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/individual-group-health-insurance",
+   "earliest": "20190917152822"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/self-employed-ppp-loans-and-forgiveness",
+   "earliest": "20200622213229"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-double-overtime",
+   "earliest": "20190721032053"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/self-insured-vs-fully-insured-health-plans",
+   "earliest": "20220927142514"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/meal-rest-breaks-law",
+   "earliest": "20190824081207"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04292022",
+   "earliest": "20220523154504"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/dress-code-policy",
+   "earliest": "20191118050722"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-03052021",
+   "earliest": "20210414171209"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/jeff-bezos-hiring-tips",
+   "earliest": "20201128081539"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ca-state-employee-benefits",
+   "earliest": "20200622213305"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/run-effective-meetings",
+   "earliest": "20201020152200"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/what-sick-time-laws-area",
+   "earliest": "20220811232141"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-12042020",
+   "earliest": "20211130174712"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/what-is-working-capital",
+   "earliest": "20190917152909"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/multiple-business-owners-how-to-apply-for-a-loan",
+   "earliest": "20201021171003"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-is-health-insurance",
+   "earliest": "20210312224231"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/child-care-benefit",
+   "earliest": "20190824080057"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ssbci-guide-by-state",
+   "earliest": "20220814054710"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/laid-off-fired-difference",
+   "earliest": "20191118050630"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/registered-agent",
+   "earliest": "20220523152829"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/federal-minimum-wage",
+   "earliest": "20201020152013"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid19-discrimination-workplace",
+   "earliest": "20200921061049"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-reimbursements-work",
+   "earliest": "20201026155608"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/accountant-support-small-business-covid-19",
+   "earliest": "20200417200625"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-11192021",
+   "earliest": "20220123092045"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-08072020",
+   "earliest": "20210725053734"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/health-insurance-exchanges",
+   "earliest": "20210301000352"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance",
+   "earliest": "20190721031516"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/regular-rate-pay-proposal",
+   "earliest": "20190824081359"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/common-i9-mistakes",
+   "earliest": "20200921063926"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/your-pocket-guide-to-the-minimum-wage-debate",
+   "earliest": "20201020152956"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/sole-proprietorship",
+   "earliest": "20190721032002"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cdfi-mdi-ppp-loan",
+   "earliest": "20210105225642"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/team-building-without-alcohol",
+   "earliest": "20200807122614"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/new-hire-compliance",
+   "earliest": "20201021165609"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/nir-eyal-phone-addiction",
+   "earliest": "20190915210738"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/what-is-trade-credit",
+   "earliest": "20220523135104"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/pos-system-small-businesses",
+   "earliest": "20220630110149"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/attract-talent-during-shortage",
+   "earliest": "20220916212641"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid-19-enterprise-management-lessons",
+   "earliest": "20210311183746"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managers-vs-leaders",
+   "earliest": "20220523144455"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring-and-growth",
+   "earliest": "20190721031313"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/decline-employer-health-insurance",
+   "earliest": "20200807131705"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-set-up-pto-policy",
+   "earliest": "20200921162507"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/what-you-need-to-know-about-the-paycheck-protection-flexibility-act",
+   "earliest": "20200609175412"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-find-health-insurance-broker",
+   "earliest": "20201021164241"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/second-business-location",
+   "earliest": "20190824100454"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-be-more-efficient-when-working-from-home",
+   "earliest": "20220526045246"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/goulet-pens-youtube-marketing",
+   "earliest": "20190824080807"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/fsa-daycare",
+   "earliest": "20201020150523"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04092021",
+   "earliest": "20210622145921"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/child-care-center-digital-transformation",
+   "earliest": "20201020153207"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-master-email-marketing-in-one-week",
+   "earliest": "20200921064212"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/10-terms-for-small-business-financing",
+   "earliest": "20190917153055"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation/workers-compensation-facts",
+   "earliest": "20190721031108"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/association-health-plans-ahp",
+   "earliest": "20201128104328"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/how-to-register-your-business-in-california",
+   "earliest": "20190824100002"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/sui-tax-increase",
+   "earliest": "20220625112121"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/work-from-home-disability",
+   "earliest": "20220726180241"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/reply-work-emails",
+   "earliest": "20201128085258"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/what-is-a-1099-r",
+   "earliest": "20220625103900"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-to-master-small-business-accounting-in-one-week",
+   "earliest": "20200807130320"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/job-offer-letter",
+   "earliest": "20190824230754"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/small-businesses-employee-handbooks-stand-infographic",
+   "earliest": "20191118051021"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/benefits-volunteering-coworkers",
+   "earliest": "20200804000400"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-access-to-abortion",
+   "earliest": "20220927142028"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/guide-starting-business",
+   "earliest": "20190721030634"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/new-york-paid-family-leave",
+   "earliest": "20190721031611"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes/save-business-money",
+   "earliest": "20201021154102"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/abortion-insurance-coverage",
+   "earliest": "20221003060117"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/self-employment-tax-deductions",
+   "earliest": "20200710041033"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/how-to-calculate-your-self-employment-tax-in-4-simple-steps",
+   "earliest": "20190824081940"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/june-2022-compliance-tax-deadlines",
+   "earliest": "20220625102641"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/exempt-vs-nonexempt-employee",
+   "earliest": "20191118051118"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-06242022",
+   "earliest": "20220810211304"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-05272022",
+   "earliest": "20220630101648"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/small-business-taxes",
+   "earliest": "20190721031230"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/health-insurance-stipend",
+   "earliest": "20201021161930"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/employee-handbooks-dont-have-to-suck",
+   "earliest": "20190923032906"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/form-941",
+   "earliest": "20191118051605"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-06052020",
+   "earliest": "20220123090128"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/80-20-rule",
+   "earliest": "20190824081424"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/calculating-depreciation",
+   "earliest": "20220523141324"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-101",
+   "earliest": "20200813112237"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/brene-brown-team-vulnerable",
+   "earliest": "20201020144527"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation/how-workers-comp-insurance",
+   "earliest": "20190721030540"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-11052021",
+   "earliest": "20220123085928"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-funding",
+   "earliest": "20190917153203"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/master-decision-making-process",
+   "earliest": "20201026163904"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/benefits-package",
+   "earliest": "20200803230833"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/california-small-business-covid19-financial-relief",
+   "earliest": "20201231211208"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/best-business-credit-cards",
+   "earliest": "20190824081846"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-success-means-organization",
+   "earliest": "20200921074246"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/business-preparation-2019",
+   "earliest": "20190824100318"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/coolhaus-growth-strategy",
+   "earliest": "20190824081507"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/new-hire-paperwork",
+   "earliest": "20190721031658"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managing-older-employees",
+   "earliest": "20201026165526"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/never-easier-entrepreneur",
+   "earliest": "20201026171041"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/consumer-trends-2022",
+   "earliest": "20220927135812"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid19-employer-sites-by-state",
+   "earliest": "20200415034915"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/top-pto-questions",
+   "earliest": "20190917152841"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/integrated-hra-ebhra",
+   "earliest": "20220123094619"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/cost-hire-employee-california",
+   "earliest": "20190824080927"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/springboard-close-candidate",
+   "earliest": "20200807132437"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/covid19-state-tax-relief",
+   "earliest": "20200412223528"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/file-business-tax-extension",
+   "earliest": "20201128115238"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/warren-buffett-not-to-do-list",
+   "earliest": "20200803235925"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/scrappy-recruiting",
+   "earliest": "20190824230749"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/applicant-tracking-systems",
+   "earliest": "20220324052127"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ada-reasonable-accommodations-for-disabilities",
+   "earliest": "20220625142139"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/build-profitable-business",
+   "earliest": "20190824081040"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/small-business-quarterly-taxes",
+   "earliest": "20210107092048"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-08282020",
+   "earliest": "20220630105134"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/innovint-startup-pitch",
+   "earliest": "20220123095855"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/fired-employees-eligible-cobra",
+   "earliest": "20201128085640"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-training-courses",
+   "earliest": "20190824230945"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/health-insurance-employer-waiting-period",
+   "earliest": "20190824080754"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-faqs",
+   "earliest": "20210219150902"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/what-is-payroll",
+   "earliest": "20191118045834"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/client-tax-questions",
+   "earliest": "20201026171338"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-facebook-groups",
+   "earliest": "20191118051457"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04022021",
+   "earliest": "20210414180358"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/safe-harbor-401k-plan",
+   "earliest": "20201128115124"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/navigating-your-wild-way-through-your-startups-success",
+   "earliest": "20220127121917"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business",
+   "earliest": "20190721031544"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/december-2021-compliance-tax-deadlines",
+   "earliest": "20220625101342"
+  },
+  {
+   "url": "http://gusto.com/blog/benefits/commuter-benefits",
+   "earliest": "20190719003931"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/work-share-by-state",
+   "earliest": "20200813115532"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/quick-guide-to-sba-popular-loan-programs",
+   "earliest": "20200921063213"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/paid-sick-leave-how-do-you-stack-up",
+   "earliest": "20210725062640"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/what-warn-act",
+   "earliest": "20190824081747"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/prevent-sexual-harassment-small-business",
+   "earliest": "20200807131435"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/hiring-document-highrise",
+   "earliest": "20190824101300"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-do-i-handle-employee-termination",
+   "earliest": "20200813120801"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/calculate-hourly-rate-entrepreneur",
+   "earliest": "20190824230705"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-transition-plan",
+   "earliest": "20201020145042"
+  },
+  {
+   "url": "http://gusto.com/blog/taxes/2018-tax-survey",
+   "earliest": "20191215101155"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/suta-tax-rate-2020",
+   "earliest": "20210118203552"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-do-i-need-to-set-up-health-insurance",
+   "earliest": "20201021160841"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/good-boss",
+   "earliest": "20190721031028"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/abortion-workplace-faqs",
+   "earliest": "20220927140833"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/slack-zoom-remote-work-tips",
+   "earliest": "20200720084712"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-10152021",
+   "earliest": "20220123082529"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/retain-best-employees",
+   "earliest": "20191119012031"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-to-make-a-negative-talk-more-positive",
+   "earliest": "20201128090109"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-myself-owner-single-member-llc",
+   "earliest": "20190721031007"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/unlimited-pto-policy",
+   "earliest": "20201021163429"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/get-help-payroll-questions",
+   "earliest": "20200813115627"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/better-business-decisions",
+   "earliest": "20201128081321"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/form-1095-c",
+   "earliest": "20220927151311"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/3-ways-free-publicity",
+   "earliest": "20201124070025"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/multi-member-llc",
+   "earliest": "20191018114946"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/403b-retirement",
+   "earliest": "20200612032844"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/scaling-business-processes",
+   "earliest": "20220627192543"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/5-entrepreneurial-lessons-alibabas-jack-ma-crocodile-yangtze",
+   "earliest": "20200804000953"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/the-one-number-that-makes-everything-more-amazing",
+   "earliest": "20211130181025"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-books",
+   "earliest": "20190824100221"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/should-i-apply-ppp",
+   "earliest": "20200504215402"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/checklist-how-to-get-your-taxes-ready-for-end-of-year",
+   "earliest": "20200807131640"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-does-obamacare-mean-for-small-business",
+   "earliest": "20200213052510"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/entrepreneur-skills-bad-students",
+   "earliest": "20190719004115"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/build-transparent-culture",
+   "earliest": "20200804001111"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/human-capital-management",
+   "earliest": "20220523141946"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/what-cash-flow-forecast",
+   "earliest": "20200720084721"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/distributions-vs-dividends",
+   "earliest": "20220625110638"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/retirement-funds-covid-19",
+   "earliest": "20200622213322"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/questions-to-ask-when-shopping-for-payroll",
+   "earliest": "20201020144126"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/prevent-employee-scheduling-issues",
+   "earliest": "20201128114338"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/california-small-business-support-legislation",
+   "earliest": "20200921070726"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-apply-ppp",
+   "earliest": "20200426195956"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/stay-interview",
+   "earliest": "20200918110314"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-legal-advice",
+   "earliest": "20190721031238"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-tip-pooling",
+   "earliest": "20201021162442"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/give-feedback-employees",
+   "earliest": "20191016054256"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-07102020",
+   "earliest": "20211130172244"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/difference-between-hsa-fsa",
+   "earliest": "20190824101044"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/small-business-safety",
+   "earliest": "20201021164008"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/team-offsite",
+   "earliest": "20200813122621"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/third-party-payment-processor",
+   "earliest": "20220630093542"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/wage-hour-mistakes",
+   "earliest": "20190824100458"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/january-2022-compliance-tax-deadlines",
+   "earliest": "20220523134843"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-pay-period",
+   "earliest": "20190915210429"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/pay-out-of-state-employees-covid-19-state-by-state",
+   "earliest": "20200710041049"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/remote-distributed-hybrid-teams",
+   "earliest": "20220526043416"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-deadline-extended-heres-why-you-should-apply",
+   "earliest": "20200710041059"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/small-business-health-insurance-cost",
+   "earliest": "20201128111013"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/small-business-week",
+   "earliest": "20190721031234"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/home-office-deduction-form-8829",
+   "earliest": "20190915210132"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/free-meals-saving-company-money",
+   "earliest": "20201020135521"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/holiday-seasonal-hiring",
+   "earliest": "20211026142902"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/state-employment-laws",
+   "earliest": "20190721031012"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/withholding-tax",
+   "earliest": "20220927144946"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ab-1522-304-california-paid-sick-leave-law",
+   "earliest": "20210725065301"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/good-withholding-number",
+   "earliest": "20201021164053"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/get-invoices-paid-faster",
+   "earliest": "20191215100932"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/trans-inclusive-workplaces",
+   "earliest": "20220526042813"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/withholding-allowances-2",
+   "earliest": "20200807132624"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-taxes-out-of-state-employees",
+   "earliest": "20190824081647"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/new-gop-tax-bill",
+   "earliest": "20201020153022"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/avoid-business-scams-covid",
+   "earliest": "20210622132736"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/what-does-an-hra-reimburse",
+   "earliest": "20220123100502"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/at-will-employment",
+   "earliest": "20190824080820"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/coronavirus-relief-resources",
+   "earliest": "20200403091205"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employees-earn-pto-vacation",
+   "earliest": "20191118051646"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-myself-owner-s-corp",
+   "earliest": "20200921162622"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/startups-vs-small-businesses",
+   "earliest": "20220524124620"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/deferred-payroll-taxes",
+   "earliest": "20220625110713"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/strategic-marketing-plan",
+   "earliest": "20220630110021"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04302021",
+   "earliest": "20210622142310"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/kindful-mission-driven-work",
+   "earliest": "20190824100828"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/process-credit-card-payment",
+   "earliest": "20220630103648"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/need-business-plan",
+   "earliest": "20190824100048"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/3-tricks-made-entrepreneurs-successful-can-use",
+   "earliest": "20190828072000"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-does-health-insurance-work-for-small-businesses",
+   "earliest": "20211026155303"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/what-are-good-reasons-to-lay-off-employees",
+   "earliest": "20211130181957"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employees-surveys",
+   "earliest": "20201027003728"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/eligible-health-insurance-tax-deductions",
+   "earliest": "20190721032026"
+  },
+  {
+   "url": "https://gusto.com/blog/hr/background-check",
+   "earliest": "20220810204926"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/minimum-wage-increase",
+   "earliest": "20190719003732"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/work-from-home-policy-template",
+   "earliest": "20200531174520"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/constructive-criticism",
+   "earliest": "20191118050934"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-05072021",
+   "earliest": "20210622135556"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/5-inspirational-podcasts-every-entrepreneur-should-listen-to",
+   "earliest": "20201128111117"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/how-to-fill-out-form-SS8-instructions",
+   "earliest": "20200813124122"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-microloan-program",
+   "earliest": "20210414172923"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managing-age-diverse-workforce",
+   "earliest": "20220524123553"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/top-5-productivity-tips-business",
+   "earliest": "20201124071744"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/research-development-tax-credit",
+   "earliest": "20200110021731"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/spouse-hsa",
+   "earliest": "20201020150413"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/insectek-yelp-reviews",
+   "earliest": "20190824101343"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/why-the-best-employees-have-a-purpose",
+   "earliest": "20200804001353"
+  },
+  {
+   "url": "http://gusto.com/blog/business-finance/invoice-financing-small-business",
+   "earliest": "20190618002605"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-loan-fraud",
+   "earliest": "20200622213248"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ny-state-employee-benefits",
+   "earliest": "20200607140348"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04262021",
+   "earliest": "20210622135515"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes/merchant-account",
+   "earliest": "20220523135630"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/balance-sheet-template",
+   "earliest": "20190824081719"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/the-single-word-that-secretly-drives-our-behavior",
+   "earliest": "20201124063857"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/how-to-work-with-an-introvert",
+   "earliest": "20191018120134"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/best-invoicing-software",
+   "earliest": "20200807132033"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/business-certifications-benefits",
+   "earliest": "20190721032042"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-grow-your-business-with-freelancers",
+   "earliest": "20210928105520"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/cost-hire-employee-texas",
+   "earliest": "20200807132148"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/formula-pick-salary-new-employee",
+   "earliest": "20191018120554"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/should-you-friend-your-team-on-facebook",
+   "earliest": "20201021164604"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/stock-classes",
+   "earliest": "20220630095543"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-to-clean-up-your-books-after-tax-season",
+   "earliest": "20200807131003"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/states-raising-minimum-wage",
+   "earliest": "20190719003757"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/remote-work-tools-for-distributed-teams",
+   "earliest": "20200921063552"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-to-manage-when-you-are-short-staffed",
+   "earliest": "20220630100817"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/pricing-services",
+   "earliest": "20190824100908"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/increase-employee-engagement-retention",
+   "earliest": "20190914134155"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/personal-guarantee-business-loan",
+   "earliest": "20210331195726"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/husband-wife-partnership-taxation",
+   "earliest": "20210127030723"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/child-tax-credit",
+   "earliest": "20210622144134"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/eidl-loan-tracking",
+   "earliest": "20201205191054"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-06122020",
+   "earliest": "20220123092415"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/build-net-worth",
+   "earliest": "20190824100432"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/3-simple-linkedin-recruiting-tricks",
+   "earliest": "20200807132207"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-07302021",
+   "earliest": "20220127104128"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/offer-more-pto-benefits",
+   "earliest": "20200918115208"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/good-employee",
+   "earliest": "20201020145940"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/startup-founders-employee-equity",
+   "earliest": "20190824080704"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/form-940",
+   "earliest": "20200813113421"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/title-vii-civil-rights-act",
+   "earliest": "20220523154847"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/small-business-payroll-privacy",
+   "earliest": "20190824081355"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/business-exit-strategy",
+   "earliest": "20220123092007"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-is-sdi",
+   "earliest": "20191118050503"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/salary-negotiation-employer",
+   "earliest": "20200807123331"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-engagement-strategies",
+   "earliest": "20220523150522"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/negative-pto-balance",
+   "earliest": "20190721030956"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/when-start-s-corp",
+   "earliest": "20190630084248"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/small-business-bookkeeping",
+   "earliest": "20190824081107"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/team-building-ideas-employee-bonding",
+   "earliest": "20200607115309"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/veteran-business-resources",
+   "earliest": "20191018120700"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/october-2022-compliance-tax-deadlines",
+   "earliest": "20221003044709"
+  },
+  {
+   "url": "https://gusto.com/blog/covid-team-management",
+   "earliest": "20200426193827"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/maternity-paternity-parental-leave",
+   "earliest": "20190615022345"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ideas-celebrate-employees",
+   "earliest": "20200921062113"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-asks-raise",
+   "earliest": "20190824080812"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-contracts",
+   "earliest": "20190915210515"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/reference-check-questions",
+   "earliest": "20190721031211"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hiring-email-templates-guide",
+   "earliest": "20190824101256"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/pcori-form-720",
+   "earliest": "20210814083626"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/april-2022-compliance-tax-deadlines",
+   "earliest": "20220523134559"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/bias-in-performance-reviews",
+   "earliest": "20220123093731"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/state-minimum-wage",
+   "earliest": "20190915210800"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/change-withholding-allowances",
+   "earliest": "20201026161042"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/bonus-depreciation",
+   "earliest": "20221010215646"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/work-anxiety",
+   "earliest": "20200611201457"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/choosing-logo-colors",
+   "earliest": "20210414174941"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/working-with-independent-contractors",
+   "earliest": "20201124061737"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cash-flow-strategies",
+   "earliest": "20190917153140"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/nir-eyal-productivity-extensions",
+   "earliest": "20191018114652"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/prosocial-behavior",
+   "earliest": "20191215100613"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/advice-from-entrepreneurs-on-offering-employee-equity",
+   "earliest": "20191221043116"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid-19-emotional-intelligence-leadership",
+   "earliest": "20200921072820"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/terminate-employee-layoff-laws",
+   "earliest": "20200813122601"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-financial-stress",
+   "earliest": "20190824082031"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/work-opportunity-tax-credit",
+   "earliest": "20200921065745"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-11132020",
+   "earliest": "20211026160633"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/small-business-hiring-guide",
+   "earliest": "20190522035916"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/fintechs-ppp",
+   "earliest": "20210118204919"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/seasonal-hiring",
+   "earliest": "20191215111825"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/salary-history-ban",
+   "earliest": "20191119011434"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/employer-contribution-health-insurance",
+   "earliest": "20190721031024"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/employee-vs-contractor-infographic",
+   "earliest": "20200807122839"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-1040-es",
+   "earliest": "20200807130248"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/background-check",
+   "earliest": "20190721032010"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/woo-candidates",
+   "earliest": "20190721031016"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/covid19-small-business-tax-credits",
+   "earliest": "20210103222119"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-myself-partner-partnership",
+   "earliest": "20200921073708"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-to-pay-yourself-as-a-small-business-owner",
+   "earliest": "20190824080914"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ca-workers-compensation-covid19-law",
+   "earliest": "20201020134452"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/independent-contractor-agreement",
+   "earliest": "20201124070412"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-set-anti-goals",
+   "earliest": "20220630102757"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/starting-business-in-economic-uncertainty",
+   "earliest": "20220523144836"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid-19-employee-relief-resources",
+   "earliest": "20200429024001"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/what-is-sba-express-loan",
+   "earliest": "20200813115416"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/what-organizational-structure-should-my-team-use",
+   "earliest": "20200804000604"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/calculate-tip-credit",
+   "earliest": "20191016054619"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/part-time-employees-eligible-health-insurance",
+   "earliest": "20190824081532"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/checklist-how-to-get-your-accounting-ready-for-end-of-year",
+   "earliest": "20201021162154"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/register-new-hires-with-state",
+   "earliest": "20220927152324"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/set-up-qsehra",
+   "earliest": "20190721030648"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-standard-7a-loan",
+   "earliest": "20210725065128"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-become-an-expert-note-taker",
+   "earliest": "20201020152853"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-marginal-tax-rate-works",
+   "earliest": "20220811231811"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-bonuses-mean-something",
+   "earliest": "20190824082015"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/four-ways-give-business-clean-slate",
+   "earliest": "20200921073938"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/first-time-business-taxes",
+   "earliest": "20200807131756"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hiring-budget-calculator",
+   "earliest": "20190824081953"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/successful-lazy-people-productivity",
+   "earliest": "20190915210941"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/friends-and-family-small-business-loan",
+   "earliest": "20200804000419"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employers-support-working-parents-during-covid19",
+   "earliest": "20200813105144"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/cutting-remote-work-salaries",
+   "earliest": "20201020150805"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/biweekly-pay-schedule",
+   "earliest": "20210725072024"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid19-path-out-of-pandemic-small-business-employers",
+   "earliest": "20211016160119"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/invoice-and-receipts",
+   "earliest": "20220523132955"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/business-owner-hiring-friends",
+   "earliest": "20190917152958"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/profit-loss-statement-template",
+   "earliest": "20190824100132"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/529-plans-state",
+   "earliest": "20201021160737"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/what-is-adjusted-gross-income-agi",
+   "earliest": "20190824230855"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/jeff-bezos-two-pizza-rule",
+   "earliest": "20190915210105"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/payroll-taxes",
+   "earliest": "20190824231037"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/10-ted-talks-every-small-business-owner-should-listen-to",
+   "earliest": "20190721031100"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-cp-575",
+   "earliest": "20190721031856"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/need-employment-separation-agreement",
+   "earliest": "20220123095635"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/scaling-company-culture",
+   "earliest": "20211212203104"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/accounting-equation",
+   "earliest": "20201128111740"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/open-enrollment",
+   "earliest": "20191018120412"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/choose-best-business-name",
+   "earliest": "20190824080959"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-leader",
+   "earliest": "20190824081203"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-net-neutrality",
+   "earliest": "20201124060514"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/restaurant-revitalization-fund",
+   "earliest": "20210622141834"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/high-deductible-health-plan-hdhp",
+   "earliest": "20190817230611"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/how-to-attract-incredible-candidates-online",
+   "earliest": "20201020153252"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-05142021",
+   "earliest": "20211024095317"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-incentives",
+   "earliest": "20201124071623"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/pool-spa-superstore",
+   "earliest": "20190824101317"
+  },
+  {
+   "url": "https://gusto.com/blog/team-management/employee-assistance-program",
+   "earliest": "20210915131009"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hiring-red-flags",
+   "earliest": "20190915211044"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-switch-payroll-providers",
+   "earliest": "20191215110440"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-to-work-with-people-you-dont-like",
+   "earliest": "20220609164846"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/floating-holiday",
+   "earliest": "20190824081103"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/small-business-pitfalls",
+   "earliest": "20221003054919"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/state-by-state-covid19-employee-training-guide",
+   "earliest": "20201020024224"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/biggest-roi-hr",
+   "earliest": "20201026171253"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/pay-myself-sole-proprietor",
+   "earliest": "20200921050946"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/annual-reports",
+   "earliest": "20220127122040"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/should-incorporate",
+   "earliest": "20190721031321"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/how-create-employee-handbook",
+   "earliest": "20190917153154"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-04012022",
+   "earliest": "20220523143959"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/small-business-cybersecurity-tips",
+   "earliest": "20191118050940"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/lgbt-entrepreneurs-resources",
+   "earliest": "20201128115232"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/hire-employee-or-independent-contractor",
+   "earliest": "20190719004035"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/working-from-home-productivity",
+   "earliest": "20200813122002"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/how-do-i-set-up-a-401k-for-my-company",
+   "earliest": "20190824080721"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/buying-a-business",
+   "earliest": "20220123101251"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/retro-pay",
+   "earliest": "20190721031837"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/best-small-business-budget-template",
+   "earliest": "20190824101247"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/contingent-worker",
+   "earliest": "20220523133811"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/health-insurance-employer-glossary",
+   "earliest": "20201021163406"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/business-credit",
+   "earliest": "20190824100208"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/gig-worker-vs-independent-contractor",
+   "earliest": "20220523135500"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/cash-flow",
+   "earliest": "20190824080918"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/check-payroll-withholding",
+   "earliest": "20201021170452"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/choosing-1099-forms",
+   "earliest": "20210301020449"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/google-calendar-hacks",
+   "earliest": "20190824080717"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/new-hire-reporting",
+   "earliest": "20190721031020"
+  },
+  {
+   "url": "https://gusto.com/blog/company-culture",
+   "earliest": "20191018115509"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-09022022",
+   "earliest": "20221003055105"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/cost-sharing-explained",
+   "earliest": "20210219151216"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/cobra-insurance-employers",
+   "earliest": "20211024102427"
+  },
+  {
+   "url": "http://gusto.com/blog/payroll/set-payroll-first-time",
+   "earliest": "20190628104410"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/health-insurance-deductible",
+   "earliest": "20210414163315"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/performance-improvement-plan",
+   "earliest": "20191118050342"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/fsa-or-hsa",
+   "earliest": "20190719004101"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/amend-business-tax-return",
+   "earliest": "20200813112450"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-01292021",
+   "earliest": "20220819223519"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/what-sick-leave",
+   "earliest": "20200813123000"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-03182022",
+   "earliest": "20220523140854"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-whistleblower-policy",
+   "earliest": "20220927131646"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/fsa-money-expires",
+   "earliest": "20190719004125"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/how-to-create-a-winning-pitch-deck",
+   "earliest": "20201020153143"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/leading-hybrid-teams",
+   "earliest": "20211203225603"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/firing-angry-employee",
+   "earliest": "20200813121256"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-much-is-health-insurance",
+   "earliest": "20201111224221"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/ppp-direct-forgiveness-portal",
+   "earliest": "20210804213502"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/peter-principle-definition",
+   "earliest": "20190719003752"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/massachusetts-paid-family-leave",
+   "earliest": "20201021155442"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-stay-cool-as-a-small-business-owner",
+   "earliest": "20201020143312"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/new-year-start-new-business",
+   "earliest": "20201026171556"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/two-knives-catering-mentorship",
+   "earliest": "20190824100848"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/emotionally-manage-workplace-emergencies",
+   "earliest": "20200405225038"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/how-to-open-flower-shop-brooklyn-stems",
+   "earliest": "20190824230932"
+  },
+  {
+   "url": "http://gusto.com/blog/workers-compensation/workers-compensation-employer-guide",
+   "earliest": "20190721030506"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/wage-garnishment-letter",
+   "earliest": "20191215100556"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/9-best-practices-for-building-a-team-of-leaders",
+   "earliest": "20211024213724"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/top-3-financial-mistakes-new-companies-make",
+   "earliest": "20201124071711"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/covid19-vaccine-tax-credit",
+   "earliest": "20210725064204"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-tip-credit",
+   "earliest": "20200921072152"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes/fortune-500-smb-tax-strategy",
+   "earliest": "20220810194532"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/small-group-special-open-enrollment-period",
+   "earliest": "20200813113954"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-01212022",
+   "earliest": "20220526051427"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/small-business-startup-tools",
+   "earliest": "20190824081557"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/small-business-audit-triggers",
+   "earliest": "20200220101338"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/group-health-insurance",
+   "earliest": "20190824101144"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/gendered-language-workplace",
+   "earliest": "20200813120400"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/inflation-reduction-act",
+   "earliest": "20220927142141"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/401k-matching",
+   "earliest": "20210414172225"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/types-of-business-insurance",
+   "earliest": "20220523151859"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/perks-employee-benefits",
+   "earliest": "20190824100359"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/how-to-be-more-productive-when-youre-tired",
+   "earliest": "20211203230354"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/small-biz-online-sales-tax",
+   "earliest": "20200807131911"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-do-i-know-if-i-have-a-good-health-insurance-plan",
+   "earliest": "20191018120401"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/dependent-coverage",
+   "earliest": "20201020151650"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/final-paycheck-laws",
+   "earliest": "20201020152521"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/how-kevin-systrom-created-instagram",
+   "earliest": "20191018120117"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation/optimize-workers-compensation-policy",
+   "earliest": "20190824081317"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-imputed-income",
+   "earliest": "20191018114903"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/sba-loans-covid19-relief-bill",
+   "earliest": "20210114185129"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/why-the-hr-role-is-getting-a-makeover",
+   "earliest": "20220625140720"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/payroll-101-getting-ready-for-your-first-hire",
+   "earliest": "20191118050054"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/resumes-hiring-hack",
+   "earliest": "20190824081116"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/4-benefits-offering-stock-options-employees",
+   "earliest": "20191215105201"
+  },
+  {
+   "url": "http://gusto.com/blog/start-business/apply-ein",
+   "earliest": "20190628104356"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/taxable-fringe-benefit",
+   "earliest": "20190824080533"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/fsa-rules-dcfsa-updates",
+   "earliest": "20210622140543"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-10292021",
+   "earliest": "20220123085610"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/how-do-i-switch-health-insurance-plans",
+   "earliest": "20200807131942"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/guide-offering-health-insurance",
+   "earliest": "20190915210101"
+  },
+  {
+   "url": "http://gusto.com/blog/people-management/5-employee-training-methods",
+   "earliest": "20190824100449"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/taxpayer-identification-numbers",
+   "earliest": "20220123090208"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/what-are-common-payroll-terms-i-need-to-know",
+   "earliest": "20201124071316"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/dba-doing-business-as-name",
+   "earliest": "20190824230841"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/the-different-ways-business-owners-can-pay-themselves",
+   "earliest": "20190824100551"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/piece-rate-pay",
+   "earliest": "20220123095303"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/do-i-need-to-use-an-employment-contract",
+   "earliest": "20200213050209"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/handle-irs-notice",
+   "earliest": "20201124060955"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/business-and-personal-credit",
+   "earliest": "20220526042309"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-covid19-vaccine-status",
+   "earliest": "20211016140214"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-records",
+   "earliest": "20200803232204"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/evaluate-small-business-benefits-solution",
+   "earliest": "20210414163951"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/form-8027",
+   "earliest": "20220625141856"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/your-hr-fall-reading-list",
+   "earliest": "20190824230655"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/covid-19-employee-financial-relief-in-texas",
+   "earliest": "20200918104442"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/trump-executive-order-payroll-tax-relief-covid19",
+   "earliest": "20200827153738"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/employee-time-off-to-vote",
+   "earliest": "20200606152600"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/give-employee-ownership",
+   "earliest": "20200813113633"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/back-pay",
+   "earliest": "20190721031302"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/state-sponsored-retirement-plans",
+   "earliest": "20220523143607"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/small-business-hiring-hack",
+   "earliest": "20220526060836"
+  },
+  {
+   "url": "https://gusto.com/blog/workers-compensation/workers-comp-lessons",
+   "earliest": "20190721031431"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/managing-quirky-work-personalities",
+   "earliest": "20201020151435"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-03262021",
+   "earliest": "20210414180127"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/spouse-fsa",
+   "earliest": "20201020140752"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/ichra-vs-qsehra",
+   "earliest": "20220123095821"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/covid-19-testing-health-insurance",
+   "earliest": "20200720084705"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/juniper-floral-design",
+   "earliest": "20190824100301"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/awkward-work-situations",
+   "earliest": "20200813123240"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/oregonsaves-retirement-savings",
+   "earliest": "20190915210932"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/balance-sheet-ratios",
+   "earliest": "20191018114702"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/conquering-admin-tasks",
+   "earliest": "20220127115459"
+  },
+  {
+   "url": "http://gusto.com/blog/growth/1-million-instagram-followers",
+   "earliest": "20191118045828"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/top-questions-employees-will-ask-about-health-benefits",
+   "earliest": "20210928112222"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/how-fill-out-w-4",
+   "earliest": "20200813123325"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/management-mistakes",
+   "earliest": "20200803230419"
+  },
+  {
+   "url": "https://gusto.com/blog/finances-and-taxes/eidl-grant-application-2021",
+   "earliest": "20220526042733"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/reduce-healthcare-costs",
+   "earliest": "20191118050153"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/sui-state-unemployment-insurance",
+   "earliest": "20191118045916"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/what-is-w-9-form",
+   "earliest": "20190721031748"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-to-accept-crypto-currency",
+   "earliest": "20220625113332"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/pooch-pals-hiring-tips",
+   "earliest": "20201128115741"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/may-2022-compliance-tax-deadlines",
+   "earliest": "20220526055334"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/401k-hardship-withdrawal",
+   "earliest": "20211203223128"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/non-deductible-expenses",
+   "earliest": "20220523144912"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/vendor-management",
+   "earliest": "20220526052307"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/bright-life-playschool",
+   "earliest": "20190824100624"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/motivate-underperforming-employees",
+   "earliest": "20190721030601"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/schedule-k-1-instructions",
+   "earliest": "20190824101123"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/association-retirement-plans",
+   "earliest": "20190915210030"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/independent-contractor-vs-employee",
+   "earliest": "20190824231232"
+  },
+  {
+   "url": "https://gusto.com/blog/benefits/health-share-plan",
+   "earliest": "20220123085213"
+  },
+  {
+   "url": "https://gusto.com/blog/health-insurance/small-business-health-care-tax-credit",
+   "earliest": "20201021170926"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/smb-newsletter-08212020",
+   "earliest": "20220127115838"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/trump-executive-order-federal-unemployment-benefits-covid19",
+   "earliest": "20200921074112"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/409a-valuation",
+   "earliest": "20220524115148"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/covid19-stimulus-package-details",
+   "earliest": "20210114185131"
+  },
+  {
+   "url": "https://gusto.com/blog/taxes/new-1099-k-law",
+   "earliest": "20220526052026"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/work-gossip",
+   "earliest": "20190824081429"
+  },
+  {
+   "url": "https://gusto.com/blog/hiring/convert-contractors-employees",
+   "earliest": "20201026162856"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/thirdlove-employee-retention",
+   "earliest": "20190917153135"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/print-payroll-checks",
+   "earliest": "20191215100346"
+  },
+  {
+   "url": "https://gusto.com/blog/payroll/fica-tax-social-security-medicare",
+   "earliest": "20191118051559"
+  },
+  {
+   "url": "https://gusto.com/blog/start-business/start-business-while-working",
+   "earliest": "20190824080450"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/financial-pro-infographic",
+   "earliest": "20190824082001"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/camelback-ventures-social-entrepreneurship",
+   "earliest": "20190824101024"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/ada-compliance-guidelines",
+   "earliest": "20220625113228"
+  },
+  {
+   "url": "http://gusto.com/blog/hiring/hire-employees-grit",
+   "earliest": "20200813123734"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/remote-onboarding-process",
+   "earliest": "20200720084724"
+  },
+  {
+   "url": "http://gusto.com/blog/health-insurance/affordable-care-act-requirements-employers",
+   "earliest": "20190719004119"
+  },
+  {
+   "url": "https://gusto.com/blog/business-finance/how-apply-eidl",
+   "earliest": "20200414070535"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management/team-firing-someone",
+   "earliest": "20191012162241"
+  },
+  {
+   "url": "https://gusto.com/blog/growth/best-small-business-tech-tools",
+   "earliest": "20200803225306"
+  },
+  {
+   "url": "https://gusto.com/blog/people-management",
+   "earliest": "20190721031329"
+  }
+ ]
+}
