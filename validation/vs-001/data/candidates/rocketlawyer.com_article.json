@@ -1,0 +1,5419 @@
+{
+ "blog": "rocketlawyer.com/article",
+ "group": "Legal",
+ "reserve": false,
+ "cdxRows": 1465,
+ "articleLike": 1352,
+ "queriedAt": "2026-11-04T02:57:12.250Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://www.rocketlawyer.com/article/intellectual-property-agreements-assigning-and-licensing-your-ip-ps.rl",
+   "earliest": "20190824154006"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dmv-vehicle-registration.rl",
+   "earliest": "20190721042045"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/which-states-allow-deeds-of-trust.rl",
+   "earliest": "20190112080441"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-general-partnership-cb.rl",
+   "earliest": "20190717224840"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sole-proprietorship-vs-llc-ps.rl",
+   "earliest": "20190720092709"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/partnership-tax-return-ps.rl",
+   "earliest": "20190721023328"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/5-things-landlords-need-to-know-about-renting-in-a-down-economy.rl",
+   "earliest": "20190717132728"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/using-non-disclosure-agreement-forms.rl",
+   "earliest": "20190721051958"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/military-and-veteran-issues.rl",
+   "earliest": "20190818153941"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/federal-excise-taxes-you-should-know-for-your-small-business.rl",
+   "earliest": "20190718160338"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-business-proposal-st.rl",
+   "earliest": "20190720052145"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-alaska.rl",
+   "earliest": "20190720092748"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/breaking-a-lease.rl",
+   "earliest": "20190721025458"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-alabama.rl",
+   "earliest": "20190719124412"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bankruptcy-debt-discharge.rl",
+   "earliest": "20190719163455"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-hampshire.rl",
+   "earliest": "20190720050423"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-business-plan-ps.rl",
+   "earliest": "20190818154510"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-wyoming.rl",
+   "earliest": "20190717230826"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-wyoming.rl",
+   "earliest": "20190718151237"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-vs-inc-ps.rl",
+   "earliest": "20190717223620"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-family-lawyer.rl",
+   "earliest": "20190819062422"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-antitrust-lawyer.rl",
+   "earliest": "20190720095409"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/purchase-order-template-st.rl",
+   "earliest": "20190715200505"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-florida-after-divorce.rl",
+   "earliest": "20190718151200"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-happens-when-a-married-same-sex-couple-moves-to-a-state-without-same-sex-marriage-cb.rl",
+   "earliest": "20190613133754"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/updating-your-power-of-attorney-to-comply-with-new-federal-laws.rl",
+   "earliest": "20190719023137"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/benefits-of-an-online-law-practice.rl",
+   "earliest": "20190819060023"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/after-divorce-five-legal-steps-to-take-ps.rl",
+   "earliest": "20190718110815"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-a-landlord-may-deduct-from-your-security-deposit.rl",
+   "earliest": "20190715204003"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/manage-your-debt-with-a-debt-settlement-agreement.rl",
+   "earliest": "20190822132720"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/keeping-corporate-minutes.rl",
+   "earliest": "20190715201439"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deed-in-lieu-of-foreclosure-vs-short-sale.rl",
+   "earliest": "20190717131122"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employee-rights.rl",
+   "earliest": "20190721083913"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-transcript-request.rl",
+   "earliest": "20190818150758"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-arizona.rl",
+   "earliest": "20190721085401"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-include-in-an-employment-agreement.rl",
+   "earliest": "20190717224658"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/getting-government-assistance-after-hurricane-sandy.rl",
+   "earliest": "20190718232906"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/debt-collection.rl",
+   "earliest": "20190818152910"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-jersey.rl",
+   "earliest": "20190721021922"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/difference-between-public-domain-and-fair-use-ps.rl",
+   "earliest": "20190717183007"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/benefits-of-a-living-trust.rl",
+   "earliest": "20190818151358"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/requirements-for-writing-a-will.rl",
+   "earliest": "20190718105915"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/leasing-your-business-equipment.rl",
+   "earliest": "20190721042810"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/whats-covered-in-residential-lease-agreement.rl",
+   "earliest": "20190717225434"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/selling-a-business.rl",
+   "earliest": "20190818154607"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/medicaid-and-chip-low-income-health-insurance.rl",
+   "earliest": "20190818150511"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/spousal-planning-for-reduced-taxes.rl",
+   "earliest": "20190718151404"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/roommate-issues.rl",
+   "earliest": "20190720050623"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-hire-a-lawyer.rl",
+   "earliest": "20190721042201"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-you-should-incorporate-your-band-cb.rl",
+   "earliest": "20190719014700"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-separation.rl",
+   "earliest": "20190818153404"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-oklahoma.rl",
+   "earliest": "20190720054106"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-government-business-resources.rl",
+   "earliest": "20190818162223"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/family-children.rl",
+   "earliest": "20190717185555"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/7-ways-to-bulletproof-your-business.rl",
+   "earliest": "20190822141446"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/medical-malpractice-statute-of-limitations-by-state.rl",
+   "earliest": "20200113112518"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-information-foreign-expatriates-living-in-united-states.rl",
+   "earliest": "20190718161110"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/loose-lips:-what-to-do-if-a-nda-has-been-broken.rl",
+   "earliest": "20190824161324"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/basics-of-contract-law-cb.rl",
+   "earliest": "20190721030344"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/alternative-minimum-tax-amt-credit.rl",
+   "earliest": "20190715210648"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/variable-life-insurance.rl",
+   "earliest": "20190721042610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-be-a-good-landlord-ps.rl",
+   "earliest": "20190428142727"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/personal-injury.rl",
+   "earliest": "20190717193717"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bad-tenant-when-to-hire-a-lawyer-ps.rl",
+   "earliest": "20190717133326"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/creating-articles-of-incorporation.rl",
+   "earliest": "20190718155920"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/getting-a-green-card-through-family.rl",
+   "earliest": "20190717193605"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/family-gifting.rl",
+   "earliest": "20190721052450"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/promissory-notes-specify-loan-repayment-terms.rl",
+   "earliest": "20190717130307"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-massachusetts-corporation.rl",
+   "earliest": "20190717125643"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-check-a-tenant's-credit-and-background-landlord-tips-ps.rl",
+   "earliest": "20190821140212"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-considerations-for-your-companys-social-media-policy-ps.rl",
+   "earliest": "20190721044756"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-patent-a-product-idea-invention-process-ps.rl",
+   "earliest": "20190718151043"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-a-trademark-search.rl",
+   "earliest": "20190715203527"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-transfer-property-rights-to-family-with-a-quit-claim-deed.rl",
+   "earliest": "20190501234333"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-mississippi.rl",
+   "earliest": "20190722212247"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/giving-up-parental-rights.rl",
+   "earliest": "20190818151252"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sublease-help-articles.rl",
+   "earliest": "20190718233453"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-an-online-business-ps.rl",
+   "earliest": "20190818160446"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-501c3-tax-exempt-status-for-your-nonprofit.rl",
+   "earliest": "20190717124836"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/using-a-grant-deed-to-transfer-property-rights.rl",
+   "earliest": "20190717224325"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-an-unlawful-detainer-ps.rl",
+   "earliest": "20190718151634"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-business-plan.rl",
+   "earliest": "20190717183418"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/waiting-for-your-501c3-determination-letter.rl",
+   "earliest": "20190719015112"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/living-wills,-health-care-power-of-attorney,-and-advance-directive.rl",
+   "earliest": "20190818150834"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/referral-letters-and-references.rl",
+   "earliest": "20190720055955"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/find-a-patent-lawyer.rl",
+   "earliest": "20190721021506"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-appoint-a-will-executor.rl",
+   "earliest": "20190721042937"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/marriage-certificate.rl",
+   "earliest": "20190818154632"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-put-the-credit-bureaus-on-fraud-alert-.rl",
+   "earliest": "20190718160801"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/copyright-rules-for-students-ps.rl",
+   "earliest": "20190720054518"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-drivers-license.rl",
+   "earliest": "20190720052416"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/transferring-property-to-a-spouse-with-a-qtip-trust.rl",
+   "earliest": "20190719000740"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/use-standard-business-forms-that-have-been-reviewed-by-attorneys.rl",
+   "earliest": "20190717122910"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-michigan-corporation.rl",
+   "earliest": "20190720102353"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-choose-an-agent-for-your-power-of-attorney.rl",
+   "earliest": "20190715204202"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-north-carolina.rl",
+   "earliest": "20190717223215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-legal-mediation-and-arbitration-ps.rl",
+   "earliest": "20190818150544"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/5-legitimate-home-based-business-ideas-ps.rl",
+   "earliest": "20190824153637"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/basics-of-contract-law-cb.rl",
+   "earliest": "20200601222051"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-foreign-entity-registration-ps.rl",
+   "earliest": "20190719121124"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mineral-deed-definition-ps.rl",
+   "earliest": "20201111234215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-montana-corporation.rl",
+   "earliest": "20190718151108"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/successor-trustee-duties.rl",
+   "earliest": "20190721044610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/lawyer-types.rl",
+   "earliest": "20190824162043"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-protect-and-defend-ip-ps.rl",
+   "earliest": "20190818150802"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/us-constitution-full-text.rl",
+   "earliest": "20191017082318"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/media-licensing-agreements-for-your-business.rl",
+   "earliest": "20190719013411"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/does-a-living-will-affect-my-insurance-premiums.rl",
+   "earliest": "20190721031818"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-rhode-island.rl",
+   "earliest": "20190717223306"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/prenuptial-agreements-specify-spousal-support-and-property.rl",
+   "earliest": "20190818150723"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/everyone-needs-a-living-will.rl",
+   "earliest": "20190717230127"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/five-tips-for-hiring-a-debt-recovery-or-debt-collection-agency.rl",
+   "earliest": "20190723013452"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/duties-of-a-will-executor.rl",
+   "earliest": "20190718160928"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contract-damages-remedies-for-breach-of-contract-cb.rl",
+   "earliest": "20190720092815"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-name-change.rl",
+   "earliest": "20190822141928"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/medical-malpractice-statute-of-limitations-by-state.rl",
+   "earliest": "20190717125801"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-green-card-cb.rl",
+   "earliest": "20190719001036"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/purchase-agreement-template.rl",
+   "earliest": "20190818155535"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-new-york.rl",
+   "earliest": "20190719015250"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/401k-and-403b-retirement-plans.rl",
+   "earliest": "20190722202529"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/understanding-work-for-hire-consulting-and-employment-agreements.rl",
+   "earliest": "20190717232811"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-keep-your-business-in-compliance-ps.rl",
+   "earliest": "20190822132124"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-colorado.rl",
+   "earliest": "20190718235923"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/security-deed-vs-mortgage-ps.rl",
+   "earliest": "20190309164930"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-constitutional-lawyer.rl",
+   "earliest": "20190721085242"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-debt-settlement-attorney.rl",
+   "earliest": "20190720050854"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-publishing-company-cb.rl",
+   "earliest": "20190818150838"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-cisg-cb.rl",
+   "earliest": "20190718234724"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/making-donations-to-a-non-profit.rl",
+   "earliest": "20190717232158"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/rent-control-and-leasing-101.rl",
+   "earliest": "20190721024652"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/social-events-outside-of-work.rl",
+   "earliest": "20191212012323"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/angel-investor-loans-and-sample-promissory-notes.rl",
+   "earliest": "20190718233029"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-to-hire-a-lawyer-for-a-business-contract-ps.rl",
+   "earliest": "20190822224608"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tenants-in-common-vs-joint-tenants-cb.rl",
+   "earliest": "20190205164411"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-malpractice.rl",
+   "earliest": "20190717183302"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-prepare-small-business-taxes-ps.rl",
+   "earliest": "20190721045047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/distributing-assets-with-a-living-trust.rl",
+   "earliest": "20190720050313"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/non-immigrant-visas-for-aliens-visiting-the-us.rl",
+   "earliest": "20190719123237"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-requirements-for-llc-registered-agents-ps.rl",
+   "earliest": "20190717223407"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-intellectual-property-covered-by-copyright-law.rl",
+   "earliest": "20190718233517"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-death-taxes.rl",
+   "earliest": "20190718151324"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employee-training-and-development-for-your-small-business.rl",
+   "earliest": "20190720061113"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-illinois-after-divorce.rl",
+   "earliest": "20190715204332"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-investors-for-startups.rl",
+   "earliest": "20190114062153"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-write-a-receipt-the-basics-cb.rl",
+   "earliest": "20190903213046"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/a-legal-guide-for-startups.rl",
+   "earliest": "20190717231942"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/credit-monitoring.rl",
+   "earliest": "20190715180948"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-appeal-a-medical-claim-denial.rl",
+   "earliest": "20190821150146"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/medical-records.rl",
+   "earliest": "20190722103141"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/no-fault-divorce-by-state.rl",
+   "earliest": "20190720053556"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-nebraska.rl",
+   "earliest": "20190721091821"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-and-unemployment.rl",
+   "earliest": "20190721090558"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/car-loan-financing-tips.rl",
+   "earliest": "20190718105723"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-dissolution-process-ps.rl",
+   "earliest": "20190715204609"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-change-a-will-after-signing.rl",
+   "earliest": "20190717230516"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/getting-a-green-card-through-a-job.rl",
+   "earliest": "20190818154204"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/changing-vehicle-ownership---getting-a-car-title-transferred-with-the-dmv.rl",
+   "earliest": "20190822132352"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-esignatures-are-legal-cb.rl",
+   "earliest": "20190718233136"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-get-a-registered-trademark-ps.rl",
+   "earliest": "20190721084647"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/patent-applications-101.rl",
+   "earliest": "20190718234403"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-new-york-corporation.rl",
+   "earliest": "20190717131544"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-lawyer-for-adoption.rl",
+   "earliest": "20190720055817"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-limited-liability-cb.rl",
+   "earliest": "20190721044546"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-protect-your-intellectual-property-from-infringement.rl",
+   "earliest": "20190430073434"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-an-immigration-lawyer-can-help.rl",
+   "earliest": "20190716040630"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/social-security-benefits.rl",
+   "earliest": "20190721043902"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-tips-for-first-time-landlords.rl",
+   "earliest": "20190720093058"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/outgoing-adoption.rl",
+   "earliest": "20190715210254"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/why-start-an-llc-limited-liability-company-advantages-and-disadvantages.rl",
+   "earliest": "20190628133438"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-records-to-keep-for-business-taxes.rl",
+   "earliest": "20190717230618"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-maryland.rl",
+   "earliest": "20190715205935"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/individual-retirement-accounts-iras.rl",
+   "earliest": "20190721023007"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/trademark-vs-copyright-differences-ps.rl",
+   "earliest": "20190719170242"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-plan-template-st.rl",
+   "earliest": "20190719001049"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-travel-agency-cb.rl",
+   "earliest": "20190818151858"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-ohio-corporation.rl",
+   "earliest": "20190717124123"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-incorporate-my-real-estate-business-ps.rl",
+   "earliest": "20190715200501"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-estate-planning-attorney.rl",
+   "earliest": "20190718154146"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-start-an-llc-limited-liability-company-advantages-and-disadvantages.rl",
+   "earliest": "20190628133437"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employee-documents-and-forms.rl",
+   "earliest": "20190718232838"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bankruptcy-court-requirements.rl",
+   "earliest": "20190723011215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-is-a-deed-of-trust-ps.rl",
+   "earliest": "20190425233008"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-traffic-ticket-attorney.rl",
+   "earliest": "20190717123140"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/security-deed-vs-mortgage-ps.rl",
+   "earliest": "20190505085421"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/buying-and-selling-a-home.rl",
+   "earliest": "20190824161143"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/1031-tax-deferred-like-kind-exchanges-ps.rl",
+   "earliest": "20190718105935"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/living-wills-and-religious-beliefs.rl",
+   "earliest": "20190721042143"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-oklahoma.rl",
+   "earliest": "20190716045655"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-ohio.rl",
+   "earliest": "20190718120519"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/prenuptial-agreement-in-connecticut.rl",
+   "earliest": "20190715200551"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/3-things-performance-appraisal-cb.rl",
+   "earliest": "20190720093433"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/claiming-deductions-on-a-decedents-taxes.rl",
+   "earliest": "20190721042005"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/adoption-credit.rl",
+   "earliest": "20190722202451"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-can-i-say-patent-pending-for-my-invention-ps.rl",
+   "earliest": "20190718112756"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-delaware-corporation.rl",
+   "earliest": "20190718155442"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-estate-administration.rl",
+   "earliest": "20190715203003"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-pennsylvania.rl",
+   "earliest": "20190722205019"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/firing-your-lawyer.rl",
+   "earliest": "20190718233015"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/most-post-molst-and-polst-documents.rl",
+   "earliest": "20190717232605"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-handle-lgbt-discrimination-ps.rl",
+   "earliest": "20190718152417"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-limit-on-small-claims-court-cases-cb.rl",
+   "earliest": "20190818150453"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-avoid-copyright-infringement-ps.rl",
+   "earliest": "20190721023444"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/stock-certificate-template.rl",
+   "earliest": "20190822134248"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-tennessee-corporation.rl",
+   "earliest": "20190718151920"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-massachusetts.rl",
+   "earliest": "20190720052801"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marriage-changes-your-property-rights.rl",
+   "earliest": "20190718154344"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/intellectual-property.rl",
+   "earliest": "20200408015712"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sole-proprietorship-vs-s-corp-ps.rl",
+   "earliest": "20190716040437"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/commercial-property.rl",
+   "earliest": "20190818154750"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-to-do-if-your-intellectual-property-is-used-without-permission.rl",
+   "earliest": "20200516102148"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-missouri.rl",
+   "earliest": "20190719014444"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/recovering-lost-wages-after-a-disaster.rl",
+   "earliest": "20190717132207"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/survivorship-deed-transfer-property-rights-ps.rl",
+   "earliest": "20190723053728"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-wyoming-corporation.rl",
+   "earliest": "20190720055246"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-happens-when-a-married-same-sex-couple-moves-to-a-state-without-same-sex-marriage-cb.rl",
+   "earliest": "20190531232656"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/driving-violations.rl",
+   "earliest": "20190818151301"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-missouri.rl",
+   "earliest": "20190715200713"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-non-profits.rl",
+   "earliest": "20190719120915"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-child-custody-lawyer.rl",
+   "earliest": "20190720060047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/organizing-records-for-your-will-executor.rl",
+   "earliest": "20190717231829"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-minnesota-corporation.rl",
+   "earliest": "20190720050356"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/north-carolina.rl",
+   "earliest": "20190721042449"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/forming-a-non-profit.rl",
+   "earliest": "20190718152221"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-trade-secrets.rl",
+   "earliest": "20190819054119"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-a-dba-ps.rl",
+   "earliest": "20190718151255"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/south-dakota.rl",
+   "earliest": "20190717124123"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-deductions-and-credits.rl",
+   "earliest": "20190822132133"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-kind-of-lawyer-do-i-need.rl",
+   "earliest": "20190715204845"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/workers'-compensation.rl",
+   "earliest": "20190717185628"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-hardship-letter.rl",
+   "earliest": "20190723052729"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/whole-life-insurance.rl",
+   "earliest": "20190720050552"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/marriage-licenses.rl",
+   "earliest": "20190723054755"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-and-how-to-modify-child-custody-arrangements.rl",
+   "earliest": "20190716045722"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-create-a-testamentary-trust-cb.rl",
+   "earliest": "20190719023050"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-construction-lawyer.rl",
+   "earliest": "20190719003111"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employer-responsibilities-under-osha.rl",
+   "earliest": "20190720051311"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-hire-purchase-cb.rl",
+   "earliest": "20190818162244"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contract-for-goods-vs-contract-for-services-cb.rl",
+   "earliest": "20190719014008"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-missouri-corporation.rl",
+   "earliest": "20190719014302"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-firm-offer-rule-cb.rl",
+   "earliest": "20190717225818"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/collecting-past-due-alimony-support-payments.rl",
+   "earliest": "20190721045714"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-tips-for-starting-an-online-business-ps.rl",
+   "earliest": "20190718151027"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/naming-your-spouse-as-a-beneficiary-in-your-will.rl",
+   "earliest": "20190721091540"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-california.rl",
+   "earliest": "20190718154616"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-registration-steps-ps.rl",
+   "earliest": "20190719123333"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deeds-in-washington-state.rl",
+   "earliest": "20190722202913"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/fair-use-guidelines-ps.rl",
+   "earliest": "20190715210350"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/easy-hints-to-make-your-house-sell.rl",
+   "earliest": "20190719000527"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-medical-records.rl",
+   "earliest": "20190722094111"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/divorce-by-publication.rl",
+   "earliest": "20190717224123"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/model-release-form-st.rl",
+   "earliest": "20190718153233"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-maritime-lawyer.rl",
+   "earliest": "20190719000132"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-ways-to-transfer-property-ps.rl",
+   "earliest": "20190818150705"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-top-reasons-to-incorporate-your-business.rl",
+   "earliest": "20190721083708"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-illinois.rl",
+   "earliest": "20190718160750"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/grants-vs-loans-whats-the-difference-cb.rl",
+   "earliest": "20190715200444"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-deed-of-trust-ps.rl",
+   "earliest": "20190425232956"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/ending-a-month-to-month-rental-agreement-how-much-notice-is-required.rl",
+   "earliest": "20190718155727"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-franchise-lawyer.rl",
+   "earliest": "20190819062558"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/after-divorce.rl",
+   "earliest": "20190717230953"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-new-jersey.rl",
+   "earliest": "20190715202722"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/components-of-a-commercial-lease.rl",
+   "earliest": "20190821144639"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-business-forms.rl",
+   "earliest": "20190718151111"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bad-landlord-your-legal-options-ps.rl",
+   "earliest": "20190824153630"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-lawyer-for-estate-administration.rl",
+   "earliest": "20190721050543"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/maintaining-control-of-your-business-name.rl",
+   "earliest": "20190821133747"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/determining-eligibility-for-international-adoption.rl",
+   "earliest": "20190720053408"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-michigan.rl",
+   "earliest": "20190718160545"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-medical-claim.rl",
+   "earliest": "20190718151755"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/understanding-the-difference-between-physical-and-legal-custody-amp.rl",
+   "earliest": "20190923152738"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-taxes-llc-ps.rl",
+   "earliest": "20190717123050"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/self-employed-tax-deductions-ps.rl",
+   "earliest": "20190718105941"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-you-need-a-lawyer-to-get-a-divorce-ps.rl",
+   "earliest": "20190715195330"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/health-care-power-of-attorney-information.rl",
+   "earliest": "20190721051352"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-sole-proprietorship-ps.rl",
+   "earliest": "20190722203959"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-south-carolina.rl",
+   "earliest": "20190720060239"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/information-for-victims-of-crime-overseas.rl",
+   "earliest": "20190719022920"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/are-verbal-contracts-legal-cb.rl",
+   "earliest": "20190822132412"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-you-need-a-living-will.rl",
+   "earliest": "20190720050406"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-arkansas-corporation.rl",
+   "earliest": "20190721030913"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-oregon.rl",
+   "earliest": "20190717223119"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/invoice-template-st.rl",
+   "earliest": "20190715201804"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-terms-by-letter.rl",
+   "earliest": "20190821133721"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-choose-medicare-benefits.rl",
+   "earliest": "20190721023355"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/guidelines-for-the-hague-adoption-of-a-us-orphan.rl",
+   "earliest": "20190721050045"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-taxes-for-sole-proprietorship-ps.rl",
+   "earliest": "20190720093235"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/joint-living-trusts.rl",
+   "earliest": "20190720061937"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-attorney-client-privilege.rl",
+   "earliest": "20190718233836"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-mexico.rl",
+   "earliest": "20190719022913"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/board-member-responsibilities-what-you-should-know-cb.rl",
+   "earliest": "20190719022536"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/medical-abuse-of-an-elderly-person-and-how-to-report-it.rl",
+   "earliest": "20190719162526"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-pet-expenses.rl",
+   "earliest": "20190719124936"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/online-business-forms-take-the-stress-out-of-compliance.rl",
+   "earliest": "20190818150903"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-terminate-an-employee-legally-ps.rl",
+   "earliest": "20190717122730"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-litigation-attorney.rl",
+   "earliest": "20190718154050"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/who-is-responsible-for-disaster-damage-to-apartment-rentals.rl",
+   "earliest": "20190718233217"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/incorporation-forms.rl",
+   "earliest": "20190718235714"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/things-your-lawyer-expects-from-you.rl",
+   "earliest": "20190718233146"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-domestic-partnership.rl",
+   "earliest": "20190716043831"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/foreclosure-avoidance-options-in-connecticut.rl",
+   "earliest": "20190718105715"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-is-a-breach-of-fiduciary-duty-and-how-to-avoid-it-cb.rl",
+   "earliest": "20200528031044"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/corporate-law-what-is-fiduciary-duty-cb.rl",
+   "earliest": "20190720094047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-north-dakota-corporation.rl",
+   "earliest": "20190720101231"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-dmv-office-locations.rl",
+   "earliest": "20190718155104"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/setting-up-a-business-structure---tax-considerations.rl",
+   "earliest": "20190720102851"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/foreclosure-law-what-banks-can-and-cant-do-cb.rl",
+   "earliest": "20190717225304"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/gathering-evidence-for-a-personal-injury-case.rl",
+   "earliest": "20190723014755"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-find-the-best-employees-for-your-small-business.rl",
+   "earliest": "20190715210634"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-business-lawyer.rl",
+   "earliest": "20190719123245"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-free-credit-reports.rl",
+   "earliest": "20190720054639"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/international-adoption-information-for-us-citizens.rl",
+   "earliest": "20190717223432"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-eviction-notice.rl",
+   "earliest": "20190818150416"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/hague-adoption-process-for-us-citizens-who-wish-to-adopt.rl",
+   "earliest": "20190715205339"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-internet-lawyer.rl",
+   "earliest": "20190721083732"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-search-the-library-of-congress-copyright-office-ps.rl",
+   "earliest": "20190522024242"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-transfer-medical-records.rl",
+   "earliest": "20200409164658"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/personal-tax.rl",
+   "earliest": "20190818154925"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/studying-abroad--visas-and-other-legal-requirements.rl",
+   "earliest": "20190818153839"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/trademark-filing-process-trademark-application-cost-ps.rl",
+   "earliest": "20190720093227"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employment-application-form-st.rl",
+   "earliest": "20190721030905"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-incorporated-ps.rl",
+   "earliest": "20190718151318"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-legal-clients-online.rl",
+   "earliest": "20190821134428"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choosing-legal-separation-or-divorce---common-situations.rl",
+   "earliest": "20190717130717"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-trademark-business-name-or-logo-ps.rl",
+   "earliest": "20190718111910"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-collect-on-a-small-claims-judgment-cb.rl",
+   "earliest": "20190818153314"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-tax-attorney.rl",
+   "earliest": "20190718160801"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-virginia.rl",
+   "earliest": "20190718234344"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/executor-responsibilities.rl",
+   "earliest": "20190718120407"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/small-business-work-environment.rl",
+   "earliest": "20190720051257"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-administration-guide.rl",
+   "earliest": "20190717123113"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-you-actually-need-a-lawyer.rl",
+   "earliest": "20190720101630"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/articles-of-dissolution.rl",
+   "earliest": "20190202162707"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-new-hampshire.rl",
+   "earliest": "20190717230855"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-iowa.rl",
+   "earliest": "20190720052805"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/benefits-of-keeping-records.rl",
+   "earliest": "20190720103205"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-types-of-patents-are-there-ps.rl",
+   "earliest": "20190721094220"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/promoting-diversity-in-the-workplace.rl",
+   "earliest": "20200920201229"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/corporate-meetings---unanimous-consent.rl",
+   "earliest": "20190720055641"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/west-virginia.rl",
+   "earliest": "20190717125249"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-minnesota.rl",
+   "earliest": "20190723012620"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-extend-your-us-visa.rl",
+   "earliest": "20190720092804"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-pennsylvania-corporation.rl",
+   "earliest": "20190718115836"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-evict-tenants-from-a-rental-property.rl",
+   "earliest": "20190822143024"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-alimony-attorney.rl",
+   "earliest": "20190721051248"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-fair-debt-collection-practices-act---important-debt-collection-rules.rl",
+   "earliest": "20190723045505"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-indiana-corporation.rl",
+   "earliest": "20190718234449"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-report-a-hipaa-violation.rl",
+   "earliest": "20190719013301"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-a-us-passport.rl",
+   "earliest": "20190819065928"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/refundable-first-time-homebuyer-credit.rl",
+   "earliest": "20190718105630"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-modify-child-support-payments.rl",
+   "earliest": "20190821140537"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-florida.rl",
+   "earliest": "20190719015600"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-requirements-for-forming-an-llc-ps.rl",
+   "earliest": "20190720061642"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/home-mortgage-loans.rl",
+   "earliest": "20190818150823"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bankruptcy-lawyers-can-help-a-case-through-the-system.rl",
+   "earliest": "20190722104020"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/leasing-and-maintenance-responsibilities.rl",
+   "earliest": "20190718151012"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/is-a-common-law-marriage-legal.rl",
+   "earliest": "20190717223232"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/affidavit-definition.rl",
+   "earliest": "20190818154909"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-an-llc-must-file-taxes-as-a-corporation-ps.rl",
+   "earliest": "20190722202556"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-home-inspection-.rl",
+   "earliest": "20190720092858"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/universal-variable-life-insurance.rl",
+   "earliest": "20190719013207"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-maine-corporation.rl",
+   "earliest": "20190719002119"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-and-how-to-update-your-power-of-attorney.rl",
+   "earliest": "20190719013633"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-copy-of-a-marriage-certificate.rl",
+   "earliest": "20190720092918"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/monthly-vs-fixed-term-rental-agreements-whats-the-difference-ps.rl",
+   "earliest": "20190721052017"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/online-legal-forms.rl",
+   "earliest": "20190717191930"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-startup.rl",
+   "earliest": "20190718153150"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-tenants-in-common-cb.rl",
+   "earliest": "20190722203302"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/education-tax-benefits.rl",
+   "earliest": "20190824153641"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-audits.rl",
+   "earliest": "20190715205840"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/hiring-employees-checklist.rl",
+   "earliest": "20190717225156"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/manage-your-credit-and-debt-after-divorce.rl",
+   "earliest": "20190821133650"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/is-my-idea-unique-ps.rl",
+   "earliest": "20190818154356"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-ohio.rl",
+   "earliest": "20190716040853"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/complying-with-the-equal-pay-act.rl",
+   "earliest": "20190822221129"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-kansas.rl",
+   "earliest": "20190721023228"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/after-divorce-by-state.rl",
+   "earliest": "20190719000455"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-copy-of-a-birth-certificate.rl",
+   "earliest": "20190721042314"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-government-grants-and-loans-after-a-disaster.rl",
+   "earliest": "20190721092211"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-trusts.rl",
+   "earliest": "20190718233019"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-an-effective-insurance-claim-after-hurricane-sandy.rl",
+   "earliest": "20190822230008"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-florida.rl",
+   "earliest": "20190718151953"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/15-important-legal-documents-that-protect-your-family-business-property.rl",
+   "earliest": "20190718151321"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-utah.rl",
+   "earliest": "20190718113743"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/jobs-governed-by-fair-labor-standards-act-flsa.rl",
+   "earliest": "20190719000317"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/recognizing-and-preventing-workplace-bullying-ps.rl",
+   "earliest": "20190722213250"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-fix-credit-report-mistakes.rl",
+   "earliest": "20190718233624"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-pennsylvania.rl",
+   "earliest": "20190717123120"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/501c3-donation-compliance-best-practices-for-receipts.rl",
+   "earliest": "20190818150426"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-make-repairs-hire-contractors-after-disaster.rl",
+   "earliest": "20190720052318"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-probate-process.rl",
+   "earliest": "20190718153010"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/asset-management-or-living-trust-poa-alternative.rl",
+   "earliest": "20190717223550"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-west-virginia-corporation.rl",
+   "earliest": "20190715202010"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-transfer-real-estate-ps.rl",
+   "earliest": "20190718152846"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-small-business-funding.rl",
+   "earliest": "20190821134949"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-retirement-investment.rl",
+   "earliest": "20190721091830"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/online-business-issues.rl",
+   "earliest": "20190818150539"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/free-legal-help.rl",
+   "earliest": "20190723061444"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-access-a-tenants-apartment-notice-to-enter.rl",
+   "earliest": "20190719013158"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/power-of-attorney-poa-faq.rl",
+   "earliest": "20190824155118"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/appoint-digital-executor-estate-plan.rl",
+   "earliest": "20190717230458"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deed-in-lieu-of-foreclosure-definition-ps.rl",
+   "earliest": "20190722212330"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-create-corporate-bylaws-cb.rl",
+   "earliest": "20190720103314"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-homeowners.rl",
+   "earliest": "20190821144925"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sublease-agreements-for-residential-properties.rl",
+   "earliest": "20190718112205"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/examples-of-when-you-form-a-sole-proprietorship-ps.rl",
+   "earliest": "20190716044256"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-patent-application-ps.rl",
+   "earliest": "20190718151009"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-business-licenses-and-permits-ps.rl",
+   "earliest": "20190824165103"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-virginia.rl",
+   "earliest": "20190717230321"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-an-rfp-document.rl",
+   "earliest": "20190722201242"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-a-real-estate-lawyer-can-help-you-buy-a-home.rl",
+   "earliest": "20190719123029"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/illegal-interview-questions-that-an-employer-should-never-ask-ps.rl",
+   "earliest": "20190720050517"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-draft-a-loan-agreement.rl",
+   "earliest": "20190819054131"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/common-types-of-beneficiaries-in-a-will.rl",
+   "earliest": "20190715181442"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-limited-partnership-ps.rl",
+   "earliest": "20190721023023"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-planning-and-other-legal-updates-after-marriage.rl",
+   "earliest": "20190718151137"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-probate.rl",
+   "earliest": "20190721051340"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-avoid-probate-cb.rl",
+   "earliest": "20190818154016"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/standard-tax-deductions.rl",
+   "earliest": "20190721090334"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/senior-care.rl",
+   "earliest": "20190821133717"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-employees.rl",
+   "earliest": "20190718153942"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-government-contract-attorney.rl",
+   "earliest": "20190720092811"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/understanding-trademarks.rl",
+   "earliest": "20190717232002"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/who-will-receive-my-organs.rl",
+   "earliest": "20190719002916"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/writing-a-last-will-and-testament.rl",
+   "earliest": "20191017082641"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-an-employer-identification-number-ein---ss4-online.rl",
+   "earliest": "20190717184054"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-securities-lawyer.rl",
+   "earliest": "20190720050331"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/attorney-fees.rl",
+   "earliest": "20190722094318"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-organs-should-i-donate.rl",
+   "earliest": "20190717223500"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/statute-of-frauds-faq-cb.rl",
+   "earliest": "20190721030343"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-personal-injury-lawyer.rl",
+   "earliest": "20190719014428"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/free-legal-help.rl",
+   "earliest": "20190202160201"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/collecting-your-judgment.rl",
+   "earliest": "20190818160052"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-provisional-patent-application-ps.rl",
+   "earliest": "20190718151131"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-create-an-attorney-website.rl",
+   "earliest": "20190818160220"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-dba-or-doing-business-as.rl",
+   "earliest": "20190818150653"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-business-insurance-cb.rl",
+   "earliest": "20190721094439"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-planning.rl",
+   "earliest": "20190717230536"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-you-get-sued-in-small-claims-court-cb.rl",
+   "earliest": "20190818161723"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/limitations-of-trademark-law-ps.rl",
+   "earliest": "20190717223818"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-maryland-corporation.rl",
+   "earliest": "20190721042759"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/durable-poa.rl",
+   "earliest": "20190722212414"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-cupcake-business-cb.rl",
+   "earliest": "20190818150552"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/non-profit-compliance-checklist.rl",
+   "earliest": "20190405224448"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/c-corp-taxation.rl",
+   "earliest": "20190721021735"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-non-immigrant-visas.rl",
+   "earliest": "20190720052623"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/finding-corporate-records.rl",
+   "earliest": "20190715200748"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-work-expenses.rl",
+   "earliest": "20190718154918"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-store-legal-documents-and-personal-records.rl",
+   "earliest": "20190824153914"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-new-hampshire.rl",
+   "earliest": "20190716040641"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/division-of-property-in-a-divorce.rl",
+   "earliest": "20190822223559"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/home-based-businesses.rl",
+   "earliest": "20190818153532"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-retaliation-in-the-workplace-ps.rl",
+   "earliest": "20190719000627"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-massachusetts.rl",
+   "earliest": "20190718105918"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/creative-works-not-protected-by-copyright.rl",
+   "earliest": "20190818150726"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/applying-for-an-adopted-childs-citizenship.rl",
+   "earliest": "20190718232917"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/protecting-trademarks-patents-and-service-marks.rl",
+   "earliest": "20190717185737"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-lawyers-bill-for-their-services.rl",
+   "earliest": "20190719130008"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-your-passport-is-lost-or-stolen.rl",
+   "earliest": "20190721042811"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-copyright-lawyer.rl",
+   "earliest": "20190720050535"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-south-carolina.rl",
+   "earliest": "20190818150740"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dissolve-llc-cb.rl",
+   "earliest": "20190721045045"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/life-insurance-trust-information.rl",
+   "earliest": "20190721050555"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-lawyer-marketing-online.rl",
+   "earliest": "20190717183334"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-york.rl",
+   "earliest": "20190720101634"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/small-business-taxes-101-ps.rl",
+   "earliest": "20190718160759"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-iowa-corporation.rl",
+   "earliest": "20190720050342"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-north-dakota.rl",
+   "earliest": "20190720050510"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-state-and-local-taxes.rl",
+   "earliest": "20190721042256"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/volunteer-liability.rl",
+   "earliest": "20190721094122"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-landscaping-business-cb.rl",
+   "earliest": "20190818160809"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-differences-in-last-will-and-testament-laws.rl",
+   "earliest": "20190718160734"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/copyright-law-limitations.rl",
+   "earliest": "20190719123426"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-look-for-when-choosing-a-retirement-home-for-a-senior.rl",
+   "earliest": "20190722094540"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-bequests-in-a-will.rl",
+   "earliest": "20190721042521"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-vermont.rl",
+   "earliest": "20190718154845"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-texas.rl",
+   "earliest": "20190715200526"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/signing-and-notorizing.rl",
+   "earliest": "20190818155548"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-montana.rl",
+   "earliest": "20190719023610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/understanding-the-difference-between-physical-and-legal-custody.rl",
+   "earliest": "20190717225021"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-washington.rl",
+   "earliest": "20190718160551"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contracts-101:-elements-of-a-contract.rl",
+   "earliest": "20190715205247"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/understanding-life-insurance-policies.rl",
+   "earliest": "20190715200741"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mandatory-arbitration-agreements-in-employment-contracts.rl",
+   "earliest": "20190718153510"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-you-suspect-financial-abuse-of-an-elderly-person.rl",
+   "earliest": "20190722095956"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/5-business-release-forms.rl",
+   "earliest": "20190822135607"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/real-estate.rl",
+   "earliest": "20190822220806"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-arkansas.rl",
+   "earliest": "20190720060341"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/calculating-child-support.rl",
+   "earliest": "20190721042338"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/life-insurance-and-taxes.rl",
+   "earliest": "20190718111841"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/estate-administration-guide.rl",
+   "earliest": "20200521152328"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/amending-a-will.rl",
+   "earliest": "20190719021115"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-much-does-property-title-insurance-cost-ps.rl",
+   "earliest": "20190715201431"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-immigration-lawyer.rl",
+   "earliest": "20190718153748"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/breach-of-contract-what-happens-now.rl",
+   "earliest": "20190819055417"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-breach-of-fiduciary-duty-and-how-to-avoid-it-cb.rl",
+   "earliest": "20190715201455"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/promissory-note-template.rl",
+   "earliest": "20190717192606"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/writing-a-letter-of-intent.rl",
+   "earliest": "20190715203359"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-incorporate-a-business.rl",
+   "earliest": "20190715205054"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-florida-for-a-minor.rl",
+   "earliest": "20190822234409"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/internet-policy-in-the-workplace.rl",
+   "earliest": "20190718152635"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dba-vs-llc-whats-right-for-your-business-cb.rl",
+   "earliest": "20190721042107"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-an-s-corp-ps.rl",
+   "earliest": "20190720050338"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-civil-rights-lawyer.rl",
+   "earliest": "20190718155107"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-federal-tax-id-ps.rl",
+   "earliest": "20190721052215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-utah.rl",
+   "earliest": "20190718160300"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-copy-of-a-death-certificate.rl",
+   "earliest": "20190720092955"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-police-report-for-id-theft.rl",
+   "earliest": "20190719165606"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-unbundling-is-it-right-for-you.rl",
+   "earliest": "20190717132208"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-incorporate-rental-properties-cb.rl",
+   "earliest": "20190719121103"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/licensing-agreement.rl",
+   "earliest": "20190718150917"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-probate-lawyer-or-a-will-attorney.rl",
+   "earliest": "20190717130851"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-an-event-planning-business-cb.rl",
+   "earliest": "20190818150849"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-financing.rl",
+   "earliest": "20190717183313"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/keep-your-will-up-to-date.rl",
+   "earliest": "20190721042140"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-the-cash-for-clunkers-car-rebate.rl",
+   "earliest": "20190722202645"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-work-for-hire-agreement-cb.rl",
+   "earliest": "20190715195918"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tenant-rights-101-what-tenants-need-to-know-ps.rl",
+   "earliest": "20190824164155"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/child-tax-credit.rl",
+   "earliest": "20190715203238"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/trademark-search-is-my-idea-unique-ps.rl",
+   "earliest": "20190719015700"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/nonprofit-organization-(npo).rl",
+   "earliest": "20190717131250"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-change-a-registered-agent-ps.rl",
+   "earliest": "20190718105845"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-states-are-at-will-employment-states-ps.rl",
+   "earliest": "20190824153906"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-if-you-cant-afford-a-lawyer.rl",
+   "earliest": "20190720093017"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-open-a-daycare-cb.rl",
+   "earliest": "20190818154806"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/residential-property.rl",
+   "earliest": "20190721042125"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-tennessee.rl",
+   "earliest": "20190821140713"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-get-a-provisional-or-non-provisional-patent-ps.rl",
+   "earliest": "20190717222049"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-divorce-affects-your-iras-and-employer-provided-retirement-plans.rl",
+   "earliest": "20190719013431"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-incorporate-my-business.rl",
+   "earliest": "20190720094857"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/divorce-children.rl",
+   "earliest": "20190822140449"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/putting-pen-to-paper:-how-to-write-a-business-contract.rl",
+   "earliest": "20190822132323"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-tax-liability-ps.rl",
+   "earliest": "20190717231330"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-free-legal-aid-in-your-state.rl",
+   "earliest": "20190723004147"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-mpep-ps.rl",
+   "earliest": "20190721022810"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/asking-your-spouse-to-be-for-a-prenup.rl",
+   "earliest": "20190821144531"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-new-york-after-divorce.rl",
+   "earliest": "20190715181123"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-release-of-lien-cb.rl",
+   "earliest": "20190721091113"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-search-for-an-existing-patent.rl",
+   "earliest": "20190819053920"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-register-copyrights-ps.rl",
+   "earliest": "20190715205616"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-your-lawyer-should-communicate-to-you.rl",
+   "earliest": "20190721045515"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-creditors-rights-attorney.rl",
+   "earliest": "20190717230800"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/understanding-the-difference-between-physical-and-legal-custody.rl",
+   "earliest": "20200524220841"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-nevada.rl",
+   "earliest": "20190718150935"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/using-a-codicil-to-change-a-will.rl",
+   "earliest": "20190720054716"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/maintaining-corporate-records.rl",
+   "earliest": "20190715203409"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-alimony.rl",
+   "earliest": "20190718150902"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-georgia-corporation.rl",
+   "earliest": "20190721044914"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/secured-vs-unsecured-business-loans-cb.rl",
+   "earliest": "20190722202610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-illinois-corporation.rl",
+   "earliest": "20190718233109"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-an-extension-when-filing-business-income-tax-returns.rl",
+   "earliest": "20190822132136"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/disinheriting-a-spouse.rl",
+   "earliest": "20190717225612"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-and-tax-tips-for-hiring-a-nanny.rl",
+   "earliest": "20190715200659"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/steps-for-collecting-late-rent-before-issuing-an-eviction-notice.rl",
+   "earliest": "20190721084853"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-processing-times-for-business-entity-filings.rl",
+   "earliest": "20190719121256"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/patents-101.rl",
+   "earliest": "20190718234030"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-gay-rights-ps.rl",
+   "earliest": "20190715204409"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-oregon.rl",
+   "earliest": "20190717131953"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-amend-a-contract.rl",
+   "earliest": "20190718105711"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-are-trade-secrets.rl",
+   "earliest": "20200507214249"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-divorce-lawyer.rl",
+   "earliest": "20190720100851"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-criminal-lawyer.rl",
+   "earliest": "20190720103143"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/being-accussed-of-a-crime-while-overseas.rl",
+   "earliest": "20190720055845"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-to-use-a-hippa-authorization-form.rl",
+   "earliest": "20190718152230"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-property-deeds.rl",
+   "earliest": "20190715201410"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/common-questions-about-running-an-llc.rl",
+   "earliest": "20190718160046"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-c-corp-ps.rl",
+   "earliest": "20190717224508"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-termination-letter.rl",
+   "earliest": "20190819054143"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/blank-invoice-st.rl",
+   "earliest": "20190720102616"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-refugee-or-political-asylum-status-in-the-us.rl",
+   "earliest": "20190719020502"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/minimum-legal-car-insurance-requirements-by-state.rl",
+   "earliest": "20190720055212"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-cant-you-patent-an-idea-ps.rl",
+   "earliest": "20190719013807"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-be-a-good-landlord-ps.rl",
+   "earliest": "20190430080924"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/disaster-resources.rl",
+   "earliest": "20190818152832"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-michigan.rl",
+   "earliest": "20190719164807"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/living-will-vs-last-will-and-testament.rl",
+   "earliest": "20190718233311"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-c-corporation-ps.rl",
+   "earliest": "20190718155733"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dmv-information.rl",
+   "earliest": "20190818155046"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/disability-discrimination-at-work-ps.rl",
+   "earliest": "20190721093342"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-requirements-for-living-wills.rl",
+   "earliest": "20190718155149"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marital-status-affects-health-insurance-and-hospital-visitation-rights.rl",
+   "earliest": "20190715210804"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/nda-101:-what-is-a-non-disclosure-agreement.rl",
+   "earliest": "20190202152412"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/international-adoption.rl",
+   "earliest": "20190818151522"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-you-should-write-a-will.rl",
+   "earliest": "20190720093011"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-unconscionability-cb.rl",
+   "earliest": "20190718233106"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/corporate-meeting-minutes-requirements-by-state.rl",
+   "earliest": "20190719121758"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/which-states-allow-deeds-of-trust.rl",
+   "earliest": "20190524142231"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/can-i-patent-a-name-or-logo-ps.rl",
+   "earliest": "20190719013518"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/small-claims-and-litigation.rl",
+   "earliest": "20190821143518"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/uniform-trade-secrets-act-ps.rl",
+   "earliest": "20190722100221"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-business-tax-resources.rl",
+   "earliest": "20190721021738"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/buy-sell-agreement-basics.rl",
+   "earliest": "20190718154026"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-healthcare-attorney.rl",
+   "earliest": "20190819054247"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-property-management-cb.rl",
+   "earliest": "20190717183425"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-should-be-included-in-a-consulting-agreement.rl",
+   "earliest": "20190718151148"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/articles-of-incorporation-guidelines.rl",
+   "earliest": "20190720100331"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/joint-living-trusts-help.rl",
+   "earliest": "20190718154402"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/federal-and-state-lemon-laws-for-new-and-used-cars.rl",
+   "earliest": "20190715204309"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/domestic-partnership-vs-marriage-whats-the-difference-cb.rl",
+   "earliest": "20190720050630"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-you-get-a-bounced-check.rl",
+   "earliest": "20190822220943"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/update-your-will-and-estate-plan-after-divorce.rl",
+   "earliest": "20190717223115"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-contract-for-deed-ps.rl",
+   "earliest": "20190717133354"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/non-profit-fundraising-in-other-states-how-does-it-work.rl",
+   "earliest": "20190819064552"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-the-types-of-divorce-cb.rl",
+   "earliest": "20190718152705"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-divorce.rl",
+   "earliest": "20190718111324"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/retirement-savings-contribution-credit.rl",
+   "earliest": "20190722204234"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-mississippi-corporation.rl",
+   "earliest": "20190718111923"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-business.rl",
+   "earliest": "20190722104239"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-lanham-act-trademark-ps.rl",
+   "earliest": "20190718233456"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-arizona.rl",
+   "earliest": "20190721085053"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-indiana.rl",
+   "earliest": "20190721050139"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-patent-or-trademark-alternatives-to-registering-ip-ps.rl",
+   "earliest": "20190716042950"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/unilateral-vs-mutual-nondisclosure-agreements.rl",
+   "earliest": "20190718235812"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-general-practice-attorney.rl",
+   "earliest": "20190721093229"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/credit-card-help-abroad.rl",
+   "earliest": "20190720095455"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-age-discrimination-in-the-workplace-ps.rl",
+   "earliest": "20190715203925"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/incoming-adoption.rl",
+   "earliest": "20190722210145"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-maine.rl",
+   "earliest": "20190718232842"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/california-llc-ccorp.rl",
+   "earliest": "20190719121300"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/incorporation-next-steps.rl",
+   "earliest": "20190718155419"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-an-llc-company-ps.rl",
+   "earliest": "20190719023011"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/north-dakota.rl",
+   "earliest": "20190716042037"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/health-insurance.rl",
+   "earliest": "20190821150928"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-select-a-business-location.rl",
+   "earliest": "20190720052926"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-iowa.rl",
+   "earliest": "20190718233248"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-discovery-rule.rl",
+   "earliest": "20190822132356"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-expect-when-working-with-a-lawyer.rl",
+   "earliest": "20190721083845"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-set-up-direct-deposits.rl",
+   "earliest": "20190717225709"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-annual-reports-ps.rl",
+   "earliest": "20190721043913"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-florida-corporation.rl",
+   "earliest": "20190718235248"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/electronic-signatures-are-legally-binding.rl",
+   "earliest": "20190720095231"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-operating-agreement-requirements-by-state.rl",
+   "earliest": "20190719162134"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-estate.rl",
+   "earliest": "20190717191155"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-retirement-plans--tax-advantages.rl",
+   "earliest": "20190818153100"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/claiming-the-mortgage-interest-tax-deduction.rl",
+   "earliest": "20190822142421"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-create-llc-operating-agreement.rl",
+   "earliest": "20190720102624"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dealing-with-harassment-in-the-workplace.rl",
+   "earliest": "20190718233707"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-does-small-claims-court-work-cb.rl",
+   "earliest": "20190818160752"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/plain-language-legal-dictionary.rl",
+   "earliest": "20190822225850"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-buy-or-rent-office-space-for-your-business.rl",
+   "earliest": "20190821133445"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-tennessee.rl",
+   "earliest": "20190718154835"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/apartment-renting-101.rl",
+   "earliest": "20190428161019"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/personal-sales.rl",
+   "earliest": "20190818160743"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/travel-emergencies.rl",
+   "earliest": "20190818154950"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-freedom-of-information-act-request-cb.rl",
+   "earliest": "20190818152628"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-letter-of-testamentary.rl",
+   "earliest": "20190719165215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/living-trusts.rl",
+   "earliest": "20190717183053"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/facts-on-the-small-business-healthcare-tax-credit-ps.rl",
+   "earliest": "20190719014805"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/navigating-the-deportation-process.rl",
+   "earliest": "20190718160836"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-bankruptcy-attorney.rl",
+   "earliest": "20190822132300"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-green-card.rl",
+   "earliest": "20190718233258"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-immigration-forms.rl",
+   "earliest": "20190718150939"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-do-you-need-model-release-form-cb.rl",
+   "earliest": "20190721051542"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-find-a-divorce-lawyer-for-your-situation.rl",
+   "earliest": "20190818154647"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-choose-the-right-lawyer-for-you.rl",
+   "earliest": "20190717123134"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/15-most-popular-documents.rl",
+   "earliest": "20190721023159"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-think-about-before-you-write-your-will.rl",
+   "earliest": "20190824154749"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/calculating-payroll-taxes-ps.rl",
+   "earliest": "20190715203603"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-west-virginia.rl",
+   "earliest": "20190715204155"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/drivers-license-renewal.rl",
+   "earliest": "20190721083701"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/important-details-to-include-in-consulting-agreements.rl",
+   "earliest": "20190718111816"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-new-york.rl",
+   "earliest": "20190821133525"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-kansas-corporation.rl",
+   "earliest": "20190718151104"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-manage-your-credit-and-debt-after-marriage.rl",
+   "earliest": "20190715205127"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-copyright-protects-your-intellectual-property.rl",
+   "earliest": "20190715210640"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sole-proprietorship-advantages-and-disadvantages-ps.rl",
+   "earliest": "20190717133348"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/aumf-2001.rl",
+   "earliest": "20190915093136"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-child-dependents.rl",
+   "earliest": "20190722203259"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-long-does-a-copyright-last-ps.rl",
+   "earliest": "20190722202709"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-minnesota.rl",
+   "earliest": "20190718235558"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-an-uncontested-or-no-fault-divorce.rl",
+   "earliest": "20190718105949"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/domestic-partnerships.rl",
+   "earliest": "20190717191913"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/civil-union-vs-marriage-whats-the-difference-cb.rl",
+   "earliest": "20200420013330"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/collecting-child-support.rl",
+   "earliest": "20190717125517"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-administration.rl",
+   "earliest": "20190818150744"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-rhode-island.rl",
+   "earliest": "20190715203758"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-wisconsin.rl",
+   "earliest": "20190824154631"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/personal-loans.rl",
+   "earliest": "20190722094556"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-texas-for-a-minor.rl",
+   "earliest": "20190718154628"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choosing-beneficiaries-in-a-will.rl",
+   "earliest": "20190720055717"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/3-tax-advantages-creating-llc.rl",
+   "earliest": "20190719022210"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-new-jersey.rl",
+   "earliest": "20190718150906"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/information-about-adopting-a-minor-relative-living-overseas.rl",
+   "earliest": "20190719002831"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-landlord-attorney.rl",
+   "earliest": "20190720102400"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/differences-between-legal-separation-and-divorce.rl",
+   "earliest": "20190719000113"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-car-insurance-claim-after-a-car-accident-.rl",
+   "earliest": "20190720061213"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-you-need-a-dba-if-youre-incorporated-cb.rl",
+   "earliest": "20190715200606"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-the-ucc-cb.rl",
+   "earliest": "20190719001559"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-industrial-design-rights-and-design-patents-ps.rl",
+   "earliest": "20190818161344"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/guidelines-for-outgoing-adoptions-from-the-us.rl",
+   "earliest": "20190715202346"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-pro-se-legal-representation.rl",
+   "earliest": "20190721083929"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-texas-after-getting-married.rl",
+   "earliest": "20190721024837"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-malpractice-lawyer.rl",
+   "earliest": "20190717223428"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-conservatorship.rl",
+   "earliest": "20210513134101"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-kentucky.rl",
+   "earliest": "20190721083808"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-make-sure-your-get-your-security-deposit-refunded-cb.rl",
+   "earliest": "20190722210100"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/paying-on-time---five-ways-to-encourage-customers-to-pay-you-promptly.rl",
+   "earliest": "20190819054449"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-tenant-lawyer.rl",
+   "earliest": "20190719162312"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-amend-a-living-trust.rl",
+   "earliest": "20190715200522"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/aumf-2001.rl",
+   "earliest": "20190715183909"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/low-cost-free-legal-aid.rl",
+   "earliest": "20190819054213"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/steps-after-an-adopted-child-arrives-in-the-us.rl",
+   "earliest": "20190718154303"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-mortgage-insurance-premiums.rl",
+   "earliest": "20190718114830"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/itemized-tax-deductions.rl",
+   "earliest": "20190722202732"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-bylaws.rl",
+   "earliest": "20190818151224"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-tips-for-getting-married.rl",
+   "earliest": "20190721042352"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choosing-an-agent-for-your-living-will.rl",
+   "earliest": "20190721030711"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/getting-married-checklist.rl",
+   "earliest": "20190715210749"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/divorce-and-head-of-household-status-on-your-tax-return.rl",
+   "earliest": "20190717130107"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-articles-of-incorporation-for-an-llc-ps.rl",
+   "earliest": "20190720060147"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-take-care-of-your-small-business-leaders.rl",
+   "earliest": "20190719125447"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/non-profit-compliance-checklist.rl",
+   "earliest": "20190406103700"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-taxes.rl",
+   "earliest": "20190818150747"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-make-a-complaint-to-landlord-for-rental-property.rl",
+   "earliest": "20190719001204"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/civil-union-vs-marriage-whats-the-difference-cb.rl",
+   "earliest": "20190819063816"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-create-social-media-policy-cb.rl",
+   "earliest": "20190721044643"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/amending-a-trust.rl",
+   "earliest": "20190718151144"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/protecting-your-brand-with-a-trademark.rl",
+   "earliest": "20190716040705"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-connecticut-corporation.rl",
+   "earliest": "20190721044840"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-contract-attorney.rl",
+   "earliest": "20190715202750"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-vermont-corporation.rl",
+   "earliest": "20190715200430"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-help-your-family-if-you-die-or-become-incompetent.rl",
+   "earliest": "20190717223425"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/avoiding-probate.rl",
+   "earliest": "20190719002050"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/copyright-laws-you-need-to-know-to-avoid-infringement-ps.rl",
+   "earliest": "20190720100256"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-send-a-copyright-infringement-notice-ps.rl",
+   "earliest": "20190717131541"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-suit-in-small-claims-court.rl",
+   "earliest": "20190818151635"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/evicting-a-tenant-in-california.rl",
+   "earliest": "20190721022318"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-california-corporation.rl",
+   "earliest": "20190718152935"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-contest-a-parking-ticket.rl",
+   "earliest": "20190721041933"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-living-will.rl",
+   "earliest": "20190719121032"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/providing-for-children-and-grandchildren-in-your-will.rl",
+   "earliest": "20190718153639"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/rescinding-a-car-purchase-via-lemon-laws.rl",
+   "earliest": "20190715204232"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-lawyer-for-native-american-law.rl",
+   "earliest": "20190721083720"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-photography-business-cb.rl",
+   "earliest": "20190818150700"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/trust-administration.rl",
+   "earliest": "20190715195341"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-planning-trusts-faq-cb.rl",
+   "earliest": "20190721083909"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-long-to-keep-corporate-records.rl",
+   "earliest": "20190721030944"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/constructive-discharge-potential-legal-ramifications-for-employers-ps.rl",
+   "earliest": "20190719013452"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-idaho.rl",
+   "earliest": "20190717223202"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-intellectual-property-ip-definition-ps.rl",
+   "earliest": "20190818154608"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/earned-income-credit.rl",
+   "earliest": "20190721031047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choosing-the-right-bankruptcy-filing.rl",
+   "earliest": "20190723005903"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-does-a-non-compete-clause-work-cb.rl",
+   "earliest": "20190719130626"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/about-trust-administration.rl",
+   "earliest": "20190722211551"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-leave-of-absence-form-works-cb.rl",
+   "earliest": "20190721043931"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/using-notice-of-copyright.rl",
+   "earliest": "20190821150304"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/meeting-minutes-and-the-protection-of-assets.rl",
+   "earliest": "20190721042041"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/claiming-a-decedents-tax-refund.rl",
+   "earliest": "20190718233103"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-hire-a-subcontractor-cb.rl",
+   "earliest": "20190717223418"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/limited-liability-company-(llc).rl",
+   "earliest": "20190719122419"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/stocks-for-employees-incentive-stock-options-cb.rl",
+   "earliest": "20190721042334"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-constructive-eviction-ps.rl",
+   "earliest": "20190722204523"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/is-a-living-trust-right-for-you.rl",
+   "earliest": "20190720052952"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marital-status-affects-estate-planning-.rl",
+   "earliest": "20190717123123"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-information-for-us-expatriates-living-abroad.rl",
+   "earliest": "20190718151121"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-montana.rl",
+   "earliest": "20190720060947"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/invoice-form-st.rl",
+   "earliest": "20190720055035"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/more-ways-to-get-a-green-card.rl",
+   "earliest": "20190715200814"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/release-of-liability-template.rl",
+   "earliest": "20190822222701"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-administrative-lawyer.rl",
+   "earliest": "20190720093021"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/amending-a-poa.rl",
+   "earliest": "20190719013245"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marriage-changes-your-taxes.rl",
+   "earliest": "20190822132155"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-new-hampshire-corporation.rl",
+   "earliest": "20190721021725"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/calculate-federal-estate-taxes.rl",
+   "earliest": "20190717230103"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/law-practice-management.rl",
+   "earliest": "20190822223553"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-immigration.rl",
+   "earliest": "20190722202549"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-alaska.rl",
+   "earliest": "20190720093857"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employee-termination.rl",
+   "earliest": "20190719021247"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-a-property-title-search-for-free-ps.rl",
+   "earliest": "20190717192619"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-idaho.rl",
+   "earliest": "20190720053628"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-legal-description-of-property-cb.rl",
+   "earliest": "20190819063856"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/irs-audit-triggers-ps.rl",
+   "earliest": "20190720055339"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-creative-commons-license-ps.rl",
+   "earliest": "20190719164006"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/vesting-deed-definition-ps.rl",
+   "earliest": "20190819060958"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-non-profit-lawyer.rl",
+   "earliest": "20190719013428"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-elder-abuse.rl",
+   "earliest": "20190723044921"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/intellectual-property-examples-types-ps.rl",
+   "earliest": "20190717183403"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-warranty-deed-vs-a-quit-claim-deed-ps.rl",
+   "earliest": "20190717225814"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/protecting-your-confidential-business-information.rl",
+   "earliest": "20190718151223"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-invoice-st.rl",
+   "earliest": "20190719163030"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/401k-tax-benefits.rl",
+   "earliest": "20190721051454"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/accidents-and-collisions.rl",
+   "earliest": "20190818150642"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-new-york.rl",
+   "earliest": "20190719023215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-north-carolina.rl",
+   "earliest": "20190718153145"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employee-applications-and-the-hiring-process.rl",
+   "earliest": "20190717125208"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/residential-lease.rl",
+   "earliest": "20190721045752"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sell-a-car-part-1---preparing-to-sell-your-car.rl",
+   "earliest": "20190721041917"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-collect-personal-debt-from-a-friend-family-member-or-a-business.rl",
+   "earliest": "20190125155428"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/small-business-tax-deductions-ps.rl",
+   "earliest": "20190722094533"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-transfer-on-death-deed.rl",
+   "earliest": "20190720095954"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/executor-checklist.rl",
+   "earliest": "20190722203013"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-does-arbitration-work-cb.rl",
+   "earliest": "20190818161852"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-arizona-corporation.rl",
+   "earliest": "20190717224122"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/advantages-of-incorporation-for-landlords.rl",
+   "earliest": "20190818151342"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choosing-a-business-structure.rl",
+   "earliest": "20190720055825"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contract-types-cb.rl",
+   "earliest": "20190721042512"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-an-easement-an-easement-definition-cb.rl",
+   "earliest": "20190715200533"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-state-id-card-from-the-dmv.rl",
+   "earliest": "20190718155804"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/term-life-insurance.rl",
+   "earliest": "20190715184055"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-contracts.rl",
+   "earliest": "20190717223131"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choose-your-state.rl",
+   "earliest": "20190824153858"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/copyright-and-fair-use-guidelines-for-teachers-and-schools-ps.rl",
+   "earliest": "20190720092945"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-general.rl",
+   "earliest": "20190818150907"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-real-estate-attorney.rl",
+   "earliest": "20190722211901"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/above-the-line-tax-deductions.rl",
+   "earliest": "20190715204756"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-power-of-attorney.rl",
+   "earliest": "20190822132327"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-workers-compensation.rl",
+   "earliest": "20190720095827"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/signing-and-distributing-your-living-will.rl",
+   "earliest": "20190721051806"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/at-will-employment-what-it-means-ps.rl",
+   "earliest": "20190720100136"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-patent-attorney.rl",
+   "earliest": "20190721083926"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-a-living-trust-helps-in-cases-of-incompetence.rl",
+   "earliest": "20190721021704"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/request-for-proposal-template-st.rl",
+   "earliest": "20190720050524"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-is-a-utility-patent-ps.rl",
+   "earliest": "20200325213613"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-identity-theft-.rl",
+   "earliest": "20190718151305"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contested-vs-uncontested-divorce.rl",
+   "earliest": "20190717225949"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/patent-process-how-much-does-a-patent-cost-ps.rl",
+   "earliest": "20190721083648"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/visas-for-us-citizens-who-wish-to-travel-or-work-overseas.rl",
+   "earliest": "20190822134005"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/filing-charges-of-job-discrimination.rl",
+   "earliest": "20190717223928"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/important-facts-about-non-disclosure-agreements-.rl",
+   "earliest": "20190719015502"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-embassies-can-help-you.rl",
+   "earliest": "20190720093616"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-find-a-lawyer.rl",
+   "earliest": "20190718160358"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-private-placement-private-stock-offering.rl",
+   "earliest": "20190718155744"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/certain-asset-distribution-is-unaffected-by-a-will.rl",
+   "earliest": "20190719120947"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-employer-tax-id-number-ps.rl",
+   "earliest": "20190822134136"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-tax-guide-ps.rl",
+   "earliest": "20190719014745"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/whats-real-estate-title-insurance-ps.rl",
+   "earliest": "20190720093730"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/home-office-tax-deduction.rl",
+   "earliest": "20190718234632"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-debt-collection-attorney.rl",
+   "earliest": "20190819053900"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-report-employee-wages-with-a-w-2-form.rl",
+   "earliest": "20190822135736"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/revocable-trusts-vs-irrevocable-trusts.rl",
+   "earliest": "20190721042231"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/reporting-osha-violations.rl",
+   "earliest": "20190718233022"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-tax-information.rl",
+   "earliest": "20190721021447"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-business-entities.rl",
+   "earliest": "20190721043326"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/medical-malpractice.rl",
+   "earliest": "20190717183109"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mortgage-vs-deed-of-trust.rl",
+   "earliest": "20190821133810"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-provisional-patent-application.rl",
+   "earliest": "20190720050503"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-federal-ein-cb.rl",
+   "earliest": "20190720100212"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/determining-your-withholding.rl",
+   "earliest": "20190721045505"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/hiring-and-employing-strategies-for-startups.rl",
+   "earliest": "20190718234636"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/reporting-an-outgoing-adoption-from-the-us.rl",
+   "earliest": "20190718151548"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-a-credit-check-on-a-prospective-customer.rl",
+   "earliest": "20190717130003"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-your-company-values.rl",
+   "earliest": "20190721085128"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-car-accident-report-with-the-dmv.rl",
+   "earliest": "20190718233445"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-a-patent-search.rl",
+   "earliest": "20190821134719"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-hawaii.rl",
+   "earliest": "20190722205142"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-name-a-guardian-for-your-children-in-a-will.rl",
+   "earliest": "20190717231152"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mutual-funds-stocks-and-bonds.rl",
+   "earliest": "20190721042118"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-business-taxes.rl",
+   "earliest": "20190720102807"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/benefits-of-a-limited-liability-company.rl",
+   "earliest": "20190719121226"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-dissolve-a-corporation-cb.rl",
+   "earliest": "20190722202406"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/frequently-asked-questions-about-malpractice.rl",
+   "earliest": "20190718232821"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/alabama-uncontested-divorce.rl",
+   "earliest": "20190721030700"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/fighting-state-or-international-extradition.rl",
+   "earliest": "20190719023401"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-mississippi.rl",
+   "earliest": "20190721024413"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/planning-for-estate-taxes-with-a-life-insurance-trust.rl",
+   "earliest": "20190718160653"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mortgage-loan-modification-guide.rl",
+   "earliest": "20190719123854"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-georgia.rl",
+   "earliest": "20190716040525"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-to-start-a-tax-year-for-a-small-business.rl",
+   "earliest": "20190821133335"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/updating-your-power-of-attorney-for-recent-state-law-changes-.rl",
+   "earliest": "20190715204046"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-title-report-ps.rl",
+   "earliest": "20190717223349"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/month-to-month-residential-leases-vs-annual-leases.rl",
+   "earliest": "20190715200733"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-confidentiality-agreement.rl",
+   "earliest": "20190717192203"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/divorce-and-legal-separation.rl",
+   "earliest": "20190723052409"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-a-month-to-month-rental-agreement-works-cb.rl",
+   "earliest": "20190822133035"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/renters-insurance-and-your-lease-agreement.rl",
+   "earliest": "20190715205353"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/where-to-incorporate-your-business.rl",
+   "earliest": "20190718110453"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-illinois-for-a-minor.rl",
+   "earliest": "20190718153059"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-elder-law-attorney.rl",
+   "earliest": "20190720051044"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/duties-of-a-health-care-proxy-or-agent.rl",
+   "earliest": "20190722202620"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/organize-and-conduct-corporate-meetings.rl",
+   "earliest": "20190717230309"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/attorney-client-relationship.rl",
+   "earliest": "20190818161403"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/americans-with-disabilities-act-summary-ps.rl",
+   "earliest": "20190715202622"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-does-llc-mean-ps.rl",
+   "earliest": "20190721084539"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-hawaii.rl",
+   "earliest": "20190719014234"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/intellectual-property-patents.rl",
+   "earliest": "20190720060051"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/workplace-harassment-laws-and-why-they-matter-ps.rl",
+   "earliest": "20190718105938"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-patent-my-invention-ps.rl",
+   "earliest": "20190720061804"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/digital-millennium-copyright-act-(dmca)-101.rl",
+   "earliest": "20190717223530"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-product-liability-lawyer.rl",
+   "earliest": "20190720092907"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-connecticut.rl",
+   "earliest": "20190717231127"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-affidavit.rl",
+   "earliest": "20190104002449"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/organ-donation.rl",
+   "earliest": "20190715180823"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-alternative-dispute-resolution.rl",
+   "earliest": "20190719162351"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-file-for-bankruptcy-considerations-ps.rl",
+   "earliest": "20190822231157"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-employment-contract.rl",
+   "earliest": "20190818155621"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-lawsuits-chances-of-getting-sued-ps.rl",
+   "earliest": "20190203085942"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sell-patent-idea-ps.rl",
+   "earliest": "20190715210108"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-texas.rl",
+   "earliest": "20190720055039"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bankruptcy-filing-articles.rl",
+   "earliest": "20190721021511"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/finding-and-hiring-a-lawyer.rl",
+   "earliest": "20190822222528"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/save-money-when-moving-to-a-new-house-or-apartment.rl",
+   "earliest": "20190719015321"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/license-agreement-terms-and-conditions.rl",
+   "earliest": "20190717132910"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/s-corp-taxation.rl",
+   "earliest": "20190719121447"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/non-disclosure-agreement-template.rl",
+   "earliest": "20190818155130"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/apartment-maintenance-responsibilities.rl",
+   "earliest": "20190720054838"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-georgia.rl",
+   "earliest": "20190715210424"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/apartment-renting-101.rl",
+   "earliest": "20190312034340"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/registering-your-intellectual-property-for-copyright-protection.rl",
+   "earliest": "20190718233230"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/irrevocable-trusts-what-does-irrevocable-mean-cb.rl",
+   "earliest": "20190616223144"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-delaware.rl",
+   "earliest": "20190720053041"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/renting-and-leasing.rl",
+   "earliest": "20190818150820"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marital-status-affects-student-aid-eligibility.rl",
+   "earliest": "20190717222054"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-allow-my-living-will-agent-to-consent-to-an-autopsy.rl",
+   "earliest": "20190721083804"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-write-a-legal-description-of-property-cb.rl",
+   "earliest": "20200112152745"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-north-carolina-corporation.rl",
+   "earliest": "20190721022851"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/patent-law-101-ps.rl",
+   "earliest": "20190718234814"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-bankruptcy.rl",
+   "earliest": "20190821141851"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/organ-donations-and-the-uniform-anatomical-gift-act.rl",
+   "earliest": "20190722202810"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-llcs-need-a-board-of-directors-cb.rl",
+   "earliest": "20190718151047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-check-the-status-of-a-corporation.rl",
+   "earliest": "20190719013347"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-medical-malpractice-attorney.rl",
+   "earliest": "20190715180836"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/to-sign-or-not-to-sign:-what-to-do-if-asked-to-sign-a-nda.rl",
+   "earliest": "20190714110120"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sell-a-car-part-2---completing-the-sale.rl",
+   "earliest": "20190718233442"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/uncontested-divorce.rl",
+   "earliest": "20190718151019"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/self-employment-tax-social-security-medicare-ps.rl",
+   "earliest": "20190722211519"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/health-insurance-for-travelers.rl",
+   "earliest": "20190721041948"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-are-s-corporations-taxed-ps.rl",
+   "earliest": "20190722211026"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-alabama.rl",
+   "earliest": "20190717223041"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bill-of-sale.rl",
+   "earliest": "20190721031008"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/hostile-work-environment-definition-and-examples-ps.rl",
+   "earliest": "20190715200703"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employment-agreement-forms.rl",
+   "earliest": "20190717230421"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/signature-law-cb.rl",
+   "earliest": "20190721042157"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/difference-between-a-general-warranty-deed-and-a-special-warranty-deed.rl",
+   "earliest": "20190717183239"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-property-insurance-ps.rl",
+   "earliest": "20190718234325"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/income-changes.rl",
+   "earliest": "20190719013425"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/power-of-attorney.rl",
+   "earliest": "20190818154355"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/last-will-and-testament.rl",
+   "earliest": "20190717193117"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-washington-dc.rl",
+   "earliest": "20190719002241"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/board-of-director-positions-how-to-select-a-board-of-directors-cb.rl",
+   "earliest": "20190719125148"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/photography-contract-template.rl",
+   "earliest": "20190818161608"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-pay-for-funeral-and-memorial-service-costs.rl",
+   "earliest": "20190718160652"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-you-have-grounds-for-a-personal-injury-lawsuit-ps.rl",
+   "earliest": "20190822140246"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-long-to-keep-records-for-business-taxes.rl",
+   "earliest": "20190805134653"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-idaho-corporation.rl",
+   "earliest": "20190721021535"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-personal-property-attorney.rl",
+   "earliest": "20190720053043"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-texas-corporation.rl",
+   "earliest": "20190718155734"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/workplace-discrimination.rl",
+   "earliest": "20190722212522"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-get-a-registered-agent-in-delaware-for-my-llc-ps.rl",
+   "earliest": "20190718105645"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-california.rl",
+   "earliest": "20190822233655"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-rent-out-your-house-ps.rl",
+   "earliest": "20190719165150"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/avoiding-probate-wills-vs-living-trusts.rl",
+   "earliest": "20190718151315"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-patent-pending.rl",
+   "earliest": "20190721090607"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/when-to-use-a-hippa-authorization-form.rl",
+   "earliest": "20200406235223"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-employment-attorney.rl",
+   "earliest": "20190718233036"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-pennsylvania.rl",
+   "earliest": "20190718234541"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-power-of-attorney-for-a-sick-parent-cb.rl",
+   "earliest": "20190715203452"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/public-domain.rl",
+   "earliest": "20190818160438"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/driving,-traffic,-and-automotive.rl",
+   "earliest": "20190824160842"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-receipt-the-basics-cb.rl",
+   "earliest": "20190713032448"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/working-with-partners-at-your-small-business.rl",
+   "earliest": "20190721085320"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/pregnancy-discrimination-at-work-what-employers-should-know-ps.rl",
+   "earliest": "20190720055957"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/rocket-lawyer-has-a-new-look.rl",
+   "earliest": "20190717223248"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/which-state-is-right-for-you-where-to-incorporate-your-business.rl",
+   "earliest": "20190719021735"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-car-tax-deductions-and-credits.rl",
+   "earliest": "20190715200436"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/medical-records.rl",
+   "earliest": "20200409180801"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/inspect-for-safe-online-shopping.rl",
+   "earliest": "20190718151153"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/selling-a-home.rl",
+   "earliest": "20190715201723"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-articles-of-incorporation-ps.rl",
+   "earliest": "20190717132924"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-nebraska.rl",
+   "earliest": "20190722211627"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-kansas.rl",
+   "earliest": "20190717122902"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-store-your-important-paperwork-and-legal-documents.rl",
+   "earliest": "20190721041920"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-do-an-easy-home-move-with-a-house-moving-checklist-.rl",
+   "earliest": "20190722094201"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/term-vs-permanent-life-insurance.rl",
+   "earliest": "20190718153459"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/attorney-contribution.rl",
+   "earliest": "20190110215259"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/id-theft-scams.rl",
+   "earliest": "20190716044846"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bankruptcy-protection-from-creditors.rl",
+   "earliest": "20190719013152"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-dui.rl",
+   "earliest": "20190718152529"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/protecting-your-security-deposit.rl",
+   "earliest": "20190715201819"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-estate-planning-documents.rl",
+   "earliest": "20190720095956"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-executor-checklist.rl",
+   "earliest": "20190720053733"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/revoking-a-power-of-attorney-poa.rl",
+   "earliest": "20190822141850"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-contractors-and-subcontractors-cb.rl",
+   "earliest": "20190720100447"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/requirements-for-a-valid-prenuptial-agreement.rl",
+   "earliest": "20190821133612"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-illinois.rl",
+   "earliest": "20190720102623"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/military-financial-allotments.rl",
+   "earliest": "20190715204336"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-vs-s-corp.rl",
+   "earliest": "20190208134351"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-unemployment-benefits-online.rl",
+   "earliest": "20190721084522"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/gaining-on-the-sale-of-your-home.rl",
+   "earliest": "20190722202701"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/foreclosure-avoidance-solutions.rl",
+   "earliest": "20190822143420"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-new-jersey-corporation.rl",
+   "earliest": "20190720093704"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-refuse-a-bequest.rl",
+   "earliest": "20190721042055"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-statement-of-information-cb.rl",
+   "earliest": "20190720052329"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/divorce-and-health-insurance-considerations.rl",
+   "earliest": "20190719002046"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/eviction-and-leasing.rl",
+   "earliest": "20190720093048"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-child-support.rl",
+   "earliest": "20190721042321"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/online-legal-wills-provide-an-affordable-solution.rl",
+   "earliest": "20190720053544"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-insurance.rl",
+   "earliest": "20190821141247"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-do-intellectual-property-rights-protect-ps.rl",
+   "earliest": "20190717193437"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/articles-of-amendment.rl",
+   "earliest": "20190202152822"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-pennsylvania-after-divorce.rl",
+   "earliest": "20190718154956"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-immigrant-visas.rl",
+   "earliest": "20190721023731"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/general-and-special-power-of-attorney-documents--important-differences.rl",
+   "earliest": "20190822141002"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/rental-agreement-forms-must-comply-with-real-estate-laws.rl",
+   "earliest": "20190715203556"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-and-set-up-a-sole-proprietorship-ps.rl",
+   "earliest": "20190719001008"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-dos-and-donts-of-subleasing.rl",
+   "earliest": "20190717133022"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/choosing-a-tax-professional-tax-attorney-cpa-or-enrolled-agent.rl",
+   "earliest": "20190120203248"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-kentucky.rl",
+   "earliest": "20190718232832"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-wills.rl",
+   "earliest": "20190720102438"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/guardianships-and-conservatorships-without-a-power-of-attorney-poa.rl",
+   "earliest": "20190715210510"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/apartment-renting-101-amp.rl",
+   "earliest": "20190823100743"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/finding-liens-and-easements-with-a-real-estate-title-search.rl",
+   "earliest": "20190715210807"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-avoid-inheritance-disputes.rl",
+   "earliest": "20190715190214"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-corporate-bylaws-a-bylaws-definition-cb.rl",
+   "earliest": "20190720050541"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-california-after-divorce.rl",
+   "earliest": "20190719021155"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-use-ip-contracts-and-notices-to-protect-my-intellectual-property-ps.rl",
+   "earliest": "20190818155546"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-requirements-for-business-filings-ps.rl",
+   "earliest": "20190719013249"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/nda-101:-what-is-a-non-disclosure-agreement.rl",
+   "earliest": "20190624234637"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-consideration-cb.rl",
+   "earliest": "20190718160502"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/s-corp-vs-c-corp.rl",
+   "earliest": "20190715210315"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-find-startup-capital.rl",
+   "earliest": "20190722202807"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-will.rl",
+   "earliest": "20190719165833"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/basic-estate-tax-concepts.rl",
+   "earliest": "20190723004821"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/trustee-duties.rl",
+   "earliest": "20190721025601"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-long-does-it-take-to-get-a-patent-ps.rl",
+   "earliest": "20190715205506"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-document-templates.rl",
+   "earliest": "20190723054140"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-alabama-corporation.rl",
+   "earliest": "20190715205205"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-estate-administration.rl",
+   "earliest": "20190721051617"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/roommate-eviction-article.rl",
+   "earliest": "20190715200646"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-determine-if-your-intellectual-property-already-exists.rl",
+   "earliest": "20190818150730"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-pennsylvania-after-getting-married.rl",
+   "earliest": "20190715205727"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/apartment-rental-agreements-specify-terms-of-occupancy.rl",
+   "earliest": "20190719013229"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-indiana.rl",
+   "earliest": "20190719023635"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-your-small-business-should-create-an-employee-handbook.rl",
+   "earliest": "20190717232713"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/limited-partnership-advantages-ps.rl",
+   "earliest": "20190718152519"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/south-carolina.rl",
+   "earliest": "20190716040833"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-documents-for-those-affected-by-hurricane-sandy.rl",
+   "earliest": "20190721083717"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-qualify-for-a-home-office-business-tax-deduction.rl",
+   "earliest": "20190718233251"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-washington-corporation.rl",
+   "earliest": "20190718234421"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/intellectual-property.rl",
+   "earliest": "20190824163922"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-proposal-template-st.rl",
+   "earliest": "20190718233153"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/examples-of-sexual-discrimination-in-the-workplace-ps.rl",
+   "earliest": "20190721042048"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-west-virginia.rl",
+   "earliest": "20190719001105"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/responding-to-osha-complaints.rl",
+   "earliest": "20190722205342"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-medical-malpractice.rl",
+   "earliest": "20190718115047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-s-corporation-ps.rl",
+   "earliest": "20190719014728"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-an-online-business-cb.rl",
+   "earliest": "20190822232427"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-small-claims-court-cb.rl",
+   "earliest": "20190717193005"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-are-meeting-minutes-ps.rl",
+   "earliest": "20190822135344"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/corporations---public-records.rl",
+   "earliest": "20190715200509"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-trademark-and-what-types-are-there-ps.rl",
+   "earliest": "20190718161035"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/online-id-theft-prevention-tools.rl",
+   "earliest": "20190718233203"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/health-and-medical.rl",
+   "earliest": "20200409173659"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/changing-your-name-on-your-passport.rl",
+   "earliest": "20190721021852"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-pennsylvania-for-a-minor.rl",
+   "earliest": "20190720050456"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sell-a-car-cb.rl",
+   "earliest": "20190818150421"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/filing-a-complaint-with-the-ftc.rl",
+   "earliest": "20190720101001"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-your-rental-security-deposit-refunded-in-california.rl",
+   "earliest": "20190717231736"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sell-a-business-ps.rl",
+   "earliest": "20190721022610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-church-cb.rl",
+   "earliest": "20190818153034"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/working-at-a-startup.rl",
+   "earliest": "20190722202719"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-bankruptcy.rl",
+   "earliest": "20190719020256"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-doctors-have-to-follow-a-living-will.rl",
+   "earliest": "20190715202001"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-charitable-donations.rl",
+   "earliest": "20190824162238"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/no-fault-divorce.rl",
+   "earliest": "20190719162831"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-consequences-of-a-living-trust.rl",
+   "earliest": "20190718232854"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-change-a-business-entity-ps.rl",
+   "earliest": "20190715204552"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-education-lawyer.rl",
+   "earliest": "20190718151632"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-illinois.rl",
+   "earliest": "20190720094451"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-alaska-corporation.rl",
+   "earliest": "20190719163623"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-protect-an-idea-before-filing-a-patent-ps.rl",
+   "earliest": "20190721091532"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-exclusive-rights-are-gained-by-registering-ip-ps.rl",
+   "earliest": "20190717190654"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-report-a-hipaa-violation.rl",
+   "earliest": "20200409203443"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-register-a-trademark-ps.rl",
+   "earliest": "20190718151058"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/should-i-sign-a-month-to-month-lease-agreement-pros-and-cons-ps.rl",
+   "earliest": "20190718154056"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-workers-compensation-lawyer.rl",
+   "earliest": "20190721042023"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-write-a-business-partnership-agreement.rl",
+   "earliest": "20190715203525"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-corporation-cb.rl",
+   "earliest": "20190718233049"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-corporate-lawyer.rl",
+   "earliest": "20190715200610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/patent-and-invention-assignments-ps.rl",
+   "earliest": "20190818151553"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-expect-from-an-on-call-lawyer.rl",
+   "earliest": "20190718151620"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mortgage-loans-learn-before-signing.rl",
+   "earliest": "20190822224239"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-delaware.rl",
+   "earliest": "20190720050318"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-much-do-lawyers-cost.rl",
+   "earliest": "20190717131138"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/wills-vs-estate-plan.rl",
+   "earliest": "20190718105735"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/terminating-your-residential-lease.rl",
+   "earliest": "20190721030052"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-connecticut.rl",
+   "earliest": "20190718154055"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-class-action-attorney.rl",
+   "earliest": "20190722202502"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-utah-corporation.rl",
+   "earliest": "20190720050439"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/partnership-agreement-checklist.rl",
+   "earliest": "20190717131348"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/driver's-licenses.rl",
+   "earliest": "20190721030609"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/international-intellectual-property-law-101-ps.rl",
+   "earliest": "20190818155745"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-can-be-trademarked-names-phrases-colors-ps.rl",
+   "earliest": "20190720061707"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-colorado-corporation.rl",
+   "earliest": "20190719013656"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-south-dakota.rl",
+   "earliest": "20190720094133"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-your-intellectual-property-is-used-without-permission.rl",
+   "earliest": "20190824154810"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-renting-and-leasing-are-different.rl",
+   "earliest": "20190718233843"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/applying-for-a-hague-certificate-for-a-completed-international-adoption.rl",
+   "earliest": "20190718235859"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-insurance-lawyer.rl",
+   "earliest": "20190717122934"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/claiming-dependents-on-your-personal-taxes.rl",
+   "earliest": "20190718105837"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dui-penalties-in-your-state.rl",
+   "earliest": "20190719121025"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/benefits-of-a-non-profit.rl",
+   "earliest": "20190818151842"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/declaring-bankruptcy-do-i-need-a-lawyer-ps.rl",
+   "earliest": "20190721030914"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/types-of-investors-for-startups.rl",
+   "earliest": "20200222064204"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/corporations---holding-special-meetings.rl",
+   "earliest": "20190721042307"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-buy-a-car.rl",
+   "earliest": "20190721083801"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/id-theft-prevention-tips.rl",
+   "earliest": "20190720054100"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/choosing-a-tax-professional-tax-attorney-cpa-or-enrolled-agent.rl",
+   "earliest": "20190719130638"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-divorce-or-separation-changes-your-taxes.rl",
+   "earliest": "20190718151417"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/home-based-office-deductions-ps.rl",
+   "earliest": "20190720053001"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/traveler's-health.rl",
+   "earliest": "20190824153832"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/mortgage-forgiveness.rl",
+   "earliest": "20190721044223"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/5-year-end-small-business-tips-ps.rl",
+   "earliest": "20190818154059"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/landlord-liability-insurance-how-to-protect-your-rental-property-ps.rl",
+   "earliest": "20190821133839"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/determining-if-an-employee-is-exempt-or-non-exempt.rl",
+   "earliest": "20190718160739"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-environmental-lawyer.rl",
+   "earliest": "20190819064811"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/providing-bankruptcy-documents.rl",
+   "earliest": "20190719163417"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-a-minors-us-passport.rl",
+   "earliest": "20190719121702"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tips-for-registering-business-trademarks-ps.rl",
+   "earliest": "20190716040521"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-amend-corporate-bylaws-cb.rl",
+   "earliest": "20190721042147"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/guardianship-of-elders.rl",
+   "earliest": "20190719013508"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-renew-your-us-passport.rl",
+   "earliest": "20190720093031"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-do-i-get-copyright-protection-for-something-ps.rl",
+   "earliest": "20190722205618"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bylaw-requirements-by-state.rl",
+   "earliest": "20190716042714"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-virginia-corporation.rl",
+   "earliest": "20190720052047"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-louisiana-corporation.rl",
+   "earliest": "20190718153406"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-workplace-discrimination-cb.rl",
+   "earliest": "20190721094215"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-provisional-patent-ps.rl",
+   "earliest": "20190824165423"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-rhode-island-corporation.rl",
+   "earliest": "20190721093009"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-the-ipo-process-for-startups-works.rl",
+   "earliest": "20190723054238"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/personal-records.rl",
+   "earliest": "20190818150842"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-planning-and-financial-decision-making.rl",
+   "earliest": "20190719000630"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/crash-course:-four-types-of-contract-breaches.rl",
+   "earliest": "20190722204728"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-states-are-at-will-employment-states-ps-amp.rl",
+   "earliest": "20191017074925"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/new-bankruptcy-laws.rl",
+   "earliest": "20190723045149"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-mergers-and-acquisitions-lawyer.rl",
+   "earliest": "20190722203203"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/people-to-exclude-as-will-executors.rl",
+   "earliest": "20190715205555"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-business-expense-deduction.rl",
+   "earliest": "20190722210620"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-a-criminal-record-may-affect-your-career.rl",
+   "earliest": "20190722203756"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-making-work-pay-tax-credit.rl",
+   "earliest": "20190721042317"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-louisiana.rl",
+   "earliest": "20190715201201"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marital-status-affects-taxes.rl",
+   "earliest": "20190721043051"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/working-in-the-us-with-an-employment-authorization-document-ead.rl",
+   "earliest": "20190720095636"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/registered-agent.rl",
+   "earliest": "20190824163726"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/gift-tax-exclusion.rl",
+   "earliest": "20190721022813"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-long-to-keep-records-for-business-taxes.rl",
+   "earliest": "20190623025442"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/schedule-c-tax-deductions.rl",
+   "earliest": "20190718153723"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/evictions-by-state.rl",
+   "earliest": "20190821133713"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/green-cards.rl",
+   "earliest": "20190818155455"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-free-legal-aid-in-your-state-amp.rl",
+   "earliest": "20190821151252"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/proof-of-negligence-in-personal-injury-lawsuits.rl",
+   "earliest": "20190722202439"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-build-a-successful-online-law-practice.rl",
+   "earliest": "20190717184823"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tips-to-improve-your-credit-rating.rl",
+   "earliest": "20190721083858"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/next-steps.rl",
+   "earliest": "20190721091746"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-piercing-the-corporate-veil-cb.rl",
+   "earliest": "20190715200452"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-separation-cb.rl",
+   "earliest": "20190718152921"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-your-identity-has-been-stolen-.rl",
+   "earliest": "20190715200537"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-california-after-getting-married-.rl",
+   "earliest": "20190719023348"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/patent-law---filing-a-patent-application.rl",
+   "earliest": "20190818151658"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-wisconsin.rl",
+   "earliest": "20190718151030"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-divorce-ps.rl",
+   "earliest": "20190715211136"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-expect-when-you-file-an-insurance-claim.rl",
+   "earliest": "20190822234036"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/subleasing-vs-assigning-a-lease-cb.rl",
+   "earliest": "20190721042228"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/buying-and-selling-a-car.rl",
+   "earliest": "20190818153710"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-trust-attorney.rl",
+   "earliest": "20190718160948"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-marriage-license-ps.rl",
+   "earliest": "20190819053709"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/medicare-and-medicaid.rl",
+   "earliest": "20190822233220"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/business-formation.rl",
+   "earliest": "20190818155147"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-break-a-contract.rl",
+   "earliest": "20190718110350"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-request-dmv-driving-records-in-all-fifty-states.rl",
+   "earliest": "20190715200637"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/common-law-marriage.rl",
+   "earliest": "20190824155927"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/notifying-your-creditors-and-closing-fraudulent-accounts.rl",
+   "earliest": "20190717125123"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-hire-an-independent-contractor.rl",
+   "earliest": "20190718151531"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-title-commitment-ps.rl",
+   "earliest": "20190718155924"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-steps-to-stop-an-unsafe-senior-from-driving.rl",
+   "earliest": "20190722102521"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/rhode-island.rl",
+   "earliest": "20190818150816"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-moving-expenses.rl",
+   "earliest": "20190822143412"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/difference-between-a-fault-and-no-fault-divorce.rl",
+   "earliest": "20190719020525"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-on-your-inheritance.rl",
+   "earliest": "20190719000704"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/proving-race-discrimination-in-the-workplace-ps.rl",
+   "earliest": "20190720052142"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-you-get-a-bounced-check-amp.rl",
+   "earliest": "20190821134303"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-maryland.rl",
+   "earliest": "20190721042348"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/whats-the-difference-between-bilateral-and-unilateral-contracts-amp.rl",
+   "earliest": "20191212005415"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-you-need-a-photo-release.rl",
+   "earliest": "20190721022516"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/common-types-of-employment-forms.rl",
+   "earliest": "20190715180820"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/non-convention-adoption-process-for-us-citizens-who-wish-to-adopt.rl",
+   "earliest": "20190722203527"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employee-benefits-for-your-small-business.rl",
+   "earliest": "20190720054617"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-find-a-personal-injury-lawyer-ps.rl",
+   "earliest": "20190422203158"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-arkansas.rl",
+   "earliest": "20190715204851"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-an-entertainment-lawyer.rl",
+   "earliest": "20190717223159"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-board-resolution-cb.rl",
+   "earliest": "20190719013340"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/outside-financing-vs-your-own-money-for-a-startup.rl",
+   "earliest": "20190719164535"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-apply-for-citizenship-through-naturalization.rl",
+   "earliest": "20190718154201"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/renewing-a-green-card.rl",
+   "earliest": "20190819065820"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/prenuptial-agreement-checklist.rl",
+   "earliest": "20190721045231"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-labor-lawyer.rl",
+   "earliest": "20190719014425"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-medical-expenses.rl",
+   "earliest": "20190718114637"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/top-10-contracts-for-every-small-business.rl",
+   "earliest": "20190720100415"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-long-does-a-trademark-last-ps.rl",
+   "earliest": "20190718151258"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-to-use-a-springing-power-of-attorney-.rl",
+   "earliest": "20190721091718"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/buying-a-home.rl",
+   "earliest": "20190722094315"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-civil-litigation-attorney.rl",
+   "earliest": "20190822224251"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-texas.rl",
+   "earliest": "20190721084053"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-oregon-corporation.rl",
+   "earliest": "20190718151118"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-vermont.rl",
+   "earliest": "20190720102817"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/marriage-general.rl",
+   "earliest": "20190818150606"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/avoid-robo-signing--best-practices-for-signing-contracts.rl",
+   "earliest": "20190718153552"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-responsibilities-of-small-business-owners.rl",
+   "earliest": "20190720094519"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-bankruptcy-ps.rl",
+   "earliest": "20190819063258"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-employers-can-learn-from-wrongful-termination-cases-ps.rl",
+   "earliest": "20190721092725"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/required-medical-examinations-for-an-international-adoption.rl",
+   "earliest": "20190718233210"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/copyrights-101.rl",
+   "earliest": "20190818152755"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/state-by-state-llc-corporations-non-profits.rl",
+   "earliest": "20190723013717"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-credits.rl",
+   "earliest": "20190717130409"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-inspect-your-new-apartment.rl",
+   "earliest": "20190821133314"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-california.rl",
+   "earliest": "20190718152526"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/same-sex-marriage-law-states-ps.rl",
+   "earliest": "20190721023108"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-texas-after-divorce.rl",
+   "earliest": "20190719013505"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/differences-between-a-provisional-and-a-non-provisional-patent-application.rl",
+   "earliest": "20190718112044"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-self-directed-ira-llc-ps.rl",
+   "earliest": "20190719121141"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/filing-taxes-for-decedents.rl",
+   "earliest": "20190718235131"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-place-a-lien-on-a-house-or-other-personal-property.rl",
+   "earliest": "20190824161120"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-new-york-after-getting-married.rl",
+   "earliest": "20190718233533"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/charitable-gifting.rl",
+   "earliest": "20190718235826"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/intellectual-property-101.rl",
+   "earliest": "20190715203419"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-search-property-deed-records-ps.rl",
+   "earliest": "20190723014142"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/5-reasons-you-should-create-a-will.rl",
+   "earliest": "20190721025615"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-louisiana.rl",
+   "earliest": "20190718154738"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/corporate-records.rl",
+   "earliest": "20190821133755"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-south-carolina-corporation.rl",
+   "earliest": "20190718153954"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-hire-employees-legal-tips-to-stay-compliant-ps.rl",
+   "earliest": "20190721031728"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/creating-a-marital-settlement-agreement-in-a-divorce.rl",
+   "earliest": "20190719000841"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-you-should-consider-when-hiring-a-lawyer.rl",
+   "earliest": "20190721021440"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/whats-the-difference-between-a-property-deed-and-a-title-ps.rl",
+   "earliest": "20200517143629"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-documents-needed-to-incorporate-your-business.rl",
+   "earliest": "20190718110010"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/health-and-medical.rl",
+   "earliest": "20190821133615"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/personal-finance.rl",
+   "earliest": "20190822223427"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/home-equity-loans-and-taxes.rl",
+   "earliest": "20190718235309"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-will-i-be-liable-for-my-sole-proprietorship-debts-ps.rl",
+   "earliest": "20190719023709"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/types-of-affidavits.rl",
+   "earliest": "20190818150548"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-you-receive-an-irs-tax-audit-notice.rl",
+   "earliest": "20190818151312"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-find-a-personal-injury-lawyer-ps.rl",
+   "earliest": "20190422203153"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/avoiding-eviction.rl",
+   "earliest": "20190722202519"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/whats-the-difference-between-a-property-deed-and-a-title-ps.rl",
+   "earliest": "20190716171715"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-an-abstract-of-title-ps.rl",
+   "earliest": "20190715204246"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/absolute-and-conditional-bill-of-sale.rl",
+   "earliest": "20190818160945"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sublet-your-apartment.rl",
+   "earliest": "20190824153950"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/understanding-dnr-cb.rl",
+   "earliest": "20190718151227"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/universal-life-insurance.rl",
+   "earliest": "20190719023322"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-report-workplace-injuries-or-accidents.rl",
+   "earliest": "20190722204300"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/using-a-pour-over-will-with-a-living-trust.rl",
+   "earliest": "20190720093600"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-records-and-fraud.rl",
+   "earliest": "20190719162347"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/older-workers-benefit-protection-act-tips-for-employers-ps.rl",
+   "earliest": "20190721042756"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-sec-rule-144-and-how-does-it-affect-your-business-cb.rl",
+   "earliest": "20190818150709"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bond-for-deed-vs-owner-financing-pros-and-cons-ps.rl",
+   "earliest": "20190723013802"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-new-mexico-corporation.rl",
+   "earliest": "20190717230715"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-happens-if-my-loved-one-dies-without-a-will.rl",
+   "earliest": "20190722210137"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/do-i-need-a-lawyer-for-dui.rl",
+   "earliest": "20190718152718"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-business-travel.rl",
+   "earliest": "20190720052636"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-hawaii-corporation.rl",
+   "earliest": "20190721083815"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/why-incorporate.rl",
+   "earliest": "20190822222721"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-credit-freeze.rl",
+   "earliest": "20190720103020"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-transfer-medical-records.rl",
+   "earliest": "20190822224923"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/for-those-with-children-and-grandchildren.rl",
+   "earliest": "20190715202355"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/required-immunizations-for-traveling-abroad.rl",
+   "earliest": "20190718150922"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/best-time-of-year-to-incorporate-business-ps.rl",
+   "earliest": "20190721044414"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-maine.rl",
+   "earliest": "20190721042214"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sample-will.rl",
+   "earliest": "20190818153435"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sole-proprietorship.rl",
+   "earliest": "20190819065742"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/workplace-safety.rl",
+   "earliest": "20190717185713"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/obtaining-a-durable-power-of-attorney-for-a-parent-with-dementia-or-alzheimers.rl",
+   "earliest": "20190721083735"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/employment-application-template.rl",
+   "earliest": "20190818162130"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/immigrant-legal-issues.rl",
+   "earliest": "20190821134209"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-next-steps.rl",
+   "earliest": "20190721042218"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/fair-hiring-practices-and-job-discrimination-laws-for-employers.rl",
+   "earliest": "20190719021238"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-colorado.rl",
+   "earliest": "20190717223219"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-collaborative-divorce-law.rl",
+   "earliest": "20190720050610"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/find-a-bankruptcy-lawyer.rl",
+   "earliest": "20190717183432"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contracts-101:-what-is-a-contract.rl",
+   "earliest": "20190720050346"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-a-case-in-small-claims-court-cb.rl",
+   "earliest": "20190818150622"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-nevada.rl",
+   "earliest": "20190716042255"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-to-do-if-youre-arrested-by-immigration-customs.rl",
+   "earliest": "20190718152025"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-an-oklahoma-corporation.rl",
+   "earliest": "20190718233255"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-statement-of-information-cb.rl",
+   "earliest": "20190721042431"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-california-for-a-minor.rl",
+   "earliest": "20190717230635"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-will-my-organs-be-used.rl",
+   "earliest": "20190717230334"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-new-mexico.rl",
+   "earliest": "20190718110031"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contractors-%26-consultants.rl",
+   "earliest": "20190718235231"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/divorce-forms-vary-based-on-state-and-situation.rl",
+   "earliest": "20190721085600"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/taxes-marriage.rl",
+   "earliest": "20190717225023"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dba-versus-forming-an-llc-ps.rl",
+   "earliest": "20190720061914"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/email-marketing-legal-compliance-and-the-can-spam-act.rl",
+   "earliest": "20190717124614"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-long-does-a-patent-last-ps.rl",
+   "earliest": "20190718160912"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-benefits-of-online-legal-forms.rl",
+   "earliest": "20190715200548"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-washington.rl",
+   "earliest": "20190718150947"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/intellectual-property-examples-types-ps.rl",
+   "earliest": "20200325015133"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-north-dakota.rl",
+   "earliest": "20190719163602"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/forms-for-hiring-employees-or-contractors.rl",
+   "earliest": "20190718160921"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-nebraska-corporation.rl",
+   "earliest": "20190718114416"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bargain-and-sale-deed-in-co-ny-vt-wa-and-wy.rl",
+   "earliest": "20190716040504"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/bankruptcy-information---341-meetings.rl",
+   "earliest": "20190719162233"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/dmv-vehicle-registration-renewal.rl",
+   "earliest": "20190718152049"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/reasons-to-evict-a-tenant.rl",
+   "earliest": "20190723045307"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/life-insurance.rl",
+   "earliest": "20190822224306"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/working-with-a-lawyer.rl",
+   "earliest": "20190824160134"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/credit-and-id-theft.rl",
+   "earliest": "20190716040749"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/transferring-joint-property-after-death.rl",
+   "earliest": "20190719001947"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-florida-after-getting-married.rl",
+   "earliest": "20190721094423"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/credit-monitoring-helps-avoid-id-theft-.rl",
+   "earliest": "20190719014629"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/registered-vs-unregistered-trademark-ps.rl",
+   "earliest": "20190718233139"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/can-the-executor-of-a-will-also-be-a-beneficiary.rl",
+   "earliest": "20190718151134"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marital-status-affects-eligibility-for-government-assistance.rl",
+   "earliest": "20190720050531"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-marital-status-affects-credit-card-and-loan-applications.rl",
+   "earliest": "20190715200514"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/eviction-by-state.rl",
+   "earliest": "20190715203659"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sole-proprietorship-tax-information-ps.rl",
+   "earliest": "20190822221049"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-limited-liability-partnership-ps.rl",
+   "earliest": "20190721085540"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/when-to-update-your-living-will.rl",
+   "earliest": "20190721023153"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/whats-the-difference-between-bilateral-and-unilateral-contracts.rl",
+   "earliest": "20190717230858"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/online-legal-services.rl",
+   "earliest": "20190822230342"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/obtaining-a-durable-power-of-attorney-for-a-parent-with-dementia-or-alzheimers-amp.rl",
+   "earliest": "20191212001613"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/naming-life-insurance-beneficiaries.rl",
+   "earliest": "20190718152500"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-wisconsin-corporation.rl",
+   "earliest": "20190715203936"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-illinois-after-getting-married.rl",
+   "earliest": "20190719021205"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/contesting-a-will-or-declaring-it-invalid.rl",
+   "earliest": "20190717223313"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-file-for-no-fault-divorce-in-new-mexico.rl",
+   "earliest": "20190720051154"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/non-profit-board-meeting.rl",
+   "earliest": "20190719014815"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/legal-separation-before-divorce.rl",
+   "earliest": "20190720050450"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-find-information-on-incorporating-in-your-state.rl",
+   "earliest": "20190721041858"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/reporting-income-on-a-decedents-taxes.rl",
+   "earliest": "20190720061028"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-nevada-corporation.rl",
+   "earliest": "20190716040713"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/distributing-joint-property.rl",
+   "earliest": "20190720100229"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/payroll-taxes.rl",
+   "earliest": "20190718151241"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/accredited-investor.rl",
+   "earliest": "20190717232444"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-avoid-foreclosure-cb.rl",
+   "earliest": "20190721021711"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-non-profit-in-south-dakota.rl",
+   "earliest": "20190722205242"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sharing-success-with-stock-appreciation-rights-cb.rl",
+   "earliest": "20190719000448"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/estate-planning-providing-for-your-spouse.rl",
+   "earliest": "20190718112623"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-sign-and-witness-a-will.rl",
+   "earliest": "20190717231904"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-replace-lost-paperwork-and-documents.rl",
+   "earliest": "20190721091402"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-protect-your-intellectual-property-from-infringement.rl",
+   "earliest": "20190502003454"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/rescinding-a-mortgage-loan.rl",
+   "earliest": "20190719121057"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/what-is-an-abstract-of-title-ps.rl",
+   "earliest": "20200216094603"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-a-utility-patent-ps.rl",
+   "earliest": "20190721042234"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-new-york-for-a-minor.rl",
+   "earliest": "20190718233039"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/tax-implications-of-choosing-between-employees-or-contractors.rl",
+   "earliest": "20190718234852"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/discrimination-in-the-workplace-types-of-discrimination-ps.rl",
+   "earliest": "20190715200656"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-home-business-cb.rl",
+   "earliest": "20190717194627"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/what-is-corporate-compliance-ps.rl",
+   "earliest": "20190722095053"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/distributing-assets-from-a-life-insurance-trust.rl",
+   "earliest": "20190718155746"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article-amp/how-to-get-medical-records.rl",
+   "earliest": "20200409175823"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/the-difference-between-a-living-will-and-durable-power-of-attorney-for-health-care.rl",
+   "earliest": "20190824162035"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/small-claims-court-dollar-limits-by-state.rl",
+   "earliest": "20190818150522"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/considering-a-startup-job.rl",
+   "earliest": "20190721024102"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-kentucky-corporation.rl",
+   "earliest": "20190717223152"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-a-legal-name-change-in-florida.rl",
+   "earliest": "20190718232812"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/renters-inspection-worksheet.rl",
+   "earliest": "20190717122735"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-form-a-south-dakota-corporation.rl",
+   "earliest": "20190721052311"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/deducting-home-loan-origination-fees.rl",
+   "earliest": "20190719123201"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/llc-tax-benefits-ps.rl",
+   "earliest": "20190720050528"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/gathering-non-probate-assets.rl",
+   "earliest": "20190720061756"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-get-your-security-deposit-back-from-your-landlord.rl",
+   "earliest": "20190719002101"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/incorporating-in-delaware-or-nevada-whats-the-best-option-for-my-business.rl",
+   "earliest": "20190717230533"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/how-to-start-a-real-estate-business-cb.rl",
+   "earliest": "20190818151157"
+  },
+  {
+   "url": "https://www.rocketlawyer.com/article/sole-proprietorship-vs-partnership-ps.rl",
+   "earliest": "20190717123040"
+  }
+ ]
+}
