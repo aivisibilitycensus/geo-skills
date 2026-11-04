@@ -23,9 +23,13 @@ jobs:
       - uses: actions/setup-node@v4
         with: {node-version: "22"}
       - run: npm ci
-      - name: Sample (Wayback CDX, seeded shuffle)
+      - name: Sample (Wayback CDX, seeded shuffle; commits per blog)
         if: inputs.job == 'sample' || inputs.job == 'all'
-        run: node sample.mjs
+        env: {VS001_COMMIT: "1"}
+        run: |
+          git config user.name "AI Visibility Census"
+          git config user.email "census-bot@users.noreply.github.com"
+          node sample.mjs
       - name: Fetch human articles (earliest capture, Readability)
         if: inputs.job == 'fetch' || inputs.job == 'all'
         run: node fetch.mjs
@@ -49,4 +53,5 @@ jobs:
           git config user.email "census-bot@users.noreply.github.com"
           git add validation/vs-001/data
           git diff --cached --quiet || git commit -m "VS-001: ${{ inputs.job }} run $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
           git push

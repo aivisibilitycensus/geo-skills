@@ -27,22 +27,21 @@ for (const { blog, group, reserve } of allBlogs) {
   // capture). The index times out on large hosts, so the window is queried in half-year slices and merged,
   // and a slice that still fails after six tries marks the blog as failed instead of pretending it has no
   // articles (an index outage is not "fewer than four eligible articles").
-  const slices = [];
+  // Strategy: one query for the whole window first (cheapest when it works); if that fails, fall back to one
+  // query per year. Each query gets 4 tries with a 20 s gap. The index is often overloaded, so progress is
+  // committed per blog (VS001_COMMIT=1) and a rerun skips blogs already done.
+  const years = [];
   for (let y = Number(cfg.from.slice(0, 4)); y <= Number(cfg.to.slice(0, 4)); y++) {
-    for (const [a, b] of [['0101', '0630'], ['0701', '1231']]) {
-      const from = y + a, to = y + b;
-      if (from > cfg.to || to < cfg.from) continue;
-      slices.push([from < cfg.from ? cfg.from : from, to > cfg.to ? cfg.to : to]);
-    }
+    const from = Math.max(Number(cfg.from), Number(y + '0101')), to = Math.min(Number(cfg.to), Number(y + '1231'));
+    years.push([String(from), String(to)]);
   }
   const byUrl = new Map();
-  let failed = null, rowsTotal = 0;
-  for (const [from, to] of slices) {
+  let rowsTotal = 0;
+  async function querySlice(from, to) {
     const q = 'https://web.archive.org/cdx/search/cdx?url=' + encodeURIComponent(blog + '/*') +
       '&from=' + from + '&to=' + to +
       '&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey&fl=timestamp,original&output=json&limit=20000';
-    let ok = false;
-    for (let attempt = 1; attempt <= 6 && !ok; attempt++) {
+    for (let attempt = 1; attempt <= 4; attempt++) {
       try {
         const txt = await fetchText(q);
         const rows = txt.trim() ? JSON.parse(txt).slice(1) : [];
@@ -51,14 +50,20 @@ for (const { blog, group, reserve } of allBlogs) {
           const prev = byUrl.get(original);
           if (!prev || ts < prev) byUrl.set(original, ts);
         }
-        ok = true;
+        return true;
       } catch (e) {
         console.error('CDX', blog, from + '-' + to, 'attempt', attempt, e.message.slice(0, 80));
-        await sleep(15000 * attempt);
+        await sleep(20000);
       }
     }
-    if (!ok) { failed = from + '-' + to; break; }
-    await sleep(1000);
+    return false;
+  }
+  let failed = null;
+  if (!(await querySlice(cfg.from, cfg.to))) {
+    for (const [from, to] of years) {
+      if (!(await querySlice(from, to))) { failed = from + '-' + to; break; }
+      await sleep(1000);
+    }
   }
   if (failed) {
     fs.writeFileSync(file + '.failed', JSON.stringify({ blog, group, reserve, failedSlice: failed, at: new Date().toISOString() }));
@@ -78,6 +83,12 @@ for (const { blog, group, reserve } of allBlogs) {
   const ordered = shuffle(urls, cfg.seed, blog);
   fs.writeFileSync(file, JSON.stringify({ blog, group, reserve, cdxRows: rows.length, articleLike: urls.length, queriedAt: new Date().toISOString(), seed: cfg.seed, candidates: ordered }, null, 1));
   console.log(blog, 'cdx rows', rows.length, 'article-like', urls.length);
+  if (process.env.VS001_COMMIT === '1') {
+    const { execSync } = await import('node:child_process');
+    try {
+      execSync('git add "' + file + '" && git commit -q -m "VS-001 sample: ' + blog + '" && git pull -q --rebase origin main && git push -q origin HEAD:main', { stdio: 'inherit' });
+    } catch (e) { console.error('commit failed for', blog, e.message.slice(0, 100)); }
+  }
   await sleep(1500);
 }
 if (anyFailed) { console.error('one or more blogs failed at the CDX index; fix and rerun before fetching'); process.exit(1); }
