@@ -1,0 +1,3327 @@
+{
+ "blog": "slack.com/blog",
+ "group": "Software and productivity",
+ "reserve": false,
+ "cdxRows": 1480,
+ "articleLike": 829,
+ "queriedAt": "2026-11-04T01:41:36.252Z",
+ "seed": 20261029,
+ "candidates": [
+  {
+   "url": "https://slack.com/blog/transformation/dont-miss-slack-frontiers-2021",
+   "earliest": "20211109225525"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/meet-success-bot-the-voice-of-our-customer-success-team",
+   "earliest": "20201030134643"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/serena-williams-stroke-of-genius-for-overall-success",
+   "earliest": "20200926025840"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-aws-drive-development-agility",
+   "earliest": "20200815080127"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/remote-team-building-activities",
+   "earliest": "20200814200533"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-sofi-transformed-cross-functional-collaboration",
+   "earliest": "20201021225205"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/managers-supporting-flexible-schedules",
+   "earliest": "20201022083013"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/designing-and-formatting-messages-in-slack",
+   "earliest": "20201022120150"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-connect",
+   "earliest": "20200814195146"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-essentials-organize-your-work-and-conversations",
+   "earliest": "20200926021735"
+  },
+  {
+   "url": "https://slack.com/blog/developers/bt-new-mode-for-quicker-code",
+   "earliest": "20220701211556"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/6-ways-to-transform-work-with-slack-partners",
+   "earliest": "20221021183856"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/productivity-workflow-management-tools",
+   "earliest": "20200814201311"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/disruption-of-work-openness",
+   "earliest": "20210418170640"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/culture-collaboration-work",
+   "earliest": "20200920013520"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/creating-the-ideal-work-environment",
+   "earliest": "20201031085022"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-we-launch-languages-at-slack",
+   "earliest": "20210415025010"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/onboarding-best-practices-culture-amp",
+   "earliest": "20201022130705"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/digital-workplace",
+   "earliest": "20201022130637"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/remote-work-tips",
+   "earliest": "20200814201456"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/powering-kooth-with-slack",
+   "earliest": "20201126100940"
+  },
+  {
+   "url": "https://slack.com/blog/news/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok",
+   "earliest": "20200828053113"
+  },
+  {
+   "url": "https://slack.com/blog/uncategorized/slack-ist-jetzt-noch-einfacher-und-strukturierter",
+   "earliest": "20200814210359"
+  },
+  {
+   "url": "https://slack.com/blog/news/business-continuity-plan-covid-19",
+   "earliest": "20201021223210"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/docusign-noom-workflow-builder-slack",
+   "earliest": "20200814205728"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/communication-styles-master-at-work",
+   "earliest": "20200926032030"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/whats-new-mobile-video-calls-slack-connect-direct-messages",
+   "earliest": "20210307061610"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-state-of-work-report",
+   "earliest": "20200926025710"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/health-care-hipaa-compliance-slack",
+   "earliest": "20200920005920"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/electronic-communication-in-business",
+   "earliest": "20211207144757"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/essential-apps-to-boost-your-productivity",
+   "earliest": "20200927074725"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/whats-new-in-slack-simplified-search-channel-bookmarks",
+   "earliest": "20210610134011"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/introducing-a-dramatically-upgraded-slack-app-toolkit",
+   "earliest": "20201203084822"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/ultimate-guide-collaboration-in-the-workplace",
+   "earliest": "20200903133615"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/coordinating-code-deploys-in-slack-channels",
+   "earliest": "20200814201951"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/kiva-slack-crowdfund-loans-underserved-communities",
+   "earliest": "20200920014338"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/roadmap-for-the-future-of-work",
+   "earliest": "20210629150318"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/ways-sidestep-working-in-silos",
+   "earliest": "20200920005531"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/lessons-from-a-decades-long-remote-worker",
+   "earliest": "20201021223902"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/managing-remote-work-in-slack",
+   "earliest": "20200814200256"
+  },
+  {
+   "url": "https://slack.com/blog/news/5-new-apps-to-streamline-communication",
+   "earliest": "20200923202812"
+  },
+  {
+   "url": "https://slack.com/blog/news/15-things-to-know-about-slacks-2018-frontiers-conference",
+   "earliest": "20201203114701"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/salesforces-support-resolves-cases-faster",
+   "earliest": "20210925071942"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/get-where-youre-going-faster-with-sap-concurs-travel-app",
+   "earliest": "20200927075208"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/box-sales-teams-productivity",
+   "earliest": "20210307062411"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/7-ways-to-leverage-technology",
+   "earliest": "20220117153502"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slacks-platform-keeps-teams-productive",
+   "earliest": "20201022091936"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/keeping-teams-connected-engaged-productive-slack",
+   "earliest": "20201019160357"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/organizational-effectiveness-company-success",
+   "earliest": "20200926020900"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/box-and-slack-app-for-improved-content-sharing",
+   "earliest": "20200927055442"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-viacomcbs-empowers-employees-to-reinvent-the-future-of-work",
+   "earliest": "20210415031521"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-to-use-slack-channels-to-organize-your-work",
+   "earliest": "20200814210600"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/distance-learning-in-slack",
+   "earliest": "20201022123807"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/remote-new-hire-onboarding",
+   "earliest": "20201022124520"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/strengthen-client-relationships-slack-channels",
+   "earliest": "20200920013152"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/business-process-management-steps",
+   "earliest": "20200926024100"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/6-ways-to-use-google-drive-bots-newest-features",
+   "earliest": "20200926031400"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/inbox-zero-and-other-productivity-myths",
+   "earliest": "20201022120807"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/managing-caregiving-and-career-with-slack",
+   "earliest": "20211020082726"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/successful-businesses-build-strong-company-cultures",
+   "earliest": "20220928130132"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-is-for-closers-maximising-sales-and-engaging-customers-at-your-digital-hq",
+   "earliest": "20220628104806"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/efficiency-workflow-builder",
+   "earliest": "20220901154648"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/speed-up-team-approvals-and-feedback-with-slack",
+   "earliest": "20200920021752"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/empathy-emoji-mandy-ansari-virtual-bff",
+   "earliest": "20220609211206"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-investor-day",
+   "earliest": "20200920012712"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/hearst-pagerduty-datadog-workflow-builder",
+   "earliest": "20210418174512"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/qumulo-disruptive-customer-support-slack",
+   "earliest": "20201208173244"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-fourth-quarter-and-fiscal-year-2020-results",
+   "earliest": "20200814210307"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/now-is-your-moment-to-reinvent-work",
+   "earliest": "20210324200849"
+  },
+  {
+   "url": "https://slack.com/blog/news/allen-shim-named-slacks-cfo",
+   "earliest": "20201022121512"
+  },
+  {
+   "url": "https://slack.com/blog/news/diversity-at-slack-2019",
+   "earliest": "20200920014846"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-has-10-million-daily-active-users",
+   "earliest": "20200814204248"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/companies-coworking-huddles&a=Slack+huddles",
+   "earliest": "20221006070703"
+  },
+  {
+   "url": "https://slack.com/blog/news/dear-microsoft",
+   "earliest": "20200927072844"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/new-amazon-chime-meetings-app-for-slack",
+   "earliest": "20200926025738"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/unlocking-the-power-of-case-swarming-with-slack-and-salesforce",
+   "earliest": "20220529002931"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/take-back-a-little-time-each-day-with-these-5-apps-for-slack",
+   "earliest": "20200814200908"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/join-slack-engineers-at-frontiers-2019",
+   "earliest": "20200926031229"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/nadia-rawlinson-on-supporting-employees-through-uncertain-times",
+   "earliest": "20210419032007"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/chief-product-officer-tamar-yehoshua-how-we-use-slack-at-slack",
+   "earliest": "20200907071529"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/delivering-customer-success-in-a-virtual-world",
+   "earliest": "20201022121628"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/talent-management-plan-business-growth",
+   "earliest": "20200920020131"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/guru-modsquad-sisense-slack-connect",
+   "earliest": "20201030145046"
+  },
+  {
+   "url": "https://slack.com/blog/news/simpler-streamlined-sidebar",
+   "earliest": "20220608211956"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/trust-tools-and-teamwork-what-workers-want",
+   "earliest": "20200911084952"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-essentials-getting-the-most-out-of-messaging",
+   "earliest": "20200926020728"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/traction-on-demand-qumulo-faster-customer-experiences",
+   "earliest": "20220326170645"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/bienvenue-willkommen-bienvenidos-to-a-more-globally-accessible-slack",
+   "earliest": "20200927070839"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/box-okta-zoom-best-of-breed",
+   "earliest": "20210305235122"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/at-dena-teams-succeed-by-speaking-up",
+   "earliest": "20210803204556"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/coordinating-pull-requests-and-code-reviews-in-slack",
+   "earliest": "20200927073953"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-build-your-own-custom-slack-app-for-non-coders",
+   "earliest": "20201203142723"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/bring-tools-together-unlock-productivity",
+   "earliest": "20201019163133"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-on-slack-how-devs-reduce-distractions",
+   "earliest": "20201026140119"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/ease-growing-pains-scaling-a-business",
+   "earliest": "20200814205121"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/what-could-replace-email",
+   "earliest": "20220830092100"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/knowledge-base-working",
+   "earliest": "20201022124644"
+  },
+  {
+   "url": "https://slack.com/blog/news/an-update-on-the-apache-log4j2-vulnerability",
+   "earliest": "20220120024429"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/introducing-new-layers-of-enterprise-grade-security",
+   "earliest": "20200920004904"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-on-slack-how-we-use-our-software-to-support-our-customers",
+   "earliest": "20200817034426"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/transparency-in-business-company-evolution",
+   "earliest": "20200814210154"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/sustaining-the-speed-of-innovation-at-capgemini",
+   "earliest": "20200927070233"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-our-product-development-organization-uses-slacks-new-features",
+   "earliest": "20211208082216"
+  },
+  {
+   "url": "https://slack.com/blog/tips-and-tricks",
+   "earliest": "20200927070453"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/collaborating-toward-a-disease-free-future",
+   "earliest": "20220818111715"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/does-this-need-to-be-a-meeting",
+   "earliest": "20220930111604"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/the-key-to-building-high-performing-teams",
+   "earliest": "20210714165701"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/emerging-hybrid-playbook-flexible-work",
+   "earliest": "20210305141850"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-innovative-companies-get-stay-ahead",
+   "earliest": "20200814210131"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/lessons-from-san-quentin-isolate-with-purpose",
+   "earliest": "20201022093728"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/setting-new-hires-up-for-success",
+   "earliest": "20200927074131"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/hsbc-mg-plc-use-slack-transform-financial-services",
+   "earliest": "20200814205341"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/managing-conflict-in-the-workplace-with-kindness",
+   "earliest": "20201022122006"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/connecting-seniors-with-loved-ones",
+   "earliest": "20201019160248"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/modsquad-client-services-slack-connect",
+   "earliest": "20201021162633"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/getting-the-most-out-of-threads",
+   "earliest": "20200915141131"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/carvana-slack-car-buying",
+   "earliest": "20200924193124"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/scenes-from-slacks-frontiers-2019",
+   "earliest": "20200926031950"
+  },
+  {
+   "url": "https://slack.com/blog/developers/socket-to-me",
+   "earliest": "20211023010115"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-103-communication-and-culture",
+   "earliest": "20201022130711"
+  },
+  {
+   "url": "https://slack.com/blog/news/nadia-rawlinson-appointed-chief-people-officer-of-slack",
+   "earliest": "20200927210257"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/stronger-aligned-partnerships-slack-connect",
+   "earliest": "20200927082017"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/dropbox-maximizing-document-sharing-system",
+   "earliest": "20200927081512"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/top-forms-effective-business-communication",
+   "earliest": "20211020064550"
+  },
+  {
+   "url": "https://slack.com/blog/news/welcome-to-slacks-new-home-in-japan",
+   "earliest": "20200920015902"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/unlock-search-skills-with-a-slack-escape-room",
+   "earliest": "20211215192116"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/high-performing-teams-feedback-tips",
+   "earliest": "20200926014519"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/eliminating-setbacks-and-surprises-at-netguru",
+   "earliest": "20200926032328"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/guide-productive-work-environment",
+   "earliest": "20201022123250"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/book-meetings-quickly-without-leaving-slack",
+   "earliest": "20210507233408"
+  },
+  {
+   "url": "https://slack.com/blog/news/next-chapter-program-expansion-dropbox-zoom",
+   "earliest": "20200814202336"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/hacking-the-pandemic",
+   "earliest": "20200927073142"
+  },
+  {
+   "url": "https://slack.com/blog/news/today-is-a-good-day",
+   "earliest": "20200926030747"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/build-productive-work-habits",
+   "earliest": "20201022114007"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/navigating-the-new-remote-work-reality",
+   "earliest": "20200903055303"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-our-content-team-simplifies-the-publishing-process-in-slack",
+   "earliest": "20220329204413"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-second-quarter-fiscal-year-2021-results",
+   "earliest": "20200923203215"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/employee-retention-strategies",
+   "earliest": "20200926032403"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-factory-berlin-fuels-ambition-collaboration",
+   "earliest": "20210517173344"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/building-indistractable-teams-with-nir-eyal",
+   "earliest": "20201022113626"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-channels-bring-our-product-and-support-teams-closer-together",
+   "earliest": "20210124154151"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/complete-guide-improving-employee-engagement",
+   "earliest": "20220816163617"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/join-us-slack-tour",
+   "earliest": "20200920011312"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/approach-collaboration-with-intention",
+   "earliest": "20220929111033"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/mbta-meets-riders-needs-slack",
+   "earliest": "20201202234447"
+  },
+  {
+   "url": "https://slack.com/blog/developers/make-work-flow-faster-with-slacks-new-platform",
+   "earliest": "20220920133928"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/top-notch-sales-teams-performance-goals",
+   "earliest": "20201022122531"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/business-solutions-workplace-tomorrow",
+   "earliest": "20200926025158"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-our-it-team-builds-on-the-slack-platform",
+   "earliest": "20200814200453"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/put-an-end-to-customer-misery",
+   "earliest": "20211126224704"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/some-of-the-ways-we-use-emoji-at-slack",
+   "earliest": "20200920021856"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/build-a-bot-that-does-your-chores",
+   "earliest": "20201022130416"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/deliver-customer-support-slack-connect",
+   "earliest": "20200927072132"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-fund-doubles-down-investment",
+   "earliest": "20220317141711"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/increase-productivity-by-30",
+   "earliest": "20211006040525"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/four-tips-build-digital-first-culture",
+   "earliest": "20220215143558"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-hubspots-remote-teams-stay-seamlessly-connected",
+   "earliest": "20200926032414"
+  },
+  {
+   "url": "https://slack.com/blog/news/make-your-team-more-productive-with-smartsheet-and-slack",
+   "earliest": "20200926025409"
+  },
+  {
+   "url": "https://slack.com/blog/news/diversity-at-slack-2020",
+   "earliest": "20201006072728"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-apps-for-slack-make-your-whole-organization-more-productive",
+   "earliest": "20200920021010"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/pick-communication-channels-at-work",
+   "earliest": "20200927071559"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/turn-frequently-asked-questions-into-easily-found-answers",
+   "earliest": "20201203111132"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-slack-shortens-distances",
+   "earliest": "20201021220321"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/team-to-market-study",
+   "earliest": "20200814205208"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/6-key-takeaways-from-slacks-frontiers-conference",
+   "earliest": "20200926020125"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/the-impact-of-company-culture-on-productivity",
+   "earliest": "20220925113559"
+  },
+  {
+   "url": "https://slack.com/blog/news/the-early-career-accelerator-program-helping-underrepresented-talent-thrive-in-tech",
+   "earliest": "20201022121931"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/digital-transformation-in-banking-new-frontier",
+   "earliest": "20200926025609"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/advice-for-large-teams-on-slack",
+   "earliest": "20201022130522"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-acquisition-connecting-employees",
+   "earliest": "20200814204431"
+  },
+  {
+   "url": "https://slack.com/blog/news/govslack-secure-compliant-government-work",
+   "earliest": "20220622145651"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/top-ways-manage-productivity",
+   "earliest": "20210926233810"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/whats-new-in-slack-channel-manager-role-accessibility",
+   "earliest": "20220915190603"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/getting-back-to-work",
+   "earliest": "20200927055144"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/progress-professionally-remotely-with-slack",
+   "earliest": "20201208182258"
+  },
+  {
+   "url": "https://slack.com/blog/news/next-chapter-expands-to-14-companies",
+   "earliest": "20220629163547"
+  },
+  {
+   "url": "https://slack.com/blog/news/slacks-fedramp-authorization",
+   "earliest": "20200920004800"
+  },
+  {
+   "url": "https://slack.com/blog/news/profile-updates-hybrid-work-teams",
+   "earliest": "20220601152738"
+  },
+  {
+   "url": "https://slack.com/blog/news/access-restricted-russia-embargoed-regions-ukraine",
+   "earliest": "20220323224211"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-updates-accessible-equitable",
+   "earliest": "20220803164324"
+  },
+  {
+   "url": "https://slack.com/blog/collections/helpful-how-tos-for-the-transition-to-remote-work",
+   "earliest": "20200923204028"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/mile-high-teamwork-with-denver-startup-week-and-slack",
+   "earliest": "20201022130528"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/collaborative-leadership-top-down-team-centric",
+   "earliest": "20200920021323"
+  },
+  {
+   "url": "https://slack.com/blog/news/three-new-security-features-to-protect-your-digital-hq",
+   "earliest": "20220901154358"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/six-ways-that-channels-can-transform-your-work",
+   "earliest": "20201021224734"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/successful-hybrid-teams-asynchronous-tools",
+   "earliest": "20220716000829"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/new-slack-platform-digital-hq",
+   "earliest": "20211116134522"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/causes-isolation-work",
+   "earliest": "20200927062933"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-to-meet-new-cybersecurity-challenges",
+   "earliest": "20210419034000"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/whisker-delivers-seamless-pet-products",
+   "earliest": "20220518155553"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/recalibrate-time-management-skills",
+   "earliest": "20200926032529"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/blair-imani-on-creating-an-equitable-world",
+   "earliest": "20211217004816"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/stay-informed-aligned-slack",
+   "earliest": "20210812031913"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/build-a-self-serve-it-help-desk-in-slack",
+   "earliest": "20200814201340"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/mastering-the-pivot-a-new-white-paper-from-deloitte-and-slack",
+   "earliest": "20201030140430"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/characteristics-of-high-performing-teams",
+   "earliest": "20200926022059"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/attention-london-and-tokyo-frontiers-tour-is-coming-to-you",
+   "earliest": "20200926022615"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/conflict-in-the-workplace-can-be-constructive",
+   "earliest": "20200920021201"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/dropbox-and-slack-removing-friction-from-workplace-collaboration",
+   "earliest": "20201022124226"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/guide-slack-frontiers-2020",
+   "earliest": "20201016044532"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/synchronizing-distributed-teams-in-slack",
+   "earliest": "20200926021037"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/streamline-cross-functional-collaboration",
+   "earliest": "20200927062424"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/unity-unites-remote-workforce-slack",
+   "earliest": "20201021223840"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/in-case-you-missed-it-improvements-to-status-notifications-and-more",
+   "earliest": "20200926031647"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/delivery-platform-stuart-using-slack",
+   "earliest": "20201021213038"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/energizing-career-defining-and-fun-why-i-joined-slack",
+   "earliest": "20210415031544"
+  },
+  {
+   "url": "https://slack.com/blog/news/the-next-chapter-program-a-collaboration-for-impact",
+   "earliest": "20200814210428"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-record-first-quarter-fiscal-year-2021-results",
+   "earliest": "20200814200944"
+  },
+  {
+   "url": "https://slack.com/blog/developers/slack-app-directory-review-process",
+   "earliest": "20220702135221"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/disruption-of-work-agility-scale",
+   "earliest": "20210419023850"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/moving-work-forward-faster-in-a-distributed-fashion",
+   "earliest": "20201019155529"
+  },
+  {
+   "url": "https://slack.com/blog/news/idc-marketscape-names-slack-a-leader",
+   "earliest": "20211122175810"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/docusign-technical-customer-support-slack",
+   "earliest": "20201022130045"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/max-klymenko-on-living-a-fulfilling-life",
+   "earliest": "20211210203306"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-date-of-first-quarter-fiscal-year-2021-financial-results",
+   "earliest": "20200814203357"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/achieve-common-goals-through-real-time-collaboration",
+   "earliest": "20210924224243"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/navigating-disruption-of-work-culture",
+   "earliest": "20210727003255"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/internal-communication-businesses",
+   "earliest": "20211020084059"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/what-is-horizontal-communication",
+   "earliest": "20211205061953"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/symphonic-slack-distribute-music",
+   "earliest": "20200927072955"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/essential-tools-support-digital-transformation",
+   "earliest": "20211006022911"
+  },
+  {
+   "url": "https://slack.com/blog/news/update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok",
+   "earliest": "20200814210108"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas&a=Slack+canvas",
+   "earliest": "20221006070713"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-nordstrom-and-zendesk-wow-customers-with-slack",
+   "earliest": "20201022123434"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/run-your-holiday-gift-exchange-right-inside-slack",
+   "earliest": "20200926022339"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/power-remote-sales-support-slack-salesforce",
+   "earliest": "20210305132845"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/new-slack-features-search-calls-channels",
+   "earliest": "20200927061002"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/updates-to-the-adobe-creative-cloud-app-for-slack",
+   "earliest": "20210127041734"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/funnel-customer-feedback-straight-into-slack",
+   "earliest": "20200920011151"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/frontiers-first-day-coverage",
+   "earliest": "20200926030145"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/riot-games-software-development-slack",
+   "earliest": "20210302031531"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/a-change-calls-for-champions",
+   "earliest": "20200927071017"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/new-slack-features-boost-alignment-productivity",
+   "earliest": "20200920004139"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/what-one-neurodiverse-team-can-teach-everyone-about-workplace-inclusion",
+   "earliest": "20201021221434"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/new-splunk-app-for-slack",
+   "earliest": "20200820170520"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/create-great-remote-culture",
+   "earliest": "20220808222221"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/tips-from-remote-friendly-companies",
+   "earliest": "20200927074549"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/spec-developer-conference-2019-agenda",
+   "earliest": "20200926032059"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/meg-lewis-nurturing-authenticity-modern-workplace",
+   "earliest": "20220601204054"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/decisions-decisions-how-to-find-and-document-them-in-slack",
+   "earliest": "20201203110956"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/trust-building-activities-for-teams-of-all-sizes",
+   "earliest": "20200927073718"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/box-sales-lightning-speed-slack",
+   "earliest": "20200923203710"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/internal-communication",
+   "earliest": "20200920010739"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/swap-video-calls-emails-asynchronous-video",
+   "earliest": "20220807134755"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/momofukus-david-chang-on-innovation-failure-and-fatherhood",
+   "earliest": "20200926032151"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/meetings-that-work-and-dont-in-slack",
+   "earliest": "20200920020512"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/pride-month",
+   "earliest": "20210615132426"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/leadership-lessons-from-ed-catmulls-creativity-inc",
+   "earliest": "20201021223944"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/flex-your-companys-empathy-muscles-in-slack",
+   "earliest": "20200926010225"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-appoints-former-flex-ceo-mike-mcnamara-to-board-of-directors",
+   "earliest": "20200920011354"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/managing-slack-at-scale-announcement-channels-and-new-admin-apis",
+   "earliest": "20200927070800"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/trends-driving-digital-transformation",
+   "earliest": "20210124171128"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-our-own-chief-product-officer-uses-slack",
+   "earliest": "20201127030340"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-confidential-submission-of-draft-registration-statement-for-proposed-public-listing",
+   "earliest": "20200920012459"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/tying-your-tools-to-slack",
+   "earliest": "20201203120117"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/overcoming-information-overload-in-the-workplace",
+   "earliest": "20200920015129"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-at-dreamforce-2022",
+   "earliest": "20220912202023"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/asynchronous-collaboration-in-hybrid-work",
+   "earliest": "20220124160828"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-app-directory-review-process",
+   "earliest": "20210917152918"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/introducing-new-ways-to-work-in-slack-huddles",
+   "earliest": "20220622145615"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/in-case-you-missed-it-new-emoji-improved-search-and-more",
+   "earliest": "20200926030517"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/organizational-health-definition",
+   "earliest": "20200926021654"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slick-features-and-capabilities-you-didnt-know-about-in-slack",
+   "earliest": "20200926031827"
+  },
+  {
+   "url": "https://slack.com/blog/news/we-dont-sell-saddles-here",
+   "earliest": "20210818111653"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/remote-work-lessons-from-ali-rayl-vp-of-customer-experience-at-slack",
+   "earliest": "20210419022150"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/ecole-42",
+   "earliest": "20220626091705"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-atlassian-partnership-update",
+   "earliest": "20200923202055"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/communicating-with-humanity",
+   "earliest": "20210729231954"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/best-document-management-systems-workforce",
+   "earliest": "20200926022256"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/effective-project-management",
+   "earliest": "20200814204156"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/zip-through-your-to-dos-with-these-4-new-apps-for-slack",
+   "earliest": "20200814195044"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-is-built-for-enterprise-companies",
+   "earliest": "20201021224855"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/5-ways-to-enable-asynchronous-collaboration",
+   "earliest": "20220520153932"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/productivity-tips-workday-roadblocks",
+   "earliest": "20201022130238"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-banks-utilities-achieve-agility-security-slack",
+   "earliest": "20200814205838"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/methods-boosting-employee-morale",
+   "earliest": "20200920014310"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/decision-making-expert-advice",
+   "earliest": "20200921092830"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/banding-together-on-slack-to-overcome-an-incident-at-monzo",
+   "earliest": "20200814205913"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-102-staying-focused-on-the-right-things",
+   "earliest": "20200920010256"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/scrimmaging-for-success-across-teams-and-time-zones",
+   "earliest": "20200926020409"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/wayfair-pivot-remote-work-slack",
+   "earliest": "20201021224924"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/dark-mode-for-slack-desktop",
+   "earliest": "20200920021649"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/what-is-a-digital-hq",
+   "earliest": "20220912181411"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/watch-2019-slack-frontiers-conference-livestream",
+   "earliest": "20201203101110"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/the-app-era-is-here",
+   "earliest": "20201022123945"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-raises-series-h-round-of-financing-from-new-investors",
+   "earliest": "20200814020243"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/google-calendar-reminders-come-to-slack",
+   "earliest": "20200926032409"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/channeling-change-how-to-use-slack-to-maintain-your-teams-human-connections",
+   "earliest": "20210729231330"
+  },
+  {
+   "url": "https://slack.com/blog/developers/new-code-samples",
+   "earliest": "20220807134755"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/to-infinity-and-beyond-with-operation-space",
+   "earliest": "20201021224757"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/8-time-management-tips-for-productivity",
+   "earliest": "20210926234955"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/10-tips-for-successful-team-collaboration",
+   "earliest": "20210926234210"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/six-takeaways-from-frontiers-2022",
+   "earliest": "20220712164502"
+  },
+  {
+   "url": "https://slack.com/blog/news/say-hello-new-logo",
+   "earliest": "20200923165617"
+  },
+  {
+   "url": "https://slack.com/blog/news/edith-cooper-named-to-slacks-board-of-directors",
+   "earliest": "20201021213425"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-shared-channels",
+   "earliest": "20200921084539"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-two-women-leaders-are-driving-innovation-and-inclusion-with-their-digital-hq",
+   "earliest": "20220331201149"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/forrester-study-total-economic-impact-of-slack-sales-teams",
+   "earliest": "20210615141857"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-tips-sourced-from-tweets",
+   "earliest": "20200926023312"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/lessons-from-five-years-of-hackathons-at-slack",
+   "earliest": "20210730022456"
+  },
+  {
+   "url": "https://slack.com/blog/collections/celebrating-the-innovative-women-behind-every-digital-hq",
+   "earliest": "20220526191133"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-hr-professionals-employee-engagement-strategies",
+   "earliest": "20200926030644"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-covid-tracking-projects-central-nervous-system",
+   "earliest": "20210225030816"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/san-francisco-chronicle-pioneers-modern-newsroom",
+   "earliest": "20210305133521"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/communication-techniques-challenging-conversations",
+   "earliest": "20200920004413"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/automate-tasks-in-slack-with-workflow-builder",
+   "earliest": "20200911151326"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/bonded-by-service-veterans",
+   "earliest": "20211111172641"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/splunk-sales-deals-slack",
+   "earliest": "20200923203539"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/women-of-slack-redefining-tech-together",
+   "earliest": "20210419035933"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/informal-communication-hybrid-work-survey",
+   "earliest": "20220216202551"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-managers-can-get-more-out-of-slack",
+   "earliest": "20200926023154"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/get-more-from-slack-on-mobile",
+   "earliest": "20200920012639"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/top-collaboration-tools-remote-work",
+   "earliest": "20210929021047"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/sales-team-automated-deal-approval-in-slack",
+   "earliest": "20201019150610"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/getting-executive-communications-right",
+   "earliest": "20200814210028"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/improve-remote-engagement",
+   "earliest": "20220702222831"
+  },
+  {
+   "url": "https://slack.com/blog/developers/accelerate-customer-growth-retention",
+   "earliest": "20211116193837"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/6-apps-for-slack-that-drive-team-productivity",
+   "earliest": "20201022125020"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-tinkoff-productivity",
+   "earliest": "20210617044003"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-off-the-grid-savvy-chefs-assistant",
+   "earliest": "20200926005937"
+  },
+  {
+   "url": "https://slack.com/blog/developers/donut-built-slack-first-business",
+   "earliest": "20220630145003"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-nextdoor-uses-slack-to-help-neighborhoods-combat-covid-19",
+   "earliest": "20201021224838"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/knowledge-sharing-is-caring",
+   "earliest": "20200814204903"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-we-localize-slack",
+   "earliest": "20200920021839"
+  },
+  {
+   "url": "https://slack.com/blog/news/announcement-offering-april-2020",
+   "earliest": "20201021224544"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/means-of-communication",
+   "earliest": "20200926032007"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/introduction-enterprise-key-management-for-security",
+   "earliest": "20200814203121"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/incident-management-slack",
+   "earliest": "20200926023038"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-for-dummies",
+   "earliest": "20200927080458"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/atlassian-and-slack-drive-value-for-technical-teams",
+   "earliest": "20210507224104"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/develop-engineering-team-leaders",
+   "earliest": "20200926031719"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/tips-how-to-be-more-productive",
+   "earliest": "20200926022845"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/simpler-more-organized-slack-mobile-app",
+   "earliest": "20200920022109"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/pagerduty-slack-dream-team-frontiers",
+   "earliest": "20201020174335"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-essentials-gather-feedback",
+   "earliest": "20200814205622"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/breaking-free-from-inbox-with-slack",
+   "earliest": "20200926024237"
+  },
+  {
+   "url": "https://slack.com/blog/developers/digital-hq-slackathon",
+   "earliest": "20220105182625"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-appoints-former-flex-ceo-mike-mcnamara-to-board-of-directors&ct=ga&cd=CAIyGTQyYjYxYTM3ZmJhNmEyYzk6cm86ZW46VVM&usg=AFQjCNH-aTb66epp3hrNilb_M76IoozmDw",
+   "earliest": "20210124070324"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture",
+   "earliest": "20220830092102"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/tomo-today-success-tomorrow-the-key-to-unlocking-total-employee-motivation",
+   "earliest": "20200920015446"
+  },
+  {
+   "url": "https://slack.com/blog/developers/build-slack-apps-in-a-flash",
+   "earliest": "20211023013628"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/masks-for-docs-slack-fight-covid-19",
+   "earliest": "20201022113816"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-great-leaders-spark-change-with-stories",
+   "earliest": "20200926030315"
+  },
+  {
+   "url": "https://slack.com/blog/collections/slack-on-slack",
+   "earliest": "20210118145650"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-to-collaborate-in-sizable-channels",
+   "earliest": "20200920021654"
+  },
+  {
+   "url": "https://slack.com/blog/news/say-hello-to-the-updated-slack-community-forum-companion-app",
+   "earliest": "20221005201449"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/companies-coworking-huddles",
+   "earliest": "20220920154043"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/etiquette-tips-in-slack",
+   "earliest": "20200920004258"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/dev-teams-leading-reinvention-work",
+   "earliest": "20210818143723"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/limelight-networks-sales-slack-connect",
+   "earliest": "20200814203527"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/communication-tools-modern-workplace",
+   "earliest": "20201021224918"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-bmarko-structures-portable-patient-rooms",
+   "earliest": "20200927081615"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/reinventing-work-new-imperatives-future-of-working",
+   "earliest": "20210415011309"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/navigating-the-web-of-change-in-the-world-of-work",
+   "earliest": "20201202234459"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/diagonal-communication",
+   "earliest": "20211205044820"
+  },
+  {
+   "url": "https://slack.com/blog/news/atlassian-and-slack-partnership",
+   "earliest": "20200926032001"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/what-to-post-where-in-slack",
+   "earliest": "20200926025939"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/team-building-activities-move-forward",
+   "earliest": "20201021191756"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/getting-started-with-slack-connect",
+   "earliest": "20210418184534"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/moderating-in-moderation",
+   "earliest": "20210305140723"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/leverage-technology-in-6-steps",
+   "earliest": "20220819031148"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/revamp-recruitment-process-top-talent",
+   "earliest": "20201022125936"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/collaboration-skills-bring-teams-together",
+   "earliest": "20200926032122"
+  },
+  {
+   "url": "https://slack.com/blog/news/salesforce-signs-definitive-agreement-to-acquire-slack",
+   "earliest": "20201202234357"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/women-behind-digital-hq-forged-their-career-paths",
+   "earliest": "20220325120020"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/immersive-worlds-mobile-gamers-slack",
+   "earliest": "20200920005427"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-fund-anniversary-investing",
+   "earliest": "20201219230512"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/improve-communication-skills",
+   "earliest": "20211020084856"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/choose-right-workflow-software",
+   "earliest": "20201022130458"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/collaboration-and-productivity-lessons-2019",
+   "earliest": "20200814210056"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/6-apps-that-cut-down-on-context-switching",
+   "earliest": "20200927080641"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/communication-channels-business",
+   "earliest": "20220527171647"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/ultimate-guide-remote-meetings",
+   "earliest": "20200920021850"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/your-digital-hq-just-got-better-with-slack-canvas",
+   "earliest": "20220920141904"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/balancing-work-parenting-while-remote",
+   "earliest": "20210127160058"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/devops-slack-simplify-workflows",
+   "earliest": "20201019162810"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/sandwich-in-a-lunchbox-socially-distant-ad-production",
+   "earliest": "20201021225136"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/workplace-transformation-in-the-wake-of-covid-19",
+   "earliest": "20201013050256"
+  },
+  {
+   "url": "https://slack.com/blog/news/10-apps-for-slack-that-just-keep-getting-better",
+   "earliest": "20201022125101"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/effective-leadership-inspires-employee-engagement",
+   "earliest": "20200926020222"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/the-five-day-workweek-has-left-the-building",
+   "earliest": "20210415151835"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/office-holiday-party",
+   "earliest": "20201022124144"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-slack-legal-collaborates-with-external-partners",
+   "earliest": "20200927075913"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-101-onboarding",
+   "earliest": "20201021215608"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-appoints-symantec-svp-and-cio-sheila-b-jordan-to-board-of-directors",
+   "earliest": "20200920005322"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/valley-behavioral-health-keeps-patients-front-and-center-with-slack",
+   "earliest": "20201021214841"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/shared-channels-for-remote-work",
+   "earliest": "20201021221319"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-record-third-quarter-fiscal-year-2020-results",
+   "earliest": "20200920013421"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-certified-and-new-admin-tools",
+   "earliest": "20200814195822"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/digital-transformation-business",
+   "earliest": "20211202202038"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/working-in-slack-channels",
+   "earliest": "20210118222103"
+  },
+  {
+   "url": "https://slack.com/blog/news/the-new-work-from-home-reality",
+   "earliest": "20201022120054"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/shared-purpose-drives-collaboration",
+   "earliest": "20210922121905"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-statement-hate-groups",
+   "earliest": "20200920022023"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress",
+   "earliest": "20211006015633"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/intuit-quickbooks-support-agents-slack",
+   "earliest": "20210124170122"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/twitter-goes-remote-with-slack",
+   "earliest": "20201022124852"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/snowflake-crystalizes-relationships-slack-connect",
+   "earliest": "20200814205821"
+  },
+  {
+   "url": "https://slack.com/blog/developers/roman-roznovsky-on-modernizing-task-management",
+   "earliest": "20220303214956"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/shopify-guru-knowledge-management",
+   "earliest": "20220510175528"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-preliminary-fourth-quarter-and-fiscal-year-2021-results-acceleration-caps-off-a-record-setting-year",
+   "earliest": "20210423075239"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/adapting-to-our-remote-work-reality",
+   "earliest": "20200927074759"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/simpler-more-organized-slack",
+   "earliest": "20200818155144"
+  },
+  {
+   "url": "https://slack.com/blog/news/intl-en-gb-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok-2",
+   "earliest": "20201022123341"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/tips-sustainable-competitive-advantage",
+   "earliest": "20200814205049"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/a-bevy-of-ways-to-work-with-your-files-in-slack-2",
+   "earliest": "20200920003532"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/strategies-to-support-your-team",
+   "earliest": "20210305134028"
+  },
+  {
+   "url": "https://slack.com/blog/news/salesforce-completes-acquisition-of-slack",
+   "earliest": "20210721231927"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-supports-the-ocean-discovery-leagues-inclusivity-efforts",
+   "earliest": "20210812031019"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/neil-patel-on-building-a-digital-hq",
+   "earliest": "20211213212306"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/workplace-transformation-in-the-wake-of-covid-19%E2%80%8B",
+   "earliest": "20210301110103"
+  },
+  {
+   "url": "https://slack.com/blog/news/a-note-to-our-customers-on-international-data-transfers",
+   "earliest": "20200814205325"
+  },
+  {
+   "url": "https://slack.com/blog/news/where-work-happens-in-japan",
+   "earliest": "20200814205809"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/asynchronous-video-hybrid-workplace",
+   "earliest": "20220519170520"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/team-meetings-you-need-and-dont-need",
+   "earliest": "20200926031259"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/5-advantages-of-technology-business-strategy",
+   "earliest": "20211128093532"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/mind-the-bot-a-guide-to-slackbot-custom-responses",
+   "earliest": "20200927073434"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/employee-happiness-business-priority",
+   "earliest": "20200927081949"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/6-ways-build-great-team-culture",
+   "earliest": "20220702222830"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-get-started-building-apps-on-slack",
+   "earliest": "20200926025336"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/devacurl-communication-tangle-free-slack",
+   "earliest": "20200924181239"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/sweet-sweet-collaboration-at-molly-moons-homemade-ice-cream",
+   "earliest": "20200926012330"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/skyscanner-engineers-find-answers-faster",
+   "earliest": "20220419180009"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-gently-onboard-new-hires-using-slack",
+   "earliest": "20200920021804"
+  },
+  {
+   "url": "https://slack.com/blog/developers/chris-evans-on-the-power-of-automation-in-incident-response",
+   "earliest": "20220125213821"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-we-navigated-an-acquisition-deal-completely-virtually",
+   "earliest": "20200923203506"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/workflow-builder-templates-remote-teams",
+   "earliest": "20200912222016"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/zapier-unlocks-growth-by-building-on-top-of-slack",
+   "earliest": "20210826051949"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/sid-lee-boosts-efficiency-powers-creativity",
+   "earliest": "20210415025450"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/time-management-strategies-team-efficiency",
+   "earliest": "20200926031133"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/the-next-step-in-reinventing-business-communication-with-slack-connect",
+   "earliest": "20210324190603"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-strong-third-quarter-fiscal-year-2021-results",
+   "earliest": "20201202234244"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/report-remote-work-during-coronavirus",
+   "earliest": "20200822152848"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/universities-keep-class-in-session-with-channels",
+   "earliest": "20200814203846"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/8-apps-for-slack-that-keep-remote-work-on-track",
+   "earliest": "20200920013751"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/6-ways-make-hybrid-meetings-work",
+   "earliest": "20220830092102"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/asynchronous-communication-best-practices",
+   "earliest": "20220208200701"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/developing-good-work-habits-easy",
+   "earliest": "20211016224730"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/defense-digital-service-government-teamwork",
+   "earliest": "20210418171843"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/survey-remote-work-experiences",
+   "earliest": "20201006204823"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-to-move-your-next-project-into-slack",
+   "earliest": "20201022120623"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/shared-channels-sales-customer-relationships",
+   "earliest": "20201022122759"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/clips-faster-personalized-communication",
+   "earliest": "20210923080229"
+  },
+  {
+   "url": "https://slack.com/blog/news/lincoln-investment-financial-slack-customer-story",
+   "earliest": "20200926021813"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/staging-digital-events-at-slack",
+   "earliest": "20200926021612"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/sharpen-your-focus-identifying-bad-habits",
+   "earliest": "20211021014544"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/a-modern-leaders-guide-to-organizational-transparency",
+   "earliest": "20201030135223"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/remote-work-tips-from-slack-engineering",
+   "earliest": "20201021045859"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/speed-up-work-with-external-partners-apps-for-slack-connect",
+   "earliest": "20210415031130"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-peloton-guru-tunde-oyeneyin-stays-balanced-and-productive-on-and-off-the-bike",
+   "earliest": "20210615122217"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/innovation-for-a-new-moment",
+   "earliest": "20210326212315"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/decisionmaking-process-team",
+   "earliest": "20200926021159"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/sarah-cooper-tips-workplace-collaboration",
+   "earliest": "20201019163031"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/a-slack-guide-to-going-out-of-office",
+   "earliest": "20201022124331"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/speed-up-work-with-apps-for-slack",
+   "earliest": "20201022115159"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-date-of-fourth-quarter-and-fiscal-year-2020-financial-results",
+   "earliest": "20200927081529"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/emergent-leadership-team-trait",
+   "earliest": "20200814204615"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/loblaw-streamlines-tasks-customized-slack-tools",
+   "earliest": "20210305131936"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/onboarding-support-agents",
+   "earliest": "20210305131729"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-community-leads",
+   "earliest": "20210615142214"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-magic-leap-scaled-customer-experience-cx",
+   "earliest": "20200926032300"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/employee-learning-and-development",
+   "earliest": "20201021213642"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/getting-started-your-first-week-in-slack",
+   "earliest": "20200926030716"
+  },
+  {
+   "url": "https://slack.com/blog/news/8-new-apps-to-make-work-more-efficient",
+   "earliest": "20200927080352"
+  },
+  {
+   "url": "https://slack.com/blog/news/exploring-better-ways-to-work",
+   "earliest": "20201007160822"
+  },
+  {
+   "url": "https://slack.com/blog/news/new-information-2015-incident",
+   "earliest": "20200927080817"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-date-of-third-quarter-fiscal-year-2021-financial-results",
+   "earliest": "20201127021038"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/ways-foster-positive-work-environment",
+   "earliest": "20200920014115"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/reinvent-work-new-digital-sales-floor",
+   "earliest": "20210729231632"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-slack-customers-collaborate-with-huddles",
+   "earliest": "20210630190800"
+  },
+  {
+   "url": "https://slack.com/blog/news/winning-the-war-for-talent-in-the-post-pandemic-world",
+   "earliest": "20210801130738"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/implement-digital-transformation",
+   "earliest": "20220807134800"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/time-management-tips",
+   "earliest": "20200904155615"
+  },
+  {
+   "url": "https://slack.com/blog/developers/faster-simpler-way-build-apps",
+   "earliest": "20211116193827"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/embrace-flexibility-workplace",
+   "earliest": "20220925050607"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/perks-productivity-employee-experience",
+   "earliest": "20200926031944"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/pixars-ed-catmull-on-taking-risks-and-checking-your-ego",
+   "earliest": "20200927074059"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/say-goodbye-to-company-wide-reply-alls",
+   "earliest": "20200926032047"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/automating-customer-support-escalations-in-slack",
+   "earliest": "20210615123055"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/tibco-remote-game-plan-slack",
+   "earliest": "20201021213312"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/your-companys-untapped-growth-lever-it",
+   "earliest": "20200814203212"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/celebrating-asian-americans-and-pacific-islanders",
+   "earliest": "20210507234130"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-and-salesforce-consulting-partners-launch-industry-solutions&a=Slack+Partner+Industry+Solutions",
+   "earliest": "20221006070706"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-acquires-robot-pencils-missions-to-make-it-easy-for-non-tech-teams-to-streamline-work",
+   "earliest": "20200923203300"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-feeling-left-out-at-work-can-affect-your-job",
+   "earliest": "20200927081604"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/automating-your-help-desk-with-slack-and-moveworks",
+   "earliest": "20210925074955"
+  },
+  {
+   "url": "https://slack.com/blog/news/a-special-connection-slacks-first-year-in-germany",
+   "earliest": "20210305114801"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/next-chapter-panel-slack-frontiers",
+   "earliest": "20201019162731"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/stanford-comcast-booz-allen-hamilton-agile-slack",
+   "earliest": "20210124165007"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/gartner-cio-coronavirus-collaboration-software",
+   "earliest": "20200927070057"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/streamline-your-time-with-these-5-apps-for-slack",
+   "earliest": "20200926010459"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/time-for-business-evolution",
+   "earliest": "20200923205540"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-on-slack-unlocking-productivity-with-custom-slack-bots",
+   "earliest": "20201021212012"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/joining-a-project-in-slack",
+   "earliest": "20200814210005"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/ease-into-your-workday-with-these-6-new-apps-for-slack",
+   "earliest": "20200926023800"
+  },
+  {
+   "url": "https://slack.com/blog/news/hello-denver-you-look-nice-today",
+   "earliest": "20200926022922"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/digital-transformation-means",
+   "earliest": "20200923144835"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/effects-low-productivity-business-growth",
+   "earliest": "20211128015259"
+  },
+  {
+   "url": "https://slack.com/blog/collections/from-aha-to-async",
+   "earliest": "20221027181149"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/new-slack-features-invites-message-formatting",
+   "earliest": "20200926013732"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-apps-for-slack-help-ibm-and-hearst-get-more-from-their-tech-stack",
+   "earliest": "20200814200646"
+  },
+  {
+   "url": "https://slack.com/blog/news/leveling-the-playing-field-in-the-new-hybrid-workplace",
+   "earliest": "20220601140759"
+  },
+  {
+   "url": "https://slack.com/blog/news/april-update-on-slack-office-closures-from-slack",
+   "earliest": "20201021214704"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/new-tools-to-help-you-work-from-anywhere",
+   "earliest": "20210630174020"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/create-fun-productive-work-environment",
+   "earliest": "20211027111242"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/asking-tough-questions-to-create-a-more-equitable-workplace",
+   "earliest": "20210419023517"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/choose-right-tech-digital-transformation",
+   "earliest": "20211207162402"
+  },
+  {
+   "url": "https://slack.com/blog/developers/grow-co-founders-redefining-feedback",
+   "earliest": "20211027174544"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/managing-slack-at-scale-how-to-streamline-guest-access",
+   "earliest": "20201022125538"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/teamwork-in-the-workplace-meeting-or-connecting",
+   "earliest": "20200926032018"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/distributed-teams-collaboration-connection",
+   "earliest": "20200920013322"
+  },
+  {
+   "url": "https://slack.com/blog/news/diversity-at-slack-2021",
+   "earliest": "20210507215958"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/embrace-asynchronous-communication-remote-work",
+   "earliest": "20220516201509"
+  },
+  {
+   "url": "https://slack.com/blog/developers/zapier-unlocks-growth-by-building-on-top-of-slack",
+   "earliest": "20210923215719"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/neatly-organize-your-work-life-with-custom-sidebar-sections-in-slack",
+   "earliest": "20210725145434"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/sealing-the-sale-with-slack",
+   "earliest": "20220116231549"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-community-chapter",
+   "earliest": "20210506120154"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-app-saves-sales-team-5000-hours-a-month",
+   "earliest": "20201021222819"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/communication-work-managers-team-leaders",
+   "earliest": "20220519145029"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-date-of-second-quarter-fiscal-year-2021-financial-results",
+   "earliest": "20200920013819"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/mastering-time-management-at-work",
+   "earliest": "20210926213851"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/remote-work-culture-with-apps-for-slack",
+   "earliest": "20210516052845"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-at-dreamforce-guide",
+   "earliest": "20210925073911"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/courtesy-call-more-empathy-tips-in-slack",
+   "earliest": "20201022123459"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/automating-your-help-desk-with-slack-and-moveworks&a=Slack",
+   "earliest": "20210915133744"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/student-faculty-guide-collaborating-slack",
+   "earliest": "20200926022218"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/83bar-agents-help-patients-halp",
+   "earliest": "20220528103938"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-the-engineering-team-at-ibm-uses-slack-throughout-the-development-lifecycle",
+   "earliest": "20200814192748"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/productivity-is-about-purpose-not-busyness",
+   "earliest": "20211130011308"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/future-of-work-best-of-breed",
+   "earliest": "20201019161354"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-services-partner-program",
+   "earliest": "20200814203104"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-and-salesforce-consulting-partners-launch-industry-solutions",
+   "earliest": "20220915140105"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/employee-engagement-survey-questions",
+   "earliest": "20200920020803"
+  },
+  {
+   "url": "https://slack.com/blog/news/notice-about-slack-password-resets",
+   "earliest": "20220805032600"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/professional-development-fuels-employee-engagement",
+   "earliest": "20200926022456"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/workplace-technology-business-communications",
+   "earliest": "20220527171354"
+  },
+  {
+   "url": "https://slack.com/blog/developers/the-new-slack-community-forum",
+   "earliest": "20211102210251"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-frontiers-virtual-2020",
+   "earliest": "20200814201850"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/super-slack-bot-automates-record-keeping-and-eases-compliance",
+   "earliest": "20201022125225"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-files-eu-competition-complaint-against-microsoft",
+   "earliest": "20200814210514"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/boost-teamwork-slack",
+   "earliest": "20211101164540"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/gymshark-presses-delete-on-email",
+   "earliest": "20210306084955"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/improve-productivity-workplace",
+   "earliest": "20210926235012"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-slack-helps-you-recruit-smarter",
+   "earliest": "20200814203937"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/introducing-the-slack-tips-library",
+   "earliest": "20200926024630"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/the-5-essential-slack-channels-you-didnt-know-your-team-needed",
+   "earliest": "20200926031102"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/5-ways-to-power-up-your-internal-comms-with-slack",
+   "earliest": "20200814210635"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/navigating-a-digital-transformation",
+   "earliest": "20200926031900"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/steve-wood-on-establishing-rapport-with-a-virtual-team",
+   "earliest": "20210419030415"
+  },
+  {
+   "url": "https://slack.com/blog/collections/reinvent-work",
+   "earliest": "20210411185007"
+  },
+  {
+   "url": "https://slack.com/blog/news/march-2020-update",
+   "earliest": "20200820084534"
+  },
+  {
+   "url": "https://slack.com/blog/collections/digital-hq-platform",
+   "earliest": "20211202184718"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/etsy-snowflake-ditch-email-use-slack-connect",
+   "earliest": "20210415230506"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-fund-anniversary-investing&utm_medium=promo",
+   "earliest": "20220526075835"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/future-workday-better-platform",
+   "earliest": "20211116193827"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/gaad-at-slack",
+   "earliest": "20210615141631"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/steve-dotto-top-slack-tips",
+   "earliest": "20220603210205"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/manager-manual-for-remote-work",
+   "earliest": "20201021211254"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-channels-creative-process",
+   "earliest": "20200926032231"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/what-is-digital-culture",
+   "earliest": "20220812145346"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/running-low-on-productive-work-time-cut-down-on-unproductive-meetings",
+   "earliest": "20201203111233"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/video-conference-fatigue",
+   "earliest": "20201021224746"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/process-documentation",
+   "earliest": "20211006005539"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/level-up-team-knowledge-management-system",
+   "earliest": "20200926032110"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/transforming-customer-service-intuit-influx",
+   "earliest": "20220313015536"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/smartcare-slack-connect",
+   "earliest": "20200927081644"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/sportradar-winning-bet-slack",
+   "earliest": "20201030150459"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/supercharge-your-customer-support-tools-with-slack",
+   "earliest": "20201127033831"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/fortune-100-rely-slack-connect-build-digital-hq",
+   "earliest": "20211126191219"
+  },
+  {
+   "url": "https://slack.com/blog/developers/salesforce-acquires-slack",
+   "earliest": "20211201103757"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/at-bluecat-networks-data-and-automations-drive-sales-productivity",
+   "earliest": "20210812031816"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-customize-notifications-in-slack",
+   "earliest": "20200926022420"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/informal-meetings-innovative-ideas",
+   "earliest": "20221006055648"
+  },
+  {
+   "url": "https://slack.com/blog/news/statement-from-slack-condemning-white-supremacy-and-violence-against-the-black-community",
+   "earliest": "20200814201407"
+  },
+  {
+   "url": "https://slack.com/blog/news/an-apology-and-an-update",
+   "earliest": "20200920010612"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/forrester-study-total-economic-impact-of-slack-technical-teams",
+   "earliest": "20201030145644"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/emoji-use-at-work",
+   "earliest": "20220714021108"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/overhauling-inefficient-business-systems",
+   "earliest": "20201022124748"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-platform-community-chapter",
+   "earliest": "20200923203744"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-slack-legal-uses-slack",
+   "earliest": "20201022115038"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-zoom-partnership-announcement",
+   "earliest": "20200920015734"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-slack-makes-communication-better-for-skype-users",
+   "earliest": "20210615142611"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/lack-of-communication-impede-company-success",
+   "earliest": "20201021224500"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/whats-next-for-spec-our-conference-for-builders",
+   "earliest": "20200926025231"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/disruption-of-work-the-last-gasps-of-analog",
+   "earliest": "20210623112201"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-pick-an-online-meeting-tool",
+   "earliest": "20200926031615"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/react-veterans-covid-relief-slack",
+   "earliest": "20200814203414"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/a-guided-tour-of-the-newest-slack-improvements",
+   "earliest": "20201021212334"
+  },
+  {
+   "url": "https://slack.com/blog/news/top-u-s-retailer-h-e-b-rolled-out-slack-to-100k-employees-in-72-hours",
+   "earliest": "20201030145211"
+  },
+  {
+   "url": "https://slack.com/blog/developers/collaborating-with-community",
+   "earliest": "20211119001156"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/improve-work-environment-boost-success",
+   "earliest": "20211020081513"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/people-partners-systems-slack",
+   "earliest": "20201012213207"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/stay-productive-from-anywhere-with-slack",
+   "earliest": "20201021223436"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/whats-new-in-slack-audio-video-scheduled-send",
+   "earliest": "20211209233425"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/maximize-your-time-with-slack",
+   "earliest": "20210729231802"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/remote-workers-employee-engagement",
+   "earliest": "20200920014018"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-and-the-aspen-institute-collaborate-to-help-formerly-incarcerated-individuals-build-careers-in-tech",
+   "earliest": "20220629145937"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/aws-chatbot-bring-aws-into-your-slack-channel",
+   "earliest": "20201021222044"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-channels-main-office-remote-work",
+   "earliest": "20200926025019"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/inside-first-slackathon-at-frontiers",
+   "earliest": "20200926024703"
+  },
+  {
+   "url": "https://slack.com/blog/collections/slack-frontiers-transform-how-you-work",
+   "earliest": "20201030150306"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/in-case-you-missed-it-drafts-email-dark-mode",
+   "earliest": "20200926032116"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/the-science-of-managing-up",
+   "earliest": "20200926023352"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-welcomes-julie-liegl-as-chief-marketing-officer",
+   "earliest": "20200926014014"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/finder-global-collaboration-slack",
+   "earliest": "20201022123717"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/key-takeaways-frontiers-tour-london",
+   "earliest": "20201022123105"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/abd-insurance-financial-services-streamlines-business-collaboration",
+   "earliest": "20210517164539"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/stripe-client-relationships-slack-connect",
+   "earliest": "20201207181843"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-be-more-productive-at-work",
+   "earliest": "20201022125730"
+  },
+  {
+   "url": "https://slack.com/blog/news/a-better-way-to-collaborate-with-slack-and-adobe-creative-cloud",
+   "earliest": "20200923165919"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/remote-employee-experience-index-launch",
+   "earliest": "20201012233439"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/enable-asynchronous-collaboration",
+   "earliest": "20220925215523"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-to-manage-software-development-in-slack",
+   "earliest": "20201203155557"
+  },
+  {
+   "url": "https://slack.com/blog/news/next-chapter-a-pilot-program-aiming-to-help-formerly-incarcerated-individuals-find-work-and-succeed-in-tech",
+   "earliest": "20200908032029"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/set-your-status-in-slack",
+   "earliest": "20201203100009"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/an-easier-way-to-use-jira-with-slack",
+   "earliest": "20200926032242"
+  },
+  {
+   "url": "https://slack.com/blog/news/pricing-and-plan-updates",
+   "earliest": "20220718203935"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/real-time-collaboration-tools-you-should-integrate-into-slack",
+   "earliest": "20211202075452"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/7-marketing-reports-youll-never-have-to-pull-again",
+   "earliest": "20200920014656"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/enhance-digital-events-with-slack",
+   "earliest": "20220125111122"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/accurate-efficient-customer-service-with-servicenow-and-slack",
+   "earliest": "20201203114810"
+  },
+  {
+   "url": "https://slack.com/blog/news/shared-channels-growth-innovation",
+   "earliest": "20200927074619"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/salesforce-sarah-franklin-power-of-continuous-learning",
+   "earliest": "20200926014130"
+  },
+  {
+   "url": "https://slack.com/blog/collections/digital-hq-for-service",
+   "earliest": "20220526185126"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/serena-williams-frontiers-2019-keynote-speaker",
+   "earliest": "20210920213203"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-helps-singlethread-deliver-world-class-dining",
+   "earliest": "20200926020640"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/work-efficiency-redefining-productivity",
+   "earliest": "20200926015533"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/team-dynamics-high-performing-teams",
+   "earliest": "20200920004650"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-expands-global-consulting-partner-ecosystem",
+   "earliest": "20220310201147"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/de-escalate-conflict-communication-skills",
+   "earliest": "20200920012744"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/redefine-corporate-culture",
+   "earliest": "20200927081954"
+  },
+  {
+   "url": "https://slack.com/blog/developers/sharpen-development-skills-tasks-app",
+   "earliest": "20211120032051"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/difference-between-formal-informal-meetings",
+   "earliest": "20221004082009"
+  },
+  {
+   "url": "https://slack.com/blog/news/work-is-fueled-by-true-engagement",
+   "earliest": "20200814205740"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-to-take-risks-on-the-right-ideas",
+   "earliest": "20201203113011"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/tools-supportive-company-culture",
+   "earliest": "20200926032145"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/setting-up-slack-for-small-teams",
+   "earliest": "20200814205844"
+  },
+  {
+   "url": "https://slack.com/blog/news/ipad-app-new-look-improved-functionality",
+   "earliest": "20220324223327"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/business-technology-paradox",
+   "earliest": "20200926023233"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/onboarding-sales-reps",
+   "earliest": "20220528115833"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/networking-tips-for-introverts-and-everyone-else-from-karen-wickre",
+   "earliest": "20200923160732"
+  },
+  {
+   "url": "https://slack.com/blog/developers/make-work-flow-faster-with-slacks-new-platform&a=The+new+Slack+platform",
+   "earliest": "20221006070709"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/increase-everyday-productivity-with-office-365-apps-for-slack",
+   "earliest": "20200920012425"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/leading-change-by-putting-empathy-in-action",
+   "earliest": "20200926032013"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/employee-engagement-apps",
+   "earliest": "20200926024805"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-updates-data-processing-addendum",
+   "earliest": "20211004215050"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/hosting-remote-meetings-and-events-in-slack",
+   "earliest": "20200814210022"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-on-slack-how-channels-power-our-sales-team",
+   "earliest": "20200814200725"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/reap-benefits-intuitive-collaboration-software",
+   "earliest": "20210924224317"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/battle-meeting-fatigue-slack-channels",
+   "earliest": "20200926015430"
+  },
+  {
+   "url": "https://slack.com/blog/news/graham-smith-named-to-slacks-board-of-directors",
+   "earliest": "20200920015103"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/accent-group-support-agents-slack",
+   "earliest": "20210124165655"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/nutanix-drives-engagement-resolves-incidents-faster",
+   "earliest": "20210527181707"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/turn-slack-messages-into-notes-to-dos-and-more-with-zapier",
+   "earliest": "20200926032248"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-fund-founders-adapt-future-of-work",
+   "earliest": "20210228111624"
+  },
+  {
+   "url": "https://slack.com/blog/developers/celebrating-five-years-slack-platform",
+   "earliest": "20211022143602"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/effective-change-management",
+   "earliest": "20200926023946"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/5-tips-for-effective-collaboration-at-work",
+   "earliest": "20210924225403"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-acquires-astro-to-help-email-and-channels-work-together",
+   "earliest": "20200920021953"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-we-navigated-an-acquisition-deal-completely-digitally",
+   "earliest": "20211204181941"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/top-strategies-improving-business-productivity",
+   "earliest": "20210926234608"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/leadership-trends-for-returning-to-the-workplace",
+   "earliest": "20200923171832"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/select-business-software-start-up",
+   "earliest": "20200926005352"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/doordash-fuels-growth-with-slack-and-okta",
+   "earliest": "20210516005043"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/mae-jemison-great-teamwork-frontiers",
+   "earliest": "20200926030416"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/why-financial-advisors-need-a-digital-hq-now",
+   "earliest": "20220420173548"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/post-merger-richardson-sales-performance-creates-a-single-collaborative-team",
+   "earliest": "20210812100431"
+  },
+  {
+   "url": "https://slack.com/blog/news/a-heartfelt-thank-you-a-happy-welcome",
+   "earliest": "20201021220820"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/new-chief-security-officer-slack",
+   "earliest": "20201030145825"
+  },
+  {
+   "url": "https://slack.com/blog/news/simplify-and-automate-your-workflows-with-atlassian-and-slack",
+   "earliest": "20200927071722"
+  },
+  {
+   "url": "https://slack.com/blog/news/update-on-extended-work-from-home-for-slack-employees",
+   "earliest": "20200818213843"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/a-new-way-to-share-messages-across-channels-using-emoji",
+   "earliest": "20201022114637"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/how-asu-powers-the-modern-learning-experience-with-slack",
+   "earliest": "20200923205110"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/introducing-data-residency-for-slack",
+   "earliest": "20200814205746"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/essential-steps-effective-teamwork",
+   "earliest": "20200920013547"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/effective-business-communication-techniques",
+   "earliest": "20211020081355"
+  },
+  {
+   "url": "https://slack.com/blog/collections/the-ins-and-outs-of-working-in-slack-channels",
+   "earliest": "20200923182614"
+  },
+  {
+   "url": "https://slack.com/blog/news/ipad-app-new-look-improved-functionaility",
+   "earliest": "20220316150232"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/asynchronous-video-meetings-future-work",
+   "earliest": "20220527162000"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/essential-digital-tools-for-startups",
+   "earliest": "20220211184650"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/le-wagon-coding-bootcamps-slack",
+   "earliest": "20200920014630"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/5-%F0%9F%94%91-takeaways-from-frontiers-london",
+   "earliest": "20220127183945"
+  },
+  {
+   "url": "https://slack.com/blog/news/slacks-growth-in-asia",
+   "earliest": "20200902044759"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-corporate-announcement-april-2020",
+   "earliest": "20201022121705"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-to-bring-outsiders-into-your-teams-workspace",
+   "earliest": "20200814210319"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/high-performing-teams-open-communication",
+   "earliest": "20200920005008"
+  },
+  {
+   "url": "https://slack.com/blog/uncategorized/business-continuity-at-slack-keeping-our-customers-up-and-running-during-covid-19",
+   "earliest": "20220625061325"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/five-pillars-of-digital-first-mindset",
+   "earliest": "20220812153832"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-get-your-work-back-on-track-in-slack",
+   "earliest": "20201022123039"
+  },
+  {
+   "url": "https://slack.com/blog/news/home-free-documentary-shines-a-light-on-re-entry-barriers-for-formerly-incarcerated",
+   "earliest": "20220629174755"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/new-slack-enterprise-grid-security-features",
+   "earliest": "20201021225251"
+  },
+  {
+   "url": "https://slack.com/blog/news/update-slack-office-closures-april",
+   "earliest": "20201021221718"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/collaborating-toward-a-disease-free-future",
+   "earliest": "20201022123831"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/salesforce-and-slack-for-sales-and-service",
+   "earliest": "20200814200137"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/mcafee-executive-ama-workflow-builder",
+   "earliest": "20200814202943"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/rpi-ambulance-saves-lives-faster-with-slack",
+   "earliest": "20201021225033"
+  },
+  {
+   "url": "https://slack.com/blog/news/update-on-precautions-for-slack-employees-from-slack-svp-of-people-robby-kwok",
+   "earliest": "20200927075035"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/service-teams-reinventing-customer-experience",
+   "earliest": "20210729223537"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-frontiers-conference-2019-recap",
+   "earliest": "20201203100805"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/psychological-safety-building-trust-teams",
+   "earliest": "20201021225256"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/hybrid-model-future-remote-work",
+   "earliest": "20220702222830"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/chatbooks-empower-working-parents",
+   "earliest": "20200926032518"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/forge-partner-relationships-channels",
+   "earliest": "20200927081215"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slacks-developer-conference-returns",
+   "earliest": "20201022124436"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/elements-effective-innovation-process",
+   "earliest": "20200926015323"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/engaged-resilient-ready-remote-work",
+   "earliest": "20201019162352"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/imagining-the-future-of-work-with-slacks-vp-of-people",
+   "earliest": "20200814203139"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/improve-employee-communications-with-results",
+   "earliest": "20200926032312"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/segment-partnerships-sales-customers-slack-connect",
+   "earliest": "20200814205152"
+  },
+  {
+   "url": "https://slack.com/blog/news/siriusxm-chooses-slack-for-companywide-collaboration",
+   "earliest": "20200921085308"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/slack-is-the-best-alternative-to-skype-heres-why",
+   "earliest": "20210805160511"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/email-meet-slack-slack-email",
+   "earliest": "20201021223519"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/assign-and-complete-how-to-run-a-triage-channel",
+   "earliest": "20200814201017"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/spring-cleaning-tips-for-tidying-up-your-channels",
+   "earliest": "20200921102629"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-slack-uses-slack-connect",
+   "earliest": "20200814210525"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/effective-leadership-communication-examples",
+   "earliest": "20200926023910"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-frontiers-asia-pacific-slack-frontiers-europe",
+   "earliest": "20210415022433"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-employee-resource-groups-stay-connected-during-remote-work",
+   "earliest": "20210419024017"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/servicenow-for-slack",
+   "earliest": "20210507225942"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/revving-up-marketing-campaigns-at-zipcar",
+   "earliest": "20200920015256"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/the-age-of-the-office-is-ending",
+   "earliest": "20210801084946"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/get-more-done-each-day-with-our-favorite-automation-tools-for-slack",
+   "earliest": "20201127031935"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/latest-emoji-pack-remote-hybrid-work",
+   "earliest": "20210615115810"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-launches-the-future-forum",
+   "earliest": "20200923202613"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/navigating-the-disruption-of-work",
+   "earliest": "20200920012016"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/never-forget-the-little-things-with-remind",
+   "earliest": "20200926021327"
+  },
+  {
+   "url": "https://slack.com/blog/news/note-to-our-android-users",
+   "earliest": "20210305141628"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/designing-the-future-of-slack-with-customers",
+   "earliest": "20200919145210"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/inside-the-slack-app-virtual-hackathon",
+   "earliest": "20201022114335"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/color-slack-genomic-health",
+   "earliest": "20200926031201"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-fund-founders-adapt-future-of-work&utm_medium=promo",
+   "earliest": "20220526084147"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/3-new-workflow-builder-tools-to-help-you-find-your-flow",
+   "earliest": "20200814210348"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/capture-competitive-intelligence-with-automations",
+   "earliest": "20211202202607"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/beyond-chat-10-smart-ways-to-work-in-slack",
+   "earliest": "20200814192403"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-is-now-available-in-korean",
+   "earliest": "20201019151828"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/connect-workflow-builder-to-everyday-tools",
+   "earliest": "20201030150357"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/toptal-gitlab-community-balance-slack",
+   "earliest": "20201022123522"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/squares-global-teams-go-remote-with-slack",
+   "earliest": "20201021224648"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/get-more-work-done-in-slack-with-these-9-updated-apps",
+   "earliest": "20200814205723"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/jagermeister-transforms-business-slack",
+   "earliest": "20200814201830"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/forrester-study-total-economic-impact-of-slack-service-teams",
+   "earliest": "20210802231028"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/communication-at-work-lead-right-message",
+   "earliest": "20201021224820"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/effective-remote-working-practices",
+   "earliest": "20220527165924"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/dow-jones-collaboration-slack",
+   "earliest": "20210125214128"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack",
+   "earliest": "20200814204123"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/timeless-advice-for-time-management-tools",
+   "earliest": "20201022130534"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slacks-frontiers-2019-10-things-to-do-in-san-francisco",
+   "earliest": "20201022124308"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/how-we-close-deals-and-keep-customers-happy-with-slack-connect",
+   "earliest": "20201127034226"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/workflow-builder-tools-automation-examples",
+   "earliest": "20200814205717"
+  },
+  {
+   "url": "https://slack.com/blog/news/diversity-at-slack-2",
+   "earliest": "20200926025910"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/ultimate-guide-digital-meetings",
+   "earliest": "20211129041651"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/enhance-virtual-events-with-slack",
+   "earliest": "20210124165120"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/reinvent-work-unlock-faster-collaboration-it",
+   "earliest": "20210729213234"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/frontline-foods-slack-feed-covid-19-heroes",
+   "earliest": "20200927074935"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/powering-productivity-workplace",
+   "earliest": "20201021220055"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/meetings-burnout-and-rigid-schedules-goodbye-to-all-that",
+   "earliest": "20210509012303"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/the-future-of-business-tech",
+   "earliest": "20200927075643"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-stay-organized-at-work",
+   "earliest": "20200814210205"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-on-slack-how-channels-bring-our-conferences-to-life",
+   "earliest": "20200927072337"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/introducing-channel-search-for-slack",
+   "earliest": "20200920020635"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/wealthsimple-slack-investing-accessible",
+   "earliest": "20200926023002"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/financial-service-providers-using-slack",
+   "earliest": "20200927075515"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/steve-wood-on-establishing-rapport-with-a-digital-team",
+   "earliest": "20211005204415"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/it-teams-turbocharge-remote-work-with-atlassian-and-slack",
+   "earliest": "20210127110916"
+  },
+  {
+   "url": "https://slack.com/blog/news/focus-fridays-and-maker-weeks-at-slack",
+   "earliest": "20220622002932"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/channels-admin-tips-external-access",
+   "earliest": "20200923165823"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/working-with-international-teams-in-slack",
+   "earliest": "20200927060742"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/good-collaboration-bad-collaboration-a-new-report-by-slack",
+   "earliest": "20200920022046"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-slack-helps-you-onboard-new-employees",
+   "earliest": "20200814203620"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/managing-rogue-communications-in-the-financial-services-sector",
+   "earliest": "20220527155915"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/the-slack-spotlight-awards",
+   "earliest": "20210310125555"
+  },
+  {
+   "url": "https://slack.com/blog/collections/digital-hq-for-sales",
+   "earliest": "20220526185332"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/loblaw-optimizes-grocery-services-slack",
+   "earliest": "20201129203437"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-crowdsource-and-curate-a-team-newsletter-in-slack",
+   "earliest": "20201022115741"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-on-slack-how-channels-extend-the-reach-of-internal-communications",
+   "earliest": "20200926031938"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/wickstrom-dairies-in-sync-with-slack",
+   "earliest": "20201022123921"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/employee-self-evaluation",
+   "earliest": "20201022130614"
+  },
+  {
+   "url": "https://slack.com/blog/news/share-a-remote-work-success-story-for-a-great-cause",
+   "earliest": "20200903222014"
+  },
+  {
+   "url": "https://slack.com/blog/developers/asana-boosts-user-engagement-with-slack",
+   "earliest": "20220718154721"
+  },
+  {
+   "url": "https://slack.com/blog/news/inflexible-return-office-policies-impacting-employee-experience-scores",
+   "earliest": "20220425132842"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/meet-the-trailblazing-women-behind-our-digital-hq",
+   "earliest": "20220308211939"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-gsuite-calendar-email-files",
+   "earliest": "20200814205942"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/financial-leaders-embracing-digital-innovation",
+   "earliest": "20200814205105"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/slack-and-workday-get-the-hr-information-you-need-when-you-need-it",
+   "earliest": "20200814205653"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-first-quarter-fiscal-year-2022-results",
+   "earliest": "20210615125903"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/introducing-a-more-efficient-slack-desktop-experience",
+   "earliest": "20200920022057"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/whats-new-in-slack-ipad-app-split-screen",
+   "earliest": "20220606202441"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/everything-you-need-to-know-about-slack-at-dreamforce-2022",
+   "earliest": "20221006211544"
+  },
+  {
+   "url": "https://slack.com/blog/news/productivity-on-the-go-with-slack-mobile-app",
+   "earliest": "20201022125413"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/future-collaborative-communication-platforms-shaping-way-we-work",
+   "earliest": "20210415020540"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/what-will-replace-email",
+   "earliest": "20220830092108"
+  },
+  {
+   "url": "https://slack.com/blog/collections/digital-hq-for-engineering",
+   "earliest": "20220630200557"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/secret-better-workplace-communication",
+   "earliest": "20211202074535"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/unlock-your-teams-potential-with-constructive-feedback",
+   "earliest": "20200927082006"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/how-to-work-from-home",
+   "earliest": "20201001084537"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-innovations-unveiled-dreamforce",
+   "earliest": "20210922214208"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-announces-second-quarter-fiscal-year-2020-results",
+   "earliest": "20201022123634"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/remote-work-culture-with-6-apps-for-slack",
+   "earliest": "20200923204946"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/rolling-out-slack-at-scale",
+   "earliest": "20200927065831"
+  },
+  {
+   "url": "https://slack.com/blog/news/nonprofits-offer-paid-slack-plans-free",
+   "earliest": "20200923172124"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-launches-the-future-forum&utm_medium=promo",
+   "earliest": "20220526092135"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/is-email-dying",
+   "earliest": "20220703133303"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/org-wide-apps-for-easier-deployment",
+   "earliest": "20201202234459"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/slack-enterprise-grid-new-security-features-certifications",
+   "earliest": "20200814210039"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/technology-transforming-business-strategy",
+   "earliest": "20211006005559"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/engineering-collaboration-solutions",
+   "earliest": "20200814210125"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/make-it-a-habit-periodic-reminders-for-slack",
+   "earliest": "20201022123547"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/what-one-neurodiverse-team-can-teach-everyone-about-workplace-inclusion&utm_medium=promo",
+   "earliest": "20211024103450"
+  },
+  {
+   "url": "https://slack.com/blog/collections/customer-stories",
+   "earliest": "20210305132531"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/run-effective-meetings",
+   "earliest": "20200927065558"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/leverage-technology-business-transformation",
+   "earliest": "20220705140457"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/future-remote-working-what-to-know",
+   "earliest": "20220812154408"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/roberts-rules-more-effective-meetings",
+   "earliest": "20220830092103"
+  },
+  {
+   "url": "https://slack.com/blog/news/statement-by-slack-svp-of-people-robby-kwok-on-precautions-for-slack-employees",
+   "earliest": "20200814210045"
+  },
+  {
+   "url": "https://slack.com/blog/transformation/bcgs-nadjia-yousif-on-investing-in-our-tools-and-our-teams",
+   "earliest": "20200927074204"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/new-features-essential-customer-support",
+   "earliest": "20210923080632"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/knowledge-management-secret-sauce-of-productivity",
+   "earliest": "20200921084352"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/new-emoji-pack-to-help-with-your-remote-work-balance",
+   "earliest": "20200927081500"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/man-group-fully-remote-slack",
+   "earliest": "20201021214928"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/companies-improving-employee-engagement",
+   "earliest": "20220809001624"
+  },
+  {
+   "url": "https://slack.com/blog/productivity/unlock-productivity-with-updated-apps-for-slack",
+   "earliest": "20201021221805"
+  },
+  {
+   "url": "https://slack.com/blog/news/the-great-executive-employee-disconnect",
+   "earliest": "20211008083816"
+  },
+  {
+   "url": "https://slack.com/blog/collections/slack-connect-shared-channels-shared-success",
+   "earliest": "20200923185428"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/channeling-the-road-less-traveled-with-lonely-planet",
+   "earliest": "20200926010957"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/help-your-company-shift-digital-first-culture",
+   "earliest": "20220807134805"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/productivity-and-schedule-flexibility-with-async-collaboration",
+   "earliest": "20220930111246"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/engineers-netflix-pagerduty-slack",
+   "earliest": "20210124161201"
+  },
+  {
+   "url": "https://slack.com/blog/collaboration/embrace-work-flexibility-in-2022",
+   "earliest": "20220812163552"
+  },
+  {
+   "url": "https://slack.com/blog/news/slack-salesforce-new-tools-accelerate-team-performance",
+   "earliest": "20220427212422"
+  }
+ ]
+}
