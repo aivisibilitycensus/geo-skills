@@ -6,7 +6,9 @@ Pre-registered 10 November 2026, before the Census100 project management collect
 
 Open-source GEO audit tools give a page a score out of 100. Do brands whose pages score higher get named more often in AI answers?
 
-Nobody selling or sharing these scores has published a test of that, as far as a review of ten public GEO skill repositories on 10 November 2026 found. This study tests it on one category with live answer data.
+A search of nine public GEO skill repositories on 10 November 2026 found no published test of that. It found one stated claim: the client report template in zubair-trabzada/geo-seo-claude (`skills/geo-report/SKILL.md`, commit `989cae0`) tells the assistant to base a dollar estimate on "A 10-point GEO score improvement typically correlates with a 15-25% increase in AI citation frequency", with no source given in that file. The same line appears in TheSmokeDev/geo-skills.
+
+This study tests the general question on one category with live answer data. It does not test that sentence directly: the "GEO score" in it is a composite that an AI model assigns during the audit, and this study uses the repository's fixed citability script, one component of that audit, because it gives the same number on every run.
 
 ## What is being tested, and what is not
 
@@ -93,4 +95,4 @@ The AI Visibility Census publishes its own free GEO skills in this repository, i
 
 ## Corrections
 
-None.
+- 10 November 2026, about 17:00 UTC, before any score or answer was collected: the Question section first said the review covered ten repositories and found no claim. It covered nine outside repositories, and a second search found the unsourced "10-point" claim quoted above. The wording was corrected. No script, page, outcome, test or rule changed.
