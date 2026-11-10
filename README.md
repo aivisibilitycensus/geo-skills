@@ -2,9 +2,31 @@
 
 [![tests](https://github.com/aivisibilitycensus/geo-skills/actions/workflows/tests.yml/badge.svg)](https://github.com/aivisibilitycensus/geo-skills/actions/workflows/tests.yml) [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) [![Docs and data: CC BY 4.0](https://img.shields.io/badge/docs%20%26%20data-CC%20BY%204.0-lightgrey.svg)](LICENSE-docs)
 
-Open skills for Claude and other AI assistants that help you measure and check how a business appears in AI search. Built on the published method of the [AI Visibility Census](https://aivisibilitycensus.com/methodology/).
+**Your GEO audit says 87 out of 100. Can ChatGPT's crawler even reach the page?**
 
-Most GEO tools give you a score. These skills give you counts you can trace back to data, say how sure the data lets you be, and grade every tactic by the evidence behind it. None of them promise that a business will be named, and none of them use hidden instructions or tricks aimed at AI systems.
+A score cannot tell you. These nine free skills can: they list what blocks a page from AI search, count how often AI engines actually name you, and say when the numbers are too thin to mean anything. For Claude and other AI assistants, and every script also runs on its own from the command line.
+
+Built on the published method of the [AI Visibility Census](https://aivisibilitycensus.com/methodology/).
+
+## Why use this instead of a GEO score
+
+| What a score gives you | What these skills give you |
+|---|---|
+| One number out of 100 | Findings in order of what blocks you, each with what to do |
+| A number nobody has tested against AI answers. We searched nine open-source GEO audit repositories on 10 November 2026 and [found no published test](validation/SV-001-protocol.md) | No score. And we are [testing in public](validation/SV-001-protocol.md) whether scores go with being named at all, with the result published either way |
+| "Up 17 points this month", with no way to tell a real change from chance | "Up 17 points, and that is inside the noise": every rate comes with a 95% range and the number of answers behind it |
+
+Also here, and not common:
+
+- **Every tactic is graded by its evidence** ([tactics/EVIDENCE.md](tactics/EVIDENCE.md)): the platform documents it, a study found it, or nobody has tested it. llms.txt is graded untested, and we say so.
+- **Crawler visits are verified** against the IP ranges the companies publish, so a fake "GPTBot" is not counted.
+- **Experiments are registered before the data exists**, and null results get published.
+- **Nothing to install beyond Python 3.** No account for the checks, and your data stays on your machine. Only the answer collector needs a key, and it is your own.
+- **Tests run on every change.**
+
+What you get is less flattering than a score and more useful: the three things to fix, the count you can defend to a client, and a plain "we can't tell yet" when that is the truth.
+
+**When another tool is the better choice:** if you want a full SEO suite, client-ready PDF reports or content generation, the larger repositories do far more than this one, and several are very good at it. This repo does one job: honest measurement.
 
 ## Start here
 
@@ -46,8 +68,6 @@ The answer log analyzer on its worked example (a fictional Dublin accounting fir
 | perplexity | 31% (18-47%), n=36 | 47% (32-63%), n=36 |
 
 A nearly 17-point jump on one engine, and the report says it is not outside the noise. That is the point of these skills: counts with ranges, not a score. Full output: [answer-log-analyzer/examples/example-report.md](answer-log-analyzer/examples/example-report.md).
-
-If a skill saves you time, star the repo. Stars are how other people find it.
 
 ## Skills
 
@@ -104,6 +124,16 @@ Run in this repository, registered before the data exists, published whichever w
 
 - [SV-001](validation/SV-001-protocol.md): do GEO audit scores go with being named by AI? Two open-source scoring scripts against Census100 answer data for 20 project management brands. Registered 10 November 2026.
 - [VS-001](validation/VS-001-protocol.md): how often does the Content Shape Checker flag articles written by people?
+
+## If it helped, pass it on
+
+This repo grows by people showing other people what it found. Three ways, each under a minute:
+
+- **Star it.** Stars are how the next person finds it.
+- **Show your result.** Run `geo_check.py --badge` and paste the badge line in your README or site footer when nothing blocks. It states a count and a date, and links back here.
+- **Tell one person who reports GEO numbers to a client.** The line that usually lands: "it tells you when a change is inside the noise."
+
+Found a wrong grade, a false finding or a missing check? [Open an issue](https://github.com/aivisibilitycensus/geo-skills/issues/new). See [CONTRIBUTING.md](CONTRIBUTING.md) for the five-minute ways to help.
 
 ## License
 

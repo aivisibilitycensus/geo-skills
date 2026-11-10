@@ -355,7 +355,8 @@ def render_markdown(res):
     out += ["## Not checked", ""] + [f"- {n}" for n in res["not_checked"]]
     out += ["", "Evidence grades are explained in tactics/EVIDENCE.md: [P] platform documentation, "
             "[S] published study, [U] untested. A grade says how well the claim is supported, not that "
-            "fixing the item will get a page named."]
+            "fixing the item will get a page named.",
+            "", f"Checked with geo-check, free and open source: {REPO}"]
     return "\n".join(out) + "\n"
 
 
