@@ -22,7 +22,7 @@ You get a short list of what stops AI search engines from reading that page, eac
 As a GitHub Action, with the findings in the job summary:
 
 ```yaml
-- uses: aivisibilitycensus/geo-skills@v1
+- uses: aivisibilitycensus/geo-skills@main
   with:
     urls: |
       https://example.com/
