@@ -1,0 +1,79 @@
+name: SV-001 score run
+# Runs two third-party audit scripts, at pinned commits, on the SV-001 brand URLs.
+# The scoring job has read-only permissions and no secrets, because it runs code this
+# repository does not control. A second job commits the results.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URL list (validation/sv-001/urls.csv for the study, smoke-urls.csv to test the pipeline)"
+        required: true
+        default: validation/sv-001/smoke-urls.csv
+      label:
+        description: "Folder name under validation/sv-001/runs/ (for example 2026-11-14 or smoke)"
+        required: true
+        default: smoke
+concurrency:
+  group: sv-001
+  cancel-in-progress: false
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: zubair-trabzada/geo-seo-claude
+          ref: 989cae01e8ebbc42a9ec798eb9e7cb423f5ec89c
+          path: third_party/geo-seo-claude
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          repository: Fangx-AI/geo-doctor
+          ref: 3c158973a9388b66cbb33a3c722ecf26a677b971
+          path: third_party/geo-doctor
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.13"}
+      - uses: actions/setup-node@v4
+        with: {node-version: "22"}
+      - name: Install only what the citability script imports
+        run: pip install "requests>=2.34.2,<3" "beautifulsoup4>=4.12,<5" "lxml>=6.1.1,<7"
+      - name: Score
+        env:
+          URLS: ${{ inputs.urls }}
+        run: |
+          mkdir -p out
+          python validation/sv-001/run_scores.py "$URLS" \
+            --citability third_party/geo-seo-claude/scripts/citability_scorer.py \
+            --geo-audit third_party/geo-doctor/cli/geo-audit.mjs \
+            --out out/scores.csv --raw out/raw
+          python --version > out/environment.txt; node --version >> out/environment.txt; pip freeze >> out/environment.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sv-001-scores
+          path: out
+  commit:
+    needs: score
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: sv-001-scores
+          path: incoming
+      - env:
+          LABEL: ${{ inputs.label }}
+        run: |
+          case "$LABEL" in *[!A-Za-z0-9._-]*|"") echo "bad label"; exit 1;; esac
+          mkdir -p "validation/sv-001/runs/$LABEL" && cp -r incoming/. "validation/sv-001/runs/$LABEL/" && rm -rf incoming
+          git config user.name "AI Visibility Census"
+          git config user.email "census-bot@users.noreply.github.com"
+          git add validation/sv-001/runs
+          git commit -m "SV-001: score run $LABEL" || echo "nothing to commit"
+          git push

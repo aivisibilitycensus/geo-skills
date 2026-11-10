@@ -1,0 +1,6 @@
+3 questions x 3 engine(s) x 3 repeat(s) = 27 answers
+  chatgpt: 9 answers via dataforseo
+  gemini: 9 answers via dataforseo
+  google_ai_overview: 9 answers via serpapi
+  dataforseo: up to 18 billable call(s). Check the provider's current price per call before running.
+  serpapi: up to 18 billable call(s). Check the provider's current price per call before running.

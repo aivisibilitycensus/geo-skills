@@ -1,0 +1,30 @@
+name: tests
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Skill tests (standard library only, no network)
+        run: |
+          set -e
+          for d in ai-crawler-log-check answer-collector geo-check geo-experiment-kit; do
+            echo "== $d"; (cd "$d" && python -m unittest discover -s tests)
+          done
+          echo "== answer-log-analyzer"; (cd answer-log-analyzer && python -m unittest scripts/test_analyze.py)
+          echo "== validation/sv-001"; (cd validation/sv-001 && python -m unittest discover -s . -p "test_*.py")
+      - name: Shared helper is identical in every skill
+        run: |
+          cmp schema-parity-checker/scripts/pagekit.py geo-migration-guard/scripts/pagekit.py
+          cmp schema-parity-checker/scripts/pagekit.py geo-check/scripts/pagekit.py

@@ -12,7 +12,7 @@ Most AI search advice is repeated, not tested. Every skill in this repo that rec
 
 A higher grade is not a promise. [P] tells you what a platform says it does, not what happens on your site. [S] results come from the study's setup, which may not match yours.
 
-Last checked: 4 November 2026 (sources last checked 29 October 2026). Census test status comes from the [experiments page](https://aivisibilitycensus.com/experiments/). Running: CT-001 (how fast a new page is crawled, indexed and cited), CS-001 (Content Signals), LL-001 (do AI crawlers follow llms.txt) and BL-001 (backlinks from free directories); RT-001 (naming llms.txt in robots.txt) starts 1 December 2026. None has reported a result yet, so nothing below is graded [T].
+Last checked: 4 November 2026 (sources last checked 29 October 2026). Census test status comes from the [experiments page](https://aivisibilitycensus.com/experiments/). Registered, not yet run: SV-001 (do GEO audit scores go with being named). Running: CT-001 (how fast a new page is crawled, indexed and cited), CS-001 (Content Signals), LL-001 (do AI crawlers follow llms.txt) and BL-001 (backlinks from free directories); RT-001 (naming llms.txt in robots.txt) starts 1 December 2026. None has reported a result yet, so nothing below is graded [T].
 
 ## The tactics
 
@@ -29,6 +29,7 @@ Last checked: 4 November 2026 (sources last checked 29 October 2026). Census tes
 | FAQ structured data | Helps AI tools lift your answers | **[U]** | Google stopped showing FAQ rich results from 7 May 2026 ([Google Search Central updates](https://developers.google.com/search/updates)), so there is no Google display benefit. No evidence found that it helps AI answers | In place within CT-001; not isolated |
 | Content Signals in robots.txt | AI crawlers change behavior when ai-train or ai-input is set to no | **[U]** | A robots.txt extension introduced by Cloudflare in September 2025 ([Cloudflare](https://blog.cloudflare.com/content-signals-policy/)). No AI company found committing to honor it | CS-001, running |
 | Add statistics, quotations and citations to content | Raises visibility in AI answers | **[S]** | Aggarwal et al.: "GEO can boost visibility by up to 40% in generative engine responses", in a benchmark setting (arXiv 2311.09735, v3 June 2024) ([arXiv](https://arxiv.org/abs/2311.09735)). Lab results, not a live-engine guarantee | Not tested |
+| A high GEO audit score | A page scoring 80+ on a GEO audit is more likely to be named or cited | **[U]** | No published test found in a review of ten public GEO skill repositories (10 November 2026). One audit tool states its score is "not an AI ranking" | SV-001, registered 10 November 2026 ([protocol](../validation/SV-001-protocol.md)) |
 | Rank in Google's top 10 | Required to be cited in AI Overviews | **[U]** | Claims vary between vendor studies; not checked here | Not tested |
 | Backlinks | A page with no backlinks won't be cited | **[U]** | Not checked here | Not tested (BL-001 measures links, not citations) |
 | Question-style headings | Get quoted word for word | **[U]** | Not checked here | Not tested |

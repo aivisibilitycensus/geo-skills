@@ -1,0 +1,4 @@
+id,service,intent,question
+ACC01,accounting,vendor selection,Which accounting firms in Dublin work with small tech companies?
+ACC02,accounting,pricing,How much does a small company accountant cost in Dublin?
+ACC03,accounting,comparison,Which Dublin accountants are best for a startup raising its first round?
