@@ -368,7 +368,7 @@ def badge_markdown(res, date):
     if n or res.get("unreachable"):
         return ""
     label = "AI%20search%20check"
-    msg = f"0%20blocking%20%C2%B7%20{date}"
+    msg = f"0%20blocking%20%C2%B7%20{date.replace('-', '--')}"  # shields.io reads a single dash as a separator
     return (f"[![AI search check: 0 blocking findings, {date}]"
             f"(https://img.shields.io/badge/{label}-{msg}-2ea44f)]({REPO}/tree/main/geo-check)")
 

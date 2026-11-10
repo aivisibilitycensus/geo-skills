@@ -160,7 +160,8 @@ class GeoCheckTest(unittest.TestCase):
     def test_badge_only_when_nothing_blocks_and_states_a_count(self):
         ok = G.badge_markdown(self.run_check(), "2026-11-10")
         self.assertIn("0%20blocking", ok)
-        self.assertIn("2026-11-10", ok)
+        self.assertIn("2026--11--10-2ea44f", ok)      # date dashes doubled for shields.io
+        self.assertIn("0 blocking findings, 2026-11-10", ok)
         self.assertNotIn("100", ok)
         SITE.routes["/"] = (200, {"X-Robots-Tag": "noindex"}, GOOD)
         self.assertEqual(G.badge_markdown(self.run_check(), "2026-11-10"), "")
