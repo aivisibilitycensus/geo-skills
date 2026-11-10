@@ -41,7 +41,11 @@ runs:
           set -e
           cat "$out" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
-          if [ "$code" -ne 0 ]; then status=1; fi
+          if [ "$code" -eq 2 ]; then status=1; fi
+          if [ "$code" -ne 0 ] && [ "$code" -ne 2 ]; then
+            echo "::error::geo-check could not check $url (exit $code: 3 means the runner could not reach the site). This is not a finding about the page."
+            exit "$code"
+          fi
         done <<< "$GEO_URLS"
         if [ "$GEO_FAIL" = "true" ] && [ "$status" -ne 0 ]; then
           echo "::error::At least one page has a BLOCKS finding. See the job summary."

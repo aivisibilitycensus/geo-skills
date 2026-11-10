@@ -137,10 +137,15 @@ def check_robots(F, origin, path, opts):
     url = urllib.parse.urljoin(origin, "/robots.txt")
     r = pk.fetch(url, timeout=opts["timeout"], user_agent=opts["user_agent"])
     table = []
-    if r["error"] or (r["status"] or 0) >= 500:
-        what = r["error"] or f"HTTP {r['status']}"
-        F.add(BLOCKS, "robots.txt", f"{url} could not be read ({what}). Under RFC 9309 crawlers treat this as "
-              "\"do not crawl anything\".", "robots", "Make robots.txt return 200, or 404 if you have none.")
+    if r["error"]:
+        F.add(CHECK, "robots.txt", f"{url} could not be reached from this machine ({r['error']}), so the "
+              "rules were not checked. If crawlers get the same failure, RFC 9309 has them treat it as "
+              "\"do not crawl anything\".", "robots", "Run the check again; if it repeats, look at why robots.txt times out.")
+        return table
+    if r["status"] >= 500:
+        F.add(BLOCKS, "robots.txt", f"{url} returns HTTP {r['status']}. Under RFC 9309 crawlers treat a "
+              "server error on robots.txt as \"do not crawl anything\".", "robots",
+              "Make robots.txt return 200, or 404 if you have none.")
         return table
     if r["status"] >= 400:
         F.add(INFO, "robots.txt", f"{url} returns HTTP {r['status']}: no rules, crawlers may fetch everything.", "robots")
@@ -176,7 +181,10 @@ def check_page(F, url, opts):
     r = pk.fetch(url, timeout=opts["timeout"], user_agent=opts["user_agent"])
     info = {"url": url, "final_url": r["final_url"], "status": r["status"], "hops": len(r["hops"])}
     if r["error"]:
-        F.add(BLOCKS, "Page request", f"{url} could not be fetched: {r['error']}.")
+        info["unreachable"] = True
+        F.add(CHECK, "Page request", f"{url} could not be reached from this machine: {r['error']}. "
+              "Nothing else was checked. This says nothing about the page until it is run from a "
+              "network that can reach it.")
         return None, info
     if r["status"] != 200:
         F.add(BLOCKS, "Page request", f"{r['final_url']} returns HTTP {r['status']}. A crawler gets no content.",
@@ -191,8 +199,7 @@ def check_page(F, url, opts):
     xrobots = headers.get("x-robots-tag", "")
     meta = "; ".join(f"{k}: {v}" for k, v in page["robots_meta"].items())
     info.update(title=page["title"], words=page["word_count"], main_words=page["main_word_count"],
-                robots_meta=meta, x_robots_tag=xrobots, jsonld_types=page["jsonld_types_all"],
-                canonical=page["canonical"])
+                robots_meta=meta, x_robots_tag=xrobots, jsonld_types=page["jsonld_types_all"])
     directives = ",".join(list(page["robots_meta"].values()) + [xrobots])
     if is_noindex(directives):
         where = "X-Robots-Tag header" if is_noindex(xrobots) else "robots meta tag"
@@ -201,10 +208,15 @@ def check_page(F, url, opts):
     elif has_nosnippet(directives):
         F.add(FIX, "Snippets", f"The page limits snippets ({meta or xrobots}).", "indexable",
               "Remove nosnippet or max-snippet:0 if you want Google's AI features to quote the page.")
-    canon = page["canonical"]
-    if canon and pk.norm_url(urllib.parse.urljoin(r["final_url"], canon)) != pk.norm_url(r["final_url"]):
-        F.add(CHECK, "Canonical", f"The canonical points to another URL: {canon}.", "none",
-              "Fine if deliberate. If not, engines are told to use that page instead of this one.")
+    canons = [c for c in page["canonical"] if c]
+    info["canonical"] = " | ".join(canons)
+    if len(canons) > 1 and len(set(canons)) > 1:
+        F.add(CHECK, "Canonical", f"The page has {len(canons)} different canonical tags: {', '.join(canons)}.",
+              "none", "Keep one.")
+    for canon in canons[:1]:
+        if pk.norm_url(urllib.parse.urljoin(r["final_url"], canon)) != pk.norm_url(r["final_url"]):
+            F.add(CHECK, "Canonical", f"The canonical points to another URL: {canon}.", "none",
+                  "Fine if deliberate. If not, engines are told to use that page instead of this one.")
     scripts = len(re.findall(r"<script\b", r["body"], re.I))
     if page["word_count"] < THIN_WORDS:
         F.add(FIX, "Text in raw HTML", f"The HTML the server sends has {page['word_count']} words of visible "
@@ -300,6 +312,10 @@ def run(url, opts):
         url = "https://" + url
     F = Findings()
     page, info = check_page(F, url, opts)
+    if info.get("unreachable"):
+        return {"page": info, "findings": F.sorted(), "robots": [], "user_agent_probes": [],
+                "llms_txt": None, "not_checked": ["Everything: the page could not be reached from this machine."],
+                "counts": {t: F.count(t) for t in (BLOCKS, FIX, CHECK, INFO)}, "unreachable": True}
     final = info["final_url"] or url
     parts = urllib.parse.urlsplit(final)
     origin = f"{parts.scheme}://{parts.netloc}"
@@ -349,7 +365,7 @@ REPO = "https://github.com/aivisibilitycensus/geo-skills"
 def badge_markdown(res, date):
     """A README badge that states a count, not a score. Only offered when nothing blocks."""
     n = res["counts"][BLOCKS]
-    if n:
+    if n or res.get("unreachable"):
         return ""
     label = "AI%20search%20check"
     msg = f"0%20blocking%20%C2%B7%20{date}"
@@ -383,7 +399,9 @@ def main(argv=None):
         import datetime
         line = badge_markdown(res, datetime.date.today().isoformat())
         print("\nBadge (states a count for this page on this date, nothing more):\n" + line if line
-              else "\nNo badge: there are blocking findings.")
+              else "\nNo badge: the page has blocking findings or could not be checked.")
+    if res.get("unreachable"):
+        return 3
     return 2 if res["counts"][BLOCKS] else 0
 
 

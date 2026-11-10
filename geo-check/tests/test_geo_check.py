@@ -104,6 +104,13 @@ class GeoCheckTest(unittest.TestCase):
         self.assertEqual(len(infos), 1)
         self.assertEqual(blocks[0]["evidence_grade"], "[P]")
 
+    def test_unreachable_site_is_not_reported_as_blocked(self):
+        res = G.run("http://127.0.0.1:9/", {"timeout": 2, "user_agent": "t", "no_probe": False})
+        self.assertTrue(res["unreachable"])
+        self.assertEqual(res["counts"][G.BLOCKS], 0)
+        self.assertEqual(G.badge_markdown(res, "2026-11-10"), "")
+        self.assertEqual(G.main(["http://127.0.0.1:9/", "--timeout", "2", "--out-md", os.devnull]), 3)
+
     def test_robots_500_blocks_and_404_does_not(self):
         SITE.routes["/robots.txt"] = (500, {}, "oops")
         self.assertTrue(self.found(self.run_check(), G.BLOCKS, "robots.txt"))
@@ -141,6 +148,14 @@ class GeoCheckTest(unittest.TestCase):
         self.assertTrue(res["llms_txt"])
         self.assertTrue(self.found(res, G.INFO, "llms.txt"))
         self.assertEqual(res["counts"][G.FIX] + res["counts"][G.BLOCKS], 0)
+
+    def test_canonical_same_page_is_quiet_and_other_page_is_flagged(self):
+        SITE.routes["/"] = (200, {}, GOOD.replace("<head>", f'<head><link rel="canonical" href="{self.base}/">'))
+        self.assertFalse(self.found(self.run_check(), G.CHECK, "Canonical"))
+        SITE.routes["/"] = (200, {}, GOOD.replace("<head>", '<head><link rel="canonical" href="/other/">'))
+        f = self.found(self.run_check(), G.CHECK, "Canonical")
+        self.assertEqual(len(f), 1)
+        self.assertIn("/other/", f[0]["found"])
 
     def test_badge_only_when_nothing_blocks_and_states_a_count(self):
         ok = G.badge_markdown(self.run_check(), "2026-11-10")

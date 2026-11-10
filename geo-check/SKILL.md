@@ -39,6 +39,8 @@ The script needs to reach the site, so it runs where there is open network acces
 
 Grades come from `tactics/EVIDENCE.md`: [P] the platform's own documentation says so, [S] a published study with a stated method, [U] untested.
 
+Exit codes: 0 nothing blocks, 2 at least one blocking finding, 3 the page could not be reached from the machine running the check (which says nothing about the page).
+
 ## Reading the result
 
 Four tiers, in this order:
@@ -76,5 +78,5 @@ When you report to the user:
 
 - `scripts/geo_check.py`: the check. Python 3, standard library only.
 - `scripts/pagekit.py`: shared page fetch and parse helper (the same file as in schema-parity-checker).
-- `tests/test_geo_check.py`: 13 tests against a local test server.
+- `tests/test_geo_check.py`: 15 tests against a local test server.
 - `examples/output-report.md`: real output for a fictional bike shop page with three planted problems.
