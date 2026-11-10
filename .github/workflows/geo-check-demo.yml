@@ -1,0 +1,19 @@
+name: geo-check demo
+# Runs this repository's own action on our own site, so the action is tested end to end.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["action.yml", "geo-check/**"]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./
+        with:
+          urls: |
+            https://aivisibilitycensus.com/
+            https://aivisibilitycensus.com/experiments/

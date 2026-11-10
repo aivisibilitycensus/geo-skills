@@ -1,0 +1,49 @@
+name: "GEO check: can AI search read this page?"
+description: "Checks pages for what stops AI search engines reading them: noindex, robots.txt rules for 11 crawler tokens, text that needs JavaScript, structured data that contradicts the page. Findings with evidence grades, no score."
+author: "AI Visibility Census"
+branding:
+  icon: "search"
+  color: "green"
+inputs:
+  urls:
+    description: "One URL per line"
+    required: true
+  fail-on-blocking:
+    description: "Fail the job when any page has a BLOCKS finding (true or false)"
+    required: false
+    default: "true"
+  no-probe:
+    description: "Skip the requests that send AI crawler names as the user agent (true or false)"
+    required: false
+    default: "false"
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+    - shell: bash
+      env:
+        GEO_URLS: ${{ inputs.urls }}
+        GEO_FAIL: ${{ inputs.fail-on-blocking }}
+        GEO_NO_PROBE: ${{ inputs.no-probe }}
+      run: |
+        status=0
+        extra=""
+        if [ "$GEO_NO_PROBE" = "true" ]; then extra="--no-probe"; fi
+        while IFS= read -r url; do
+          url="$(echo "$url" | tr -d '[:space:]')"
+          [ -z "$url" ] && continue
+          out="$(mktemp)"
+          set +e
+          python "$GITHUB_ACTION_PATH/geo-check/scripts/geo_check.py" "$url" --out-md "$out" --badge $extra
+          code=$?
+          set -e
+          cat "$out" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$code" -ne 0 ]; then status=1; fi
+        done <<< "$GEO_URLS"
+        if [ "$GEO_FAIL" = "true" ] && [ "$status" -ne 0 ]; then
+          echo "::error::At least one page has a BLOCKS finding. See the job summary."
+          exit 1
+        fi

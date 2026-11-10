@@ -17,6 +17,22 @@ python3 geo-skills/geo-check/scripts/geo_check.py https://example.com/your-page
 
 You get a short list of what stops AI search engines from reading that page, each item with the evidence behind it. [Example output](geo-check/examples/output-report.md). There is no score out of 100, on purpose: whether audit scores go with being named by AI is an open question, and we are [testing it in public](validation/SV-001-protocol.md).
 
+### Run it on every deploy
+
+As a GitHub Action, with the findings in the job summary:
+
+```yaml
+- uses: aivisibilitycensus/geo-skills@v1
+  with:
+    urls: |
+      https://example.com/
+      https://example.com/pricing
+```
+
+The job fails if a page has a blocking finding, such as a `noindex` that shipped from staging or a robots.txt rule against a search crawler. When nothing blocks, `--badge` prints a README badge that states the count and the date, not a score:
+
+[![AI search check: 0 blocking findings](https://img.shields.io/badge/AI%20search%20check-0%20blocking-2ea44f)](geo-check/)
+
 ## See it work
 
 The answer log analyzer on its worked example (a fictional Dublin accounting firm, 108 logged answers a month on three engines):

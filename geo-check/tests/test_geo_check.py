@@ -142,6 +142,14 @@ class GeoCheckTest(unittest.TestCase):
         self.assertTrue(self.found(res, G.INFO, "llms.txt"))
         self.assertEqual(res["counts"][G.FIX] + res["counts"][G.BLOCKS], 0)
 
+    def test_badge_only_when_nothing_blocks_and_states_a_count(self):
+        ok = G.badge_markdown(self.run_check(), "2026-11-10")
+        self.assertIn("0%20blocking", ok)
+        self.assertIn("2026-11-10", ok)
+        self.assertNotIn("100", ok)
+        SITE.routes["/"] = (200, {"X-Robots-Tag": "noindex"}, GOOD)
+        self.assertEqual(G.badge_markdown(self.run_check(), "2026-11-10"), "")
+
     def test_robots_longest_match(self):
         g = G.parse_robots("User-agent: *\nDisallow: /private\nAllow: /private/open\n")
         self.assertFalse(G.robots_allowed(g, "Googlebot", "/private/x")[0])

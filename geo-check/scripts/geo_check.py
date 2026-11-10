@@ -343,9 +343,25 @@ def render_markdown(res):
     return "\n".join(out) + "\n"
 
 
+REPO = "https://github.com/aivisibilitycensus/geo-skills"
+
+
+def badge_markdown(res, date):
+    """A README badge that states a count, not a score. Only offered when nothing blocks."""
+    n = res["counts"][BLOCKS]
+    if n:
+        return ""
+    label = "AI%20search%20check"
+    msg = f"0%20blocking%20%C2%B7%20{date}"
+    return (f"[![AI search check: 0 blocking findings, {date}]"
+            f"(https://img.shields.io/badge/{label}-{msg}-2ea44f)]({REPO}/tree/main/geo-check)")
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("url")
+    ap.add_argument("--badge", action="store_true",
+                    help="when nothing blocks, print a README badge line stating the count and date")
     ap.add_argument("--out-md", help="write the report here (default: print it)")
     ap.add_argument("--json-out", help="write the findings as JSON")
     ap.add_argument("--timeout", type=int, default=20)
@@ -363,6 +379,11 @@ def main(argv=None):
     if a.json_out:
         with open(a.json_out, "w", encoding="utf-8") as f:
             json.dump(res, f, indent=1)
+    if a.badge:
+        import datetime
+        line = badge_markdown(res, datetime.date.today().isoformat())
+        print("\nBadge (states a count for this page on this date, nothing more):\n" + line if line
+              else "\nNo badge: there are blocking findings.")
     return 2 if res["counts"][BLOCKS] else 0
 
 

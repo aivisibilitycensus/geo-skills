@@ -15,7 +15,9 @@ It gives no score. A page blocked from ChatGPT's search crawler is not "85 out o
 python3 scripts/geo_check.py https://example.com/the-page-that-matters
 ```
 
-Options: `--out-md report.md`, `--json-out report.json`, `--no-probe` (skip the crawler user-agent requests), `--timeout`.
+Options: `--out-md report.md`, `--json-out report.json`, `--no-probe` (skip the crawler user-agent requests), `--timeout`, `--badge` (when nothing blocks, print a README badge line that states "0 blocking" and the date; it is a count for one page on one day, not a rating).
+
+The repository root also works as a GitHub Action (`uses: aivisibilitycensus/geo-skills@v1` with a `urls` input), which writes the findings to the job summary and fails the job on a blocking finding.
 
 Pick the page, not the homepage by habit. Check the page you want named: the service page, the pricing page, the article. Run it once per page for up to five pages, then stop and read the findings before checking more.
 
@@ -74,5 +76,5 @@ When you report to the user:
 
 - `scripts/geo_check.py`: the check. Python 3, standard library only.
 - `scripts/pagekit.py`: shared page fetch and parse helper (the same file as in schema-parity-checker).
-- `tests/test_geo_check.py`: 12 tests against a local test server.
+- `tests/test_geo_check.py`: 13 tests against a local test server.
 - `examples/output-report.md`: real output for a fictional bike shop page with three planted problems.
