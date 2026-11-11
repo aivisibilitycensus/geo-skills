@@ -17,7 +17,7 @@ python3 scripts/geo_check.py https://example.com/the-page-that-matters
 
 Options: `--out-md report.md`, `--json-out report.json`, `--no-probe` (skip the crawler user-agent requests), `--timeout`, `--badge` (when nothing blocks, print a README badge line that states "0 blocking" and the date; it is a count for one page on one day, not a rating).
 
-The repository root also works as a GitHub Action (`uses: aivisibilitycensus/geo-skills@v1.1.0` with a `urls` input), which writes the findings to the job summary and fails the job on a blocking finding.
+The repository root also works as a GitHub Action (`uses: aivisibilitycensus/geo-skills@v1.1.1` with a `urls` input, listed on GitHub Marketplace: https://github.com/marketplace/actions/geo-check-can-ai-search-read-this-page), which writes the findings to the job summary and fails the job on a blocking finding.
 
 Pick the page, not the homepage by habit. Check the page you want named: the service page, the pricing page, the article. Run it once per page for up to five pages, then stop and read the findings before checking more.
 

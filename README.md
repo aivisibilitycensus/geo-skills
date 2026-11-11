@@ -41,10 +41,10 @@ You get a short list of what stops AI search engines from reading that page, eac
 
 ### Run it on every deploy
 
-As a GitHub Action, with the findings in the job summary:
+As a GitHub Action ([on GitHub Marketplace](https://github.com/marketplace/actions/geo-check-can-ai-search-read-this-page)), with the findings in the job summary:
 
 ```yaml
-- uses: aivisibilitycensus/geo-skills@v1.1.0
+- uses: aivisibilitycensus/geo-skills@v1.1.1
   with:
     urls: |
       https://example.com/
