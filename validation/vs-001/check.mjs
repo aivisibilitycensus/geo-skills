@@ -33,7 +33,7 @@ if (typeof hsc.parseText !== 'function' || typeof hsc.analyze !== 'function') {
 const rows = [];
 for (const dir of opt.corpus) {
   const corpus = path.basename(dir) === 'human' ? 'human' : path.relative(path.dirname(path.dirname(dir)), dir).replace(/\\/g, '/');
-  for (const f of fs.readdirSync(dir).filter(x => x.endsWith('.md')).sort()) {
+  for (const f of fs.readdirSync(dir).filter(x => x.endsWith('.md') && x.toLowerCase() !== 'readme.md').sort()) {
     const raw = fs.readFileSync(path.join(dir, f), 'utf8');
     const body = raw.replace(/^# .*\n+/, '');            // drop the top-level heading, as Readability does
     const r = hsc.analyze(hsc.parseText(body));
