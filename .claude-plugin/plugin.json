@@ -1,0 +1,24 @@
+{
+  "name": "geo-skills",
+  "version": "1.1.1",
+  "description": "Nine Claude skills for AI search visibility that report findings, not a score: a one-command page check, buyer question sets, answer collection and analysis with 95% ranges, schema parity, AI crawler log checks, migration guard, content shape checks and GEO experiments.",
+  "author": {
+    "name": "AI Visibility Census",
+    "url": "https://aivisibilitycensus.com/"
+  },
+  "homepage": "https://aivisibilitycensus.com/tools/",
+  "repository": "https://github.com/aivisibilitycensus/geo-skills",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": ["geo", "aeo", "ai-search", "ai-visibility", "seo", "skills"],
+  "skills": [
+    "./ai-crawler-log-check",
+    "./answer-collector",
+    "./answer-log-analyzer",
+    "./content-shape-checker",
+    "./geo-check",
+    "./geo-experiment-kit",
+    "./geo-migration-guard",
+    "./question-set-builder",
+    "./schema-parity-checker"
+  ]
+}

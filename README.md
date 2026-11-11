@@ -125,6 +125,17 @@ Run in this repository, registered before the data exists, published whichever w
 - [SV-001](validation/SV-001-protocol.md): do GEO audit scores go with being named by AI? Two open-source scoring scripts against Census100 answer data for 20 project management brands. Registered 10 November 2026.
 - [VS-001](validation/VS-001-protocol.md): how often does the Content Shape Checker flag articles written by people?
 
+## What the skills send and fetch
+
+Everything runs on your own machine or CI runner. Nothing is sent to the AI Visibility Census, and no skill collects data about you.
+
+- **geo-check, schema-parity-checker, geo-migration-guard:** request the pages you name, plus that site's robots.txt and redirects. geo-check also sends a few short requests to the same site with AI crawler names in the user agent, to see if a firewall treats them differently (`--no-probe` turns that off). schema-parity-checker's optional `--render` loads the page in a local Playwright browser.
+- **ai-crawler-log-check:** reads the log file you give it, and downloads the IP lists that OpenAI, Google, Microsoft, Anthropic, Apple, Perplexity and Common Crawl publish for their crawlers, to verify each visit.
+- **answer-collector:** sends your questions to DataForSEO or SerpApi with your own key, and only after it prints the number of paid calls and you confirm with `--yes`. Answers are saved to local files.
+- **answer-log-analyzer, question-set-builder, content-shape-checker, geo-experiment-kit:** work on local files only and make no network requests.
+
+geo-check's `--badge` prints a shields.io image link for you to paste; the script itself does not contact shields.io.
+
 ## If it helped, pass it on
 
 This repo grows by people showing other people what it found. Three ways, each under a minute:
