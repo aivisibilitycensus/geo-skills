@@ -1,5 +1,5 @@
 name: "GEO check: can AI search read this page?"
-description: "Checks pages for what stops AI search engines reading them: noindex, robots.txt rules for 11 crawler tokens, text that needs JavaScript, structured data that contradicts the page. Findings with evidence grades, no score."
+description: "Finds what stops AI search reading a page: noindex, robots.txt rules for 11 crawlers, JS-only text, schema. No score."
 author: "AI Visibility Census"
 branding:
   icon: "search"
